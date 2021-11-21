@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Jekyll blog with Strapi
 
-You can use the [editor on GitHub](https://github.com/andradeswagner/site/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Simple Jekyll blog powered by Strapi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Backend
 
-### Markdown
+This Jekyll application use the Strapi blog template.
+Create a Strapi project named `backend` using the [blog template](https://github.com/strapi/strapi-template-blog):
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+# Using Yarn
+yarn create strapi-app backend --template https://github.com/strapi/strapi-template-blog
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+# Or using NPM
+npx create-strapi-app backend --template https://github.com/strapi/strapi-template-blog
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+The Strapi server will automatically start and import sample seed data.
 
-### Jekyll Themes
+### Frontend
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/andradeswagner/site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Leave the Strapi backend running in the background. Open another terminal tab, clone this repository and make sure you're in the `frontend` directory:
 
-### Support or Contact
+```bash
+cd frontend
+```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Install gems and start the Jekyll server:
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+The Jekyll server will run here => [http://localhost:4000](http://localhost:4000)

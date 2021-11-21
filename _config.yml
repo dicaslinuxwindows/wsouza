@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -30,10 +30,30 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-#theme: minima
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-strapi
+
+strapi:
+    # Your API endpoint (optional, default to http://localhost:1337)
+    endpoint: http://localhost:1337
+    collections:
+        # Example for a "posts" collection
+        articles:
+            # Collection name (optional). Used to construct the url requested. Example: type `foo` would generate the following url `http://localhost:1337/foo`.
+            type: articles
+            permalink: /articles/:slug/
+            layout: article.html
+            output: true
+
+        categories:
+            # Collection name (optional). Used to construct the url requested. Example: type `foo` would generate the following url `http://localhost:1337/foo`.
+            type: categories
+            permalink: /categories/:name/
+            layout: category.html
+            # Generate output files or not (default: false)
+            output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
