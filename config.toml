@@ -8,8 +8,8 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "W.Souza"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  bio = "Usuário curioso de sistemas Linux, de nível básico a intermediário. Gosto de compartilhar as experiências e dificuldades encontradas no uso diário dos sistemas Linux e Windows."
+  avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
 
 [Params]
   description = "John Doe's Personal blog about everything" # Description of your site
