@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "mainroad"
-languageCode = "pt-br
+languageCode = "pt-br"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
