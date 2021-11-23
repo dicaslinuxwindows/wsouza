@@ -1,7 +1,1 @@
-
-params:
-  mainSections:
-  - blog
-  - docs
-
 theme: mainroad
