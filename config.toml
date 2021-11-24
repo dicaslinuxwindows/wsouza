@@ -1,6 +1,6 @@
 baseurl = "https://testes.wsouza.com.br"
 title = "Dicas Linux e Windows"
-languageCode = "pt-br"
+languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [Params]
   description = "John Doe's Personal blog about everything" # Description of your site
   opengraph = true
-  twitter_cards = false
+  twitter_cards = true
   readmore = true # Show "Read more" button in list if true
   authorbox = true
   pager = true
