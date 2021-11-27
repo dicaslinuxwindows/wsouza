@@ -9,17 +9,10 @@ tags:
 - Ubuntu 21.04
 ---
 
-![](https://1.bp.blogspot.com/-uIugK_p6nsg/YIYRoicxxQI/AAAAAAAASDA/qslFrua-uhA2g8UWobX9DnYxkgXcl1CrwCNcBGAsYHQ/s0/Ubuntu_21.04_lan%25C3%25A7ado.png)
+![//](https://1.bp.blogspot.com/-uIugK_p6nsg/YIYRoicxxQI/AAAAAAAASDA/qslFrua-uhA2g8UWobX9DnYxkgXcl1CrwCNcBGAsYHQ/s0/Ubuntu_21.04_lan%25C3%25A7ado.png)
 
 Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
 
-  
-  
-  
-  
-  
-  
-  
 
 ### Hirsute Hippo
 
@@ -54,11 +47,9 @@ Seguem os links para download das imagens de instalação _(amd64)_ do Ubuntu e 
 
 Ubuntu 21.04 - Hirsute Hippo
 
-[ Live](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso)
-
-[ Torrent](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso.torrent)
-
-[Mais...](https://ubuntu.com/download)
+[ Live](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso)
+[ Torrent](https://releases.ubuntu.com/hirsute/ubuntu-21.04-desktop-amd64.iso.torrent)
+[ Mais...](https://ubuntu.com/download)
 
   
 
@@ -90,14 +81,14 @@ Se você está utilizando atualmente a versão anterior, o Ubuntu 20.10 você po
 
   
 
- sudo apt update
+##### sudo apt update
 
   
   
 
   
 
- sudo apt upgrade
+##### sudo apt upgrade
 
   
 
@@ -107,7 +98,7 @@ Se você está utilizando atualmente a versão anterior, o Ubuntu 20.10 você po
 
   
 
- sudo do-release-upgrade -d
+#####  sudo do-release-upgrade -d
 
   
 O comando anterior vai:  
@@ -123,7 +114,7 @@ O comando anterior vai:
 
   
 
- sudo _joe_ /etc/apt/sources.list
+#####  sudo _joe_ /etc/apt/sources.list
 
   
 
@@ -137,3 +128,5 @@ O comando anterior vai:
 Primeiramente é necessário gravar num pendrive a imagem ISO baixada anteriormente. Veja como gravar a ISO no pendrive, se você estiver utilizando [Linux](https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html) ou [Windows](https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html).  
   
 O vídeo abaixo mostra o Hirsute Hippo sendo executado via pendrive e sendo instalado numa máquina sem outro sistema operacional instalado.
+
+[![Assista ao vídeo](https://img.youtube.com/vi/T-DW9jioJac/maxresdefault.jpg)](https://www.youtube.com/embed/T-DW9jioJac)
