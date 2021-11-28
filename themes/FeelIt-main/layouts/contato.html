@@ -1,0 +1,60 @@
+{{ define "main" }}
+<main class="main list" role="main">
+	{{- with .Content }}
+	<div class="content main__content clearfix">
+		{{ . }}
+	</div>
+	{{- end }}
+
+<html>
+<body>
+<div align="center">
+<br />
+Use este espaço para críticas, sugestões de assuntos a serem abordados, anunciar no site, ou qualquer outro assunto não relacionado à dúvidas. Você receberá uma resposta assim que possível. <br />
+<b><span style="color: red;">Para tirar dúvidas, utilize as redes sociais ou os comentários específicos de cada postagem.</span></b></div>
+<br />
+
+<div id="formcontact" align="center">
+<p>
+Preencha os campos abaixo para entrar em contato.
+Não esqueça de preencher o campo com seu e-mail para respondermos, se for necessário.
+<br>
+<font style="font-size:12px">Os campos marcados com "*" são obrigatórios.</font></p>
+
+<form name='contact-form'>
+<div>
+<b>Seu Nome:</b> *</div>
+<input class='contact-form-name' id='ContactForm1_contact-form-name' name='name' size='60' type='text' value=''/>
+
+<div>
+<b>Seu E-mail:</b> *</div>
+<input class='contact-form-email' id='ContactForm1_contact-form-email' name='email' size='60' type='text' value=''/>
+
+<div>
+<b>Sua mensagem:</b> *</div>
+<textarea class='contact-form-email-message' id='ContactForm1_contact-form-email-message' name='email-message' rows='5'></textarea>
+<p>
+</p>
+<input class='contact-form-button contact-form-button-submit' id='ContactForm1_contact-form-submit' type='button' value='Enviar'/>
+<div style='text-align: center; max-width: 450px; width: 100%'>
+<p class='contact-form-error-message' id='ContactForm1_contact-form-error-message'>
+</p>
+<p class='contact-form-success-message' id='ContactForm1_contact-form-success-message'>
+</p>
+</div>
+</form>
+</div>
+
+<div align="center">
+<h3>
+<b>Ou pelas redes sociais</b></h3>
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://www.facebook.com/dicaslinuxewindows" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://3.bp.blogspot.com/-i6de_8L9qNA/VoWcLiqie1I/AAAAAAAABtQ/pRHO24RERXM/s1600/face_ico.png" /></a></div>
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://twitter.com/dicaslnxwindows" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://2.bp.blogspot.com/-qkAKNrTh9BM/VoWefjMqe7I/AAAAAAAABto/pIMIz6_-w8c/s1600/twitter_ico.png" /></a></div>
+<br />
+</div>
+</body>
+</html>
+</div>
