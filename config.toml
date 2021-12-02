@@ -1,5 +1,5 @@
 baseurl = "https://testes.wsouza.com.br"
-title = "Dicas Linux e Windows"
+title = "WSouza"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
@@ -29,11 +29,11 @@ googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your trac
 
 [Author]
   name = "W.Souza"
-  bio = "Usuário de nível básico a intermediário. Gosto de compartilhar as experiências e dificuldades encontradas no uso diário dos sistemas Linux e Windows."
+  bio = "Usuário (não avançado) de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
   avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
 
 [Params]
-  description = "John Doe's Personal blog about everything" # Description of your site
+  description = "" # Description of your site
   opengraph = true
   twitter_cards = true
   readmore = true # Show "Read more" button in list if true
@@ -45,7 +45,7 @@ googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your trac
 	show_translations= true
 
 [Params.logo]
-  subtitle = "" # Logo subtitle
+  subtitle = "Dicas Linux e Windows" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
