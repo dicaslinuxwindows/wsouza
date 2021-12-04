@@ -29,7 +29,7 @@ googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your trac
 
 [Author]
   name = "W.Souza"
-  bio = "Usuário (não avançado) de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
+  bio = "Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia."
   avatar = "https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png"
 
 [Params]
