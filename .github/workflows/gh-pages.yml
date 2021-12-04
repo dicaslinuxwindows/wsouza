@@ -29,5 +29,4 @@ jobs:
         if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          external_repository: andradeswagner/andradeswagner.github.io
           publish_dir: ./public
