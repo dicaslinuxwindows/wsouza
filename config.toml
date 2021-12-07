@@ -43,6 +43,9 @@ googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your trac
   # Google Analytics 4
 	googleAnalyticsID = "G-ZE9HZB2464"
 	show_translations= true
+	twitter = "https://twitter.com/dicaslnxwindows"
+    shareTwitter = true
+    dateFormat = "Mon, Jan 2, 2006"
 
 [Params.logo]
   subtitle = "Dicas Linux e Windows" # Logo subtitle
