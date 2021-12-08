@@ -5,6 +5,9 @@ paginate = "10" # Number of posts per page
 theme = "mainroad"
 disqusShortname = "dicaslinuxewindows" # Enable comments by entering your Disqus shortname
 googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your tracking id
+enableEmoji = true
+enableRobotsTXT = true
+enableMissingTranslationPlaceholders = true
 
 [[menu.main]]             
   name = "Home"
@@ -26,6 +29,9 @@ googleAnalytics = "G-ZE9HZB2464" # Enable Google Analytics by entering your trac
   weight = 40
   identifier = "about"
   url = "/sobre.html"
+
+#external = true
+
 
 [Author]
   name = "W.Souza"

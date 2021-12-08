@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paint on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/paint/</link>
+    <description>Recent content in Paint on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Apr 2018 19:19:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/paint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MS Paint clássico direto no navegador</title>
+      <link>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</link>
+      <pubDate>Sat, 28 Apr 2018 19:19:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</guid>
+      <description>Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint.
+O MS Paint foi um software que permitia desenhos &amp;ldquo;a mão livre&amp;rdquo; e pequenas edições, e esteve presente nas versões Windows até o 10, deixando de ser incluído nas atualizações do próprio Windows 10 (leia mais em Fim do Paint).</description>
+    </item>
+    
+    <item>
+      <title>Fim do Paint</title>
+      <link>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</link>
+      <pubDate>Tue, 25 Jul 2017 15:04:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</guid>
+      <description>Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&amp;hellip;
+Na semana passada a Microsoft anunciou que o tradicional MS Paint seria descontinuado, ou seja, não faria mais parte dos próximos sistemas da empresa e já ficaria indisponível nas próximas atualizações. Esta informação causou muitas reclamações de usuários que tradicionalmente utilizam o software para pequenos ajustes e alterações em imagens ou mesmo para desenhos à mão livre.</description>
+    </item>
+    
+  </channel>
+</rss>

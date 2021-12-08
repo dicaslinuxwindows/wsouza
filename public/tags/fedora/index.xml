@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fedora on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/fedora/</link>
+    <description>Recent content in Fedora on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 19:25:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/fedora/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
+      <link>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
+      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip; Antonio Almeida - May 1, 2021Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
+Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
+      <link>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
+      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
+DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+    </item>
+    
+    <item>
+      <title>Flatpak e Snap no Debian, Fedora e Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</link>
+      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
+      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
+Índice Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
+ Aplicativos em sistemas Linux Flatpak Snap Vantagens e desvantagens do uso de Snap ou Flatpak Ativar o suporte ao Snap no Debian e Fedora Ativar o suporte ao Flatpak no Ubuntu e Debian Instalando Snap no Debian e Fedora Instalando Flatpak no Debian e Ubuntu Considerações finais Referências</description>
+    </item>
+    
+    <item>
+      <title>Lançamento Fedora 33</title>
+      <link>https://testes.wsouza.com.br/2020/10/lancamento-fedora-33.html</link>
+      <pubDate>Wed, 28 Oct 2020 14:56:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/10/lancamento-fedora-33.html</guid>
+      <description>No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.
+ &amp;ldquo;Hoje, estou animado para compartilhar os resultados do trabalho árduo de milhares de colaboradores para o Projeto Fedora: nosso último lançamento, Fedora 33, está aqui! Este é um grande lançamento com muita mudança, mas acredito que todo esse trabalho também o tornará confortável, cumprindo nosso objetivo de trazer-lhe o mais recente software estável, poderoso e robusto de código livre e de código aberto em muitas ofertas fáceis de usar&amp;hellip;&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Fedora 33 Beta</title>
+      <link>https://testes.wsouza.com.br/2020/10/fedora-33-beta.html</link>
+      <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/10/fedora-33-beta.html</guid>
+      <description>Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.
+Fedora É a primeira vez que falo alguma coisa sobre o Fedora aqui no blog. Como de costume, só falo aqui sobre sistemas e aplicativos que utilizo, e o motivo de nunca ter falado sobre o Fedora era exatamente por nunca tê-lo utilizado. Esta situação mudou há alguns meses, quando resolvi instalar a versão 32 por curiosidade.</description>
+    </item>
+    
+    <item>
+      <title>Tema Yaru do Ubuntu no Debian e em outras distribuições Linux</title>
+      <link>https://testes.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</link>
+      <pubDate>Tue, 31 Mar 2020 21:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</guid>
+      <description>Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.
+Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20.</description>
+    </item>
+    
+  </channel>
+</rss>

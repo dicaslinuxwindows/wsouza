@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yumi on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/yumi/</link>
+    <description>Recent content in Yumi on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 03 Jan 2015 03:15:00 -0200</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/yumi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Criando um Pendrive Multiboot com o Yumi</title>
+      <link>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</link>
+      <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
+      <description>Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:
+Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Windows.</description>
+    </item>
+    
+  </channel>
+</rss>

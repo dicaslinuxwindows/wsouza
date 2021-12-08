@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flatpak on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/flatpak/</link>
+    <description>Recent content in Flatpak on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 01:07:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/flatpak/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Flatpak e Snap no Debian, Fedora e Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</link>
+      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
+      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
+Índice Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
+ Aplicativos em sistemas Linux Flatpak Snap Vantagens e desvantagens do uso de Snap ou Flatpak Ativar o suporte ao Snap no Debian e Fedora Ativar o suporte ao Flatpak no Ubuntu e Debian Instalando Snap no Debian e Fedora Instalando Flatpak no Debian e Ubuntu Considerações finais Referências</description>
+    </item>
+    
+  </channel>
+</rss>

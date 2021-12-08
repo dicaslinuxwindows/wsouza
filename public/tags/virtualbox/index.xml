@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VirtualBox on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/virtualbox/</link>
+    <description>Recent content in VirtualBox on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Jan 2021 23:13:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalando o VirtualBox em qualquer distribuição Linux</title>
+      <link>https://testes.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</link>
+      <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
+      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
+VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
+ &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+    </item>
+    
+  </channel>
+</rss>

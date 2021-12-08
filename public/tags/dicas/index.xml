@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dicas on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/dicas/</link>
+    <description>Recent content in Dicas on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Nov 2020 22:51:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/dicas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox 83 chega com melhorias de desempenho e novidades</title>
+      <link>https://testes.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</link>
+      <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</guid>
+      <description>Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.
+Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:
+ Melhoria de desempenho: Graças à melhorias no SpiderMonkey, que é o mecanismo JavaScript do Firefox, as páginas podem ser carregadas até 15% mais rápidas, com capacidade de resposta da página em até 12% e o uso de memória reduzido em até 8%.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Edge chegando no Linux</title>
+      <link>https://testes.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</link>
+      <pubDate>Tue, 22 Sep 2020 17:00:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</guid>
+      <description>Depois de um bom tempo sem se pronunciar a respeito do Microsoft Edge para Linux, a Microsoft divulgou uma data de lançamento para uma versão prévia do mesmo. Saiba mais na matéria abaixo.
+O Microsoft Edge éum navegador Web foi desenvolvido pela Microsoft para substituir o navegador Internet Explorer. Inicialmente possuia um &amp;ldquo;motor&amp;rdquo; próprio da Microsoft. No início de 2019 a Microsoft anunciou que passaria a se basear no projeto de código aberto Chromium (o mesmo do Google Chrome), conforme foi tratado na matéria Microsoft Edge agora é baseado no Chromium.</description>
+    </item>
+    
+    <item>
+      <title>Gnome 3.38 é lançado</title>
+      <link>https://testes.wsouza.com.br/2020/09/gnome-338-e-lancado.html</link>
+      <pubDate>Fri, 18 Sep 2020 21:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/09/gnome-338-e-lancado.html</guid>
+      <description>O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
+O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico&amp;hellip;) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.
+O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.</description>
+    </item>
+    
+    <item>
+      <title>Firefox para Android sofre uma significativa atualização</title>
+      <link>https://testes.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</link>
+      <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</guid>
+      <description>O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.
+A fundação Mozilla liberou, nos últimos dias, uma atualização para o navegador Firefox no Android. Trata-se da versão 79, que reformulou quase totalmente o visual, opções de configurações e funcionalidades. Podemos considerar que trata-se de um novo navegador.
+De onde surgiu o novo Firefox?</description>
+    </item>
+    
+    <item>
+      <title>Lançado o navegador Firefox 80</title>
+      <link>https://testes.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</link>
+      <pubDate>Tue, 25 Aug 2020 23:09:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</guid>
+      <description>Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.
+O Mozilla Firefox ainda é o segundo navegador mais utilizado no mundo, porém, esta vice liderança está ameaçada pelo Microsoft Edge (e pode ser que já tenha sido perdida). Paralelamente aos acontecimentos, a fundação Mozilla continua trabalhando nas atualizações com correções e melhorias, e chega agora na versão 80.
+Novidades  No Windows 10, o Firefox agora pode ser definido como o visualizador de PDF padrão do sistema; No Linux agora é possível habilitar a aceleração de GPU para Firefox no X11, algo que já era possível no Wayland.</description>
+    </item>
+    
+    <item>
+      <title>Firefox 75 é lançado, e veio com aplicativo Flatpak oficial</title>
+      <link>https://testes.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</link>
+      <pubDate>Thu, 09 Apr 2020 23:58:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</guid>
+      <description>O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à versão anterior, trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.
+O Firefox 75 foi lançado oficialmente no dia 07 de abril de 2020, aproximadamente um mês após a versão anterior. Devido à diminuição do ciclo de lançamento das versões, teremos novas versões quase que mensalmente.
+A nova versão traz melhorias relacionadas à pesquisa, tornando a pesquisa mais rápida, inteligente e com as melhorias na barra de endereços é possível digitar menos para encontrar o que procura e com os sites mais populares aparecendo em destaque.</description>
+    </item>
+    
+    <item>
+      <title>Firefox 74 é lançado </title>
+      <link>https://testes.wsouza.com.br/2020/03/firefox-74-e-lancado.html</link>
+      <pubDate>Tue, 10 Mar 2020 13:52:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/03/firefox-74-e-lancado.html</guid>
+      <description>A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.
+A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, principalmente à nível de segurança e privacidade. Veja alguns destaques:
+ Firefox Contêiner dedicado - Este contêiner é bem interessante, pois evita que sua navegação no Facebook seja rastreada. Sabe quando você pesquisa alguma coisa e logo em seguida as propagandas aparecem no Facebook?</description>
+    </item>
+    
+    <item>
+      <title>Navegador Edge baseado no Chromium será lançado em janeiro de 2020 e terá versão para Linux</title>
+      <link>https://testes.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</link>
+      <pubDate>Sun, 10 Nov 2019 21:21:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</guid>
+      <description>A Microsoft anunciou que o navegador Edge, baseado no código do Chromium, já tem data de lançamento. Além disso a empresa anunciou que haverá versão para Linux. Confira mais detalhes nesta matéria.
+ Navegador Edge
+O navegador Microsoft Edge é um navegador da Microsoft que vem pré instalado nos sistemas Windows. Surgiu em 2015 para substituir o antigo navegador Internet Explorer, outrora líder no mercado de navegadores, porém, nunca conseguiu competir com o Chrome da Google ou mesmo com o Mozilla Firefox.</description>
+    </item>
+    
+    <item>
+      <title>Como gravar a tela utilizando o VLC</title>
+      <link>https://testes.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</link>
+      <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
+      <description>Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
+
+O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.
+Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC.</description>
+    </item>
+    
+    <item>
+      <title>Como resolver o erro ao instalar extensões no Firefox</title>
+      <link>https://testes.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</link>
+      <pubDate>Tue, 07 May 2019 23:30:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</guid>
+      <description>Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
+
+Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Edge agora é baseado no Chromium</title>
+      <link>https://testes.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</link>
+      <pubDate>Wed, 27 Mar 2019 08:21:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
+      <description>Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.
+
+Microsoft Edge O Microsoft Edge foi lançado em 2015 para ser o sucessor do Microsoft Internet Explorer, que teve sua última versão lançada em 2017. A versão atual, não baseada no Chromium, nunca conseguiu obter uma boa fatia de mercado. Com o novo Edge a Microsoft tentava voltar à liderança entre os navegadores, posto que deteve durante muitos anos com o Internet Explorer e perdeu em 2012 para o Google Chrome.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft Forms Public Preview</title>
+      <link>https://testes.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</link>
+      <pubDate>Thu, 17 Jan 2019 13:43:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</guid>
+      <description>Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.
+E o melhor de tudo: É gratuito.
+Mais detalhes a seguir.
+
+Lançado em 2016 para clientes empresariais e educacionais, o Microsoft Forms surgiu como uma alternativa ao Google Forms, lançado em 2015. A idéia é praticamente a mesma da concorrente, ou seja, permitir a criação de formulários on line que possibilitam a realização de pesquisas e questionários com fácil compartilhamento e fácil acompanhamento dos resultados pelos seus criadores.</description>
+    </item>
+    
+    <item>
+      <title>Após novo vazamento de dados, Google antecipa o fim do Google&#43;</title>
+      <link>https://testes.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</link>
+      <pubDate>Mon, 17 Dec 2018 11:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</guid>
+      <description>Google antecipa o fim do Google+ após um novo vazamento de dados. Quem curte a já considerada finada rede social, terá que se despedir dela antes do que estava previsto inicialmente.
+Leia mais detalhes a seguir.
+
+Em outubro foi anunciado o fim do Google+, junto com alguns outros serviços da Google. A princípio, o fim da rede social seria em agosto de 2019, porém, após um novo ataque - que resultou em um novo vazamento de dados - a exclusão da rede social foi antecipada para agosto de 2019.</description>
+    </item>
+    
+    <item>
+      <title>Google encerra Google&#43; e Inbox by Gmail</title>
+      <link>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</link>
+      <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</guid>
+      <description>Excelente, a verdade é que o Gmail tem vários serv&amp;hellip; Jessy - Nov 2, 2018Excelente, a verdade é que o Gmail tem vários serviços, basta digitar o gmail login direto entrar e a partir daí, todos os serviços estão disponíveis</description>
+    </item>
+    
+    <item>
+      <title>Google encerra Google&#43; e Inbox by Gmail</title>
+      <link>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</link>
+      <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</guid>
+      <description>A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.
+
+Inbox by Gmail O aplicativo de emails será descontinuado no mês de março de 2019.
+O Inbox foi lançado em 2014 como uma alternativa ao aplicativo do Gmail (também possui uma versão Web).</description>
+    </item>
+    
+    <item>
+      <title>Dropbox - Mudança de requisitos para sistemas Linux</title>
+      <link>https://testes.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</link>
+      <pubDate>Sun, 26 Aug 2018 19:26:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</guid>
+      <description>Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.
+ 
+Desde já fica claro que o Dropbox não encerrará o suporte à sistemas Linux.
+Veja o comunicado do Dropbox enviado aos usuários:
+&amp;ldquo;Em 15 de outubro, o Dropbox encerrará a compatibilidade com o Ubuntu 13.</description>
+    </item>
+    
+    <item>
+      <title>MS Paint clássico direto no navegador</title>
+      <link>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</link>
+      <pubDate>Sat, 28 Apr 2018 19:19:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</guid>
+      <description>Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint.
+O MS Paint foi um software que permitia desenhos &amp;ldquo;a mão livre&amp;rdquo; e pequenas edições, e esteve presente nas versões Windows até o 10, deixando de ser incluído nas atualizações do próprio Windows 10 (leia mais em Fim do Paint).</description>
+    </item>
+    
+    <item>
+      <title>Versão do CCleaner é atingida por Malware</title>
+      <link>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</link>
+      <pubDate>Tue, 19 Sep 2017 13:01:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</guid>
+      <description>A Avast, empresa que comprou a Piriform, que por sua vez é a criadora do CCleaner, anunciou nas últimas horas que algumas versões oficiais que estavam disponíveis para download no site oficial foram invadidas, podendo conter malwares.
+A versão v5.33.6162 do CCleaner e a versão v1.07.3191 do CCleaner Cloud possui um código malicioso que pode baixar e instalar automaticamente softwares capazes de capturar tudo o que é digitado (assim, pode capturar senhas de emails, bancos, etc.</description>
+    </item>
+    
+    <item>
+      <title>Fim do Paint</title>
+      <link>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</link>
+      <pubDate>Tue, 25 Jul 2017 15:04:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</guid>
+      <description>Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&amp;hellip;
+Na semana passada a Microsoft anunciou que o tradicional MS Paint seria descontinuado, ou seja, não faria mais parte dos próximos sistemas da empresa e já ficaria indisponível nas próximas atualizações. Esta informação causou muitas reclamações de usuários que tradicionalmente utilizam o software para pequenos ajustes e alterações em imagens ou mesmo para desenhos à mão livre.</description>
+    </item>
+    
+    <item>
+      <title>Novo Navegador Opera - Acesso à WhatsApp, Facebook Messenger e Telegram sem sair do navegador</title>
+      <link>https://testes.wsouza.com.br/2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html</link>
+      <pubDate>Wed, 31 May 2017 13:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html</guid>
+      <description>Há pouco tempo foi lançada a nova versão do navegador Opera, a 45. Esta versão traz algumas novidades que tornam o navegador mais interessante ainda, veja a seguir.
+Dentre estas novidades está a integração com alguns dos clientes de bate papo mais populares do momento, como WhatsApp, Facebook Messenger e Telegram. O mais interessante de tudo é que não é necessário instalar nenhum tipo de plugin adicional, basta instalar o Opera, ativar e sair utilizando.</description>
+    </item>
+    
+    <item>
+      <title>Golpes nas compras online</title>
+      <link>https://testes.wsouza.com.br/2017/03/golpes-nas-compras-online.html</link>
+      <pubDate>Wed, 15 Mar 2017 00:29:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2017/03/golpes-nas-compras-online.html</guid>
+      <description>Quando queremos comprar algum produto pelo internet devemos ficar muito atentos, pois estamos sujeitos à diversos tipos de golpe. Veja a seguir alguns exemplos.
+Na última semana tenho percebido que no facebook há uma grande quantidade de postagens com ofertas inacreditáveis de aparelhos eletrônicos, aparentemente de grandes redes de lojas como Walmart, Ponto Frio e Americanas, entre outras.
+Nem precisa de muito para perceber que trata-se de golpe.
+Nas imagens da esquerda vemos as publicações do facebook com as ofertas inacreditáveis.</description>
+    </item>
+    
+    <item>
+      <title>Nunca mais perca seus contatos do celular</title>
+      <link>https://testes.wsouza.com.br/2016/11/nunca-mais-perca-seus-contatos-do-celular.html</link>
+      <pubDate>Sun, 20 Nov 2016 23:19:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2016/11/nunca-mais-perca-seus-contatos-do-celular.html</guid>
+      <description>Não corra risco de perder seus contatos, armazene-os online e mantenha-os sincronizados com seu smartphone. Veremos como é fácil fazer isto utilizando uma conta Google num smartphone Android.
+Para iniciar, é necessário uma conta Google. Nos smartphones Android, a conta Google é necessária para acessar a Play Store e atualizar aplicativos, se você consegue ter acesso e atualizar aplicativos, você possui uma conta Google.
+Caso contrário, é possível fazer o cadastro no próprio dispositivo acessando Config&amp;raquo;Contas&amp;raquo;Adicionar Contas&amp;raquo;Nova&amp;raquo;Google, como vemos abaixo:</description>
+    </item>
+    
+    <item>
+      <title>Como utilizar o Google Maps Off-line</title>
+      <link>https://testes.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</link>
+      <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</guid>
+      <description>Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Funciona assim: O usuário pode baixar uma área do mapa para visualizar quando estiver sem conexão com a internet. Esta área baixada pode ser um bairro, cidade, estado, país, etc.. Quanto maior a área selecionada, maior será o tamanho do arquivo a ser baixado. Desta maneira o Google Maps pode ser utilizado com um navegador GPS, tornando-se um GPS off-line, muito útil para quem possui plano de dados limitado.</description>
+    </item>
+    
+    <item>
+      <title>Criar backup do WhatsApp no Google Drive</title>
+      <link>https://testes.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</link>
+      <pubDate>Wed, 07 Oct 2015 22:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</guid>
+      <description>A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone
+
+Segundo o blog do Google Brasil, a função estará disponível para todos os usuários ao longo dos próximos meses, mas os mais impacientes já podem baixar diretamente do site do ofcial em http://www.</description>
+    </item>
+    
+    <item>
+      <title>Cursos EAD gratuitos de TI</title>
+      <link>https://testes.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</link>
+      <pubDate>Wed, 30 Sep 2015 00:28:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</guid>
+      <description>Esta dica é para quem te interesse em fazer algum curso na área de TI mas anda meio sem grana. São alguns cursos totalmente gratuitos oferecidos na modalidade &amp;ldquo;à distância&amp;rdquo;.
+No site www.brasilmaisti.com.br podemos encontrar cursos de lógica de programação e algoritmos em várias linguagens de programação, cursos de projetos de software, redes entre outros, ideal para alunos que estão entrando em faculdades de TI, ou para quem tem interesse de entrar, ou mesmo para estudantes que precisam aprimorar os conhecimentos e/ou conseguir pontos para atividades complementares.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Tweak, uma ótima ferramenta para configurar o seu Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</link>
+      <pubDate>Sun, 26 Apr 2015 23:31:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</guid>
+      <description>O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.
+
+Num único programa é possível adicionar PPAs, trocar o papel de parede, configurações de janela e do Unity, remover arquivos temporários do APT, cache do Firefox, Chrome ou outros navegadores, remover arquivos de configuração de pacotes que já foram desinstalados, ajustar configurações de pastas de usuários, configurações de fontes, configurações de login, remover kernels antigos com segurança… A lista é grande, então vamos nos concentrar em algumas funções mais importantes.</description>
+    </item>
+    
+    <item>
+      <title>Alguns sites que oferecem serviços de utilidade pública</title>
+      <link>https://testes.wsouza.com.br/2014/11/alguns-sites-uteis.html</link>
+      <pubDate>Thu, 06 Nov 2014 12:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2014/11/alguns-sites-uteis.html</guid>
+      <description>Hoje, trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.
+Reclame Aqui - É um serviço totalmente gratuito que permite que consumidores registrem reclamações geralmente relacionadas à compra, venda, atendimentos prestados por empresas de produtos e serviços, mas também é possível reclamar de serviços públicos. Várias empresas estão cadastradas no site, o que facilita a comunicação entre o consumidor e a empresa.</description>
+    </item>
+    
+    <item>
+      <title>Google anuncia o fim do Orkut </title>
+      <link>https://testes.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</link>
+      <pubDate>Mon, 30 Jun 2014 23:52:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</guid>
+      <description>Fim? Mas o Orkut já não estava morto?
+Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o blog oficial do Google ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.
+O Orkut foi criado em 2004 por um funcionário do Google que o desenvolveu em suas horas vagas.</description>
+    </item>
+    
+    <item>
+      <title>Armazenamento na nuvem (Dropbox, Google Drive, OneDrive e Copy)</title>
+      <link>https://testes.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</link>
+      <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</guid>
+      <description>Atualizado em 04/11/2014
+O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.</description>
+    </item>
+    
+    <item>
+      <title>Adblock Plus - Bloqueando propagandas indesejadas</title>
+      <link>https://testes.wsouza.com.br/2013/08/dica-adblock-plus.html</link>
+      <pubDate>Sun, 18 Aug 2013 21:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/08/dica-adblock-plus.html</guid>
+      <description>A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.
+Através de filtros pré-configurados ela permite que sejam bloqueados frames, adwares, banners, propagandas no Youtube, Gmail e Facebook e diversos outros tipos de propagandas invasivas.</description>
+    </item>
+    
+    <item>
+      <title>Internet Archive: Wayback Machine, o Arquivo da Internet</title>
+      <link>https://testes.wsouza.com.br/2013/07/arquivo-da-internet.html</link>
+      <pubDate>Wed, 31 Jul 2013 00:36:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/07/arquivo-da-internet.html</guid>
+      <description>Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.
+O Internet Archive: Wayback Machine é um arquivo da internet. Nele podemos acessar as páginas principais de vários sites em várias épocas. O endereço é http://archive.org/web/web.php e sua utilização é simples, basta digitar o endereço do site e clicar em &amp;ldquo;Take me back&amp;rdquo; depois é só navegar.</description>
+    </item>
+    
+    <item>
+      <title>CCleaner -  Fazendo a limpeza de arquivos e informações desnecessárias</title>
+      <link>https://testes.wsouza.com.br/2013/07/ccleaner.html</link>
+      <pubDate>Tue, 23 Jul 2013 01:57:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/07/ccleaner.html</guid>
+      <description>Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.</description>
+    </item>
+    
+    <item>
+      <title>Como descobrir a operadora de um telefone</title>
+      <link>https://testes.wsouza.com.br/2013/04/descobrir-telefone.html</link>
+      <pubDate>Tue, 09 Apr 2013 00:11:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/04/descobrir-telefone.html</guid>
+      <description>Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.
+Mas existem algumas soluções que nos permitem descobrir de qual operadora é o telefone que pretendemos ligar e, uma destas soluções foi disponibilizada pela ABR Telecom (Associação Brasileira de Recursos em Comunicações), entidade administradora da portabilidade numérica.</description>
+    </item>
+    
+    <item>
+      <title>Xmarks - Sincronizando seus favoritos, abas e histórico</title>
+      <link>https://testes.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</link>
+      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</guid>
+      <description>Xmarks é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.
+No Firefox
+1 - Baixe aqui a última versão.
+2 - Instale e, após instalar, reinicie o Firefox.
+3 - Crie uma conta no site do Xmarks, é bem simples e rápido.</description>
+    </item>
+    
+  </channel>
+</rss>

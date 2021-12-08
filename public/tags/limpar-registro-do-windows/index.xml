@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Limpar registro do Windows on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/limpar-registro-do-windows/</link>
+    <description>Recent content in Limpar registro do Windows on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2013 01:57:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/limpar-registro-do-windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CCleaner -  Fazendo a limpeza de arquivos e informações desnecessárias</title>
+      <link>https://testes.wsouza.com.br/2013/07/ccleaner.html</link>
+      <pubDate>Tue, 23 Jul 2013 01:57:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/07/ccleaner.html</guid>
+      <description>Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.</description>
+    </item>
+    
+  </channel>
+</rss>
