@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GParted on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/gparted/</link>
+    <description>Recent content in GParted on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jul 2018 20:28:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/gparted/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GParted, Particionador Gráfico</title>
+      <link>https://testes.wsouza.com.br/2018/07/gparted-particionador-grafico.html</link>
+      <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
+      <description>Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
+O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
+1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente.</description>
+    </item>
+    
+  </channel>
+</rss>

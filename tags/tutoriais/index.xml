@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriais on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/tutoriais/</link>
+    <description>Recent content in Tutoriais on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Feb 2021 19:25:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/tutoriais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
+      <link>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
+      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip; Antonio Almeida - May 1, 2021
+Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
+#### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
+      <link>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
+      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
+DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+    </item>
+    
+    <item>
+      <title>Instalando o VirtualBox em qualquer distribuição Linux</title>
+      <link>https://testes.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</link>
+      <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
+      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
+VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
+ &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Flatpak e Snap no Debian, Fedora e Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</link>
+      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
+      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
+Índice Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
+ Aplicativos em sistemas Linux Flatpak Snap Vantagens e desvantagens do uso de Snap ou Flatpak Ativar o suporte ao Snap no Debian e Fedora Ativar o suporte ao Flatpak no Ubuntu e Debian Instalando Snap no Debian e Fedora Instalando Flatpak no Debian e Ubuntu Considerações finais Referências</description>
+    </item>
+    
+    <item>
+      <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
+      <link>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</link>
+      <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
+      <description>Passo a passo detalhado e muito útil. Obrigada! Anônimo - Jun 2, 2020
+Passo a passo detalhado e muito útil. Obrigada!
+#### muito bom!! Meus parabéns pelo procedimento. [Unknown](https://www.blogger.com/profile/07720850229081869234 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 muito bom!! Meus parabéns pelo procedimento.
+#### De nada. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 De nada.
+#### Muito bom e objetivo1! Alguns outros fóruns antigo... [Luan](https://www.blogger.com/profile/05445600462514586679 &#34;noreply@blogger.com&#34;) - Jun 1, 2020 Muito bom e objetivo1!</description>
+    </item>
+    
+    <item>
+      <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
+      <link>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</link>
+      <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
+      <description>A Oracle acabou de lançar a versão 14 15 do Java SE. Veja aqui como baixar, instalar e configurar no Debian, Ubuntu e derivados.
+Atualizado em 06/04/2021
+Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias para o desenvolvimento e execução de programas com a linguagem de programação Java. O Java SE (Java Platform, Standard Edition) contém o ambiente de execução, chamado de JRE (Java Runtime Environment), e o JDK (Java Development Kit), que é o &amp;ldquo;modo&amp;rdquo; utilizado para criar programas na linguagem de programação Java.</description>
+    </item>
+    
+    <item>
+      <title>Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</title>
+      <link>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</link>
+      <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
+      <description>extremamente complicado Unknown - Mar 2, 2020
+extremamente complicado
+#### Nossa, muito obrigado a quem escreveu essa dica! E... [Anônimo]( &#34;noreply@blogger.com&#34;) - Apr 2, 2020 Nossa, muito obrigado a quem escreveu essa dica! Eu virei adepto ao software livre, e não queria ter que instalar o java proprietário para declarar o IR. A dica funcionou perfeitamente pra mim no ubuntu. A única observação a ser feita é para quem não tem familiaridade com o linux: é preciso localizar o endereço onde a pasta foi baixada no pc, se for na pasta &amp;ldquo;Downloads&amp;rdquo;, provavelmente vai algo do tipo &amp;ldquo;/home/nome-de-usuário/Downloads/irpf2020-1.</description>
+    </item>
+    
+    <item>
+      <title>Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</title>
+      <link>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</link>
+      <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
+      <description>Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
+Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
+Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java.</description>
+    </item>
+    
+    <item>
+      <title>Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin &#43; Java Oracle)</title>
+      <link>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</link>
+      <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
+      <description>Apisidio - Feb 1, 2020
+Este comentário foi removido pelo autor.
+#### Conseguiu resolver? [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Feb 1, 2020 Conseguiu resolver?
+#### Bom dia, Esta foi a maneira mais fácil de instala... [Igor Silva](https://www.blogger.com/profile/00932071431684394485 &#34;noreply@blogger.com&#34;) - Feb 6, 2020 Bom dia,
+Esta foi a maneira mais fácil de instalar o programa da receita federal no Linux Ubuntu que já encontrei na internet.
+Obrigado por compartilhar o seu conhecimento.</description>
+    </item>
+    
+    <item>
+      <title>Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin &#43; Java Oracle)</title>
+      <link>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</link>
+      <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
+      <description>A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo .BIN e o Java Oracle.
+Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
+IRPF 2020 O programa é necessário para efetuar as declarações do imposto de renda de pessoa física, que podem ser entregues do dia 01/03/2020 à 30/04/2020 30/06/2020.</description>
+    </item>
+    
+    <item>
+      <title>Java Oracle 13 no Debian e Derivados</title>
+      <link>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</link>
+      <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
+      <description>Unknown - Mar 2, 2020
+Este comentário foi removido pelo autor.
+#### PERFEITO! Único tutorial da internet brasileira qu... [Fabiano Vasconcelos](http://fabianovasconcelos.com/ &#34;noreply@blogger.com&#34;) - Mar 2, 2020 PERFEITO!
+Único tutorial da internet brasileira que resolveu o problema em 2020!
+Faltou só comentar que os comandos devem ser executados com &amp;ldquo;sudo&amp;rdquo; antes.
+Parabéns!
+#### Opa. Valeu, tinha esquecido do sudo. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Mar 2, 2020 Opa.
+Valeu, tinha esquecido do sudo.</description>
+    </item>
+    
+    <item>
+      <title>Java Oracle 13 no Debian e Derivados</title>
+      <link>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</link>
+      <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
+      <description>Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados
+Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramentas necessárias para o desenvolvimento de programas com a linguagem de produção Java e execução dos mesmos. Diversos programas que são desenvolvidos para serem executados em multiplataforma são disponibilizados neste formato, portanto, necessitarão do Java para serem executados.</description>
+    </item>
+    
+    <item>
+      <title>Debian Buster - Instalação limpa com Dual Boot</title>
+      <link>https://testes.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</link>
+      <pubDate>Sat, 20 Jul 2019 20:31:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
+      <description>Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
+Debian Buster O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em Debian Buster é lançado oficialmente.
+Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:</description>
+    </item>
+    
+    <item>
+      <title>Atualizando para o Debian Buster </title>
+      <link>https://testes.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</link>
+      <pubDate>Tue, 02 Jul 2019 21:19:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
+      <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
+
+Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
+  Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
+    </item>
+    
+    <item>
+      <title>Java Oracle 11 - Instalando no Debian de maneira rápida e fácil</title>
+      <link>https://testes.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</link>
+      <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
+      <description>Esta dica está desatualizada, veja a nova em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados.
+A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
+O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar o programa de declaração do imposto de renda 2019 no Linux</title>
+      <link>https://testes.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</link>
+      <pubDate>Mon, 11 Mar 2019 19:37:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
+      <description>Se procura a versão 2020, veja em: Programa de declaração do IRPF 2020 - Instalação no Debian e Derivados
+Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.
+
+O programa que será instalado realiza a declaração de imposto de renda de pessoa física, por isto é chamado de IRPF, e seu instalador está disponível no formato .</description>
+    </item>
+    
+    <item>
+      <title>Ferramentas Linux - Compilação de Tópicos </title>
+      <link>https://testes.wsouza.com.br/2019/02/ferramentas-linux.html</link>
+      <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/02/ferramentas-linux.html</guid>
+      <description>Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.
+3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Como criar uma Live USB utilizando algum sistema Linux.
+Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados - Instalação do JAVA Oracle 14 e posteriores no Debian, Ubuntu e sistemas derivados.
+Java Oracle 13 no Debian e Derivados - Instalação do JAVA Oracle 13 no Debian e sistemas derivados.</description>
+    </item>
+    
+    <item>
+      <title>Webmin - Administrador de Sistemas</title>
+      <link>https://testes.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</link>
+      <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
+      <description>Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
+Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
+
+1 - O que é o Webmin? Segundo o site do Webmin: &amp;ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais.</description>
+    </item>
+    
+    <item>
+      <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
+      <link>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
+      <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
+      <description>Excelente material. Leo - Apr 0, 2020
+Excelente material.
+#### Valeu! [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 1, 2020 Valeu!
+#### Entendi mas não consigo fazer... Gravei o .iso no ... [Adriano](https://www.blogger.com/profile/06719341678674190038 &#34;noreply@blogger.com&#34;) - Apr 6, 2020 Entendi mas não consigo fazer&amp;hellip; Gravei o .iso no pen drive. Mas eu teria que iniciar o boot por usb ou faria pelo hd e no meio do caminho aparece aquela primeira tela? Fiquei na dúvida com isso.</description>
+    </item>
+    
+    <item>
+      <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
+      <link>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
+      <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
+      <description>Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.
+1 - Introdução Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização (GRUB) ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel.</description>
+    </item>
+    
+    <item>
+      <title>Como conseguir a versão mais recente do Ubuntu em 32 bits</title>
+      <link>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
+      <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
+      <description>Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&amp;hellip; Unknown - Jun 2, 2020
+Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!
+Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
+#### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits.</description>
+    </item>
+    
+    <item>
+      <title>Como conseguir a versão mais recente do Ubuntu em 32 bits</title>
+      <link>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
+      <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
+      <description>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?
+Confira na dica a seguir.
+Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
+    </item>
+    
+    <item>
+      <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
+      <link>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
+      <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
+      <description>fiz isso e ficou perfeito, mas toda vez que inicia&amp;hellip; leo - Mar 4, 2021
+fiz isso e ficou perfeito, mas toda vez que inicia a maquina ele cai na iso.. e não inicia o sistema
+como proceder?
+#### Tem que desconectar a iso da VM. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 1, 2021 Tem que desconectar a iso da VM.</description>
+    </item>
+    
+    <item>
+      <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
+      <link>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
+      <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
+      <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
+Confira a seguir.
+1 - Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
+    </item>
+    
+    <item>
+      <title>Máquina Virtual: Instalando e configurando o VMware Player</title>
+      <link>https://testes.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</link>
+      <pubDate>Wed, 25 Jul 2018 02:15:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</guid>
+      <description>Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.
+A utilização de uma máquina virtual torna-se muito importante quando, por exemplo, o usuário deseja ou precisa testar algum sistema que por algum motivo não pode ser executado num Live CD/DVD. Ou quando este deseja/precisa instalar o Windows para ter um acesso rápido.</description>
+    </item>
+    
+    <item>
+      <title>GParted, Particionador Gráfico</title>
+      <link>https://testes.wsouza.com.br/2018/07/gparted-particionador-grafico.html</link>
+      <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
+      <description>Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
+O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
+1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente.</description>
+    </item>
+    
+    <item>
+      <title>Backup com Remaster GTK</title>
+      <link>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
+      <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
+      <description>Cara gostei do seu post. Bem escrito simples enten&amp;hellip; Cleyton - Jul 3, 2019
+Cara gostei do seu post. Bem escrito simples entendimento, parabéns
+So que infelizmente não funciona no debian 9 De forma alguma.
+#### Valeu pelo elogio. Pode explicar melhor? O que exa... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jul 3, 2019 Valeu pelo elogio. Pode explicar melhor? O que exatamente não funcionou? A instalação do Remaster? A geração da ISO?</description>
+    </item>
+    
+    <item>
+      <title>Backup com Remaster GTK</title>
+      <link>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
+      <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
+      <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
+1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Business - O WhatsApp para empresas</title>
+      <link>https://testes.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</link>
+      <pubDate>Tue, 27 Feb 2018 12:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</guid>
+      <description>Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.
+
+Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus clientes, porém sua função é para uso pessoal, o que faz com que o mesmo não possua ferramentas para sua utilização com um perfil comercial. O WhatsApp Business, um aplicativo nativo para a plataforma Android, torna este uso profissional, adicionando informações básicas, porém importantes, sobre a empresa no perfil do aplicativo.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando o Android Auto em qualquer veículo</title>
+      <link>https://testes.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</link>
+      <pubDate>Tue, 09 Jan 2018 03:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</guid>
+      <description>O Android Auto é um aplicativo para veículos que controla as funções de GPS, Radio, Agenda, Ligações e tem integração com o Google Now, o que possibilita o controle por voz, dando ao motorista total controle às funções citadas anteriormente. Para ser mais exato, o Android Auto é um sistema operacional Android, otimizado para o uso em veículos
+Até então, o Android Auto funcionava apenas em veículos que vinham embarcados com esta tecnologia, porém, agora é possível utilizar suas funções no Smartphone, o que torna-o utilizável em qualquer veículo.</description>
+    </item>
+    
+    <item>
+      <title>Troque o visual do Linux deixando-o parecido com o Windows</title>
+      <link>https://testes.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</link>
+      <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
+      <description>Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.
+Mas como? A resposta é bem simples, veja na sequência:
+Muita gente que está acostumada com o Windows mal conhecem detalhes do mesmo, pois utilizam apenas o navegador para acessar a internet, logo, não sentirão diferença pois o seu sistema Linux ficará com a mesma aparência do Windows 7 ou 8.
+Faremos a transformação em 3 passos apenas instalando um tema do Windows e alterando este mesmo tema para o padrão do sistema.</description>
+    </item>
+    
+    <item>
+      <title>Como instalar a central de programas igual a do Ubuntu no Debian</title>
+      <link>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
+      <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
+      <description>Tenho Deian 10 e o ubuntu 18.04 não funciona! Tupyynamba - Jun 4, 2020
+Tenho Deian 10 e o ubuntu 18.04 não funciona!</description>
+    </item>
+    
+    <item>
+      <title>Como instalar a central de programas igual a do Ubuntu no Debian</title>
+      <link>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
+      <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
+      <description>Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.
+Não conhece? Veja abaixo.
+
+Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser instalada facilmente, com um único comando:
+Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
+    </item>
+    
+    <item>
+      <title>Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Mint Rebecca (17.1), Debian Wheezy (7) e Jessie (8)</title>
+      <link>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</link>
+      <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
+      <description>Veja motivo do sumiço de todos os comentários em: &amp;hellip; W. Souza - Jul 2, 2019
+Veja motivo do sumiço de todos os comentários em:
+https://info.wsouza.com.br/2019/06/mudanca-no-sistema-de-comentarios-do-blog.html
+Se deseja ler os comentários antigos para esta postagem, leia no link abaixo:
+https://disqus.com/home/discussion/dicaslinuxewindows/dicas_linux_e_windows_novidades_sobre_a_sis_mirage_3_no_ubuntu_trusty_tahr_1404_linux_mint_rebecca_1/
+#### Boa noite! Não consegui fazer download de nenhum d... [Danilson Oliveira](https://www.blogger.com/profile/17240035451127439277 &#34;noreply@blogger.com&#34;) - Apr 1, 2021 Boa noite! Não consegui fazer download de nenhum dos arquivos! O navegador abre uma aba do dropbox mas fica vazio!</description>
+    </item>
+    
+    <item>
+      <title>Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Mint Rebecca (17.1), Debian Wheezy (7) e Jessie (8)</title>
+      <link>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</link>
+      <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
+      <description>Atualizado em 21/02/2016
+
+Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior. O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente.</description>
+    </item>
+    
+    <item>
+      <title>Criando um Pendrive Multiboot com o Yumi</title>
+      <link>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</link>
+      <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
+      <description>Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:
+Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Windows.</description>
+    </item>
+    
+    <item>
+      <title>FlashGot - Como integrar gerenciadores de download ao Firefox</title>
+      <link>https://testes.wsouza.com.br/2013/08/flashgot.html</link>
+      <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/08/flashgot.html</guid>
+      <description>FlashGot é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. O Flashgot não funciona no Firefox Quantum.
+Uma função muito interessante do FlashGot é permitir o download direto de vídeos de sites como Youtube e outros sites de vídeos e músicas.</description>
+    </item>
+    
+    <item>
+      <title>Remastersys - Um ótimo utilitário de backup para Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
+      <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
+      <description>O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.
+Leia em Backup com Remaster-GTK
+Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil.</description>
+    </item>
+    
+    <item>
+      <title>Integrar Skype, Facebook e Windows Live Messenger (Msn Messenger)</title>
+      <link>https://testes.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</link>
+      <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</guid>
+      <description>Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.
+Isto não irá acontecer, pois a rede do Windows Live Messenger continuará funcionando, o que irá ocorrer é apenas o fim do software WLM, e ainda poderemos nos conectar utilizando outros softwares como o Pidgin, Amsn, Ebuddy&amp;hellip; Mas o usuário que gosta dos softwares da Microsoft não ficará órfão de um cliente de bate papo capaz de conectar-se e utilizar os contatos do WLM já que a Microsoft havia comprado o Skype, e quem possui uma conta Microsoft (a mesma que utilizava para conectar-se ao WLM, Xbox, Windows Phone, Hotmail, Outlook.</description>
+    </item>
+    
+    <item>
+      <title>Reinstalar o Grub 2 utilizando um Live Cd do Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</link>
+      <pubDate>Tue, 08 Jan 2013 03:26:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</guid>
+      <description>Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.</description>
+    </item>
+    
+  </channel>
+</rss>

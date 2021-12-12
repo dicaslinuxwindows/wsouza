@@ -5,6 +5,853 @@
     <link>https://testes.wsouza.com.br/tags/</link>
     <description>Recent content in Tags on WSouza</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://testes.wsouza.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux</title>
+      <link>https://testes.wsouza.com.br/tags/linux/</link>
+      <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu</title>
+      <link>https://testes.wsouza.com.br/tags/ubuntu/</link>
+      <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 21.04</title>
+      <link>https://testes.wsouza.com.br/tags/ubuntu-21.04/</link>
+      <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ubuntu-21.04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNOME40</title>
+      <link>https://testes.wsouza.com.br/tags/gnome40/</link>
+      <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/gnome40/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Edge</title>
+      <link>https://testes.wsouza.com.br/tags/microsoft-edge/</link>
+      <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/microsoft-edge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian</title>
+      <link>https://testes.wsouza.com.br/tags/debian/</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora</title>
+      <link>https://testes.wsouza.com.br/tags/fedora/</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/fedora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IRPF</title>
+      <link>https://testes.wsouza.com.br/tags/irpf/</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/irpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenJDK</title>
+      <link>https://testes.wsouza.com.br/tags/openjdk/</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/openjdk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oracle java</title>
+      <link>https://testes.wsouza.com.br/tags/oracle-java/</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/oracle-java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutoriais</title>
+      <link>https://testes.wsouza.com.br/tags/tutoriais/</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/tutoriais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Máquina Virtual</title>
+      <link>https://testes.wsouza.com.br/tags/m%C3%A1quina-virtual/</link>
+      <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/m%C3%A1quina-virtual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VirtualBox</title>
+      <link>https://testes.wsouza.com.br/tags/virtualbox/</link>
+      <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/virtualbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian Bullseye</title>
+      <link>https://testes.wsouza.com.br/tags/debian-bullseye/</link>
+      <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/debian-bullseye/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flatpak</title>
+      <link>https://testes.wsouza.com.br/tags/flatpak/</link>
+      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/flatpak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snap</title>
+      <link>https://testes.wsouza.com.br/tags/snap/</link>
+      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/snap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dicas</title>
+      <link>https://testes.wsouza.com.br/tags/dicas/</link>
+      <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/dicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Firefox</title>
+      <link>https://testes.wsouza.com.br/tags/firefox/</link>
+      <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 20.10</title>
+      <link>https://testes.wsouza.com.br/tags/ubuntu-20.10/</link>
+      <pubDate>Thu, 22 Oct 2020 23:58:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ubuntu-20.10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libre Office</title>
+      <link>https://testes.wsouza.com.br/tags/libre-office/</link>
+      <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/libre-office/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaru</title>
+      <link>https://testes.wsouza.com.br/tags/yaru/</link>
+      <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/yaru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fedora 33</title>
+      <link>https://testes.wsouza.com.br/tags/fedora-33/</link>
+      <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/fedora-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android</title>
+      <link>https://testes.wsouza.com.br/tags/android/</link>
+      <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian Buster</title>
+      <link>https://testes.wsouza.com.br/tags/debian-buster/</link>
+      <pubDate>Sat, 01 Aug 2020 22:51:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/debian-buster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux Mint</title>
+      <link>https://testes.wsouza.com.br/tags/linux-mint/</link>
+      <pubDate>Sun, 28 Jun 2020 23:57:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/linux-mint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 20.04</title>
+      <link>https://testes.wsouza.com.br/tags/ubuntu-20.04/</link>
+      <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ubuntu-20.04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ferramentas Linux</title>
+      <link>https://testes.wsouza.com.br/tags/ferramentas-linux/</link>
+      <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ferramentas-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutoriais Debian</title>
+      <link>https://testes.wsouza.com.br/tags/tutoriais-debian/</link>
+      <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/tutoriais-debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://testes.wsouza.com.br/tags/windows/</link>
+      <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 10</title>
+      <link>https://testes.wsouza.com.br/tags/windows-10/</link>
+      <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/windows-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imposto de Renda</title>
+      <link>https://testes.wsouza.com.br/tags/imposto-de-renda/</link>
+      <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/imposto-de-renda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 7</title>
+      <link>https://testes.wsouza.com.br/tags/windows-7/</link>
+      <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/windows-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 19.10</title>
+      <link>https://testes.wsouza.com.br/tags/ubuntu-19.10/</link>
+      <pubDate>Fri, 18 Oct 2019 11:31:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ubuntu-19.10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Educacional</title>
+      <link>https://testes.wsouza.com.br/tags/educacional/</link>
+      <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/educacional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fontes Ubuntu</title>
+      <link>https://testes.wsouza.com.br/tags/fontes-ubuntu/</link>
+      <pubDate>Mon, 19 Aug 2019 13:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/fontes-ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VLC</title>
+      <link>https://testes.wsouza.com.br/tags/vlc/</link>
+      <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/vlc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artigos</title>
+      <link>https://testes.wsouza.com.br/tags/artigos/</link>
+      <pubDate>Wed, 03 Jul 2019 00:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/artigos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhatsApp</title>
+      <link>https://testes.wsouza.com.br/tags/whatsapp/</link>
+      <pubDate>Mon, 01 Jul 2019 23:06:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/whatsapp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dicas Linux e Windows</title>
+      <link>https://testes.wsouza.com.br/tags/dicas-linux-e-windows/</link>
+      <pubDate>Mon, 24 Jun 2019 11:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/dicas-linux-e-windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft</title>
+      <link>https://testes.wsouza.com.br/tags/microsoft/</link>
+      <pubDate>Sun, 05 May 2019 21:46:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Source</title>
+      <link>https://testes.wsouza.com.br/tags/open-source/</link>
+      <pubDate>Sun, 05 May 2019 21:46:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 19.04</title>
+      <link>https://testes.wsouza.com.br/tags/ubuntu-19.04/</link>
+      <pubDate>Sat, 20 Apr 2019 18:54:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ubuntu-19.04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCompris</title>
+      <link>https://testes.wsouza.com.br/tags/gcompris/</link>
+      <pubDate>Sat, 16 Feb 2019 23:38:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/gcompris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gmail</title>
+      <link>https://testes.wsouza.com.br/tags/gmail/</link>
+      <pubDate>Thu, 31 Jan 2019 15:01:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/gmail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Webmin</title>
+      <link>https://testes.wsouza.com.br/tags/webmin/</link>
+      <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/webmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Forms Public Preview</title>
+      <link>https://testes.wsouza.com.br/tags/microsoft-forms-public-preview/</link>
+      <pubDate>Thu, 17 Jan 2019 13:43:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/microsoft-forms-public-preview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recuperar Grub</title>
+      <link>https://testes.wsouza.com.br/tags/recuperar-grub/</link>
+      <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/recuperar-grub/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://testes.wsouza.com.br/tags/google/</link>
+      <pubDate>Mon, 17 Dec 2018 11:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google&#43;</title>
+      <link>https://testes.wsouza.com.br/tags/google&#43;/</link>
+      <pubDate>Mon, 17 Dec 2018 11:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/google&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google &#43;</title>
+      <link>https://testes.wsouza.com.br/tags/google-&#43;/</link>
+      <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/google-&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://testes.wsouza.com.br/tags/facebook/</link>
+      <pubDate>Sat, 06 Oct 2018 01:32:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>https://testes.wsouza.com.br/tags/twitter/</link>
+      <pubDate>Sat, 06 Oct 2018 01:32:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/twitter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dropbox</title>
+      <link>https://testes.wsouza.com.br/tags/dropbox/</link>
+      <pubDate>Sun, 26 Aug 2018 19:26:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/dropbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VMware Player</title>
+      <link>https://testes.wsouza.com.br/tags/vmware-player/</link>
+      <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/vmware-player/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GParted</title>
+      <link>https://testes.wsouza.com.br/tags/gparted/</link>
+      <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/gparted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particionar Disco</title>
+      <link>https://testes.wsouza.com.br/tags/particionar-disco/</link>
+      <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/particionar-disco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backup do Sistema</title>
+      <link>https://testes.wsouza.com.br/tags/backup-do-sistema/</link>
+      <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/backup-do-sistema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remaster</title>
+      <link>https://testes.wsouza.com.br/tags/remaster/</link>
+      <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/remaster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paint</title>
+      <link>https://testes.wsouza.com.br/tags/paint/</link>
+      <pubDate>Sat, 28 Apr 2018 19:19:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/paint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Business</title>
+      <link>https://testes.wsouza.com.br/tags/whatsapp-business/</link>
+      <pubDate>Tue, 27 Feb 2018 12:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/whatsapp-business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows 8</title>
+      <link>https://testes.wsouza.com.br/tags/windows-8/</link>
+      <pubDate>Tue, 16 Jan 2018 02:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/windows-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android Auto</title>
+      <link>https://testes.wsouza.com.br/tags/android-auto/</link>
+      <pubDate>Tue, 09 Jan 2018 03:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/android-auto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ccleaner</title>
+      <link>https://testes.wsouza.com.br/tags/ccleaner/</link>
+      <pubDate>Tue, 19 Sep 2017 13:01:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/ccleaner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook Messenger</title>
+      <link>https://testes.wsouza.com.br/tags/facebook-messenger/</link>
+      <pubDate>Wed, 31 May 2017 13:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/facebook-messenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opera</title>
+      <link>https://testes.wsouza.com.br/tags/opera/</link>
+      <pubDate>Wed, 31 May 2017 13:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/opera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telegram</title>
+      <link>https://testes.wsouza.com.br/tags/telegram/</link>
+      <pubDate>Wed, 31 May 2017 13:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/telegram/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Maps</title>
+      <link>https://testes.wsouza.com.br/tags/google-maps/</link>
+      <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/google-maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Drive</title>
+      <link>https://testes.wsouza.com.br/tags/google-drive/</link>
+      <pubDate>Wed, 07 Oct 2015 22:25:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/google-drive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sis Mirage 3 Graphics</title>
+      <link>https://testes.wsouza.com.br/tags/sis-mirage-3-graphics/</link>
+      <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/sis-mirage-3-graphics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pendrive Multiboot</title>
+      <link>https://testes.wsouza.com.br/tags/pendrive-multiboot/</link>
+      <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/pendrive-multiboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yumi</title>
+      <link>https://testes.wsouza.com.br/tags/yumi/</link>
+      <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/yumi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orkut</title>
+      <link>https://testes.wsouza.com.br/tags/orkut/</link>
+      <pubDate>Mon, 30 Jun 2014 23:52:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/orkut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redes Sociais</title>
+      <link>https://testes.wsouza.com.br/tags/redes-sociais/</link>
+      <pubDate>Mon, 30 Jun 2014 23:52:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/redes-sociais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Armazenamento na Nuvem</title>
+      <link>https://testes.wsouza.com.br/tags/armazenamento-na-nuvem/</link>
+      <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/armazenamento-na-nuvem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copy</title>
+      <link>https://testes.wsouza.com.br/tags/copy/</link>
+      <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Onedrive</title>
+      <link>https://testes.wsouza.com.br/tags/onedrive/</link>
+      <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/onedrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adblock Plus</title>
+      <link>https://testes.wsouza.com.br/tags/adblock-plus/</link>
+      <pubDate>Sun, 18 Aug 2013 21:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/adblock-plus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Chrome</title>
+      <link>https://testes.wsouza.com.br/tags/google-chrome/</link>
+      <pubDate>Sun, 18 Aug 2013 21:07:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/google-chrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baixar vídeos do Youtube</title>
+      <link>https://testes.wsouza.com.br/tags/baixar-v%C3%ADdeos-do-youtube/</link>
+      <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/baixar-v%C3%ADdeos-do-youtube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlashGot</title>
+      <link>https://testes.wsouza.com.br/tags/flashgot/</link>
+      <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/flashgot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Youtube Downloader</title>
+      <link>https://testes.wsouza.com.br/tags/youtube-downloader/</link>
+      <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/youtube-downloader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arquivo da Internet</title>
+      <link>https://testes.wsouza.com.br/tags/arquivo-da-internet/</link>
+      <pubDate>Wed, 31 Jul 2013 00:36:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/arquivo-da-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wayback Machine</title>
+      <link>https://testes.wsouza.com.br/tags/wayback-machine/</link>
+      <pubDate>Wed, 31 Jul 2013 00:36:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/wayback-machine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Limpar registro do Windows</title>
+      <link>https://testes.wsouza.com.br/tags/limpar-registro-do-windows/</link>
+      <pubDate>Tue, 23 Jul 2013 01:57:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/limpar-registro-do-windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Descobrir Operadora</title>
+      <link>https://testes.wsouza.com.br/tags/descobrir-operadora/</link>
+      <pubDate>Tue, 09 Apr 2013 00:11:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/descobrir-operadora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet Explorer</title>
+      <link>https://testes.wsouza.com.br/tags/internet-explorer/</link>
+      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/internet-explorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safari</title>
+      <link>https://testes.wsouza.com.br/tags/safari/</link>
+      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xmarks</title>
+      <link>https://testes.wsouza.com.br/tags/xmarks/</link>
+      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/xmarks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Criar Backup do Sistema</title>
+      <link>https://testes.wsouza.com.br/tags/criar-backup-do-sistema/</link>
+      <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/criar-backup-do-sistema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Remastersys</title>
+      <link>https://testes.wsouza.com.br/tags/remastersys/</link>
+      <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/remastersys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Msn Messenger</title>
+      <link>https://testes.wsouza.com.br/tags/msn-messenger/</link>
+      <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/msn-messenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Skype</title>
+      <link>https://testes.wsouza.com.br/tags/skype/</link>
+      <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/skype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows Live Messenger</title>
+      <link>https://testes.wsouza.com.br/tags/windows-live-messenger/</link>
+      <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/windows-live-messenger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobile.</title>
+      <link>https://testes.wsouza.com.br/tags/mobile./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/tags/mobile./</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

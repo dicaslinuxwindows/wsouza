@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Windows 8 on WSouza</title>
+    <link>https://testes.wsouza.com.br/tags/windows-8/</link>
+    <description>Recent content in Windows 8 on WSouza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jan 2018 02:02:00 -0200</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/windows-8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fim do suporte ao Windows 8.1</title>
+      <link>https://testes.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</link>
+      <pubDate>Tue, 16 Jan 2018 02:02:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
+      <description>O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua política de ciclo de vida, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.
+
+Mas, segundo a Microsoft, ainda serão lançadas atualizações de segurança. Estas atualizações serão disponibilizadas até 2023 (ver tabela abaixo), quando o sistema deixará de vez de receber suporte.</description>
+    </item>
+    
+    <item>
+      <title>Sis Mirage 3 Graphics no Windows 8</title>
+      <link>https://testes.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</link>
+      <pubDate>Sun, 29 Dec 2013 00:22:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</guid>
+      <description>Em abril publiquei um post sobre o funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.</description>
+    </item>
+    
+  </channel>
+</rss>
