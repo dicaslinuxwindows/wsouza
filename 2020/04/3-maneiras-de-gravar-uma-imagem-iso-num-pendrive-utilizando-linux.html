@@ -8,11 +8,9 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux" />
-<meta property="og:description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.
-Se preferir, vá direto ao tutorial. DD
-UNETbootin
-Etcher
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação." />
+<meta property="og:description" content="iabadabaduuuu Anônimo - Jan 5, 2021
+iabadabaduuuu
+#### E método DD, deu erro na parte do progress, então ... [Gustavo Maciel 13](https://www.blogger.com/profile/14297456498719774611 &#34;noreply@blogger.com&#34;) - Apr 5, 2021 E método DD, deu erro na parte do progress, então cortei o comando, acredito que eu estou usando uma versão bem antiga, usei o echo para me alertar do término da operação" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-04-20T02:17:00-03:00" />
@@ -21,11 +19,9 @@ Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mai
 
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux"/>
-<meta name="twitter:description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.
-Se preferir, vá direto ao tutorial. DD
-UNETbootin
-Etcher
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação."/>
+<meta name="twitter:description" content="iabadabaduuuu Anônimo - Jan 5, 2021
+iabadabaduuuu
+#### E método DD, deu erro na parte do progress, então ... [Gustavo Maciel 13](https://www.blogger.com/profile/14297456498719774611 &#34;noreply@blogger.com&#34;) - Apr 5, 2021 E método DD, deu erro na parte do progress, então cortei o comando, acredito que eu estou usando uma versão bem antiga, usei o echo para me alertar do término da operação"/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -113,92 +109,14 @@ if (!doNotTrack) {
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-20T02:17:00-03:00">Mon, Apr 20, 2020</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<p><img src="https://1.bp.blogspot.com/-BvVHCc2Py6c/Xuq7ibvvA-I/AAAAAAAAPIc/zq_t2NWaIXMBfRc5BbQwxbiVJwAmxqGMQCNcBGAsYHQ/s1600/Pendrive_Linux.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></p>
-<p>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.</p>
-<h3 id="se-preferir-vá-direto-ao-tutorial">Se preferir, vá direto ao tutorial.</h3>
-<p><a href="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html#dd">DD</a><br>
-<a href="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html#unetbootin">UNETbootin</a><br>
-<a href="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html#etcher">Etcher</a></p>
-<h3 id="por-que-eu-preciso-disso">Por que eu preciso disso?</h3>
-<p>Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável <em>(Live USB)</em> e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema. A utilização do pendrive trouxe, entre outras vantagens, o ganho de velocidade quando utilizado o sistema rodando a partir dele.<br>
-Diferente dos gravadores de CD/DVD, que como citei anteriormente, estavam disponíveis <em>(ou eram facilmente encontrados)</em> em qualquer sistema operacional, os softwares para gravar uma ISO num pendrive nem sempre estão acessíveis. Veja a seguir 3 opções para criar uma Live USB.</p>
-<p><a href="https://draft.blogger.com/null"></a></p>
-<h3 id="dd">DD</h3>
-<p>O dd é uma ferramenta que tem diversas utilidades como cópia de partições, discos inteiros, da MBR, etc&hellip;<br>
-Uma das mais interessantes funções desta poderosa ferramenta é permitir a gravação de imagens ISO num pendrive, ideal para criar um Live USB.<br>
-Tudo é executado no terminal de maneira bem simples. Para iniciar insira um pendrive no computador. Após, abra o terminal e logue como super usuário com o comando abaixo:</p>
-<p> sudo su</p>
-<p>Com o comando abaixo podemos identificar o caminho do pendrive que será utilizado.</p>
-<p> lsblk</p>
-<p>É importante saber exatamente o caminho correto pois, se escolher o caminho incorreto, você poderá gravar no disco onde o sistema está instalado. Se não conseguiu identificar na primeira tentativa, experimente tirar o pendrive, executar o comando e ver o que aparece. Depois, insira o pendrive e veja o que apareceu de diferente e isto será o que está procurando. Nota: No exemplo abaixo é mostrado sdb e sdb1, onde sdb1 pode ser uma partição. Sempre utilize o dispositivo sem indicar a partição, neste caso, <em>/sdb</em>.</p>
-<p> NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT<br>
- sda 8:0 0 931,5G 0 disk<br>
- ├─sda1 8:1 0 260M 0 part<br>
- ├─sda2 8:2 0 16M 0 part<br>
- ├─sda3 8:3 0 583,4G 0 part<br>
- ├─sda4 8:4 0 850M 0 part<br>
- ├─sda5 8:5 0 16,1G 0 part<br>
- ├─sda6 8:6 0 1G 0 part<br>
- ├─sda7 8:7 0 286G 0 part /media/Dados<br>
- ├─sda8 8:8 0 40G 0 part /<br>
- └─sda9 8:9 0 4G 0 part [SWAP]<br>
-  sdb 8:16 1 7,5G 0 disk<br>
- └─sdb1 8:17 1 7,5G 0 part</p>
-<p>O pendrive precisa estar formatado no formato fat32, faça isto com o comando abaixo.</p>
-<p> mkfs.vfat /dev/sdb -I</p>
-<p>Após identificar o caminho, vamos executar o dd e finalmente gravar a ISO no pendrive. Ainda no terminal, rode o comando a seguir.</p>
-<p> dd if=/home/dlw/debian-live-10.3.0-amd64-cinnamon.iso of=/dev/sdb status=progress &amp;&amp; sync</p>
-<p>Sobre a sintaxe do comando:</p>
-<ul>
-<li>dd if= é o caminho de origem, onde está a ISO que deseja gravar;</li>
-<li>dd of= é o caminho de destino. É o local onde está o pendrive que receberá a ISO e que foi identificado no passo anterior;</li>
-<li>status=progress - mostra o progresso da gravação;</li>
-<li>sync - copia os dados imediatamente para o pendrive.</li>
-</ul>
-<p>O tempo de duração depende de alguns fatores, principalmente do tamanho da imagem ISO escolhida. Aguarde até o final e se a saída for parecida com a saída abaixo significa que deu tudo certo.</p>
-<p> 4896000+0 registros de entrada<br>
- 4896000+0 registros de saída<br>
- 2506752000 bytes (2,5 GB, 2,3 GiB) copiados, 1465,48 s, 1,7 MB/s</p>
-<p><a href="https://draft.blogger.com/null"></a></p>
-<h3 id="unetbootin">UNetbootin</h3>
-<p>Diferente do dd, que funciona no terminal, o UNetbootin é uma ferramenta que possui uma interface gráfica e possui a função de gerar um Live USB.<br>
-Vá ao site oficial <a href="https://unetbootin.github.io/linux_download.html">https://unetbootin.github.io</a> e faça o download na arquitetura que desejar <em>(32 ou 64 bits)</em>. A versão utilizada neste tutorial foi a <em>.bin</em>, que é bem simples de executar e não necessita instalação.<br>
-Para executar o programa é preciso dar permissão de execução. Supondo que o programa foi baixado na pasta <em>Downloads</em> execute o comando abaixo. <em>(Troque o que está em vermelho pelo nome do arquivo baixado)</em></p>
-<p> sudo chmod +x Downloads/unetbootin-linux64-677.bin</p>
-<p>Como o UNetbootin só permite a execução utilizando o superusuário <em>(root)</em>, quando buscamos a ISO apenas a pasta /root é habilitada, não permitindo a busca nas outras pastas. A maneira mais simples que encontrei para contornar este problema: Crie um link da pasta onde está a ISO, apontando para a pasta /root/. Supondo que você tenha uma pasta chamada ISOS em sua home <em>(/home/seu-nome-de-usuario/ISOS/)</em> faça da seguinte maneira:</p>
-<p> sudo ln -s $HOME/ISOS/ /root/</p>
-<p>O comando abaixo executa o UNetbootin. <em>(Não feche o terminal, pois o UNetbootin será fechado também).</em></p>
-<p> sudo ./Downloads/unetbootin-linux64-677.bin</p>
-<p>Eis a tela principal do programa. Temos duas opções para gravar o pendrive Live USB. A primeira é baixar a ISO <em>(Na opção distribuição escolha a que preferir)</em>, porém, é uma opção demorada e acho que não vale a pena, portanto, vamos à 2º opção. Utilizaremos uma ISO que já foi baixada anteriormente.</p>
-<ul>
-<li>Em <em>&ldquo;Imagem de disco&rdquo;</em> escolha a opção ISO, clique nos 3 pontos para procurar e selecione a ISO desejada;</li>
-<li>Se você estiver fazendo uma Live USB do Ubuntu, na opção <em>&ldquo;Espaço usado para preservar os arquivos após a reinicialização&rdquo;</em> defina um valor (ex: 512 Mb, 1024 Mb&hellip;). Assim você poderá salvar arquivos no Live USB para utilizá-los num outro momento após reiniciar o sistema rodando no Live USB. Esta função é conhecida como persistência;</li>
-<li>Na opção <em>Tipo</em> escolha Unidade USB e na opção <em>Unidade</em> escolha o pendrive <em>(que precisa estar formatado)</em>. Após o <em>&ldquo;Ok&rdquo;</em> o processo será iniciado.</li>
-</ul>
-<p><a href="https://1.bp.blogspot.com/-_muQ38cZ8ko/XpvW3XytiAI/AAAAAAAAOp0/exXkMDL8og0Q7T59aUdAK80G_csHocIigCNcBGAsYHQ/s1600/unet002.png"><img src="https://1.bp.blogspot.com/-_muQ38cZ8ko/XpvW3XytiAI/AAAAAAAAOp0/exXkMDL8og0Q7T59aUdAK80G_csHocIigCNcBGAsYHQ/s1600/unet002.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
-<p><a href="https://4.bp.blogspot.com/-16PfeUrPqdI/XpvW3eloLtI/AAAAAAAAOp4/uFcj_djvQx0cAYwFSudF1JTQYEIzZ66FwCNcBGAsYHQ/s1600/unet003.png"><img src="https://4.bp.blogspot.com/-16PfeUrPqdI/XpvW3eloLtI/AAAAAAAAOp4/uFcj_djvQx0cAYwFSudF1JTQYEIzZ66FwCNcBGAsYHQ/s1600/unet003.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
-<p><a href="https://3.bp.blogspot.com/--u8aJHGVVl0/XpvW4Fw3NeI/AAAAAAAAOp8/vg-XoH7XW8otThp6pW9dBjIkHmpz7By5QCNcBGAsYHQ/s1600/unet004.png"><img src="https://3.bp.blogspot.com/--u8aJHGVVl0/XpvW4Fw3NeI/AAAAAAAAOp8/vg-XoH7XW8otThp6pW9dBjIkHmpz7By5QCNcBGAsYHQ/s1600/unet004.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
-<p>Após alguns minutos, o processo está finalizado.</p>
-<p><a href="https://draft.blogger.com/null"></a></p>
-<h3 id="etcher">Etcher</h3>
-<p>O Etcher <em>(ou Balena Etcher)</em> é outra opção para gerar Live USB, talvez a mais fácil das 3 apresentadas aqui. É bem simples de ser utilizado, até mais simples que o UNetbootin, porém, não possui opção de persistência.<br>
-Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a>. A opção padrão de download é a x64, para sistemas 64 bits, mas caso precise da versão 32 bits basta escolher esta versão. Descompacte o aquivo baixado com o comando: <em>(Troque o que está em vermelho pelo nome do arquivo baixado)</em></p>
-<p> unzip balena-etcher-electron-1.5.81-linux-x64.zip</p>
-<p>O arquivo descompactado é no formato <em>AppImage</em>, e não necessita instalação. Porém, antes de executar o programa é preciso dar permissão de execução. Supondo que foi baixado na pasta <em>Downloads</em> execute o comando abaixo.</p>
-<p> sudo chmod +x Downloads/balenaEtcher-1.5.81-x64.AppImage</p>
-<p>O comando abaixo executa o Etcher. <em>(Não feche o terminal, pois o Etcher será fechado também).</em></p>
-<p> sudo ./Downloads/balenaEtcher-1.5.81-x64.AppImage</p>
-<p>A tela do Etcher é apresentada abaixo. Para iniciar o processo:</p>
-<ul>
-<li>Em <em>Select image</em> selecione a imagem ISO que deseja gravar;</li>
-<li>Em <em>Change</em> escolha o drive onde está o Pendrive;</li>
-<li>A opção <em>Flash</em> inicia o processo de gravação.</li>
-</ul>
-<p><a href="https://1.bp.blogspot.com/-4Xjj4ajUl4Q/XpZ1jh6FfOI/AAAAAAAAOm0/lOzC5YoP0Dov0SyGbfa4yUtayPNZbxRXgCNcBGAsYHQ/s1600/Etcher1.png"><img src="https://1.bp.blogspot.com/-4Xjj4ajUl4Q/XpZ1jh6FfOI/AAAAAAAAOm0/lOzC5YoP0Dov0SyGbfa4yUtayPNZbxRXgCNcBGAsYHQ/s640/Etcher1.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
-<p>Processo em andamento. Aguarde alguns minutos até concluir.</p>
-<p><a href="https://3.bp.blogspot.com/-fmPIjcFJDsU/Xpvrrb9GCEI/AAAAAAAAOqY/f_IbV6IDXpgRfKhs0hh3ALe5oHd0WSh5gCNcBGAsYHQ/s1600/etcher02.png"><img src="https://3.bp.blogspot.com/-fmPIjcFJDsU/Xpvrrb9GCEI/AAAAAAAAOqY/f_IbV6IDXpgRfKhs0hh3ALe5oHd0WSh5gCNcBGAsYHQ/s640/etcher02.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
-<p>Processo concluído, Live USB criada e o pendrive já foi desmontado.</p>
-<p><a href="https://2.bp.blogspot.com/-QcH5yCvidBQ/XpvrrSCopoI/AAAAAAAAOqU/yVEA3eth_oUeRXJLkDo3U7gesQBACrRlQCNcBGAsYHQ/s1600/etcher03.png"><img src="https://2.bp.blogspot.com/-QcH5yCvidBQ/XpvrrSCopoI/AAAAAAAAOqU/yVEA3eth_oUeRXJLkDo3U7gesQBACrRlQCNcBGAsYHQ/s640/etcher03.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
+			<h4 id="iabadabaduuuu">iabadabaduuuu</h4>
+<p><a href="%22noreply@blogger.com%22">Anônimo</a> - <time datetime="2021-01-29T19:55:17.513-03:00">Jan 5, 2021</time></p>
+<p>iabadabaduuuu</p>
+<hr />
+#### E método DD, deu erro na parte do progress, então ...
+[Gustavo Maciel 13](https://www.blogger.com/profile/14297456498719774611 "noreply@blogger.com") - <time datetime="2021-04-16T13:23:15.581-03:00">Apr 5, 2021</time>
+<p>E método DD, deu erro na parte do progress, então cortei o comando, acredito que eu estou usando uma versão bem antiga, usei o echo para me alertar do término da operação</p>
+<hr />
 
 		</div>
 		<footer class="post__footer">
@@ -238,15 +156,15 @@ Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.i
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html" rel="prev">
+		<a class="pager__link" href="/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Anterior</span>
-			<p class="pager__title">Firefox 75 é lançado, e veio com aplicativo Flatpak oficial</p>
+			<p class="pager__title">3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux</p>
 		</a>
 	</div>
 	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html" rel="next">
+		<a class="pager__link" href="/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html" rel="next">
 			<span class="pager__subtitle">Próximo&thinsp;»</span>
-			<p class="pager__title">3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux</p>
+			<p class="pager__title">Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</p>
 		</a>
 	</div>
 </nav>
