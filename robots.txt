@@ -1,4 +1,1 @@
-Sitemap: https://testes.wsouza.com.br/sitemap.xml
 User-agent: *
-
-Disallow:/
