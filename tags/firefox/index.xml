@@ -37,7 +37,7 @@ De onde surgiu o novo Firefox?</description>
       <guid>https://testes.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</guid>
       <description>Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.
 O Mozilla Firefox ainda é o segundo navegador mais utilizado no mundo, porém, esta vice liderança está ameaçada pelo Microsoft Edge (e pode ser que já tenha sido perdida). Paralelamente aos acontecimentos, a fundação Mozilla continua trabalhando nas atualizações com correções e melhorias, e chega agora na versão 80.
-Novidades  No Windows 10, o Firefox agora pode ser definido como o visualizador de PDF padrão do sistema; No Linux agora é possível habilitar a aceleração de GPU para Firefox no X11, algo que já era possível no Wayland.</description>
+Novidades     No Windows 10, o Firefox agora pode ser definido como o visualizador de PDF padrão do sistema; No Linux agora é possível habilitar a aceleração de GPU para Firefox no X11, algo que já era possível no Wayland.</description>
     </item>
     
     <item>
@@ -71,7 +71,7 @@ A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, p
       <description>A Mozilla lançou um novo navegador Firefox, inicialmente disponível apenas para Android. Este navegador promete ser mais rápido que os tradicionais Firefox que estão disponíveis na Play Store.
 Mais detalhes a seguir.
 
-Firefox Preview O Firefox Preview é a versão inicial de um navegador Firefox que ainda está em desenvolvimento, e é a base para o que será o novo navegador principal da Mozilla para Android (Firefox Fênix). Utilizando recursos do Focus, melhora a experiência de navegação e privacidade.</description>
+Firefox Preview    O Firefox Preview é a versão inicial de um navegador Firefox que ainda está em desenvolvimento, e é a base para o que será o novo navegador principal da Mozilla para Android (Firefox Fênix).</description>
     </item>
     
     <item>
@@ -82,7 +82,7 @@ Firefox Preview O Firefox Preview é a versão inicial de um navegador Firefox q
       <guid>https://testes.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</guid>
       <description>Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
 
-Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu.</description>
+Firefox e Firefox ESR    O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu.</description>
     </item>
     
     <item>

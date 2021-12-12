@@ -13,7 +13,7 @@
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip; Antonio Almeida - May 1, 2021
+      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip;    Antonio Almeida - May 1, 2021
 Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
 #### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</description>
     </item>
@@ -25,7 +25,7 @@ Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
       <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+DIRPF 2021    O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       
       <guid>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
       <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-Índice Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
+Índice    Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
  Aplicativos em sistemas Linux Flatpak Snap Vantagens e desvantagens do uso de Snap ou Flatpak Ativar o suporte ao Snap no Debian e Fedora Ativar o suporte ao Flatpak no Ubuntu e Debian Instalando Snap no Debian e Fedora Instalando Flatpak no Debian e Ubuntu Considerações finais Referências</description>
     </item>
     
@@ -86,8 +86,8 @@ Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus pref
       
       <guid>https://testes.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
       <description>Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
-Debian Buster O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em Debian Buster é lançado oficialmente.
-Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:</description>
+Debian Buster    O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em Debian Buster é lançado oficialmente.
+Download    Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@ Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a
       <guid>https://testes.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
       <description>O Debian Buster enfim está entre nós em sua versão final.
 Saiba aqui os detalhes do lançamento.
-Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.</description>
+Debian    Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.</description>
     </item>
     
     <item>
@@ -108,7 +108,7 @@ Debian Debian é um sistema operacional que contém softwares livres. Até o dia
       
       <guid>https://testes.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
       <description>Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
-Debian O que é O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD. Há um trabalho em andamento para disponibilizá-lo com o Kernel Hurd, do projeto GNU.</description>
+Debian    O que é    O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD.</description>
     </item>
     
     <item>
@@ -119,8 +119,7 @@ Debian O que é O Debian é um sistema operacional composto inteiramente por sof
       <guid>https://testes.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
       <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
 
-Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
-  Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
+Considerações iniciais      Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.</description>
     </item>
     
     <item>
@@ -131,8 +130,8 @@ Considerações iniciais   Este tutorial foi elaborado através da atualização
       <guid>https://testes.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
       <description>Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
 
-Debian Debian - Curiosidades, informações, versões e ciclo de vida.
-Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto.</description>
+Debian    Debian - Curiosidades, informações, versões e ciclo de vida.
+Debian Buster RC2    Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto.</description>
     </item>
     
     <item>
@@ -143,8 +142,7 @@ Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um 
       <guid>https://testes.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
       <description>A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.
 
-Debian Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em Debian - Curiosidades, informações, versões e ciclo de vida.
-Buster O Debian Buster será a próxima versão estável, sendo substituto do Debian Stretch.</description>
+Debian    Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em Debian - Curiosidades, informações, versões e ciclo de vida.</description>
     </item>
     
     <item>
@@ -155,7 +153,7 @@ Buster O Debian Buster será a próxima versão estável, sendo substituto do De
       <guid>https://testes.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
       <description>Esta dica está desatualizada, veja a nova em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados.
 A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
-O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
+O que é Java?    Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
     </item>
     
     <item>
@@ -186,7 +184,7 @@ A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>Tenho Deian 10 e o ubuntu 18.04 não funciona! Tupyynamba - Jun 4, 2020
+      <description>Tenho Deian 10 e o ubuntu 18.04 não funciona!    Tupyynamba - Jun 4, 2020
 Tenho Deian 10 e o ubuntu 18.04 não funciona!</description>
     </item>
     
@@ -220,7 +218,7 @@ O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de soft
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
       
       <guid>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
-      <description>Veja motivo do sumiço de todos os comentários em: &amp;hellip; W. Souza - Jul 2, 2019
+      <description>Veja motivo do sumiço de todos os comentários em: &amp;hellip;    W. Souza - Jul 2, 2019
 Veja motivo do sumiço de todos os comentários em:
 https://info.wsouza.com.br/2019/06/mudanca-no-sistema-de-comentarios-do-blog.html
 Se deseja ler os comentários antigos para esta postagem, leia no link abaixo:

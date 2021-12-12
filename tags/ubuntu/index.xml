@@ -14,7 +14,7 @@
       
       <guid>https://testes.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
       <description>Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
-Hirsute Hippo Como citado nas matérias anteriores sobre a versão 21.04, o nome Hirsute Hippo significa &amp;ldquo;Hipopótamo Peludo&amp;rdquo;.
+Hirsute Hippo    Como citado nas matérias anteriores sobre a versão 21.04, o nome Hirsute Hippo significa &amp;ldquo;Hipopótamo Peludo&amp;rdquo;.
 Esta será a segunda de 3 versões intermediárias que são lançadas entre cada versão LTS (a primeira foi a 20.10 e a próxima será a 21.10). É uma versão estável e seu suporte terá duração de 9 meses, durando até janeiro de 2022, conforme o ciclo de vida das versões do Ubuntu.</description>
     </item>
     
@@ -25,7 +25,7 @@ Esta será a segunda de 3 versões intermediárias que são lançadas entre cada
       
       <guid>https://testes.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</guid>
       <description>Veja nesta matéria como está o cronograma de lançamento da próxima versão do Ubuntu, a 21.04 - chamada de Hirsute Hippo - e mais algumas informações.
-Ubuntu 21.04 - Hirsute Hippo É a próxima (e segunda de três) versão do intermediária do Ubuntu, que será lançada em abril e teve seu desenvolvimento iniciado em Outubro de 2020, conforme a matéria publicada na época: Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado.</description>
+Ubuntu 21.04 - Hirsute Hippo    É a próxima (e segunda de três) versão do intermediária do Ubuntu, que será lançada em abril e teve seu desenvolvimento iniciado em Outubro de 2020, conforme a matéria publicada na época: Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ Ubuntu 21.04 - Hirsute Hippo É a próxima (e segunda de três) versão do inter
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip; Antonio Almeida - May 1, 2021
+      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip;    Antonio Almeida - May 1, 2021
 Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
 #### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</description>
     </item>
@@ -46,7 +46,7 @@ Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
       <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+DIRPF 2021    O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@ DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda par
       
       <guid>https://testes.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</guid>
       <description>Com lançamento previsto para Abril, as notícias sobre o Ubuntu 21.04 Hirsute Hippo vêm surgindo. Veja nesta matéria o que foi revelado sobre ele até o momento.
-Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que está programada para lançamento no dia 22 de abril de 2021. Seguindo o padrão de lançamentos do Ubuntu esta será a segunda de três versões intermediárias antes de uma versão LTS.</description>
+Hirsute Hippo    Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que está programada para lançamento no dia 22 de abril de 2021. Seguindo o padrão de lançamentos do Ubuntu esta será a segunda de três versões intermediárias antes de uma versão LTS.</description>
     </item>
     
     <item>
@@ -66,7 +66,7 @@ Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que
       
       <guid>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
       <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-Índice Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
+Índice    Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
  Aplicativos em sistemas Linux Flatpak Snap Vantagens e desvantagens do uso de Snap ou Flatpak Ativar o suporte ao Snap no Debian e Fedora Ativar o suporte ao Flatpak no Ubuntu e Debian Instalando Snap no Debian e Fedora Instalando Flatpak no Debian e Ubuntu Considerações finais Referências</description>
     </item>
     
@@ -77,8 +77,8 @@ Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que
       
       <guid>https://testes.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
       <description>Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.
-Daily Builds Se ainda faltava alguma coisa para oficializar o início do desenvolvimento do Ubuntu 21.04, cujo nome será Hirsute Hippo, já não falta mais. Agora as Daily Builds, ou compilações diárias, começaram a ser liberadas.
-Mas o que são estas Daily Builds? São images ISO que são disponibilizadas diariamente com as novidades ou alterações lançadas até aquele momento.</description>
+Daily Builds    Se ainda faltava alguma coisa para oficializar o início do desenvolvimento do Ubuntu 21.04, cujo nome será Hirsute Hippo, já não falta mais. Agora as Daily Builds, ou compilações diárias, começaram a ser liberadas.
+Mas o que são estas Daily Builds?</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@ Mas o que são estas Daily Builds? São images ISO que são disponibilizadas dia
       <guid>https://testes.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</guid>
       <description>Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.
 Como de costume, logo após lançar uma versão do Ubuntu, a equipe começa a publicar coisas sobre a próxima versão. Hoje foi revelado qual será o nome e codinome do Ubuntu 21.04, que será lançado em abril de 2021.
-Ubuntu Hirsute Hippo Como já sabemos, os nomes e codinomes das versões do Ubuntu alguns padrões.</description>
+Ubuntu Hirsute Hippo    Como já sabemos, os nomes e codinomes das versões do Ubuntu alguns padrões.</description>
     </item>
     
     <item>
@@ -99,7 +99,7 @@ Ubuntu Hirsute Hippo Como já sabemos, os nomes e codinomes das versões do Ubun
       
       <guid>https://testes.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</guid>
       <description>Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.
-Groovy Gorilla Conforme programado o Ubuntu Groovy Gorilla é lançado no dia 22 de outubro. O nome Groovy é um adjetivo que lembra moda, e Gorilla significa Gorila mesmo.
+Groovy Gorilla    Conforme programado o Ubuntu Groovy Gorilla é lançado no dia 22 de outubro. O nome Groovy é um adjetivo que lembra moda, e Gorilla significa Gorila mesmo.
 O Groovy Gorilla é a primeira das 3 versões intermediárias que são lançadas entre cada versão LTS _(as outras duas serão a 21.</description>
     </item>
     
@@ -111,7 +111,7 @@ O Groovy Gorilla é a primeira das 3 versões intermediárias que são lançadas
       <guid>https://testes.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</guid>
       <description>A mais recente versão do LibreOffice traz uma novidade. Trata-se do tema de ícones Yaru, que foi disponibilizado o LibreOffice. Mais detalhes na matéria abaixo.
 Antes de tudo, uma breve apresentação dos &amp;ldquo;protagonistas&amp;rdquo; desta matéria:
-Tema Yaru O tema Yaru é o tema padrão do Ubuntu há algumas versões. Desde o Ubuntu 19.10 possui a variante dark, que o deixou muito mais interessante. No começo do ano fiz uma matéria mostrando como tê-lo em outras distribuições: Tema Yaru do Ubuntu no Debian e em outras distribuições Linux.</description>
+Tema Yaru    O tema Yaru é o tema padrão do Ubuntu há algumas versões. Desde o Ubuntu 19.10 possui a variante dark, que o deixou muito mais interessante. No começo do ano fiz uma matéria mostrando como tê-lo em outras distribuições: Tema Yaru do Ubuntu no Debian e em outras distribuições Linux.</description>
     </item>
     
     <item>
@@ -140,7 +140,7 @@ Poucos dias após o lançamento do Ubuntu 20.04 &amp;ldquo;Focal Fossa&amp;rdquo
       <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
-      <description>Show, cara. Salvou meu Ubuntu 18.04 que não atuali&amp;hellip; Unknown - Sep 0, 2020
+      <description>Show, cara. Salvou meu Ubuntu 18.04 que não atuali&amp;hellip;    Unknown - Sep 0, 2020
 Show, cara. Salvou meu Ubuntu 18.04 que não atualizava para o 20.04 de jeito nenhum.
 Obrigado! :)
 #### Valeu. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Sep 2, 2020 Valeu.
@@ -164,7 +164,7 @@ Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nes
       <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
-      <description>alguem me sabe dizer se ha suporte para as &amp;ldquo;b&amp;hellip; Unknown - Apr 0, 2020
+      <description>alguem me sabe dizer se ha suporte para as &amp;ldquo;b&amp;hellip;    Unknown - Apr 0, 2020
 alguem me sabe dizer se ha suporte para as &amp;ldquo;belas&amp;rdquo; graficas sis mnirage 3+??
 #### Acho que não. A última vez que consegui alguma coi... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 0, 2020 Acho que não. A última vez que consegui alguma coisa com as Sis Mirage 3 foi utilizando o Ubuntu 18.04, adaptando uma daquelas dicas da matéria que fiz em 2015.</description>
     </item>
@@ -185,7 +185,7 @@ O sistema operacional Ubuntu - uma das mais populares distribuições Linux - ch
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
-      <description>iabadabaduuuu Anônimo - Jan 5, 2021
+      <description>iabadabaduuuu    Anônimo - Jan 5, 2021
 iabadabaduuuu
 #### E método DD, deu erro na parte do progress, então ... [Gustavo Maciel 13](https://www.blogger.com/profile/14297456498719774611 &#34;noreply@blogger.com&#34;) - Apr 5, 2021 E método DD, deu erro na parte do progress, então cortei o comando, acredito que eu estou usando uma versão bem antiga, usei o echo para me alertar do término da operação</description>
     </item>
@@ -197,10 +197,10 @@ iabadabaduuuu
       
       <guid>https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
       <description>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.
-Se preferir, vá direto ao tutorial. DD
+Se preferir, vá direto ao tutorial.    DD
 UNETbootin
 Etcher
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação.</description>
+Por que eu preciso disso?    Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação.</description>
     </item>
     
     <item>
@@ -230,8 +230,7 @@ Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus pref
       
       <guid>https://testes.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</guid>
       <description>O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.
-Focal Fossa O Ubuntu 20.04 será chamado Focal Fossa e seguindo o padrão de versões do Ubuntu, o Focal Fossa será LTS. O nome Fossa remete à um mamífero de Madagascar e Focal é um adjetivo relacionado à centro, algo que é o mais importante.
-Saiba mais sobre o padrão de nomes, de versões, de lançamentos e ciclo de vida das versões do Ubuntu aqui.</description>
+Focal Fossa    O Ubuntu 20.04 será chamado Focal Fossa e seguindo o padrão de versões do Ubuntu, o Focal Fossa será LTS. O nome Fossa remete à um mamífero de Madagascar e Focal é um adjetivo relacionado à centro, algo que é o mais importante.</description>
     </item>
     
     <item>
@@ -241,7 +240,7 @@ Saiba mais sobre o padrão de nomes, de versões, de lançamentos e ciclo de vid
       
       <guid>https://testes.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</guid>
       <description>No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de Eoan Ermine. Esta é a última versão antes do próximo LTS. Veja aqui o que o Eoan Ermine traz de novidades e como obtê-lo.
-Sobre o Ubuntu O Ubuntu é um sistema operacional de código aberto, construído a partir do Kernel Linux. É desenvolvido por uma empresa chamada Canonical, é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux.</description>
+Sobre o Ubuntu    O Ubuntu é um sistema operacional de código aberto, construído a partir do Kernel Linux. É desenvolvido por uma empresa chamada Canonical, é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux.</description>
     </item>
     
     <item>
@@ -277,7 +276,7 @@ Porém, devido à pressões da comunidade, usuários, desenvolvedores e &amp;ldq
       <guid>https://testes.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</guid>
       <description>Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.
 Atualizado: Canonical recuou a respeito desta decisão. Leia em Canonical recua e não removerá os pacotes 32bits do Ubuntu
-Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utilizado em dispositivo mais antigos, que possuem ate 2Gb de memória RAM, algo pouco comum atualmente.</description>
+Ubuntu 32 bits    O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utilizado em dispositivo mais antigos, que possuem ate 2Gb de memória RAM, algo pouco comum atualmente.</description>
     </item>
     
     <item>
@@ -288,7 +287,7 @@ Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utiliz
       <guid>https://testes.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
       <description>No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.
 
-Sobre o Ubuntu O Ubuntu é desenvolvido por uma empresa chamada Canonical e é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.04 e terá suporte até janeiro de 2020.</description>
+Sobre o Ubuntu    O Ubuntu é desenvolvido por uma empresa chamada Canonical e é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.04 e terá suporte até janeiro de 2020.</description>
     </item>
     
     <item>
@@ -298,7 +297,7 @@ Sobre o Ubuntu O Ubuntu é desenvolvido por uma empresa chamada Canonical e é b
       
       <guid>https://testes.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</guid>
       <description>Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.
-Sobre o Ubuntu O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados nos dias de hoje e talvez seja a referência quando se fala em Linux para usuários leigos. O Ubuntu desenvolvido por uma empresa chamada Canonical e é baseado no Debian que, por sua vez, uma das mais antigas distribuições Linux e pai de várias distribuições que existem ou já existiram.</description>
+Sobre o Ubuntu    O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados nos dias de hoje e talvez seja a referência quando se fala em Linux para usuários leigos. O Ubuntu desenvolvido por uma empresa chamada Canonical e é baseado no Debian que, por sua vez, uma das mais antigas distribuições Linux e pai de várias distribuições que existem ou já existiram.</description>
     </item>
     
     <item>
@@ -307,7 +306,7 @@ Sobre o Ubuntu O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados no
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       
       <guid>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&amp;hellip; Unknown - Jun 2, 2020
+      <description>Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&amp;hellip;    Unknown - Jun 2, 2020
 Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!
 Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
 #### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits.</description>
@@ -321,7 +320,7 @@ Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
       <guid>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
       <description>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?
 Confira na dica a seguir.
-Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
+Entendendo o problema    A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
     </item>
     
     <item>
@@ -373,7 +372,7 @@ Num único programa é possível adicionar PPAs, trocar o papel de parede, confi
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
       
       <guid>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
-      <description>Veja motivo do sumiço de todos os comentários em: &amp;hellip; W. Souza - Jul 2, 2019
+      <description>Veja motivo do sumiço de todos os comentários em: &amp;hellip;    W. Souza - Jul 2, 2019
 Veja motivo do sumiço de todos os comentários em:
 https://info.wsouza.com.br/2019/06/mudanca-no-sistema-de-comentarios-do-blog.html
 Se deseja ler os comentários antigos para esta postagem, leia no link abaixo:
