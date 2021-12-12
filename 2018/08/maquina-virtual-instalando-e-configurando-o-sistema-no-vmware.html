@@ -8,10 +8,9 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Máquina Virtual: Instalando e configurando o sistema no VMware" />
-<meta property="og:description" content="fiz isso e ficou perfeito, mas toda vez que inicia&hellip; leo - Mar 4, 2021
-fiz isso e ficou perfeito, mas toda vez que inicia a maquina ele cai na iso.. e não inicia o sistema
-como proceder?
-#### Tem que desconectar a iso da VM. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 1, 2021 Tem que desconectar a iso da VM." />
+<meta property="og:description" content="Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
+Confira a seguir.
+1 - Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2018-08-14T16:22:00-03:00" />
@@ -20,10 +19,9 @@ como proceder?
 
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Máquina Virtual: Instalando e configurando o sistema no VMware"/>
-<meta name="twitter:description" content="fiz isso e ficou perfeito, mas toda vez que inicia&hellip; leo - Mar 4, 2021
-fiz isso e ficou perfeito, mas toda vez que inicia a maquina ele cai na iso.. e não inicia o sistema
-como proceder?
-#### Tem que desconectar a iso da VM. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 1, 2021 Tem que desconectar a iso da VM."/>
+<meta name="twitter:description" content="Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
+Confira a seguir.
+1 - Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -111,15 +109,48 @@ if (!doNotTrack) {
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-08-14T16:22:00-03:00">Tue, Aug 14, 2018</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<h4 id="fiz-isso-e-ficou-perfeito-mas-toda-vez-que-inicia">fiz isso e ficou perfeito, mas toda vez que inicia&hellip;</h4>
-<p><a href="https://www.blogger.com/profile/03688665854670125179" title="noreply@blogger.com">leo</a> - <time datetime="2021-03-25T15:09:47.963-03:00">Mar 4, 2021</time></p>
-<p>fiz isso e ficou perfeito, mas toda vez que inicia a maquina ele cai na iso.. e não inicia o sistema<br>
-como proceder?</p>
-<hr />
-#### Tem que desconectar a iso da VM.
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2021-04-05T21:57:30.186-03:00">Apr 1, 2021</time>
-<p>Tem que desconectar a iso da VM.</p>
-<hr />
+			<p>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do <a href="https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html">Máquina Virtual: Instalando e configurando o VMware Player</a>.<br>
+Confira a seguir.</p>
+<h4 id="1---introdução">1 - Introdução</h4>
+<p>A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.04 <em>(<a href="http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04-desktop-i386.iso">baixe-o aqui</a>)</em>, versão do Ubuntu com a interface LXDE. Mas a escolha do sistema fica a critério de cada um, e os processos para instalar e configurar são iguais. <em>Dica: Você poderá utilizar a mesma ISO gerada no tópico <a href="https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html">Backup com Remaster GTK</a></em></p>
+<h4 id="2---instalação">2 - Instalação</h4>
+<p>Para instalação do sistema você pode escolher uma das duas maneiras:</p>
+<p>1 - Instalar a partir de uma mídia de DVD no drive físico do hospedeiro;<br>
+2 - Instalar a partir de uma imagem ISO previamente salva numa pasta do computador.</p>
+<p><a href="https://1.bp.blogspot.com/-_AROF1AmGtM/W3MAnF7TQwI/AAAAAAAAI7w/Vpe3JGpo5iwOwM0hdivsFKQJ10utBqVjACLcBGAs/s1600/02.png"><img src="https://1.bp.blogspot.com/-_AROF1AmGtM/W3MAnF7TQwI/AAAAAAAAI7w/Vpe3JGpo5iwOwM0hdivsFKQJ10utBqVjACLcBGAs/s640/02.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Escolhida uma das duas opções, inicie a VM e será iniciada a instalação do sistema operacional.</p>
+<p><a href="https://4.bp.blogspot.com/-yHfvcp46kkM/W1fr3vVRSAI/AAAAAAAAIwE/YucBam6YUFoO_6xjOdtAVgDwGV_iPuL0ACLcBGAs/s1600/18.png"><img src="https://4.bp.blogspot.com/-yHfvcp46kkM/W1fr3vVRSAI/AAAAAAAAIwE/YucBam6YUFoO_6xjOdtAVgDwGV_iPuL0ACLcBGAs/s320/18.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p><a href="https://3.bp.blogspot.com/-DG6T58JeSAE/W1gH6SQCecI/AAAAAAAAIww/jnBhY2bCtKYNpNnci3wA3doYay7WOB-QACLcBGAs/s1600/01.png"><img src="https://3.bp.blogspot.com/-DG6T58JeSAE/W1gH6SQCecI/AAAAAAAAIww/jnBhY2bCtKYNpNnci3wA3doYay7WOB-QACLcBGAs/s320/01.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>A instalação do sistema numa VM ocorre da mesma maneira que numa máquina real, sendo assim, não entrarei em detalhes sobre a instalação. Após o boot escolha o idioma de preferência e instalar o Lubuntu.</p>
+<p><a href="https://2.bp.blogspot.com/-jVg6WOK_XtE/W1gH6pKNwOI/AAAAAAAAIw0/IN7HknrQQGkDL6PPjsXcdfC2z31r7hN_ACLcBGAs/s1600/02.png"><img src="https://2.bp.blogspot.com/-jVg6WOK_XtE/W1gH6pKNwOI/AAAAAAAAIw0/IN7HknrQQGkDL6PPjsXcdfC2z31r7hN_ACLcBGAs/s200/02.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p><a href="https://3.bp.blogspot.com/-yINED7pwca4/W1gH6riKcnI/AAAAAAAAIw4/pUQu2Al6T1M416bvVAaPlsZwYs1DIp5OgCLcBGAs/s1600/03.png"><img src="https://3.bp.blogspot.com/-yINED7pwca4/W1gH6riKcnI/AAAAAAAAIw4/pUQu2Al6T1M416bvVAaPlsZwYs1DIp5OgCLcBGAs/s200/03.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>As telas abaixo mostram o início e o final da instalação. Reinicie o sistema para concluir a instalação.</p>
+<p><a href="https://2.bp.blogspot.com/-4tVstPbTpvc/W1gH65IqFVI/AAAAAAAAIw8/0fGeoNBSMGgVS0AFbwaaTCl9-_I661gOQCLcBGAs/s1600/04.png"><img src="https://2.bp.blogspot.com/-4tVstPbTpvc/W1gH65IqFVI/AAAAAAAAIw8/0fGeoNBSMGgVS0AFbwaaTCl9-_I661gOQCLcBGAs/s320/04.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p><a href="https://4.bp.blogspot.com/-AuiqIVVEgXo/W1gH7ePeXWI/AAAAAAAAIxA/Ep84NkAfwjQrrC-acihr56ysqA3fPk8CACLcBGAs/s1600/05.png"><img src="https://4.bp.blogspot.com/-AuiqIVVEgXo/W1gH7ePeXWI/AAAAAAAAIxA/Ep84NkAfwjQrrC-acihr56ysqA3fPk8CACLcBGAs/s320/05.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>O sistema está instalado. basta inserir o login e senha criados no momento da instalação e você terá acesso ao sistema instalado em sua VM.</p>
+<p><a href="https://3.bp.blogspot.com/-zj84D7NHk8w/W1gH7RNsqdI/AAAAAAAAIxE/ILD9nWcGH38mXU_dR_9IkP_d26uisoa-QCLcBGAs/s1600/06.png"><img src="https://3.bp.blogspot.com/-zj84D7NHk8w/W1gH7RNsqdI/AAAAAAAAIxE/ILD9nWcGH38mXU_dR_9IkP_d26uisoa-QCLcBGAs/s320/06.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p><a href="https://2.bp.blogspot.com/-fnTIoJnY9vE/W1gH7vxUboI/AAAAAAAAIxI/KfveL9gaARM8mpgzjpCWWpfI2TEy3uP7gCLcBGAs/s1600/07.png"><img src="https://2.bp.blogspot.com/-fnTIoJnY9vE/W1gH7vxUboI/AAAAAAAAIxI/KfveL9gaARM8mpgzjpCWWpfI2TEy3uP7gCLcBGAs/s320/07.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<h4 id="3---configuração">3 - Configuração</h4>
+<p>Para que o sistema tenha o máximo de funcionalidade na VM, como rodar em tela cheia com resolução igual a do hospedeiro, é preciso instalar uma ferramenta chamada VMware Tools, que pode ser acessada conforme mostra a imagem abaixo.</p>
+<p><a href="https://4.bp.blogspot.com/-zlWd2-L_a2w/W1uW2TrmdhI/AAAAAAAAI10/jaqNKskKYwESuTjJbLyc2sR0_rcIeIZ8gCLcBGAs/s1600/09.png"><img src="https://4.bp.blogspot.com/-zlWd2-L_a2w/W1uW2TrmdhI/AAAAAAAAI10/jaqNKskKYwESuTjJbLyc2sR0_rcIeIZ8gCLcBGAs/s640/09.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Faça o download e aguarde&hellip;</p>
+<p><a href="https://1.bp.blogspot.com/-32jYbbrAIcs/W1gH9PCglBI/AAAAAAAAIxU/VcfIWiqSxHoJDRktRQDXGvCDfKy3rGfuwCLcBGAs/s1600/10.png"><img src="https://1.bp.blogspot.com/-32jYbbrAIcs/W1gH9PCglBI/AAAAAAAAIxU/VcfIWiqSxHoJDRktRQDXGvCDfKy3rGfuwCLcBGAs/s400/10.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p><a href="https://2.bp.blogspot.com/-vO9d4nnRQVo/W1gH9vbaCdI/AAAAAAAAIyQ/4tCCL8Dp4-ougg-LGZBvi1c2URjm1uQfgCPcBGAYYCw/s1600/12.png"><img src="https://2.bp.blogspot.com/-vO9d4nnRQVo/W1gH9vbaCdI/AAAAAAAAIyQ/4tCCL8Dp4-ougg-LGZBvi1c2URjm1uQfgCPcBGAYYCw/s1600/12.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Será montada uma unidade de rede com o nome VMwareTools. Abra esta unidade, copie a pasta  VMwareTools-10.1.6.5214329.tar.gz para sua home, descompacte e renomeie para vmware-tools-distrib, caso não tenha este nome.</p>
+<p><a href="https://4.bp.blogspot.com/-OB9jRmzIcOU/W3MZGhEjeUI/AAAAAAAAI78/_-zBFwiysP8FbwhlCGRGFEaVp1IFRFQ1QCLcBGAs/s1600/13.png"><img src="https://4.bp.blogspot.com/-OB9jRmzIcOU/W3MZGhEjeUI/AAAAAAAAI78/_-zBFwiysP8FbwhlCGRGFEaVp1IFRFQ1QCLcBGAs/s640/13.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>A partir de agora vamos utilizar o terminal. Faça o login como root.</p>
+<p><a href="https://2.bp.blogspot.com/-rF3jHc_iDCI/W1uXPT86YlI/AAAAAAAAI2I/c5PvvsZNj448c8yZxwzI5OVUrzEfK_eOQCLcBGAs/s1600/14.png"><img src="https://2.bp.blogspot.com/-rF3jHc_iDCI/W1uXPT86YlI/AAAAAAAAI2I/c5PvvsZNj448c8yZxwzI5OVUrzEfK_eOQCLcBGAs/s640/14.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Antes de iniciar a instalação, instale o gnome-nettool. Com ele serão instaladas algumas ferramentas de rede que serão necessárias para os próximos passos.</p>
+<p><a href="https://1.bp.blogspot.com/-vgxERC422ik/W1uXPWspBSI/AAAAAAAAI18/SU2ZFvpvj9sq9uEl7qEtF39fO_nBQnMawCLcBGAs/s1600/15.png"><img src="https://1.bp.blogspot.com/-vgxERC422ik/W1uXPWspBSI/AAAAAAAAI18/SU2ZFvpvj9sq9uEl7qEtF39fO_nBQnMawCLcBGAs/s640/15.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Acesse a vmware-tools-distrib, recém criada.</p>
+<p><a href="https://4.bp.blogspot.com/-14m3xp5H5gQ/W1uXPZFYuoI/AAAAAAAAI2A/LCBiN1aJF1QBO_8JYN26UAyP8iYazLLQgCLcBGAs/s1600/16.png"><img src="https://4.bp.blogspot.com/-14m3xp5H5gQ/W1uXPZFYuoI/AAAAAAAAI2A/LCBiN1aJF1QBO_8JYN26UAyP8iYazLLQgCLcBGAs/s640/16.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Dê permissão de execução ao arquivo vmware-install.pl com o comando chmod +x vmware-install.pl e execute o mesmo com o comando ./vmware-install.pl<br>
+A partir deste momento surgirão várias linhas de confirmação. Sempre digite yes até o final.</p>
+<p><a href="https://4.bp.blogspot.com/-2Vx7oiv1sJE/W1uXPwwfRZI/AAAAAAAAI2E/tXBrSUv9mN0t_nzKmeJbX9lX8zd-CeWZACLcBGAs/s1600/17.png"><img src="https://4.bp.blogspot.com/-2Vx7oiv1sJE/W1uXPwwfRZI/AAAAAAAAI2E/tXBrSUv9mN0t_nzKmeJbX9lX8zd-CeWZACLcBGAs/s640/17.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<p>Finalizada a instalação reinicie a VM e o sistema virtual estará funcionando perfeitamente.</p>
+<p><a href="https://4.bp.blogspot.com/-VNsczlLxP6U/W1gH-7uX_gI/AAAAAAAAIx0/Fwg4Zc_aYKM8UnL-J_5Q6_6muh3A8xPSgCLcBGAs/s1600/18.png"><img src="https://4.bp.blogspot.com/-VNsczlLxP6U/W1gH-7uX_gI/AAAAAAAAIx0/Fwg4Zc_aYKM8UnL-J_5Q6_6muh3A8xPSgCLcBGAs/s640/18.png" alt="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows" title="Ferramentas Linux 4 - Máquina Virtual: Instalando e configurando o sistema  no ambiente virtualizado - Dicas Linux e Windows"></a></p>
+<h4 id="4---conclusão">4 - Conclusão</h4>
+<p>Utilizar um sistema operacional instalado numa VM torna-se muito interessante quando precisamos utilizar mais de um sistema por vez (Ex: Windows e Linux, ou quando precisamos realizar testes que possam comprometer a integridade de nosso sistema operacional principal.</p>
 
 		</div>
 		<footer class="post__footer">
@@ -162,15 +193,15 @@ como proceder?</p>
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html" rel="prev">
+		<a class="pager__link" href="/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Anterior</span>
-			<p class="pager__title">Máquina Virtual: Instalando e configurando o sistema no VMware</p>
+			<p class="pager__title">Máquina Virtual: Instalando e configurando o VMware Player</p>
 		</a>
 	</div>
 	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html" rel="next">
+		<a class="pager__link" href="/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html" rel="next">
 			<span class="pager__subtitle">Próximo&thinsp;»</span>
-			<p class="pager__title">Dropbox - Mudança de requisitos para sistemas Linux</p>
+			<p class="pager__title">Máquina Virtual: Instalando e configurando o sistema no VMware</p>
 		</a>
 	</div>
 </nav>
