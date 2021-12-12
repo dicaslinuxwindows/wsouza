@@ -8,9 +8,8 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Instalando o programa do IRPF 2021 no Debian e Fedora" />
-<meta property="og:description" content="Muito bom, instalei bem rápido no Linux Xubuntu 20&hellip; Antonio Almeida - May 1, 2021
-Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
-#### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita." />
+<meta property="og:description" content="Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
+DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2021-02-28T19:25:00-03:00" />
@@ -19,9 +18,8 @@ Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
 
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Instalando o programa do IRPF 2021 no Debian e Fedora"/>
-<meta name="twitter:description" content="Muito bom, instalei bem rápido no Linux Xubuntu 20&hellip; Antonio Almeida - May 1, 2021
-Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
-#### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita."/>
+<meta name="twitter:description" content="Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
+DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -109,14 +107,43 @@ if (!doNotTrack) {
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2021-02-28T19:25:00-03:00">Sun, Feb 28, 2021</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<h4 id="muito-bom-instalei-bem-rápido-no-linux-xubuntu-20">Muito bom, instalei bem rápido no Linux Xubuntu 20&hellip;</h4>
-<p><a href="https://www.blogger.com/profile/09229199052344287502" title="noreply@blogger.com">Antonio Almeida</a> - <time datetime="2021-05-17T12:46:08.990-03:00">May 1, 2021</time></p>
-<p>Muito bom, instalei bem rápido no Linux Xubuntu 20.20.</p>
-<hr />
-#### Não consegui atualizar o IRPF 2021 Multiplataforma...
-[Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 "noreply@blogger.com") - <time datetime="2021-05-28T20:38:04.084-03:00">May 5, 2021</time>
-<p>Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</p>
-<hr />
+			<p><img src="https://1.bp.blogspot.com/-88UIhEs61oA/YDwWR6Dc2wI/AAAAAAAARws/L37oamMEOk8Mity9TYFH0TknvO3yWdwywCNcBGAsYHQ/s16000/IRPF2021.png" alt="Instalando o programa do IRPF no Debian e Fedora - Dicas Linux e Windows" title="Instalando o programa do IRPF no Debian e Fedora - Dicas Linux e Windows"></p>
+<p>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian <em>(e seus derivados)</em> e Fedora.</p>
+<h3 id="dirpf-2021">DIRPF 2021</h3>
+<p>O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma. Há uma novidade neste ano, pois a versão para Linux já vem com o Java embutido, não sendo necessário a instalação da plataforma.</p>
+<h3 id="linux-64-bits">Linux 64 Bits</h3>
+<p>Vou mostrar todo o processo pelo terminal, mas se quiser baixar os arquivos via navegador, acesse o site da <a href="https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/download/pgd/dirpf">Receita Federal.</a></p>
+<h4 id="download">Download</h4>
+<p> wget <a href="https://downloadirpf.receita.fazenda.gov.br/irpf/2021/irpf/arquivos/IRPF2021Linux-x86">https://downloadirpf.receita.fazenda.gov.br/irpf/2021/irpf/arquivos/IRPF2021Linux-x86</a>_64v1.1.bin</p>
+<h4 id="instalação">Instalação</h4>
+<p>Como citei no início, esta versão não é preciso ter alguma versão do Java instalada, pois ele já vem com o Java embutido. Desta forma, a instalação fica bem mais simples do que era nos anos anteriores. A dica a seguir funciona para o Debian e seus derivados, Fedora, entre outras distribuições.</p>
+<p>1º passo: Dê permissão de execução ao arquivo baixado anteriormente, que é o instalador do programa.</p>
+<p> chmod +x IRPF2021Linux-x86_64v1.1.bin</p>
+<p>2º passo: Execute o instalador, com o comando abaixo e vá avançando até finalizar.</p>
+<p> ./IRPF2021Linux-x86_64v1.1.bin</p>
+<p>3º Passo: Se não ocorreu nenhum erro, o programa está instalado e haverá um atalho no menu.</p>
+<h3 id="multiplataforma-_zip_">Multiplataforma <em>(zip)</em></h3>
+<p>A versão multiplataforma é um arquivo zip, que é descompactado e tem um executável no formato .jar que já é o próprio DIRPF 2021. Sendo assim, não precisa ser instalado. Porém, neste caso é preciso ter uma versão do Java JDK instalada no sistema. Esta versão pode ser tanto o OpenJDK (que é uma versão opensource) ou pode ser o Oracle Java (que é uma versão proprietária). Abaixo vou mostrar como baixar e executar o DIRPF nesta versão multiplataforma.</p>
+<h4 id="download-1">Download</h4>
+<p> wget <a href="https://downloadirpf.receita.fazenda.gov.br/irpf/2021/irpf/arquivos/IRPF2021-1.1.zip">https://downloadirpf.receita.fazenda.gov.br/irpf/2021/irpf/arquivos/IRPF2021-1.1.zip</a></p>
+<h4 id="execução">Execução</h4>
+<p>1º passo: Instale o Java.</p>
+<ul>
+<li>Se optar pelo Oracle Java <em>(no Debian e derivados)</em>, veja como instalar na matéria <a href="https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html">Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</a>;</li>
+<li>Se optar pelo OpenJDK, siga os passos abaixo, de acordo com a distribuição utilizada.</li>
+</ul>
+<p>No Debian e derivados:</p>
+<p> sudo apt install openjdk-11-jdk</p>
+<p>No Fedora:</p>
+<p> sudo dnf install java-11-openjdk</p>
+<p>2º passo: Descompacte o arquivo zip, baixado acima:</p>
+<p> unzip IRPF2021-1.1.zip</p>
+<p>3º passo: Acesse a pasta descompactada:</p>
+<p> cd IRPF2021</p>
+<p>4º passo: Execute o arquivo do DIRPF 2021:</p>
+<p> java -jar irpf.jar</p>
+<h3 id="considerações-finais">Considerações finais</h3>
+<p>Se, por algum motivo precisar do DIRPF 2020, veja nas matérias <a href="https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html">Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin + Java Oracle)</a> e <a href="https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html">Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</a>.</p>
 
 		</div>
 		<footer class="post__footer">
@@ -159,7 +186,7 @@ if (!doNotTrack) {
 		<img alt="W.Souza avatar" src="https://3.bp.blogspot.com/-n7mOFEUoIG0/XFxGIo7WVzI/AAAAAAAAKac/rQpmdra-miYaFf_6uSovTWmQD7SseNtngCK4BGAYYCw/s107/Dicas%2BLinux%2Be%2BWindows_TemplateNovo%2Bc%25C3%25B3pia.png" class="avatar" height="90" width="90">
 	</figure>
 	<div class="authorbox__header">
-		<span class="authorbox__name">About W.Souza</span>
+		<span class="authorbox__name">Sobre W.Souza</span>
 	</div>
 	<div class="authorbox__description">
 		Usuário de Debian e Windows. Gosto de compartilhar as experiências e dificuldades encontradas no dia-a-dia.
@@ -168,15 +195,15 @@ if (!doNotTrack) {
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html" rel="prev">
-			<span class="pager__subtitle">«&thinsp;Previous</span>
-			<p class="pager__title">Instalando o programa do IRPF 2021 no Debian e Fedora</p>
+		<a class="pager__link" href="/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Instalando o VirtualBox em qualquer distribuição Linux</p>
 		</a>
 	</div>
 	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html" rel="next">
-			<span class="pager__subtitle">Next&thinsp;»</span>
-			<p class="pager__title">Microsoft Edge-Dev suporta login e sincronização no Linux</p>
+		<a class="pager__link" href="/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html" rel="next">
+			<span class="pager__subtitle">Próximo&thinsp;»</span>
+			<p class="pager__title">Instalando o programa do IRPF 2021 no Debian e Fedora</p>
 		</a>
 	</div>
 </nav>
@@ -209,14 +236,14 @@ if (!doNotTrack) {
 			<aside class="sidebar"><div class="widget-search widget">
 	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
 		<label>
-			<input class="widget-search__field" type="search" placeholder="SEARCH…" value="" name="q" aria-label="SEARCH…">
+			<input class="widget-search__field" type="search" placeholder="BUSCAR…" value="" name="q" aria-label="BUSCAR…">
 		</label>
 		<input class="widget-search__submit" type="submit" value="Search">
 		<input type="hidden" name="sitesearch" value="https://testes.wsouza.com.br" />
 	</form>
 </div>
 <div class="widget-recent widget">
-	<h4 class="widget__title">Recent Posts</h4>
+	<h4 class="widget__title">Postagens recentes</h4>
 	<div class="widget__content">
 		<ul class="widget__list">
 			<li class="widget__item"><a class="widget__link" href="/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html">Lançado o Ubuntu 21.04 Hirsute Hippo</a></li>
@@ -332,7 +359,7 @@ if (!doNotTrack) {
 		
 		<div class="footer__copyright">
 			&copy; 2021 WSouza.
-			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
+			<span class="footer__copyright-credits">Gerado com <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> com o tema <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>.</span>
 		</div>
 	</div>
 </footer>
