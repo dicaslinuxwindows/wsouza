@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://testes.wsouza.com.br/post/</loc>
+    <lastmod>2021-12-11T21:57:36-03:00</lastmod>
+  </url><url>
+    <loc>https://testes.wsouza.com.br/post/testpage/</loc>
+    <lastmod>2021-12-11T21:57:36-03:00</lastmod>
+  </url><url>
+    <loc>https://testes.wsouza.com.br/</loc>
+    <lastmod>2021-12-11T21:57:36-03:00</lastmod>
+  </url><url>
+    <loc>https://testes.wsouza.com.br/categories/</loc>
+  </url><url>
+    <loc>https://testes.wsouza.com.br/tags/</loc>
+  </url>
+</urlset>
