@@ -1497,5 +1497,14 @@ Isto não irá acontecer, pois a rede do Windows Live Messenger continuará func
       <description>Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://testes.wsouza.com.br/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/sobre/</guid>
+      <description>TESTE</description>
+    </item>
+    
   </channel>
 </rss>
