@@ -13,7 +13,7 @@
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip;    Antonio Almeida - May 1, 2021
+      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip; Antonio Almeida - May 1, 2021
 Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
 #### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</description>
     </item>
@@ -25,7 +25,7 @@ Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
       <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021    O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ DIRPF 2021    O DIRPF é o programa que gera a declaração do imposto de renda 
       <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
-      <description>extremamente complicado    Unknown - Mar 2, 2020
+      <description>extremamente complicado Unknown - Mar 2, 2020
 extremamente complicado
 #### Nossa, muito obrigado a quem escreveu essa dica! E... [Anônimo]( &#34;noreply@blogger.com&#34;) - Apr 2, 2020 Nossa, muito obrigado a quem escreveu essa dica! Eu virei adepto ao software livre, e não queria ter que instalar o java proprietário para declarar o IR. A dica funcionou perfeitamente pra mim no ubuntu. A única observação a ser feita é para quem não tem familiaridade com o linux: é preciso localizar o endereço onde a pasta foi baixada no pc, se for na pasta &amp;ldquo;Downloads&amp;rdquo;, provavelmente vai algo do tipo &amp;ldquo;/home/nome-de-usuário/Downloads/irpf2020-1.</description>
     </item>
@@ -47,7 +47,7 @@ extremamente complicado
       <guid>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
       <description>Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
 Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-Antes de tudo: O que é, e para que serve o Java?    Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java.</description>
+Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java.</description>
     </item>
     
     <item>
@@ -72,7 +72,7 @@ Obrigado por compartilhar o seu conhecimento.</description>
       <guid>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
       <description>A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo .BIN e o Java Oracle.
 Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-IRPF 2020    O programa é necessário para efetuar as declarações do imposto de renda de pessoa física, que podem ser entregues do dia 01/03/2020 à 30/04/2020 30/06/2020.</description>
+IRPF 2020 O programa é necessário para efetuar as declarações do imposto de renda de pessoa física, que podem ser entregues do dia 01/03/2020 à 30/04/2020 30/06/2020.</description>
     </item>
     
     <item>

@@ -14,7 +14,7 @@
       
       <guid>https://testes.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
       <description>Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
-Debian    O que é    O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD.</description>
+Debian O que é O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD. Há um trabalho em andamento para disponibilizá-lo com o Kernel Hurd, do projeto GNU.</description>
     </item>
     
     <item>
@@ -25,7 +25,7 @@ Debian    O que é    O Debian é um sistema operacional composto inteiramente p
       <guid>https://testes.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</guid>
       <description>Nos últimos anos a Microsoft está se aproximando do open source (software de código aberto, não sendo necessariamente software livre). Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o &amp;ldquo;mundo&amp;rdquo; do open source.
 
-Microsoft e sua política    A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen.</description>
+Microsoft e sua política A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen.</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ Microsoft e sua política    A Microsoft foi fundada em 1975 por Bill Gates e Pa
       
       <guid>https://testes.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</guid>
       <description>Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.
-Sobre o Ubuntu    O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados nos dias de hoje e talvez seja a referência quando se fala em Linux para usuários leigos. O Ubuntu desenvolvido por uma empresa chamada Canonical e é baseado no Debian que, por sua vez, uma das mais antigas distribuições Linux e pai de várias distribuições que existem ou já existiram.</description>
+Sobre o Ubuntu O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados nos dias de hoje e talvez seja a referência quando se fala em Linux para usuários leigos. O Ubuntu desenvolvido por uma empresa chamada Canonical e é baseado no Debian que, por sua vez, uma das mais antigas distribuições Linux e pai de várias distribuições que existem ou já existiram.</description>
     </item>
     
   </channel>
