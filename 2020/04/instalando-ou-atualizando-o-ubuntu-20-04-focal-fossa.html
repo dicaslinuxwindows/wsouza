@@ -8,11 +8,9 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa" />
-<meta property="og:description" content="Show, cara. Salvou meu Ubuntu 18.04 que não atuali&hellip; Unknown - Sep 0, 2020
-Show, cara. Salvou meu Ubuntu 18.04 que não atualizava para o 20.04 de jeito nenhum.
-Obrigado! :)
-#### Valeu. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Sep 2, 2020 Valeu.
-#### Olá, montei meu PC, instalei Windows 10 no ssd m2 ... [Fer_Cyborg](https://www.blogger.com/profile/05214537172727867991 &#34;noreply@blogger.com&#34;) - Oct 5, 2020 Olá, montei meu PC, instalei Windows 10 no ssd m2 e queria instalar Ubuntu no ssd 120 gb." />
+<meta property="og:description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
+Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
+ Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://testes.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-04-23T12:16:00-03:00" />
@@ -20,21 +18,17 @@ Obrigado! :)
 
 
 		<meta itemprop="name" content="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa">
-<meta itemprop="description" content="Show, cara. Salvou meu Ubuntu 18.04 que não atuali&hellip; Unknown - Sep 0, 2020
-Show, cara. Salvou meu Ubuntu 18.04 que não atualizava para o 20.04 de jeito nenhum.
-Obrigado! :)
-#### Valeu. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Sep 2, 2020 Valeu.
-#### Olá, montei meu PC, instalei Windows 10 no ssd m2 ... [Fer_Cyborg](https://www.blogger.com/profile/05214537172727867991 &#34;noreply@blogger.com&#34;) - Oct 5, 2020 Olá, montei meu PC, instalei Windows 10 no ssd m2 e queria instalar Ubuntu no ssd 120 gb."><meta itemprop="datePublished" content="2020-04-23T12:16:00-03:00" />
+<meta itemprop="description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
+Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
+ Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live."><meta itemprop="datePublished" content="2020-04-23T12:16:00-03:00" />
 <meta itemprop="dateModified" content="2020-04-23T12:16:00-03:00" />
-<meta itemprop="wordCount" content="141">
+<meta itemprop="wordCount" content="693">
 <meta itemprop="keywords" content="Linux,Ubuntu,Ubuntu 20.04," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa"/>
-<meta name="twitter:description" content="Show, cara. Salvou meu Ubuntu 18.04 que não atuali&hellip; Unknown - Sep 0, 2020
-Show, cara. Salvou meu Ubuntu 18.04 que não atualizava para o 20.04 de jeito nenhum.
-Obrigado! :)
-#### Valeu. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Sep 2, 2020 Valeu.
-#### Olá, montei meu PC, instalei Windows 10 no ssd m2 ... [Fer_Cyborg](https://www.blogger.com/profile/05214537172727867991 &#34;noreply@blogger.com&#34;) - Oct 5, 2020 Olá, montei meu PC, instalei Windows 10 no ssd m2 e queria instalar Ubuntu no ssd 120 gb."/>
+<meta name="twitter:description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
+Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
+ Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -77,6 +71,20 @@ if (!doNotTrack) {
 		<span class="menu__btn-title" tabindex="-1">Menu</span>
 	</button>
 	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/category">
+				
+				<span class="menu__text">Category</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/another-category">
+				
+				<span class="menu__text">Another Category</span>
+				
+			</a>
+		</li>
 		<li class="menu__item">
 			<a class="menu__link" href="/">
 				
@@ -124,23 +132,101 @@ if (!doNotTrack) {
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2020-04-23T12:16:00-03:00">Thu, Apr 23, 2020</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<h4 id="show-cara-salvou-meu-ubuntu-1804-que-não-atuali">Show, cara. Salvou meu Ubuntu 18.04 que não atuali&hellip;</h4>
-<p><a href="https://www.blogger.com/profile/05105288536815308926" title="noreply@blogger.com">Unknown</a> - <time datetime="2020-09-13T21:18:52.103-03:00">Sep 0, 2020</time></p>
-<p>Show, cara. Salvou meu Ubuntu 18.04 que não atualizava para o 20.04 de jeito nenhum.<br>
-Obrigado! :)</p>
-<hr />
-#### Valeu.
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2020-09-15T23:42:24.087-03:00">Sep 2, 2020</time>
-<p>Valeu.</p>
-<hr />
-#### Olá, montei meu PC, instalei Windows 10 no ssd m2 ...
-[Fer_Cyborg](https://www.blogger.com/profile/05214537172727867991 "noreply@blogger.com") - <time datetime="2020-10-09T13:02:18.527-03:00">Oct 5, 2020</time>
-<p>Olá, montei meu PC, instalei Windows 10 no ssd m2 e queria instalar Ubuntu no ssd 120 gb. Fiz direitinho pen-drive mas na hora q escolhi idioma português, selecionei instalar Ubuntu, começa carregar e aparece tela roxo, fiquei 2 horas esperando pra aparecer tela boa vinda mas não aparece. Será q fiz errado?</p>
-<hr />
-#### Quando iniciar pelo pendrive escolha a opção safe ...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2020-10-12T11:24:48.657-03:00">Oct 1, 2020</time>
-<p>Quando iniciar pelo pendrive escolha a opção safe graphics (ou algo parecido).</p>
-<hr />
+			<p><img src="https://2.bp.blogspot.com/-aExmt4axzCk/Xuq7gDoTfsI/AAAAAAAAPH8/l9hR-UFTCQYS4IFQcv-j2xC6yzFxFy21ACNcBGAsYHQ/s1600/Focal_Fossa_Download.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></p>
+<p>Após o <a href="https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html">lançamento oficial do Ubuntu 20.04</a> vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.</p>
+<p>Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:</p>
+<ul>
+<li>Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal;</li>
+<li>Instalar do zero a partir de um Live DVD/USB;</li>
+<li>Instalar em uma máquina virtual;</li>
+<li>Executar em modo live.</li>
+</ul>
+<h3 id="atualizar-a-partir-do-ubuntu-1804-ou-1910">Atualizar a partir do Ubuntu 18.04 ou 19.10</h3>
+<p>Se você está utilizando atualmente o Ubuntu 18.04 <em>(Bionic Beaver)</em> ou o Ubuntu 19.10 <em>(Eoan Ermine)</em> você pode atualizar diretamente - mantendo os arquivos e configurações - seguindo os passos abaixo:</p>
+<ul>
+<li>Tenha certeza que o a versão atual está com as últimas atualizações. No terminal, faça:</li>
+</ul>
+<p> sudo apt update<br>
+ sudo apt upgrade</p>
+<ul>
+<li>Após atualizar, faça:</li>
+</ul>
+<p> sudo do-release-upgrade -d</p>
+<p>O comando anterior vai:</p>
+<ul>
+<li>Verificar se há uma nova versão em desenvolvimento;</li>
+<li>Desativar os repositórios de terceiros (PPAs);</li>
+<li>Altera os repositórios de bionic para focal <em>(Ubuntu 18.04)</em> ou de eoan para focal <em>(Ubuntu 19.10)</em>;</li>
+<li>Haverá uma solicitação para confirmar a atualização.</li>
+</ul>
+<ol>
+<li>Confirme <em>(s)</em> e a atualização será iniciada. Dependendo da velocidade da sua internet, o processo pode ser bem demorado. Fique atento pois poderão haver solicitações de confirmação de ações, confirme-as e aguarde a finalização. Após finalizado reinicie o sistema e você terá o Ubuntu Focal Fossa instalado.</li>
+<li>Caso não confirme <em>(N)</em>, pode ser que seja preciso alterar os repositórios manualmente de <strong>focal para bionic</strong> <em>(se você estava no 18.04)</em> ou de <strong>focal para eoan</strong> <em>(se estava no 19.10)</em>. Nos testes que realizei não ocorreram problemas quando não confirmei a atualização.<br>
+Mas, caso ocorram problemas, utilize o editor de texto que preferir <em>(joe gedit, kate, nano, vi, pluma&hellip;)</em>, e abra o arquivo sources.list com o comando abaixo:</li>
+</ol>
+<p> sudo <em>joe</em> /etc/apt/sources.list</p>
+<ul>
+<li>No arquivo aberto, faça as alterações solicitadas e salve o arquivo.</li>
+</ul>
+<h3 id="download-da-iso">Download da ISO</h3>
+<p>Seguem os links para download das imagens de instalação <em>(amd64)</em> do Ubuntu e de alguns dos seus <em>&ldquo;flavours&rdquo; ou &ldquo;sabores&rdquo;</em> oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute .</p>
+<p>Ubuntu</p>
+<p><a href="https://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://ubuntu.com/download">Mais&hellip;</a></p>
+<p>Kubuntu</p>
+<p><a href="http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://kubuntu.org/getkubuntu/">Mais&hellip;</a></p>
+<p>Xubuntu</p>
+<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://xubuntu.org/download">Mais&hellip;</a></p>
+<p>Ubuntu Mate</p>
+<p><a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://ubuntu-mate.org/download/">Mais&hellip;</a></p>
+<p>Lubuntu</p>
+<p><a href="http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://lubuntu.me/downloads/">Mais&hellip;</a></p>
+<p>Ubuntu Kylin</p>
+<p><a href="http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://www.ubuntukylin.com/downloads/show.php?id=451&amp;lang=en">Mais&hellip;</a></p>
+<p>Ubuntu Studio</p>
+<p><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://ubuntustudio.org/download/">Mais&hellip;</a></p>
+<p>Ubuntu Budgie</p>
+<p><a href="http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso"> Live</a></p>
+<p><a href="http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
+<p><a href="https://ubuntubudgie.org/downloads/">Mais&hellip;</a></p>
+<h3 id="executar-em-modo-live">Executar em modo live</h3>
+<p>Essa opção permite utilizar o Ubuntu sem precisar instalar. O sistema é executado pelo Pendrive/DVD e &ldquo;descarregado&rdquo; na memória RAM.</p>
+<ul>
+<li>Grave a imagem ISO num DVD ou Pendrive <em>(Veja como gravar o pendrive no <a href="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html">Linux</a> ou <a href="https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html">Windows</a>)</em>;</li>
+<li>Mude as configurações de boot do computador para iniciar pelo Pendrive ou pelo DVD. Geralmente apertando a tecla <em>F2</em> logo ao iniciar o computador temos acesso à estas configurações e geralmente a tecla <em>F10</em> salva as configurações.</li>
+<li>Deixe como está nas duas telas abaixo:</li>
+</ul>
+<p><a href="https://4.bp.blogspot.com/-u4eCCI1hkmQ/XqJPYnE3JgI/AAAAAAAAOvY/ZGbU9iZk5UAe7DQxGpcManpZTHawdX--QCNcBGAsYHQ/s1600/01.png"><img src="https://4.bp.blogspot.com/-u4eCCI1hkmQ/XqJPYnE3JgI/AAAAAAAAOvY/ZGbU9iZk5UAe7DQxGpcManpZTHawdX--QCNcBGAsYHQ/s640/01.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows" title="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></a></p>
+<p><a href="https://4.bp.blogspot.com/-al0MfkYdHV4/XqJPYuvHpRI/AAAAAAAAOvc/l1QOyNe1MkICH-YesirPzy_fEaMkfwAVACNcBGAsYHQ/s1600/02.png"><img src="https://4.bp.blogspot.com/-al0MfkYdHV4/XqJPYuvHpRI/AAAAAAAAOvc/l1QOyNe1MkICH-YesirPzy_fEaMkfwAVACNcBGAsYHQ/s640/02.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows" title="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></a></p>
+<ul>
+<li>Após a seleção, aparecerá a tela de carregamento e na sequência o sistema será carregado no modo live.</li>
+</ul>
+<p><a href="https://4.bp.blogspot.com/--6oAMhozAUg/XqJP6Dn2TEI/AAAAAAAAOvo/Y5MnX3IS_OIeC4we_62U4dHejLaHePwhwCNcBGAsYHQ/s1600/03.png"><img src="https://4.bp.blogspot.com/--6oAMhozAUg/XqJP6Dn2TEI/AAAAAAAAOvo/Y5MnX3IS_OIeC4we_62U4dHejLaHePwhwCNcBGAsYHQ/s640/03.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows" title="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></a></p>
+<p><a href="https://3.bp.blogspot.com/-k7-9bIHDMdc/XqJP6MltjvI/AAAAAAAAOvs/Nvfuy0ERzFon0WkGuh41On0fe1QG00jJACNcBGAsYHQ/s1600/04.png"><img src="https://3.bp.blogspot.com/-k7-9bIHDMdc/XqJP6MltjvI/AAAAAAAAOvs/Nvfuy0ERzFon0WkGuh41On0fe1QG00jJACNcBGAsYHQ/s640/04.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows" title="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></a></p>
+<h3 id="instalar-com-um-live-dvdusb">Instalar com um Live DVD/USB</h3>
+<ul>
+<li>
+<p>O vídeo abaixo mostra a instalação normal do Ubuntu num computador que não possui nenhum outro sistema, ou seja, sem dual boot e aproveitando o disco todo com particionamento automático. No vídeo a instalação foi iniciada após entrar no modo live, mas a instalação também pode ser iniciada sem entrar no live. Para isto, basta escolher a opção &ldquo;Instalar o Ubuntu&rdquo;, mostrada no menu que aparece ao iniciar.</p>
+</li>
+<li>
+<p>Já no vídeo abaixo, foi utilizada a instalação lado a lado com o Windows 10, ou seja, o Ubuntu e Windows 10 instalados no mesmo disco, em <strong>dual boot</strong>. Neste tipo de instalação, o instalador do Ubuntu cria uma partição a partir do espaço vazio no disco e separa a partição do Windows. Após, ocorre a instalação do Ubuntu.</p>
+</li>
+</ul>
+<h3 id="instalar-em-uma-máquina-virtual">Instalar em uma Máquina Virtual</h3>
+<p>Se deseja instalar o Focal Fossa, mas nunca fez antes e tem medo de comprometer seus arquivos, tente <a href="https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html">instalar o sistema em uma máquina virtual</a>.</p>
 
 		</div>
 		<footer class="post__footer">
@@ -177,15 +263,15 @@ Obrigado! :)</p>
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html" rel="prev">
+		<a class="pager__link" href="/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Anterior</span>
-			<p class="pager__title">Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</p>
+			<p class="pager__title">Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</p>
 		</a>
 	</div>
 	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/2020/05/ubuntu-2010-maio-2020.html" rel="next">
+		<a class="pager__link" href="/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html" rel="next">
 			<span class="pager__subtitle">Próximo&thinsp;»</span>
-			<p class="pager__title">Ubuntu 20.10 - Maio 2020</p>
+			<p class="pager__title">Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</p>
 		</a>
 	</div>
 </nav>

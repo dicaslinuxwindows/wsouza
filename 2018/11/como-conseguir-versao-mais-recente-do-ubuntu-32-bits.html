@@ -8,10 +8,9 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Como conseguir a versão mais recente do Ubuntu em 32 bits" />
-<meta property="og:description" content="Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&hellip; Unknown - Jun 2, 2020
-Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!
-Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
-#### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits." />
+<meta property="og:description" content="As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &ldquo;rodar&rdquo; as últimas versões do Ubuntu em 32 bits?
+Confira na dica a seguir.
+Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2018-11-19T12:29:00-02:00" />
@@ -19,19 +18,17 @@ Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
 
 
 		<meta itemprop="name" content="Como conseguir a versão mais recente do Ubuntu em 32 bits">
-<meta itemprop="description" content="Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&hellip; Unknown - Jun 2, 2020
-Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!
-Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
-#### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits."><meta itemprop="datePublished" content="2018-11-19T12:29:00-02:00" />
+<meta itemprop="description" content="As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &ldquo;rodar&rdquo; as últimas versões do Ubuntu em 32 bits?
+Confira na dica a seguir.
+Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits."><meta itemprop="datePublished" content="2018-11-19T12:29:00-02:00" />
 <meta itemprop="dateModified" content="2018-11-19T12:29:00-02:00" />
-<meta itemprop="wordCount" content="70">
+<meta itemprop="wordCount" content="444">
 <meta itemprop="keywords" content="Linux,Ubuntu,Tutoriais," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Como conseguir a versão mais recente do Ubuntu em 32 bits"/>
-<meta name="twitter:description" content="Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&hellip; Unknown - Jun 2, 2020
-Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!
-Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
-#### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits."/>
+<meta name="twitter:description" content="As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &ldquo;rodar&rdquo; as últimas versões do Ubuntu em 32 bits?
+Confira na dica a seguir.
+Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -74,6 +71,20 @@ if (!doNotTrack) {
 		<span class="menu__btn-title" tabindex="-1">Menu</span>
 	</button>
 	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/category">
+				
+				<span class="menu__text">Category</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/another-category">
+				
+				<span class="menu__text">Another Category</span>
+				
+			</a>
+		</li>
 		<li class="menu__item">
 			<a class="menu__link" href="/">
 				
@@ -121,15 +132,24 @@ if (!doNotTrack) {
 	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-11-19T12:29:00-02:00">Mon, Nov 19, 2018</time></div></div>
 		</header>
 		<div class="content post__content clearfix">
-			<h4 id="sugestão-baixem-o-xubuntu-1804-32-bits--show">Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&hellip;</h4>
-<p><a href="https://www.blogger.com/profile/10582420907711048831" title="noreply@blogger.com">Unknown</a> - <time datetime="2020-06-23T23:53:55.982-03:00">Jun 2, 2020</time></p>
-<p>Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!</p>
-<p>Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!</p>
-<hr />
-#### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2020-06-24T12:38:02.826-03:00">Jun 3, 2020</time>
-<p>Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits.</p>
-<hr />
+			<p><img src="https://3.bp.blogspot.com/-yMpE7mq2Tfg/XImv9mEmdiI/AAAAAAAAKz8/ll1CTOjYOJQJZW9e5IflLmb-lgi2HbiUgCLcBGAs/s200/32BITS.png" alt="Como conseguir a versão mais recente do Ubuntu em 32 bits - Dicas Linux e Windows" title="Como conseguir a versão mais recente do Ubuntu em 32 bits - Dicas Linux e Windows"></p>
+<p>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &ldquo;rodar&rdquo; as últimas versões do Ubuntu em 32 bits?<br>
+Confira na dica a seguir.</p>
+<h3 id="entendendo-o-problema">Entendendo o problema</h3>
+<p>A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</p>
+<h3 id="como-resolvê-lo">Como resolvê-lo?</h3>
+<p><em><strong>Atualizado em 08/07/2020:</strong></em></p>
+<p>Outra solução é a que foi sugerida no comentário da matéria. O <a href="http://mirror.aarnet.edu.au/pub/xubuntu/releases/18.04/release/xubuntu-18.04.4-desktop-i386.iso">Xubuntu</a>, <a href="http://cdimage.ubuntu.com/lubuntu/releases/18.04/release/lubuntu-18.04.4-desktop-i386.iso">Lubuntu</a> e <a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/18.04/release/ubuntu-mate-18.04.4-desktop-i386.iso">Ubuntu Mate</a>, na versão 18.04 LTS, ainda possuem imagens para sistemas 32 bits. Baixe e instale uma destas versões, depois instale o Gnome, e assim, estará com uma versão recente e em 32 bits do Ubuntu padrão.</p>
+<p>A dica para resolver este problema é simples, porém, um pouco trabalhosa devido ao tempo e quantidade de downloads.<br>
+Baixe a versão LTS 16.04, que foi a última a ser lançada em ISO de 32 bits, e instale. Após a instalação, o próprio sistema alertará a opção de atualizar para a próxima versão LTS, que é a 18.04. Faça a atualização. Simples assim e você já possuirá a versão LTS mais recente em seu computador de 32 bits.<br>
+Se deseja a versão mais recente não LTS, que é a 18.10, faça da seguinte forma:<br>
+Após a atualização para a 18.04, faça uma nova atualização do sistema. <em>(lembre-se de trocar os repositórios em /etc/apt/sources.list)</em>.</p>
+<h3 id="considerações-finais">Considerações finais</h3>
+<p>1 - Para baixar o Ubuntu 16.04, entre em <a href="http://releases.ubuntu.com/16.04/">http://releases.ubuntu.com/16.04/</a> e escolha a opção <em>32-bit PC (i386) desktop image</em>.<br>
+2 - Não entrei no mérito dos requisitos de hardware para suportar as versões mais recentes do Ubuntu. Mas quem pretende utilizá-las deve saber que o desempenho poderá não ser satisfatório em computadores com até 2Gb de RAM <em>(que é o caso de boa parte dos que necessitam utilizar um sistema 32 bits).</em><br>
+3 - Para a dica acima, considerei que você possui conhecimento em instalação e atualização de sistemas Linux.<br>
+4 - Se deseja ter estas versões (18.04 e 18.10) as futuras versões em 32 bits para alguma futura utilização, sem que seja preciso esta trabalheira toda, é possível fazer um backup do sistema utilizando o Remaster-GTK. <em>(<a href="https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html">Veja aqui como fazer</a>)</em>.<br>
+5 - Não se sabe exatamente até quando haverá suporte para as versões 32 bits, pois o Ubuntu Mate, por exemplo, não suportará mais esta arquitetura a partir da versão 18.10. Acredito que o 18.04, por ser LTS, vai manter o suporte durante todo seu ciclo.</p>
 
 		</div>
 		<footer class="post__footer">
@@ -166,15 +186,15 @@ if (!doNotTrack) {
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html" rel="prev">
+		<a class="pager__link" href="/2018/10/google-encerra-google-e-inbox-by-gmail.html" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Anterior</span>
-			<p class="pager__title">Como conseguir a versão mais recente do Ubuntu em 32 bits</p>
+			<p class="pager__title">Google encerra Google&#43; e Inbox by Gmail</p>
 		</a>
 	</div>
 	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html" rel="next">
+		<a class="pager__link" href="/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html" rel="next">
 			<span class="pager__subtitle">Próximo&thinsp;»</span>
-			<p class="pager__title">Após novo vazamento de dados, Google antecipa o fim do Google&#43;</p>
+			<p class="pager__title">Como conseguir a versão mais recente do Ubuntu em 32 bits</p>
 		</a>
 	</div>
 </nav>
