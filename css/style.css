@@ -549,7 +549,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 @media screen and (min-width: 767px) {
 	.menu {
-		border-bottom: 5px solid #e95420;
+		border-bottom: 0px solid #e95420; #Borda abaixo do menu. Padrão 5px
 	}
 
 	.menu__btn {
@@ -763,7 +763,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	height: 32px;
 	padding: 8px;
 	margin-right: 6px;
-	background: #e95420;
+	background: #2a2a2a;
 	fill: #fff;
 }
 
@@ -1064,7 +1064,7 @@ textarea {
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #e95420;
+	border-bottom: 3px solid #2a2a2a; #Cor da linha abaixo do título dos Widgets
 }
 
 .widget__item {
@@ -1153,7 +1153,7 @@ textarea {
 
 .widget-languages__link:hover .widget-languages__link-btn {
 	color: #fff;
-	background: #e95420;
+	background: yellow;
 }
 
 .widget-languages__link-btn {
