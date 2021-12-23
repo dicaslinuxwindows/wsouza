@@ -56,7 +56,7 @@ body {
 .container {
 	position: relative;
 	width: 100%;
-	max-width: 1080px;
+	max-width: 1180px;
 	margin: 0 auto;
 }
 
@@ -189,7 +189,7 @@ h6 {
 }
 
 a {
-	color: #188bc7;
+	color: #2a2a2a;
 	text-decoration: none;
 }
 
@@ -206,7 +206,7 @@ hr {
 p {
 	margin: 0 0 20px;
 	margin: 0 0 1.25rem;
-text-align: justify;
+	text-align: justify;
 }
 
 b,
@@ -599,7 +599,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .meta,
 .meta a {
-	color: #666;
+	color: #188bc7;
 }
 
 .meta a:hover {
@@ -618,7 +618,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .meta__icon {
 	margin-right: 5px;
 	vertical-align: middle;
-	fill: #c4c4c4;
+	fill: #188bc7;
 }
 
 .meta__text {
@@ -660,7 +660,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .warning a,
 .authorbox__description a {
 	font-weight: 700;
-	color: #188bc7;
+	color: #188bc7; #Links dentro das postagens
 }
 
 .content a:hover,
@@ -1151,7 +1151,8 @@ textarea {
 	display: block;
 }
 
-.widget-languages__link:hover .widget-languages__link-btn {
+.widget-languages__link:hover 
+.widget-languages__link-btn {
 	color: #fff;
 	background: #e95420;
 }
@@ -1344,3 +1345,6 @@ color: #e95420
 }
 
 /*FIM BOTÃO VOLTAR AO TOPO*/
+
+
+.
