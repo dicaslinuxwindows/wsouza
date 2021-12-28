@@ -202,6 +202,16 @@ O MS Paint foi um software que permitia desenhos &amp;ldquo;a mão livre&amp;rdq
     </item>
     
     <item>
+      <title>Versão do CCleaner é atingida por Malware</title>
+      <link>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</link>
+      <pubDate>Tue, 19 Sep 2017 13:01:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</guid>
+      <description>A Avast, empresa que comprou a Piriform, que por sua vez é a criadora do CCleaner, anunciou nas últimas horas que algumas versões oficiais que estavam disponíveis para download no site oficial foram invadidas, podendo conter malwares.
+A versão v5.33.6162 do CCleaner e a versão v1.07.3191 do CCleaner Cloud possui um código malicioso que pode baixar e instalar automaticamente softwares capazes de capturar tudo o que é digitado (assim, pode capturar senhas de emails, bancos, etc.</description>
+    </item>
+    
+    <item>
       <title>Fim do Paint</title>
       <link>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</link>
       <pubDate>Tue, 25 Jul 2017 15:04:00 -0300</pubDate>
@@ -352,6 +362,19 @@ O Internet Archive: Wayback Machine é um arquivo da internet. Nele podemos aces
       <guid>https://testes.wsouza.com.br/2013/04/descobrir-telefone.html</guid>
       <description>Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.
 Mas existem algumas soluções que nos permitem descobrir de qual operadora é o telefone que pretendemos ligar e, uma destas soluções foi disponibilizada pela ABR Telecom (Associação Brasileira de Recursos em Comunicações), entidade administradora da portabilidade numérica.</description>
+    </item>
+    
+    <item>
+      <title>Xmarks - Sincronizando seus favoritos, abas e histórico</title>
+      <link>https://testes.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</link>
+      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</guid>
+      <description>Xmarks é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.
+No Firefox
+1 - Baixe aqui a última versão.
+2 - Instale e, após instalar, reinicie o Firefox.
+3 - Crie uma conta no site do Xmarks, é bem simples e rápido.</description>
     </item>
     
   </channel>

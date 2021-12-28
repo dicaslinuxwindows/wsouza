@@ -17,5 +17,14 @@
 1 - Introdução Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização (GRUB) ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel.</description>
     </item>
     
+    <item>
+      <title>Reinstalar o Grub 2 utilizando um Live Cd do Ubuntu</title>
+      <link>https://testes.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</link>
+      <pubDate>Tue, 08 Jan 2013 03:26:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</guid>
+      <description>Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.</description>
+    </item>
+    
   </channel>
 </rss>

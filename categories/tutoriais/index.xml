@@ -168,6 +168,17 @@ Java Oracle 13 no Debian e Derivados - Instalação do JAVA Oracle 13 no Debian 
     </item>
     
     <item>
+      <title>Webmin - Administrador de Sistemas</title>
+      <link>https://testes.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</link>
+      <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
+      <description>Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
+Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
+1 - O que é o Webmin? Segundo o site do Webmin: &amp;ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais.</description>
+    </item>
+    
+    <item>
       <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
       <link>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
@@ -230,6 +241,39 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
       <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
 1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp Business - O WhatsApp para empresas</title>
+      <link>https://testes.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</link>
+      <pubDate>Tue, 27 Feb 2018 12:13:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</guid>
+      <description>Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.
+
+Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus clientes, porém sua função é para uso pessoal, o que faz com que o mesmo não possua ferramentas para sua utilização com um perfil comercial. O WhatsApp Business, um aplicativo nativo para a plataforma Android, torna este uso profissional, adicionando informações básicas, porém importantes, sobre a empresa no perfil do aplicativo.</description>
+    </item>
+    
+    <item>
+      <title>Utilizando o Android Auto em qualquer veículo</title>
+      <link>https://testes.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</link>
+      <pubDate>Tue, 09 Jan 2018 03:41:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</guid>
+      <description>O Android Auto é um aplicativo para veículos que controla as funções de GPS, Radio, Agenda, Ligações e tem integração com o Google Now, o que possibilita o controle por voz, dando ao motorista total controle às funções citadas anteriormente. Para ser mais exato, o Android Auto é um sistema operacional Android, otimizado para o uso em veículos
+Até então, o Android Auto funcionava apenas em veículos que vinham embarcados com esta tecnologia, porém, agora é possível utilizar suas funções no Smartphone, o que torna-o utilizável em qualquer veículo.</description>
+    </item>
+    
+    <item>
+      <title>Troque o visual do Linux deixando-o parecido com o Windows</title>
+      <link>https://testes.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</link>
+      <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
+      <description>Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.
+Mas como? A resposta é bem simples, veja na sequência:
+Muita gente que está acostumada com o Windows mal conhecem detalhes do mesmo, pois utilizam apenas o navegador para acessar a internet, logo, não sentirão diferença pois o seu sistema Linux ficará com a mesma aparência do Windows 7 ou 8.
+Faremos a transformação em 3 passos apenas instalando um tema do Windows e alterando este mesmo tema para o padrão do sistema.</description>
     </item>
     
     <item>

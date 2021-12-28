@@ -315,16 +315,6 @@ Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nes
       <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
-      <description>alguem me sabe dizer se ha suporte para as &amp;ldquo;b&amp;hellip; Unknown - Apr 0, 2020alguem me sabe dizer se ha suporte para as &amp;ldquo;belas&amp;rdquo; graficas sis mnirage 3+??
-Acho que não. A última vez que consegui alguma coisa com as Sis Mirage 3 foi utilizando o Ubuntu 18.04, adaptando uma daquelas dicas da matéria que fiz em 2015. Depois larguei mão e nem tenho como testar, pois o notebook que eu tinha com essa placa não existe mais.</description>
-    </item>
-    
-    <item>
-      <title>Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</title>
-      <link>https://testes.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</link>
-      <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
       <description>Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.
 O sistema operacional Ubuntu - uma das mais populares distribuições Linux - chega ao lançamento oficial da sua nova versão LTS, a 20.04 de codinome Focal Fossa. O nome Focal vem de foco, parte importante. Já Fossa é um mamífero carnívoro da família encontrado na ilha de Madagascar.</description>
     </item>
@@ -788,7 +778,6 @@ Recentemente a Google anunciou que o aplicativo vai receber o Material Theme, qu
       <guid>https://testes.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
       <description>Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
 Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
-
 1 - O que é o Webmin? Segundo o site do Webmin: &amp;ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais.</description>
     </item>
     
@@ -1078,7 +1067,6 @@ Como de costume, as versões pares (16.04) são LTS, ou seja, a cada dois anos n
       
       <guid>https://testes.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</guid>
       <description>Como de costume, a cada 6 meses é lançada uma nova versão do Ubuntu, no dia 22/10 foi lançado a versão 15.10, chamada Wily Werewolf. Esta versão vem com várias melhorias incluindo o Kernel 4.2, melhorias no Compiz entre outras que listarei mais abaixo.
-
 Quem gosta de utilizar as versões mais recentes dos pacotes não deixe de baixar esta nova versão, lembrando que o Ubuntu 15.10 ainda não é LTS e seu suporte dura até julho/2016, mas até esta data a versão 16.</description>
     </item>
     
