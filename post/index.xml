@@ -55,17 +55,6 @@ Microsoft Edge O Microsoft Edge é um navegador Web da Microsoft desenvolvido co
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Muito bom, instalei bem rápido no Linux Xubuntu 20&amp;hellip; Antonio Almeida - May 1, 2021
-Muito bom, instalei bem rápido no Linux Xubuntu 20.20.
-#### Não consegui atualizar o IRPF 2021 Multiplataforma... [Luiz Araújo](https://www.blogger.com/profile/02327114020113904476 &#34;noreply@blogger.com&#34;) - May 5, 2021 Não consegui atualizar o IRPF 2021 Multiplataforma no Zorin lite (Linux) verão 32 bits. E sem a atualização o programa não é permite enviar a declaração para a Receita.</description>
-    </item>
-    
-    <item>
-      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
-      <link>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
-      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
       <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
 DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
     </item>
@@ -108,8 +97,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       
       <guid>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
       <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-Índice Como a matéria é um pouco extensa, fiz um índice para facilitar o acesso aos tópicos.
- Aplicativos em sistemas Linux Flatpak Snap Vantagens e desvantagens do uso de Snap ou Flatpak Ativar o suporte ao Snap no Debian e Fedora Ativar o suporte ao Flatpak no Ubuntu e Debian Instalando Snap no Debian e Fedora Instalando Flatpak no Debian e Ubuntu Considerações finais Referências</description>
+1. Aplicativos em sistemas Linux Há várias formas de instalar aplicativos nos sistemas baseados em Linux. Uma forma que funciona em qualquer distribuição é a instalação por código fonte. Desta forma o código é compilado de acordo com a arquitetura do sistema (32, 64 bits&amp;hellip;).</description>
     </item>
     
     <item>
@@ -118,8 +106,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</guid>
-      <description>Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.
-Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:
+      <description>Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria. Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:
  Melhoria de desempenho: Graças à melhorias no SpiderMonkey, que é o mecanismo JavaScript do Firefox, as páginas podem ser carregadas até 15% mais rápidas, com capacidade de resposta da página em até 12% e o uso de memória reduzido em até 8%.</description>
     </item>
     
@@ -214,7 +201,7 @@ O Mês de Outubro traz o lançamento final do Ubuntu 20.10, codinome Groovy Gori
       
       <guid>https://testes.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</guid>
       <description>Depois de um bom tempo sem se pronunciar a respeito do Microsoft Edge para Linux, a Microsoft divulgou uma data de lançamento para uma versão prévia do mesmo. Saiba mais na matéria abaixo.
-O Microsoft Edge éum navegador Web foi desenvolvido pela Microsoft para substituir o navegador Internet Explorer. Inicialmente possuia um &amp;ldquo;motor&amp;rdquo; próprio da Microsoft. No início de 2019 a Microsoft anunciou que passaria a se basear no projeto de código aberto Chromium (o mesmo do Google Chrome), conforme foi tratado na matéria Microsoft Edge agora é baseado no Chromium.</description>
+O Microsoft Edge é um navegador Web foi desenvolvido pela Microsoft para substituir o navegador Internet Explorer. Inicialmente possuia um &amp;ldquo;motor&amp;rdquo; próprio da Microsoft. No início de 2019 a Microsoft anunciou que passaria a se basear no projeto de código aberto Chromium (o mesmo do Google Chrome), conforme foi tratado na matéria Microsoft Edge agora é baseado no Chromium.</description>
     </item>
     
     <item>
@@ -297,8 +284,7 @@ Nas matérias &amp;ldquo;Linux Mint Ulyana&amp;rdquo; e &amp;ldquo;Linux Mint 20
       <pubDate>Fri, 12 Jun 2020 23:05:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</guid>
-      <description>A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma.
-Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.
+      <description>A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.
 O que sabemos sobre o LM20 até agora. A matéria de 1º de abril &amp;ldquo;Linux Mint 20 Ulyana&amp;rdquo; abordou sobre o que se sabia a respeito do LM20 até aquele momento, como seu codinome que será Ulyana e que este seria baseado no Ubuntu 20.</description>
     </item>
     
@@ -318,19 +304,6 @@ Poucos dias após o lançamento do Ubuntu 20.04 &amp;ldquo;Focal Fossa&amp;rdquo
       <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
-      <description>Show, cara. Salvou meu Ubuntu 18.04 que não atuali&amp;hellip; Unknown - Sep 0, 2020
-Show, cara. Salvou meu Ubuntu 18.04 que não atualizava para o 20.04 de jeito nenhum.
-Obrigado! :)
-#### Valeu. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Sep 2, 2020 Valeu.
-#### Olá, montei meu PC, instalei Windows 10 no ssd m2 ... [Fer_Cyborg](https://www.blogger.com/profile/05214537172727867991 &#34;noreply@blogger.com&#34;) - Oct 5, 2020 Olá, montei meu PC, instalei Windows 10 no ssd m2 e queria instalar Ubuntu no ssd 120 gb.</description>
-    </item>
-    
-    <item>
-      <title>Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</title>
-      <link>https://testes.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</link>
-      <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
       <description>Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
 Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
  Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live.</description>
@@ -342,9 +315,8 @@ Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nes
       <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
-      <description>alguem me sabe dizer se ha suporte para as &amp;ldquo;b&amp;hellip; Unknown - Apr 0, 2020
-alguem me sabe dizer se ha suporte para as &amp;ldquo;belas&amp;rdquo; graficas sis mnirage 3+??
-#### Acho que não. A última vez que consegui alguma coi... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 0, 2020 Acho que não. A última vez que consegui alguma coisa com as Sis Mirage 3 foi utilizando o Ubuntu 18.04, adaptando uma daquelas dicas da matéria que fiz em 2015.</description>
+      <description>alguem me sabe dizer se ha suporte para as &amp;ldquo;b&amp;hellip; Unknown - Apr 0, 2020alguem me sabe dizer se ha suporte para as &amp;ldquo;belas&amp;rdquo; graficas sis mnirage 3+??
+Acho que não. A última vez que consegui alguma coisa com as Sis Mirage 3 foi utilizando o Ubuntu 18.04, adaptando uma daquelas dicas da matéria que fiz em 2015. Depois larguei mão e nem tenho como testar, pois o notebook que eu tinha com essa placa não existe mais.</description>
     </item>
     
     <item>
@@ -363,22 +335,8 @@ O sistema operacional Ubuntu - uma das mais populares distribuições Linux - ch
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
-      <description>iabadabaduuuu Anônimo - Jan 5, 2021
-iabadabaduuuu
-#### E método DD, deu erro na parte do progress, então ... [Gustavo Maciel 13](https://www.blogger.com/profile/14297456498719774611 &#34;noreply@blogger.com&#34;) - Apr 5, 2021 E método DD, deu erro na parte do progress, então cortei o comando, acredito que eu estou usando uma versão bem antiga, usei o echo para me alertar do término da operação</description>
-    </item>
-    
-    <item>
-      <title>3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux</title>
-      <link>https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</link>
-      <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
       <description>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.
-Se preferir, vá direto ao tutorial. DD
-UNETbootin
-Etcher
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação.</description>
+Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema.</description>
     </item>
     
     <item>
@@ -438,19 +396,6 @@ O Painel de Controle foi lançado no Windows 1.0, em 1985. Até o Windows 3.1 er
       <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
-      <description>Passo a passo detalhado e muito útil. Obrigada! Anônimo - Jun 2, 2020
-Passo a passo detalhado e muito útil. Obrigada!
-#### muito bom!! Meus parabéns pelo procedimento. [Unknown](https://www.blogger.com/profile/07720850229081869234 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 muito bom!! Meus parabéns pelo procedimento.
-#### De nada. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 De nada.
-#### Muito bom e objetivo1! Alguns outros fóruns antigo... [Luan](https://www.blogger.com/profile/05445600462514586679 &#34;noreply@blogger.com&#34;) - Jun 1, 2020 Muito bom e objetivo1!</description>
-    </item>
-    
-    <item>
-      <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
-      <link>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</link>
-      <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
       <description>A Oracle acabou de lançar a versão 14 15 do Java SE. Veja aqui como baixar, instalar e configurar no Debian, Ubuntu e derivados.
 Atualizado em 06/04/2021
 Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias para o desenvolvimento e execução de programas com a linguagem de programação Java. O Java SE (Java Platform, Standard Edition) contém o ambiente de execução, chamado de JRE (Java Runtime Environment), e o JDK (Java Development Kit), que é o &amp;ldquo;modo&amp;rdquo; utilizado para criar programas na linguagem de programação Java.</description>
@@ -465,17 +410,6 @@ Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias pa
       <description>A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.
 A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, principalmente à nível de segurança e privacidade. Veja alguns destaques:
  Firefox Contêiner dedicado - Este contêiner é bem interessante, pois evita que sua navegação no Facebook seja rastreada. Sabe quando você pesquisa alguma coisa e logo em seguida as propagandas aparecem no Facebook?</description>
-    </item>
-    
-    <item>
-      <title>Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</title>
-      <link>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</link>
-      <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
-      <description>extremamente complicado Unknown - Mar 2, 2020
-extremamente complicado
-#### Nossa, muito obrigado a quem escreveu essa dica! E... [Anônimo]( &#34;noreply@blogger.com&#34;) - Apr 2, 2020 Nossa, muito obrigado a quem escreveu essa dica! Eu virei adepto ao software livre, e não queria ter que instalar o java proprietário para declarar o IR. A dica funcionou perfeitamente pra mim no ubuntu. A única observação a ser feita é para quem não tem familiaridade com o linux: é preciso localizar o endereço onde a pasta foi baixada no pc, se for na pasta &amp;ldquo;Downloads&amp;rdquo;, provavelmente vai algo do tipo &amp;ldquo;/home/nome-de-usuário/Downloads/irpf2020-1.</description>
     </item>
     
     <item>
@@ -506,39 +440,9 @@ Saiba mais sobre o padrão de nomes, de versões, de lançamentos e ciclo de vid
       <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
-      <description>Apisidio - Feb 1, 2020
-Este comentário foi removido pelo autor.
-#### Conseguiu resolver? [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Feb 1, 2020 Conseguiu resolver?
-#### Bom dia, Esta foi a maneira mais fácil de instala... [Igor Silva](https://www.blogger.com/profile/00932071431684394485 &#34;noreply@blogger.com&#34;) - Feb 6, 2020 Bom dia,
-Esta foi a maneira mais fácil de instalar o programa da receita federal no Linux Ubuntu que já encontrei na internet.
-Obrigado por compartilhar o seu conhecimento.</description>
-    </item>
-    
-    <item>
-      <title>Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin &#43; Java Oracle)</title>
-      <link>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</link>
-      <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
       <description>A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo .BIN e o Java Oracle.
 Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
 IRPF 2020 O programa é necessário para efetuar as declarações do imposto de renda de pessoa física, que podem ser entregues do dia 01/03/2020 à 30/04/2020 30/06/2020.</description>
-    </item>
-    
-    <item>
-      <title>Java Oracle 13 no Debian e Derivados</title>
-      <link>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</link>
-      <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
-      <description>Unknown - Mar 2, 2020
-Este comentário foi removido pelo autor.
-#### PERFEITO! Único tutorial da internet brasileira qu... [Fabiano Vasconcelos](http://fabianovasconcelos.com/ &#34;noreply@blogger.com&#34;) - Mar 2, 2020 PERFEITO!
-Único tutorial da internet brasileira que resolveu o problema em 2020!
-Faltou só comentar que os comandos devem ser executados com &amp;ldquo;sudo&amp;rdquo; antes.
-Parabéns!
-#### Opa. Valeu, tinha esquecido do sudo. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Mar 2, 2020 Opa.
-Valeu, tinha esquecido do sudo.</description>
     </item>
     
     <item>
@@ -609,9 +513,8 @@ Sobre o Ubuntu O Ubuntu é um sistema operacional de código aberto, construído
       
       <guid>https://testes.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
       <description>Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.
-
 Skolelinux O Skolelinux (ou Debian EDU) é um ambiente educacional completo e facilmente configurável. Após instalado e configurado disponibiliza um conjunto de aplicativos educacionais que pode ser categorizado por idade, além de um servidor LTSP¹.
-Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com um ambiente educacional instalado e pré-configurado.</description>
+Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com um ambiente educacional instalado e pré-configurado. Possui perfis com aplicativos educacionais voltados para várias faixas de idade.</description>
     </item>
     
     <item>
@@ -621,11 +524,11 @@ Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com 
       
       <guid>https://testes.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</guid>
       <description>Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.
-
 Uma das coisas mais legais do Ubuntu é o visual, e boa parte desta beleza visual deve-se às suas fontes.
 Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como instalar em dois passos.
-1º passo: Abra o terminal e insira o comando:
- wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1</description>
+1º passo Abra o terminal e insira o comando:
+ wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1
+2º passo Ainda no terminal, primeiramente vamos criar a pasta ubuntu-font dentro da pasta de fontes do sistema.</description>
     </item>
     
     <item>
@@ -635,7 +538,6 @@ Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como
       
       <guid>https://testes.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
       <description>Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
-
 O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.
 Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC.</description>
     </item>
@@ -657,9 +559,9 @@ Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a
       <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
-      <description>O Debian Buster enfim está entre nós em sua versão final.
-Saiba aqui os detalhes do lançamento.
-Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.</description>
+      <description>O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.
+Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.
+Para entender como funciona, e para mais informações sobre o Debian leia: Debian - Curiosidades, informações, versões e ciclo de vida</description>
     </item>
     
     <item>
@@ -691,7 +593,6 @@ Debian O que é O Debian é um sistema operacional composto inteiramente por sof
       
       <guid>https://testes.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
       <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
-
 Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
   Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
     </item>
@@ -703,7 +604,6 @@ Considerações iniciais   Este tutorial foi elaborado através da atualização
       
       <guid>https://testes.wsouza.com.br/2019/07/novidades-whatsapp.html</guid>
       <description>Nos últimos dias surgiram algumas notícias sobre o WhatsApp. Mais detalhes a seguir.
-
 WhatsApp deixará de funcionar em alguns aparelhos Como volta e meia acontece, o WhatsApp vai deixar de funcionar em alguns aparelhos antigos, com sistema operacional desatualizado.
 Não há informações sobre os aparelhos que serão abandonados pelo aplicativo, mas sabe-se a versão do sistema que o aplicativo deixará de suportar.
 Android - Versão 2.3.7 - codinome Gingerbread - lançado em 2010.</description>
@@ -716,7 +616,6 @@ Android - Versão 2.3.7 - codinome Gingerbread - lançado em 2010.</description>
       
       <guid>https://testes.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
       <description>Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
-
 Debian Debian - Curiosidades, informações, versões e ciclo de vida.
 Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto.</description>
     </item>
@@ -739,7 +638,6 @@ Porém, devido à pressões da comunidade, usuários, desenvolvedores e &amp;ldq
       
       <guid>https://testes.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
       <description>A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.
-
 Debian Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em Debian - Curiosidades, informações, versões e ciclo de vida.
 Buster O Debian Buster será a próxima versão estável, sendo substituto do Debian Stretch.</description>
     </item>
@@ -772,7 +670,6 @@ Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utiliz
       
       <guid>https://testes.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</guid>
       <description>Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
-
 Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu.</description>
     </item>
     
@@ -783,7 +680,6 @@ Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvid
       
       <guid>https://testes.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</guid>
       <description>Nos últimos anos a Microsoft está se aproximando do open source (software de código aberto, não sendo necessariamente software livre). Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o &amp;ldquo;mundo&amp;rdquo; do open source.
-
 Microsoft e sua política A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen.</description>
     </item>
     
@@ -794,7 +690,6 @@ Microsoft e sua política A Microsoft foi fundada em 1975 por Bill Gates e Paul 
       
       <guid>https://testes.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
       <description>No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.
-
 Sobre o Ubuntu O Ubuntu é desenvolvido por uma empresa chamada Canonical e é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.04 e terá suporte até janeiro de 2020.</description>
     </item>
     
@@ -805,7 +700,6 @@ Sobre o Ubuntu O Ubuntu é desenvolvido por uma empresa chamada Canonical e é b
       
       <guid>https://testes.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
       <description>Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.
-
 Microsoft Edge O Microsoft Edge foi lançado em 2015 para ser o sucessor do Microsoft Internet Explorer, que teve sua última versão lançada em 2017. A versão atual, não baseada no Chromium, nunca conseguiu obter uma boa fatia de mercado. Com o novo Edge a Microsoft tentava voltar à liderança entre os navegadores, posto que deteve durante muitos anos com o Internet Explorer e perdeu em 2012 para o Google Chrome.</description>
     </item>
     
@@ -850,7 +744,6 @@ O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de dese
       <guid>https://testes.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
       <description>Se procura a versão 2020, veja em: Programa de declaração do IRPF 2020 - Instalação no Debian e Derivados
 Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.
-
 O programa que será instalado realiza a declaração de imposto de renda de pessoa física, por isto é chamado de IRPF, e seu instalador está disponível no formato .</description>
     </item>
     
@@ -861,7 +754,6 @@ O programa que será instalado realiza a declaração de imposto de renda de pes
       
       <guid>https://testes.wsouza.com.br/2019/02/suite-educacional-gcompris.html</guid>
       <description>GCompris é uma suíte educacional que oferece atividades para crianças partir dos 2 anos de idade. Na versão que será apresentada aqui possui mais de 141 atividades.
-
 O GCompris é incluído em vários sistemas Linux. É gratuito para Linux e Mac. Para Windows e Android há uma versão demo e uma versão completa, esta última paga. Conta com uma grande quantidade de colaboradores pelo mundo que auxiliam, entre outras coisas, na tradução para diversos idiomas.</description>
     </item>
     
@@ -909,20 +801,7 @@ Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéri
       <description>Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.
 E o melhor de tudo: É gratuito.
 Mais detalhes a seguir.
-
 Lançado em 2016 para clientes empresariais e educacionais, o Microsoft Forms surgiu como uma alternativa ao Google Forms, lançado em 2015. A idéia é praticamente a mesma da concorrente, ou seja, permitir a criação de formulários on line que possibilitam a realização de pesquisas e questionários com fácil compartilhamento e fácil acompanhamento dos resultados pelos seus criadores.</description>
-    </item>
-    
-    <item>
-      <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
-      <link>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
-      <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
-      <description>Excelente material. Leo - Apr 0, 2020
-Excelente material.
-#### Valeu! [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 1, 2020 Valeu!
-#### Entendi mas não consigo fazer... Gravei o .iso no ... [Adriano](https://www.blogger.com/profile/06719341678674190038 &#34;noreply@blogger.com&#34;) - Apr 6, 2020 Entendi mas não consigo fazer&amp;hellip; Gravei o .iso no pen drive. Mas eu teria que iniciar o boot por usb ou faria pelo hd e no meio do caminho aparece aquela primeira tela? Fiquei na dúvida com isso.</description>
     </item>
     
     <item>
@@ -953,18 +832,6 @@ Em outubro foi anunciado o fim do Google+, junto com alguns outros serviços da 
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       
       <guid>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>Sugestão: baixem o xubuntu 18.04 32 bits !!! Show&amp;hellip; Unknown - Jun 2, 2020
-Sugestão: baixem o xubuntu 18.04 32 bits !!! Show !!! Excelente !!!
-Existe, sim, ubuntu 32 bits para a versão 18 (2018 april) !!!!!!!!!!!!
-#### Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na ver... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jun 3, 2020 Realmente. O Xubuntu, Lubuntu e Ubuntu Mate na versão 18.04 possuem ISOS para 32 bits.</description>
-    </item>
-    
-    <item>
-      <title>Como conseguir a versão mais recente do Ubuntu em 32 bits</title>
-      <link>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
-      <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
       <description>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?
 Confira na dica a seguir.
 Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
@@ -976,18 +843,7 @@ Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do 
       <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</guid>
-      <description>Excelente, a verdade é que o Gmail tem vários serv&amp;hellip; Jessy - Nov 2, 2018
-Excelente, a verdade é que o Gmail tem vários serviços, basta digitar o gmail login direto entrar e a partir daí, todos os serviços estão disponíveis</description>
-    </item>
-    
-    <item>
-      <title>Google encerra Google&#43; e Inbox by Gmail</title>
-      <link>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</link>
-      <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</guid>
       <description>A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.
-
 Inbox by Gmail O aplicativo de emails será descontinuado no mês de março de 2019.
 O Inbox foi lançado em 2014 como uma alternativa ao aplicativo do Gmail (também possui uma versão Web).</description>
     </item>
@@ -1009,22 +865,9 @@ Para excluir/desativar os serviços vamos utilizar a versão web, pois nem todos
       
       <guid>https://testes.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</guid>
       <description>Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.
- 
 Desde já fica claro que o Dropbox não encerrará o suporte à sistemas Linux.
 Veja o comunicado do Dropbox enviado aos usuários:
 &amp;ldquo;Em 15 de outubro, o Dropbox encerrará a compatibilidade com o Ubuntu 13.</description>
-    </item>
-    
-    <item>
-      <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
-      <link>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
-      <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
-      <description>fiz isso e ficou perfeito, mas toda vez que inicia&amp;hellip; leo - Mar 4, 2021
-fiz isso e ficou perfeito, mas toda vez que inicia a maquina ele cai na iso.. e não inicia o sistema
-como proceder?
-#### Tem que desconectar a iso da VM. [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Apr 1, 2021 Tem que desconectar a iso da VM.</description>
     </item>
     
     <item>
@@ -1077,18 +920,6 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
-      <description>Cara gostei do seu post. Bem escrito simples enten&amp;hellip; Cleyton - Jul 3, 2019
-Cara gostei do seu post. Bem escrito simples entendimento, parabéns
-So que infelizmente não funciona no debian 9 De forma alguma.
-#### Valeu pelo elogio. Pode explicar melhor? O que exa... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jul 3, 2019 Valeu pelo elogio. Pode explicar melhor? O que exatamente não funcionou? A instalação do Remaster? A geração da ISO?</description>
-    </item>
-    
-    <item>
-      <title>Backup com Remaster GTK</title>
-      <link>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
-      <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
       <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
 1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
@@ -1122,7 +953,6 @@ Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus cli
       
       <guid>https://testes.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
       <description>O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua política de ciclo de vida, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.
-
 Mas, segundo a Microsoft, ainda serão lançadas atualizações de segurança. Estas atualizações serão disponibilizadas até 2023 (ver tabela abaixo), quando o sistema deixará de vez de receber suporte.</description>
     </item>
     
@@ -1163,7 +993,6 @@ Na semana passada a Microsoft anunciou que o tradicional MS Paint seria desconti
       
       <guid>https://testes.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</guid>
       <description>No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.
-
 Segundo a página de lançamento, o Stretch inclui mais de 15346 novos pacotes, num total de mais de 51687 pacotes, 57% dos pacotes de seu antecessor foram atualizados e 13% foram removidos e serão marcados como obsoletos.</description>
     </item>
     
@@ -1280,21 +1109,11 @@ No site www.brasilmaisti.com.br podemos encontrar cursos de lógica de programa�
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>Tenho Deian 10 e o ubuntu 18.04 não funciona! Tupyynamba - Jun 4, 2020
-Tenho Deian 10 e o ubuntu 18.04 não funciona!</description>
-    </item>
-    
-    <item>
-      <title>Como instalar a central de programas igual a do Ubuntu no Debian</title>
-      <link>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
-      <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
       <description>Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.
 Não conhece? Veja abaixo.
 
 Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser instalada facilmente, com um único comando:
-Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
+##Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
     </item>
     
     <item>
@@ -1304,7 +1123,6 @@ Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
       
       <guid>https://testes.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
       <description>Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.
-
 O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de software livre e não possui nada comercial em seu código. É uma ótima escola para desenvolvedores de software livre.</description>
     </item>
     
@@ -1315,7 +1133,6 @@ O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de soft
       
       <guid>https://testes.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</guid>
       <description>O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.
-
 Num único programa é possível adicionar PPAs, trocar o papel de parede, configurações de janela e do Unity, remover arquivos temporários do APT, cache do Firefox, Chrome ou outros navegadores, remover arquivos de configuração de pacotes que já foram desinstalados, ajustar configurações de pastas de usuários, configurações de fontes, configurações de login, remover kernels antigos com segurança… A lista é grande, então vamos nos concentrar em algumas funções mais importantes.</description>
     </item>
     
@@ -1325,22 +1142,7 @@ Num único programa é possível adicionar PPAs, trocar o papel de parede, confi
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
       
       <guid>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
-      <description>Veja motivo do sumiço de todos os comentários em: &amp;hellip; W. Souza - Jul 2, 2019
-Veja motivo do sumiço de todos os comentários em:
-https://info.wsouza.com.br/2019/06/mudanca-no-sistema-de-comentarios-do-blog.html
-Se deseja ler os comentários antigos para esta postagem, leia no link abaixo:
-https://disqus.com/home/discussion/dicaslinuxewindows/dicas_linux_e_windows_novidades_sobre_a_sis_mirage_3_no_ubuntu_trusty_tahr_1404_linux_mint_rebecca_1/
-#### Boa noite! Não consegui fazer download de nenhum d... [Danilson Oliveira](https://www.blogger.com/profile/17240035451127439277 &#34;noreply@blogger.com&#34;) - Apr 1, 2021 Boa noite! Não consegui fazer download de nenhum dos arquivos! O navegador abre uma aba do dropbox mas fica vazio!</description>
-    </item>
-    
-    <item>
-      <title>Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Mint Rebecca (17.1), Debian Wheezy (7) e Jessie (8)</title>
-      <link>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</link>
-      <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
       <description>Atualizado em 21/02/2016
-
 Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior. O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente.</description>
     </item>
     

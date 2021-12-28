@@ -13,8 +13,7 @@
       <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</guid>
-      <description>Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.
-Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:
+      <description>Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria. Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:
  Melhoria de desempenho: Graças à melhorias no SpiderMonkey, que é o mecanismo JavaScript do Firefox, as páginas podem ser carregadas até 15% mais rápidas, com capacidade de resposta da página em até 12% e o uso de memória reduzido em até 8%.</description>
     </item>
     
@@ -81,7 +80,6 @@ Firefox Preview O Firefox Preview é a versão inicial de um navegador Firefox q
       
       <guid>https://testes.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</guid>
       <description>Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
-
 Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu.</description>
     </item>
     
@@ -93,16 +91,6 @@ Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvid
       <guid>https://testes.wsouza.com.br/2013/08/dica-adblock-plus.html</guid>
       <description>A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.
 Através de filtros pré-configurados ela permite que sejam bloqueados frames, adwares, banners, propagandas no Youtube, Gmail e Facebook e diversos outros tipos de propagandas invasivas.</description>
-    </item>
-    
-    <item>
-      <title>FlashGot - Como integrar gerenciadores de download ao Firefox</title>
-      <link>https://testes.wsouza.com.br/2013/08/flashgot.html</link>
-      <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/2013/08/flashgot.html</guid>
-      <description>FlashGot é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. O Flashgot não funciona no Firefox Quantum.
-Uma função muito interessante do FlashGot é permitir o download direto de vídeos de sites como Youtube e outros sites de vídeos e músicas.</description>
     </item>
     
     <item>

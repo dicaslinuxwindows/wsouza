@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artigos on </title>
+    <link>https://testes.wsouza.com.br/categories/artigos/</link>
+    <description>Recent content in Artigos on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Apr 2021 19:43:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/categories/artigos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiras impressões sobre o GNOME 40</title>
+      <link>https://testes.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</link>
+      <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</guid>
+      <description>Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.
+GNOME Segundo a Wikipédia:
+ GNOME (acrônimo para GNU Network Object Model Environment) é um projeto de software livre abrangendo o Ambiente de Trabalho GNOME, para os usuários, e a Plataforma de Desenvolvimento GNOME, para os desenvolvedores. O projeto dá ênfase especial a usabilidade, acessibilidade e internacionalização.</description>
+    </item>
+    
+    <item>
+      <title>Debian - Curiosidades, informações, versões e ciclo de vida</title>
+      <link>https://testes.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</link>
+      <pubDate>Wed, 03 Jul 2019 00:05:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
+      <description>Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
+Debian O que é O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD. Há um trabalho em andamento para disponibilizá-lo com o Kernel Hurd, do projeto GNU.</description>
+    </item>
+    
+    <item>
+      <title>Microsoft cada vez mais perto do open source</title>
+      <link>https://testes.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</link>
+      <pubDate>Sun, 05 May 2019 21:46:00 -0300</pubDate>
+      
+      <guid>https://testes.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</guid>
+      <description>Nos últimos anos a Microsoft está se aproximando do open source (software de código aberto, não sendo necessariamente software livre). Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o &amp;ldquo;mundo&amp;rdquo; do open source.
+Microsoft e sua política A Microsoft foi fundada em 1975 por Bill Gates e Paul Allen.</description>
+    </item>
+    
+  </channel>
+</rss>

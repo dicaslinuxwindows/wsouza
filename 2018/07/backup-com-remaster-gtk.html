@@ -8,10 +8,9 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Backup com Remaster GTK" />
-<meta property="og:description" content="Cara gostei do seu post. Bem escrito simples enten&hellip; Cleyton - Jul 3, 2019
-Cara gostei do seu post. Bem escrito simples entendimento, parabéns
-So que infelizmente não funciona no debian 9 De forma alguma.
-#### Valeu pelo elogio. Pode explicar melhor? O que exa... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jul 3, 2019 Valeu pelo elogio. Pode explicar melhor? O que exatamente não funcionou? A instalação do Remaster? A geração da ISO?" />
+<meta property="og:description" content="Iniciarei uma série de postagens sobre algumas ferramentas Linux.
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
+1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2018-07-16T22:00:00-03:00" />
@@ -19,19 +18,17 @@ So que infelizmente não funciona no debian 9 De forma alguma.
 
 
 		<meta itemprop="name" content="Backup com Remaster GTK">
-<meta itemprop="description" content="Cara gostei do seu post. Bem escrito simples enten&hellip; Cleyton - Jul 3, 2019
-Cara gostei do seu post. Bem escrito simples entendimento, parabéns
-So que infelizmente não funciona no debian 9 De forma alguma.
-#### Valeu pelo elogio. Pode explicar melhor? O que exa... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jul 3, 2019 Valeu pelo elogio. Pode explicar melhor? O que exatamente não funcionou? A instalação do Remaster? A geração da ISO?"><meta itemprop="datePublished" content="2018-07-16T22:00:00-03:00" />
+<meta itemprop="description" content="Iniciarei uma série de postagens sobre algumas ferramentas Linux.
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
+1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais."><meta itemprop="datePublished" content="2018-07-16T22:00:00-03:00" />
 <meta itemprop="dateModified" content="2018-07-16T22:00:00-03:00" />
-<meta itemprop="wordCount" content="715">
-<meta itemprop="keywords" content="Linux,Tutoriais,Backup do Sistema,Remaster,Ferramentas Linux," />
+<meta itemprop="wordCount" content="455">
+<meta itemprop="keywords" content="Backup do Sistema,Remaster,Ferramentas Linux," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Backup com Remaster GTK"/>
-<meta name="twitter:description" content="Cara gostei do seu post. Bem escrito simples enten&hellip; Cleyton - Jul 3, 2019
-Cara gostei do seu post. Bem escrito simples entendimento, parabéns
-So que infelizmente não funciona no debian 9 De forma alguma.
-#### Valeu pelo elogio. Pode explicar melhor? O que exa... [W. Souza](https://www.blogger.com/profile/13145950875273640819 &#34;noreply@blogger.com&#34;) - Jul 3, 2019 Valeu pelo elogio. Pode explicar melhor? O que exatamente não funcionou? A instalação do Remaster? A geração da ISO?"/>
+<meta name="twitter:description" content="Iniciarei uma série de postagens sobre algumas ferramentas Linux.
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
+1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -58,16 +55,8 @@ if (!doNotTrack) {
 <body class="body">
 	<div class="container container--outer">
 		<header class="header">
-	<div class="container header__container">
+		<div class="container header__container">
 		
-	<div class="logo">
-		<a class="logo__link" href="/" title="WSouza" rel="home">
-			<div class="logo__item logo__text">
-					<div class="logo__title">WSouza</div>
-					<div class="logo__tagline">Dicas Linux e Windows</div>
-				</div>
-		</a>
-	</div>
 		
 <nav class="menu">
 	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
@@ -82,7 +71,7 @@ if (!doNotTrack) {
 			</a>
 		</li>
 		<li class="menu__item">
-			<a class="menu__link" href="/post/">
+			<a class="menu__link" href="/categorias/">
 				
 				<span class="menu__text">Categorias</span>
 				
@@ -107,6 +96,7 @@ if (!doNotTrack) {
 
 	</div>
 </header>
+
 		<div class="wrapper flex">
 			<div class="primary">
 			
@@ -118,72 +108,55 @@ if (!doNotTrack) {
 	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">W.Souza</span>
 </div>
 <div class="meta__item-datetime meta__item">
-	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-07-16T22:00:00-03:00">Mon, Jul 16, 2018</time></div></div>
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2018-07-16T22:00:00-03:00">Mon, Jul 16, 2018</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/tutoriais/" rel="category">Tutoriais</a>
+	</span>
+</div></div>
 		</header>
-		<div class="content post__content clearfix">
-			<h4 id="cara-gostei-do-seu-post-bem-escrito-simples-enten">Cara gostei do seu post. Bem escrito simples enten&hellip;</h4>
-<p><a href="https://www.blogger.com/profile/03477545733520925234" title="noreply@blogger.com">Cleyton</a> - <time datetime="2019-07-10T13:26:57.280-03:00">Jul 3, 2019</time></p>
-<p>Cara gostei do seu post. Bem escrito simples entendimento, parabéns<br>
-So que infelizmente não funciona no debian 9 De forma alguma.</p>
-<hr />
-#### Valeu pelo elogio. Pode explicar melhor? O que exa...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2019-07-10T16:12:29.615-03:00">Jul 3, 2019</time>
-<p>Valeu pelo elogio. Pode explicar melhor? O que exatamente não funcionou? A instalação do Remaster? A geração da ISO?<br>
-Esecifique melhor para eu ver onde posso ajudar.</p>
-<hr />
-#### Comigo não foi. Gerou uma ISO de mais de 8Gb.
-[Marcello Marinho Costa de Oliveira](https://www.blogger.com/profile/06219126256559999109 "noreply@blogger.com") - <time datetime="2019-11-02T09:43:09.440-03:00">Nov 6, 2019</time>
-<p>Comigo não foi. Gerou uma ISO de mais de 8Gb.</p>
-<hr />
-#### Tudo depende do tamanho da pasta /home e dos aplic...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2019-11-02T18:23:44.968-03:00">Nov 6, 2019</time>
-<p>Tudo depende do tamanho da pasta /home e dos aplicativos instalados.<br>
-Eu geralmente deixo os documentos, músicas, fotos, vídeos numa partição de dados separada da /home, assim, quando faço o backup a ISO fica bem menor, com cerca de 3 a 4 GB. Neste exemplo da matéria ficou com 1,2 GB porque eu havia acabado de instalar o sistema.</p>
-<hr />
-#### Olá, tenho uma ISO realizada com a opção backup, p...
-[Unknown](https://www.blogger.com/profile/02260106677985214865 "noreply@blogger.com") - <time datetime="2020-06-05T15:45:21.332-03:00">Jun 5, 2020</time>
-<p>Olá, tenho uma ISO realizada com a opção backup, porém, fui tentar instalar de volta esse sistema em outro HD, o sistema voltou normal, mas o usuário &ldquo;antigo&rdquo; simplesmente some na nova instalação. Alguma dica do que pode ser?</p>
-<hr />
-#### No momento da instalação crie um usuário qualquer....
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2020-06-05T16:23:14.485-03:00">Jun 5, 2020</time>
-<p>No momento da instalação crie um usuário qualquer. Após instalado, entre com o usuário antigo.</p>
-<hr />
-#### Boa noite. Comigo na pasta remaster gerou todas as...
-[fui eu](https://www.blogger.com/profile/18180194879820369853 "noreply@blogger.com") - <time datetime="2020-08-23T22:07:58.015-03:00">Aug 0, 2020</time>
-<p>Boa noite.<br>
-Comigo na pasta remaster gerou todas as pastas e o arquivo remaster.iso.md5 e remaster.log, mas não o remaster.iso.<br>
-O que pode ser?</p>
-<hr />
-#### Boa noite. Está usando a versão do Debian ou do Ub...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2020-08-25T23:31:48.874-03:00">Aug 2, 2020</time>
-<p>Boa noite.<br>
-Está usando a versão do Debian ou do Ubuntu? Utilizou a versão mais recente?</p>
-<hr />
-#### Bom dia amigo! É possivel gerar uma iso sem a int...
-[Luiz](https://www.blogger.com/profile/12477095589055187241 "noreply@blogger.com") - <time datetime="2020-11-05T07:18:59.680-03:00">Nov 4, 2020</time>
-<p>Bom dia amigo!</p>
-<p>É possivel gerar uma iso sem a interface gráfica?</p>
-<hr />
-#### Deixa eu explicar melhor aqui. Eu tenho um uma VM ...
-[Luiz](https://www.blogger.com/profile/12477095589055187241 "noreply@blogger.com") - <time datetime="2020-11-05T07:36:01.612-03:00">Nov 4, 2020</time>
-<p>Deixa eu explicar melhor aqui. Eu tenho um uma VM com o Debian 10 sem interface gráfica e instalei o Remaster GTK, até ai tudo bem, consegui instalar tranquilo. Encontrei alguns tutoriais que ensinam a criar a ISO para distribuição via linha de comando e a executei, onde foi gerado uma ISO e ao subir em outra VM, rodou como live uma maravilha. Porem não consegui instalar essa live no disco. No boot não dá nenhuma opção para instalação, só para ser usado como live e o meu intuito é justamente instalar em outra maquina. Como eu faria isso? Teria alguma forma de instalar no disco?</p>
-<p>Desde já parabéns pelo artigo. Grato.</p>
-<hr />
-#### Boa noite. Eu sei que existe uma forma de gerar a ...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2020-11-05T21:47:25.478-03:00">Nov 4, 2020</time>
-<p>Boa noite.<br>
-Eu sei que existe uma forma de gerar a ISO pelo terminal, porém nunca utilizei, daí não sei o resultado no momento de instalar.<br>
-Mas passei por uma situação como a sua e resolvi da seguinte forma:<br>
-Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a ISO e instalei no servidor. Depois de instalado, removi a interface gráfica e deixei apenas o terminal.</p>
-<hr />
-#### Obrigado W. Souza. Acabei fazendo isso mesmo em se...
-[Luiz](https://www.blogger.com/profile/12477095589055187241 "noreply@blogger.com") - <time datetime="2021-03-23T15:15:11.545-03:00">Mar 2, 2021</time>
-<p>Obrigado W. Souza. Acabei fazendo isso mesmo em seguida. Pois, tentei de todas as formas mas na hora de instalar a ISO gerada não encontrei uma solução já que quem faz a instalação é o Calamares e não encontrei em nenhum local nas profundezas da internet, algo para instalar sem ser o bendito Calamares que só funciona com interface gráfica. Uma pena mas funcionou de boas.</p>
-<hr />
-#### As versões mais antigas, antes da versão para o De...
-[W. Souza](https://www.blogger.com/profile/13145950875273640819 "noreply@blogger.com") - <time datetime="2021-04-05T23:51:20.853-03:00">Apr 1, 2021</time>
-<p>As versões mais antigas, antes da versão para o Debian 10, vinham sem o Calamares.</p>
-<hr />
+		
+<div class="post__toc toc">
+	<div class="toc__title">Conteúdo da página</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<p>Iniciarei uma série de postagens sobre algumas ferramentas Linux.<br>
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.</p>
+<h4 id="1---o-que-é-o-remaster-gtk">1 - O que é o Remaster-GTK?</h4>
+<p>O Remaster é um fork do descontinuado <a href="https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html">Remastersys-GTK</a>, desenvolvido e mantido pelo Lobo do site <a href="https://linuxdicasesuporte.blogspot.com/">Linux Dicas e Suporte</a>. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais. Será gerado uma ISO Live e poderá ser gravada num DVD ou pendrive podendo ser executado diretamente ou mesmo instalado num outro dispositivo.<br>
+No Remaster há versões para Debian e Ubuntu e a dica a seguir será mostrada com a versão para Debian, executada e testada no Debian 9.</p>
+<h4 id="2---instalação">2 - Instalação</h4>
+<p>Baixe o Remaster Debian, e siga os passos para a instalação em: <a href="https://linuxdicasesuporte.blogspot.com/p/remaster_31.html">https://linuxdicasesuporte.blogspot.com/p/remaster_31.html</a></p>
+<h4 id="3---configuração-e-utilização">3 - Configuração e utilização</h4>
+<p>Após instalado, você pode encontrá-lo no menu ou, se preferir, no terminal execute o comando:</p>
+<p>sudo remaster-gtk</p>
+<p>A imagem abaixo mostra a tela inicial do Remaster.</p>
+<p><a href="https://1.bp.blogspot.com/-U0Jq_wVBMxM/W00q3EpK56I/AAAAAAAAIkU/98DsJ7cm6B4BJKxl7qyF-YJ_Y4OBzPZ-ACLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-43-44.png"><img src="https://1.bp.blogspot.com/-U0Jq_wVBMxM/W00q3EpK56I/AAAAAAAAIkU/98DsJ7cm6B4BJKxl7qyF-YJ_Y4OBzPZ-ACLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-43-44.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p>Abaixo é possível configurar os dados de seu sistema. Em <em>&ldquo;nome de usuário&rdquo;</em> eu normalmente coloco o mesmo nome de usuário que estou desejo que seja o usuário padrão do backup. O nome da ISO e da remasterização fica a critério do usuário. Normalmente não altero outras opções, com exceção da <em>Selecionar configurações do usuário</em>, onde escolho as configurações do usuário de preferência. Detalhe: Deve-se escolher um usuário que tenha uma <em>home</em> pequena, pois a ISO poderá ser muito grande e não caber num DVD.</p>
+<p><a href="https://1.bp.blogspot.com/-5QpyGXZFakk/W00q3LpSA5I/AAAAAAAAIkQ/93kt4mEsTQo8yxIaylmKIScMOB0v8eV5wCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-44-04.png"><img src="https://1.bp.blogspot.com/-5QpyGXZFakk/W00q3LpSA5I/AAAAAAAAIkQ/93kt4mEsTQo8yxIaylmKIScMOB0v8eV5wCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-44-04.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p>O foco da dica é o backup do sistema instalado em seu dispositivo, portanto a opção a ser escolhida é Backup, como na tela abaixo<br>
+Vela ressaltar que normalmente testo na interface Gnome e sempre obtive os resultados esperados. Mas de acordo com as informações do desenvolvedor também funciona no Mate e KDE e XFCE4, com os gerenciadores de sessão GDM3, KDM e LightDM</p>
+<p><a href="https://2.bp.blogspot.com/-BZGM_L9z-QU/W00q3CXEy0I/AAAAAAAAIkY/B0WufJMwtcQraIdV0UlJqJrSTsmQI3pxwCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-44-22.png"><img src="https://2.bp.blogspot.com/-BZGM_L9z-QU/W00q3CXEy0I/AAAAAAAAIkY/B0WufJMwtcQraIdV0UlJqJrSTsmQI3pxwCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-44-22.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p>Como vemos nas duas telas abaixo, o backup iniciará. Esta opção demora bastante tempo.</p>
+<p><a href="https://1.bp.blogspot.com/-3tvnQi3yqBQ/W00q3lCFJSI/AAAAAAAAIkc/qhQg2Rvc6LIBpvWhvenL3MzDMMiyyJr7ACLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-44-30.png"><img src="https://1.bp.blogspot.com/-3tvnQi3yqBQ/W00q3lCFJSI/AAAAAAAAIkc/qhQg2Rvc6LIBpvWhvenL3MzDMMiyyJr7ACLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-44-30.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p><a href="https://3.bp.blogspot.com/-meGCL-YNs38/W00q38--OLI/AAAAAAAAIkg/t5NxyrsswsYNrxP1zVK9ooTgC9bK_WgdACLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-48-09.png"><img src="https://3.bp.blogspot.com/-meGCL-YNs38/W00q38--OLI/AAAAAAAAIkg/t5NxyrsswsYNrxP1zVK9ooTgC9bK_WgdACLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-48-09.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p>Após o final do backup será mostrada a janela abaixo.</p>
+<p><a href="https://4.bp.blogspot.com/-ZTFVn6rXj_c/W00q4P8Ab2I/AAAAAAAAIkk/rmDXE6alhpIkjbyw6O3jwzS_ienwi-AnwCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-21-24.png"><img src="https://4.bp.blogspot.com/-ZTFVn6rXj_c/W00q4P8Ab2I/AAAAAAAAIkk/rmDXE6alhpIkjbyw6O3jwzS_ienwi-AnwCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-21-24.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p>Acesse a pasta /home/remaster e a iso estará lá. Você poderá copiá-la para a sua home, já que esta pasta tem acesso somente de leitura. Ou poderá gravá-la num DVD ou pendrive.</p>
+<p><a href="https://3.bp.blogspot.com/-lf4MolYBAIw/W00q4ZNLUQI/AAAAAAAAIko/c2y1PR_uHyM6qKG0Xm8j373yB7Jn7jx3ACLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-26-21.png"><img src="https://3.bp.blogspot.com/-lf4MolYBAIw/W00q4ZNLUQI/AAAAAAAAIko/c2y1PR_uHyM6qKG0Xm8j373yB7Jn7jx3ACLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-26-21.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p>Caso deseje apagar os arquivos gerados, utilize a opção Clear. <strong>Mas cuidado!!!</strong> Esta opção apaga tudo, inclusive a iso. Certifique-se de gravá-la num DVD ou Pendrive antes de utilizar esta opção.</p>
+<p><a href="https://2.bp.blogspot.com/-y0Y-6rBLBU4/W00q4mOXDDI/AAAAAAAAIks/vZLn8DfUD5ILN8TvjcZYIG8E_5FHoebDQCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-26-42.png"><img src="https://2.bp.blogspot.com/-y0Y-6rBLBU4/W00q4mOXDDI/AAAAAAAAIks/vZLn8DfUD5ILN8TvjcZYIG8E_5FHoebDQCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-26-42.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<p><a href="https://2.bp.blogspot.com/-4O_0GBz3IVk/W00q4x-Z3qI/AAAAAAAAIkw/PKtwThUSWcERrnyrfSGCuVpp5EPAIvsSQCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-27-00.png"><img src="https://2.bp.blogspot.com/-4O_0GBz3IVk/W00q4x-Z3qI/AAAAAAAAIkw/PKtwThUSWcERrnyrfSGCuVpp5EPAIvsSQCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-27-00.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
+<h4 id="4---considerações-finais">4 - Considerações finais.</h4>
+<p>Após o backup você pode utilizá-lo como um live DVD e depois instalar em seu computador. Também é possível instalar numa máquina virtual.<br>
+No início citei que há uma versão para Ubuntu. Baixe-a <a href="https://linuxdicasesuporte.blogspot.com/p/remaster-gtk-ubuntu-e-derivados.html">aqui</a>.</p>
 
 		</div>
 		<footer class="post__footer">
@@ -191,12 +164,6 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
 <div class="post__tags tags clearfix">
 	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
 	<ul class="tags__list">
-		<li class="tags__item">
-			<a class="tags__link btn" href="/tags/linux/" rel="tag">Linux</a>
-		</li>
-		<li class="tags__item">
-			<a class="tags__link btn" href="/tags/tutoriais/" rel="tag">Tutoriais</a>
-		</li>
 		<li class="tags__item">
 			<a class="tags__link btn" href="/tags/backup-do-sistema/" rel="tag">Backup do Sistema</a>
 		</li>
@@ -226,9 +193,9 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
 
 <nav class="pager flex">
 	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/2018/07/backup-com-remaster-gtk.html" rel="prev">
+		<a class="pager__link" href="/2018/04/ms-paint-classico-direto-no-navegador.html" rel="prev">
 			<span class="pager__subtitle">«&thinsp;Anterior</span>
-			<p class="pager__title">Backup com Remaster GTK</p>
+			<p class="pager__title">MS Paint clássico direto no navegador</p>
 		</a>
 	</div>
 	<div class="pager__item pager__item--next">
@@ -311,7 +278,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/android" style="font-size:1.7733875278499005rem">android</a>
+            <a href="/tags/android" style="font-size:1.366975813177339rem">android</a>
         
             
             
@@ -343,7 +310,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/artigos" style="font-size:1.3689996276722822rem">artigos</a>
+            <a href="/tags/artigos" style="font-size:1rem">artigos</a>
         
             
             
@@ -351,7 +318,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/backup-do-sistema" style="font-size:1.2328128441552326rem">backup-do-sistema</a>
+            <a href="/tags/backup-do-sistema" style="font-size:1rem">backup-do-sistema</a>
         
             
             
@@ -359,7 +326,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/baixar-v%C3%ADdeos-do-youtube" style="font-size:1rem">baixar-vídeos-do-youtube</a>
+            <a href="/tags/ccleaner" style="font-size:1.366975813177339rem">ccleaner</a>
         
             
             
@@ -367,7 +334,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/ccleaner" style="font-size:1.2328128441552326rem">ccleaner</a>
+            <a href="/tags/copy.com" style="font-size:1rem">copy.com</a>
         
             
             
@@ -375,7 +342,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/copy" style="font-size:1rem">copy</a>
+            <a href="/tags/debian" style="font-size:1rem">debian</a>
         
             
             
@@ -383,7 +350,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/criar-backup-do-sistema" style="font-size:1rem">criar-backup-do-sistema</a>
+            <a href="/tags/debian-bullseye" style="font-size:1.366975813177339rem">debian-bullseye</a>
         
             
             
@@ -391,7 +358,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/debian" style="font-size:2.038212958450722rem">debian</a>
+            <a href="/tags/debian-buster" style="font-size:1.948618715735074rem">debian-buster</a>
         
             
             
@@ -399,7 +366,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/debian-bullseye" style="font-size:1.2328128441552326rem">debian-bullseye</a>
+            <a href="/tags/dicas" style="font-size:1.366975813177339rem">dicas</a>
         
             
             
@@ -407,7 +374,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/debian-buster" style="font-size:1.601812471827515rem">debian-buster</a>
+            <a href="/tags/dropbox" style="font-size:1.366975813177339rem">dropbox</a>
         
             
             
@@ -415,63 +382,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/descobrir-operadora" style="font-size:1rem">descobrir-operadora</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/dicas" style="font-size:2.1844266936055527rem">dicas</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/dicas-linux-e-windows" style="font-size:1rem">dicas-linux-e-windows</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/dropbox" style="font-size:1.2328128441552326rem">dropbox</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/educacional" style="font-size:1.2328128441552326rem">educacional</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/facebook" style="font-size:1.2328128441552326rem">facebook</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/facebook-messenger" style="font-size:1rem">facebook-messenger</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/fedora" style="font-size:1.601812471827515rem">fedora</a>
+            <a href="/tags/fedora" style="font-size:1rem">fedora</a>
         
             
             
@@ -487,7 +398,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/ferramentas-linux" style="font-size:1.834625315982748rem">ferramentas-linux</a>
+            <a href="/tags/ferramentas-linux" style="font-size:2.100927439532017rem">ferramentas-linux</a>
         
             
             
@@ -495,15 +406,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/firefox" style="font-size:1.7733875278499005rem">firefox</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/flashgot" style="font-size:1rem">flashgot</a>
+            <a href="/tags/firefox" style="font-size:2.1632858051154704rem">firefox</a>
         
             
             
@@ -519,14 +422,6 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/fontes-ubuntu" style="font-size:1rem">fontes-ubuntu</a>
-        
-            
-            
-            
-            
-            
-            
             <a href="/tags/gcompris" style="font-size:1rem">gcompris</a>
         
             
@@ -535,7 +430,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/gmail" style="font-size:1.3689996276722822rem">gmail</a>
+            <a href="/tags/gmail" style="font-size:1rem">gmail</a>
         
             
             
@@ -543,7 +438,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/gnome40" style="font-size:1rem">gnome40</a>
+            <a href="/tags/gnome" style="font-size:1rem">gnome</a>
         
             
             
@@ -551,7 +446,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/google" style="font-size:1.4656256883104652rem">google</a>
+            <a href="/tags/google" style="font-size:1rem">google</a>
         
             
             
@@ -559,7 +454,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/google&#43;" style="font-size:1rem">google&#43;</a>
+            <a href="/tags/google-chrome" style="font-size:1.366975813177339rem">google-chrome</a>
         
             
             
@@ -567,23 +462,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/google-&#43;" style="font-size:1.2328128441552326rem">google-&#43;</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/google-chrome" style="font-size:1.2328128441552326rem">google-chrome</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/google-drive" style="font-size:1.2328128441552326rem">google-drive</a>
+            <a href="/tags/google-drive" style="font-size:1.366975813177339rem">google-drive</a>
         
             
             
@@ -607,7 +486,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/imposto-de-renda" style="font-size:1.4656256883104652rem">imposto-de-renda</a>
+            <a href="/tags/grub" style="font-size:1rem">grub</a>
         
             
             
@@ -623,7 +502,15 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/irpf" style="font-size:1.6535882839574223rem">irpf</a>
+            <a href="/tags/irpf" style="font-size:1.7339516263546781rem">irpf</a>
+        
+            
+            
+            
+            
+            
+            
+            <a href="/tags/java" style="font-size:1.8520914507605992rem">java</a>
         
             
             
@@ -639,7 +526,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/limpar-registro-do-windows" style="font-size:1rem">limpar-registro-do-windows</a>
+            <a href="/tags/linux" style="font-size:2.4679032527093563rem">linux</a>
         
             
             
@@ -647,7 +534,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/linux" style="font-size:2.496116974836724rem">linux</a>
+            <a href="/tags/linux-mint" style="font-size:1rem">linux-mint</a>
         
             
             
@@ -655,7 +542,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/linux-mint" style="font-size:1.4656256883104652rem">linux-mint</a>
+            <a href="/tags/microsoft-edge" style="font-size:1.8520914507605992rem">microsoft-edge</a>
         
             
             
@@ -663,39 +550,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/microsoft" style="font-size:1rem">microsoft</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/microsoft-edge" style="font-size:1.5405746836946679rem">microsoft-edge</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/microsoft-forms-public-preview" style="font-size:1rem">microsoft-forms-public-preview</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/msn-messenger" style="font-size:1rem">msn-messenger</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/m%C3%A1quina-virtual" style="font-size:1.4656256883104652rem">máquina-virtual</a>
+            <a href="/tags/m%C3%A1quina-virtual" style="font-size:1.581642902557735rem">máquina-virtual</a>
         
             
             
@@ -719,47 +574,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/openjdk" style="font-size:1.4656256883104652rem">openjdk</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/opera" style="font-size:1rem">opera</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/oracle-java" style="font-size:1.601812471827515rem">oracle-java</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/orkut" style="font-size:1rem">orkut</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/paint" style="font-size:1.2328128441552326rem">paint</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/particionar-disco" style="font-size:1rem">particionar-disco</a>
+            <a href="/tags/paint" style="font-size:1.366975813177339rem">paint</a>
         
             
             
@@ -775,7 +590,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/recuperar-grub" style="font-size:1.3689996276722822rem">recuperar-grub</a>
+            <a href="/tags/recuperar-grub" style="font-size:1rem">recuperar-grub</a>
         
             
             
@@ -783,7 +598,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/redes-sociais" style="font-size:1rem">redes-sociais</a>
+            <a href="/tags/redes-sociais" style="font-size:2.0302313553994944rem">redes-sociais</a>
         
             
             
@@ -791,15 +606,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/remaster" style="font-size:1.2328128441552326rem">remaster</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/remastersys" style="font-size:1rem">remastersys</a>
+            <a href="/tags/remaster" style="font-size:1.366975813177339rem">remaster</a>
         
             
             
@@ -815,15 +622,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/sis-mirage-3-graphics" style="font-size:1.4656256883104652rem">sis-mirage-3-graphics</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/skype" style="font-size:1rem">skype</a>
+            <a href="/tags/sis-mirage-3-graphics" style="font-size:1.581642902557735rem">sis-mirage-3-graphics</a>
         
             
             
@@ -839,7 +638,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/telegram" style="font-size:1rem">telegram</a>
+            <a href="/tags/tutoriais" style="font-size:1.7339516263546781rem">tutoriais</a>
         
             
             
@@ -847,31 +646,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/tutoriais" style="font-size:2.239013216160366rem">tutoriais</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/tutoriais-debian" style="font-size:1.2328128441552326rem">tutoriais-debian</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/twitter" style="font-size:1rem">twitter</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/ubuntu" style="font-size:2.212827654546125rem">ubuntu</a>
+            <a href="/tags/ubuntu" style="font-size:2.3579718746785505rem">ubuntu</a>
         
             
             
@@ -895,7 +670,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/ubuntu-20.04" style="font-size:1.601812471827515rem">ubuntu-20.04</a>
+            <a href="/tags/ubuntu-20.04" style="font-size:1.8520914507605992rem">ubuntu-20.04</a>
         
             
             
@@ -903,7 +678,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/ubuntu-20.10" style="font-size:1.4656256883104652rem">ubuntu-20.10</a>
+            <a href="/tags/ubuntu-20.10" style="font-size:1.7339516263546781rem">ubuntu-20.10</a>
         
             
             
@@ -911,7 +686,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/ubuntu-21.04" style="font-size:1.5405746836946679rem">ubuntu-21.04</a>
+            <a href="/tags/ubuntu-21.04" style="font-size:1.8520914507605992rem">ubuntu-21.04</a>
         
             
             
@@ -935,15 +710,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/vmware-player" style="font-size:1.3689996276722822rem">vmware-player</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/wayback-machine" style="font-size:1rem">wayback-machine</a>
+            <a href="/tags/vmware-player" style="font-size:1.366975813177339rem">vmware-player</a>
         
             
             
@@ -959,7 +726,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/whatsapp" style="font-size:1.601812471827515rem">whatsapp</a>
+            <a href="/tags/whatsapp" style="font-size:1.366975813177339rem">whatsapp</a>
         
             
             
@@ -975,7 +742,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/windows" style="font-size:1.8615098954054152rem">windows</a>
+            <a href="/tags/windows" style="font-size:1rem">windows</a>
         
             
             
@@ -983,7 +750,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/windows-10" style="font-size:1rem">windows-10</a>
+            <a href="/tags/windows-10" style="font-size:1.581642902557735rem">windows-10</a>
         
             
             
@@ -991,7 +758,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/windows-7" style="font-size:1.5405746836946679rem">windows-7</a>
+            <a href="/tags/windows-7" style="font-size:1.7339516263546781rem">windows-7</a>
         
             
             
@@ -999,15 +766,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/windows-8" style="font-size:1.2328128441552326rem">windows-8</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/windows-live-messenger" style="font-size:1rem">windows-live-messenger</a>
+            <a href="/tags/windows-8" style="font-size:1.366975813177339rem">windows-8</a>
         
             
             
@@ -1023,15 +782,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
             
             
             
-            <a href="/tags/yaru" style="font-size:1.2328128441552326rem">yaru</a>
-        
-            
-            
-            
-            
-            
-            
-            <a href="/tags/youtube-downloader" style="font-size:1rem">youtube-downloader</a>
+            <a href="/tags/yaru" style="font-size:1.366975813177339rem">yaru</a>
         
             
             
@@ -1082,7 +833,7 @@ Instalei a interface LXDE, que gera o download de pouca coisa. Depois gerei a IS
 	<div class="container footer__container flex">
 		
 		<div class="footer__copyright">
-			&copy; 2021 WSouza.
+			&copy; 2021 Dicas Linux e Windows | Ao compartilhar, cite a fonte .
 			<span class="footer__copyright-credits">Gerado com <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> com o tema <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>.</span>
 		</div>
 	</div>

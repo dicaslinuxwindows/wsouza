@@ -189,7 +189,7 @@ h6 {
 }
 
 a {
-	color: #2a2a2a;
+	color: #188bc7;
 	text-decoration: none;
 }
 
@@ -599,7 +599,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .meta,
 .meta a {
-	color: #188bc7;
+	color: #2a2a2a;
 }
 
 .meta a:hover {
@@ -618,7 +618,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .meta__icon {
 	margin-right: 5px;
 	vertical-align: middle;
-	fill: #188bc7;
+	fill: gray;
 }
 
 .meta__text {

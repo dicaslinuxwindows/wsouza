@@ -34,9 +34,9 @@ Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a
       <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
       
       <guid>https://testes.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
-      <description>O Debian Buster enfim está entre nós em sua versão final.
-Saiba aqui os detalhes do lançamento.
-Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.</description>
+      <description>O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.
+Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.
+Para entender como funciona, e para mais informações sobre o Debian leia: Debian - Curiosidades, informações, versões e ciclo de vida</description>
     </item>
     
     <item>
@@ -46,7 +46,6 @@ Debian Debian é um sistema operacional que contém softwares livres. Até o dia
       
       <guid>https://testes.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
       <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
-
 Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
   Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
     </item>
@@ -58,7 +57,6 @@ Considerações iniciais   Este tutorial foi elaborado através da atualização
       
       <guid>https://testes.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
       <description>Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
-
 Debian Debian - Curiosidades, informações, versões e ciclo de vida.
 Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto.</description>
     </item>
@@ -70,7 +68,6 @@ Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um 
       
       <guid>https://testes.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
       <description>A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.
-
 Debian Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em Debian - Curiosidades, informações, versões e ciclo de vida.
 Buster O Debian Buster será a próxima versão estável, sendo substituto do Debian Stretch.</description>
     </item>
