@@ -528,7 +528,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
   position: absolute;
   max-width: 15rem;
   transition: all 0.5s ease;
-  border-top: 5px solid #e22d30;
+  border-top: 0px solid #e22d30;
   display: none;
 }
 
