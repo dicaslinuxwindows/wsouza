@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
+    <title>Dicas Linux e Windows</title>
     <link>https://info.wsouza.com.br/</link>
-    <description>Recent content on </description>
+    <description>Recent content on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/index.xml" rel="self" type="application/rss+xml" />
@@ -1288,15 +1288,6 @@ Isto não irá acontecer, pois a rede do Windows Live Messenger continuará func
     </item>
     
     <item>
-      <title>Categorias</title>
-      <link>https://info.wsouza.com.br/categorias/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://info.wsouza.com.br/categorias/</guid>
-      <description>Artigos Dicas Educacional Tutoriais </description>
-    </item>
-    
-    <item>
       <title>Privacidade</title>
       <link>https://info.wsouza.com.br/privacidade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1306,22 +1297,13 @@ Isto não irá acontecer, pois a rede do Windows Live Messenger continuará func
     </item>
     
     <item>
-      <title>Sistemas</title>
-      <link>https://info.wsouza.com.br/sistemas/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://info.wsouza.com.br/sistemas/</guid>
-      <description>Android Debian Fedora Linux Mint Ubuntu Windows </description>
-    </item>
-    
-    <item>
       <title>Sobre</title>
       <link>https://info.wsouza.com.br/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://info.wsouza.com.br/sobre/</guid>
       <description>Este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&amp;hellip; O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.
-Todo o conteúdo deste blog é livre. Fica autorizada a sua tradução e uso em outros locais desde que cite a fonte.</description>
+Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</description>
     </item>
     
   </channel>

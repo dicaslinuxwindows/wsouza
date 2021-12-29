@@ -1,1 +1,4 @@
 User-agent: *
+Allow: /
+
+Sitemap: http://info.wsouza.com.br/sitemap.xml

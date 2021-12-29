@@ -88,6 +88,7 @@ body {
 	flex: 1 0 31.66%;
 	-webkit-order: 2;
 	order: 2;
+	text-align: left;
 	min-width: 0;
 	margin: 0 0 0 2.5%;
 }
@@ -382,6 +383,7 @@ select {
 /* Header */
 .header {
 	background: #fff;
+	text-align: left;
 }
 
 .logo {
@@ -403,6 +405,7 @@ select {
 
 .logo__text {
 	text-transform: uppercase;
+	font-size: 55px;
 }
 
 .logo--mixed .logo__item {
@@ -697,6 +700,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .post__title {
 	margin: 0;
+	text-align: lefy;
 }
 
 .post__meta {
