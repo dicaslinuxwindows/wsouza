@@ -563,7 +563,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .js .menu__list--active {
   visibility: visible;
   border-top: 1px solid rgba(255, 255, 255, 0.1);
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 0px solid rgba(255, 255, 255, 0.1);
   -webkit-transform: scaleY(1);
   transform: scaleY(1);
 }
