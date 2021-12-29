@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Remaster on </title>
-    <link>https://testes.wsouza.com.br/tags/remaster/</link>
+    <link>https://info.wsouza.com.br/tags/remaster/</link>
     <description>Recent content in Remaster on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jul 2018 22:00:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/remaster/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jul 2018 22:00:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/remaster/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Backup com Remaster GTK</title>
-      <link>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
+      <link>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
+      <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
       <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
 1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
@@ -20,10 +20,10 @@ E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entr
     
     <item>
       <title>Remastersys - Um ótimo utilitário de backup para Ubuntu</title>
-      <link>https://testes.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
+      <link>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
       <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
+      <guid>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
       <description>O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.
 Leia em Backup com Remaster-GTK
 Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil.</description>

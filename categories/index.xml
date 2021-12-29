@@ -2,107 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on </title>
-    <link>https://testes.wsouza.com.br/categories/</link>
+    <link>https://info.wsouza.com.br/categories/</link>
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu</title>
-      <link>https://testes.wsouza.com.br/categories/ubuntu/</link>
+      <link>https://info.wsouza.com.br/categories/ubuntu/</link>
       <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/ubuntu/</guid>
+      <guid>https://info.wsouza.com.br/categories/ubuntu/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artigos</title>
-      <link>https://testes.wsouza.com.br/categories/artigos/</link>
+      <link>https://info.wsouza.com.br/categories/artigos/</link>
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/artigos/</guid>
+      <guid>https://info.wsouza.com.br/categories/artigos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Debian</title>
-      <link>https://testes.wsouza.com.br/categories/debian/</link>
+      <link>https://info.wsouza.com.br/categories/debian/</link>
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/debian/</guid>
+      <guid>https://info.wsouza.com.br/categories/debian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fedora</title>
-      <link>https://testes.wsouza.com.br/categories/fedora/</link>
+      <link>https://info.wsouza.com.br/categories/fedora/</link>
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/fedora/</guid>
+      <guid>https://info.wsouza.com.br/categories/fedora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dicas</title>
-      <link>https://testes.wsouza.com.br/categories/dicas/</link>
+      <link>https://info.wsouza.com.br/categories/dicas/</link>
       <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/dicas/</guid>
+      <guid>https://info.wsouza.com.br/categories/dicas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutoriais</title>
-      <link>https://testes.wsouza.com.br/categories/tutoriais/</link>
+      <link>https://info.wsouza.com.br/categories/tutoriais/</link>
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/tutoriais/</guid>
+      <guid>https://info.wsouza.com.br/categories/tutoriais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux Mint</title>
-      <link>https://testes.wsouza.com.br/categories/linux-mint/</link>
+      <link>https://info.wsouza.com.br/categories/linux-mint/</link>
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/linux-mint/</guid>
+      <guid>https://info.wsouza.com.br/categories/linux-mint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://testes.wsouza.com.br/categories/android/</link>
+      <link>https://info.wsouza.com.br/categories/android/</link>
       <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/android/</guid>
+      <guid>https://info.wsouza.com.br/categories/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://testes.wsouza.com.br/categories/windows/</link>
+      <link>https://info.wsouza.com.br/categories/windows/</link>
       <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/windows/</guid>
+      <guid>https://info.wsouza.com.br/categories/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Educacional</title>
-      <link>https://testes.wsouza.com.br/categories/educacional/</link>
+      <link>https://info.wsouza.com.br/categories/educacional/</link>
       <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/categories/educacional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://testes.wsouza.com.br/categories/linux/</link>
-      <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
-      
-      <guid>https://testes.wsouza.com.br/categories/linux/</guid>
+      <guid>https://info.wsouza.com.br/categories/educacional/</guid>
       <description></description>
     </item>
     

@@ -2,555 +2,552 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://testes.wsouza.com.br/</loc>
+    <loc>https://info.wsouza.com.br/</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/</loc>
+    <loc>https://info.wsouza.com.br/categories/</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</loc>
+    <loc>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/post/</loc>
+    <loc>https://info.wsouza.com.br/post/</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/</loc>
+    <loc>https://info.wsouza.com.br/tags/</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/ubuntu/</loc>
+    <loc>https://info.wsouza.com.br/categories/ubuntu/</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ubuntu-21.04/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-21.04/</loc>
     <lastmod>2021-04-25T23:03:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/artigos/</loc>
+    <loc>https://info.wsouza.com.br/categories/artigos/</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/debian/</loc>
+    <loc>https://info.wsouza.com.br/categories/debian/</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/fedora/</loc>
+    <loc>https://info.wsouza.com.br/categories/fedora/</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/gnome/</loc>
+    <loc>https://info.wsouza.com.br/tags/gnome/</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</loc>
+    <loc>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</loc>
+    <loc>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</loc>
     <lastmod>2021-04-01T01:37:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/dicas/</loc>
+    <loc>https://info.wsouza.com.br/categories/dicas/</loc>
     <lastmod>2021-03-29T23:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/microsoft-edge/</loc>
+    <loc>https://info.wsouza.com.br/tags/microsoft-edge/</loc>
     <lastmod>2021-03-29T23:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</loc>
     <lastmod>2021-03-29T23:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</loc>
+    <loc>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/irpf/</loc>
+    <loc>https://info.wsouza.com.br/tags/irpf/</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/java/</loc>
+    <loc>https://info.wsouza.com.br/tags/java/</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/tutoriais/</loc>
+    <loc>https://info.wsouza.com.br/categories/tutoriais/</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</loc>
     <lastmod>2021-01-25T23:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/linux-mint/</loc>
+    <loc>https://info.wsouza.com.br/categories/linux-mint/</loc>
     <lastmod>2021-01-25T23:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/m%C3%A1quina-virtual/</loc>
+    <loc>https://info.wsouza.com.br/tags/m%C3%A1quina-virtual/</loc>
     <lastmod>2021-01-25T23:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/virtualbox/</loc>
+    <loc>https://info.wsouza.com.br/tags/virtualbox/</loc>
     <lastmod>2021-01-25T23:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</loc>
+    <loc>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</loc>
     <lastmod>2021-01-24T00:30:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/debian-bullseye/</loc>
+    <loc>https://info.wsouza.com.br/tags/debian-bullseye/</loc>
     <lastmod>2021-01-17T23:20:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</loc>
+    <loc>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</loc>
     <lastmod>2021-01-17T23:20:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/flatpak/</loc>
+    <loc>https://info.wsouza.com.br/tags/flatpak/</loc>
     <lastmod>2020-12-31T01:07:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</loc>
+    <loc>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</loc>
     <lastmod>2020-12-31T01:07:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/snap/</loc>
+    <loc>https://info.wsouza.com.br/tags/snap/</loc>
     <lastmod>2020-12-31T01:07:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/firefox/</loc>
+    <loc>https://info.wsouza.com.br/tags/firefox/</loc>
     <lastmod>2020-11-19T22:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</loc>
+    <loc>https://info.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</loc>
     <lastmod>2020-11-19T22:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</loc>
+    <loc>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</loc>
     <lastmod>2020-11-04T23:19:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</loc>
     <lastmod>2020-10-30T18:38:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/lancamento-fedora-33.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</loc>
     <lastmod>2020-10-28T14:56:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ubuntu-20.10/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-20.10/</loc>
     <lastmod>2020-10-22T23:58:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</loc>
     <lastmod>2020-10-22T23:58:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</loc>
     <lastmod>2020-10-21T23:57:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/libre-office/</loc>
+    <loc>https://info.wsouza.com.br/tags/libre-office/</loc>
     <lastmod>2020-10-12T17:53:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</loc>
     <lastmod>2020-10-12T17:53:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/yaru/</loc>
+    <loc>https://info.wsouza.com.br/tags/yaru/</loc>
     <lastmod>2020-10-12T17:53:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/fedora-33/</loc>
+    <loc>https://info.wsouza.com.br/tags/fedora-33/</loc>
     <lastmod>2020-10-07T00:05:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/fedora-33-beta.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</loc>
     <lastmod>2020-10-07T00:05:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</loc>
+    <loc>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</loc>
     <lastmod>2020-10-06T22:33:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</loc>
     <lastmod>2020-09-22T17:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/09/gnome-338-e-lancado.html</loc>
+    <loc>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</loc>
     <lastmod>2020-09-18T21:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</loc>
+    <loc>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</loc>
     <lastmod>2020-09-08T21:16:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/android/</loc>
+    <loc>https://info.wsouza.com.br/categories/android/</loc>
     <lastmod>2020-08-27T19:37:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</loc>
+    <loc>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</loc>
     <lastmod>2020-08-27T19:37:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</loc>
+    <loc>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</loc>
     <lastmod>2020-08-25T23:09:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/debian-buster/</loc>
+    <loc>https://info.wsouza.com.br/tags/debian-buster/</loc>
     <lastmod>2020-08-01T22:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</loc>
+    <loc>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</loc>
     <lastmod>2020-08-01T22:51:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</loc>
+    <loc>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</loc>
     <lastmod>2020-07-09T01:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</loc>
+    <loc>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</loc>
     <lastmod>2020-06-28T23:57:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</loc>
+    <loc>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</loc>
     <lastmod>2020-06-12T23:05:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</loc>
+    <loc>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</loc>
     <lastmod>2020-05-25T01:12:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</loc>
+    <loc>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</loc>
     <lastmod>2020-04-23T12:16:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ubuntu-20.04/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-20.04/</loc>
     <lastmod>2020-04-23T12:16:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</loc>
+    <loc>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</loc>
     <lastmod>2020-04-23T11:38:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</loc>
     <lastmod>2020-04-20T02:17:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ferramentas-linux/</loc>
+    <loc>https://info.wsouza.com.br/tags/ferramentas-linux/</loc>
     <lastmod>2020-04-20T02:17:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</loc>
+    <loc>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</loc>
     <lastmod>2020-04-09T23:58:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</loc>
+    <loc>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</loc>
     <lastmod>2020-04-03T23:50:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</loc>
+    <loc>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</loc>
     <lastmod>2020-04-01T00:21:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</loc>
     <lastmod>2020-03-31T21:07:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</loc>
+    <loc>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</loc>
     <lastmod>2020-03-29T20:06:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/windows/</loc>
+    <loc>https://info.wsouza.com.br/categories/windows/</loc>
     <lastmod>2020-03-29T20:06:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/windows-10/</loc>
+    <loc>https://info.wsouza.com.br/tags/windows-10/</loc>
     <lastmod>2020-03-29T20:06:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</loc>
+    <loc>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</loc>
     <lastmod>2020-03-25T20:35:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/03/firefox-74-e-lancado.html</loc>
+    <loc>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</loc>
     <lastmod>2020-03-10T13:52:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</loc>
+    <loc>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</loc>
     <lastmod>2020-03-02T22:56:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</loc>
+    <loc>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</loc>
     <lastmod>2020-03-01T23:45:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</loc>
+    <loc>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</loc>
     <lastmod>2020-02-23T00:54:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</loc>
+    <loc>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</loc>
     <lastmod>2020-02-22T23:16:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</loc>
+    <loc>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</loc>
     <lastmod>2020-02-14T02:32:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/windows-7/</loc>
+    <loc>https://info.wsouza.com.br/tags/windows-7/</loc>
     <lastmod>2020-02-14T02:32:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</loc>
+    <loc>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</loc>
     <lastmod>2020-02-13T23:53:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</loc>
+    <loc>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</loc>
     <lastmod>2020-01-06T14:30:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</loc>
     <lastmod>2019-11-10T21:21:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ubuntu-19.10/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-19.10/</loc>
     <lastmod>2019-10-18T11:31:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</loc>
+    <loc>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</loc>
     <lastmod>2019-10-18T11:31:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/educacional/</loc>
+    <loc>https://info.wsouza.com.br/categories/educacional/</loc>
     <lastmod>2019-10-06T22:41:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</loc>
+    <loc>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</loc>
     <lastmod>2019-10-06T22:41:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</loc>
+    <loc>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</loc>
     <lastmod>2019-08-19T13:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</loc>
+    <loc>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</loc>
     <lastmod>2019-08-10T02:41:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/vlc/</loc>
+    <loc>https://info.wsouza.com.br/tags/vlc/</loc>
     <lastmod>2019-08-10T02:41:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</loc>
+    <loc>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</loc>
     <lastmod>2019-07-20T20:31:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</loc>
+    <loc>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</loc>
     <lastmod>2019-07-06T23:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/07/novo-firefox-para-android.html</loc>
+    <loc>https://info.wsouza.com.br/2019/07/novo-firefox-para-android.html</loc>
     <lastmod>2019-07-05T00:52:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</loc>
+    <loc>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</loc>
     <lastmod>2019-07-03T00:05:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</loc>
+    <loc>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</loc>
     <lastmod>2019-07-02T21:19:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/07/novidades-whatsapp.html</loc>
+    <loc>https://info.wsouza.com.br/2019/07/novidades-whatsapp.html</loc>
     <lastmod>2019-07-01T23:06:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/redes-sociais/</loc>
+    <loc>https://info.wsouza.com.br/tags/redes-sociais/</loc>
     <lastmod>2019-07-01T23:06:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</loc>
+    <loc>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</loc>
     <lastmod>2019-06-27T01:39:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</loc>
+    <loc>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</loc>
     <lastmod>2019-06-26T22:24:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</loc>
+    <loc>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</loc>
     <lastmod>2019-06-25T00:05:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/06/mudanca-no-sistema-de-comentarios-do-blog.html</loc>
+    <loc>https://info.wsouza.com.br/2019/06/mudanca-no-sistema-de-comentarios-do-blog.html</loc>
     <lastmod>2019-06-24T11:12:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</loc>
+    <loc>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</loc>
     <lastmod>2019-06-20T19:41:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</loc>
+    <loc>https://info.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</loc>
     <lastmod>2019-05-07T23:30:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</loc>
+    <loc>https://info.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</loc>
     <lastmod>2019-05-05T21:46:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/open-source/</loc>
+    <loc>https://info.wsouza.com.br/tags/open-source/</loc>
     <lastmod>2019-05-05T21:46:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</loc>
+    <loc>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</loc>
     <lastmod>2019-04-20T18:54:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ubuntu-19.04/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-19.04/</loc>
     <lastmod>2019-04-20T18:54:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</loc>
+    <loc>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</loc>
     <lastmod>2019-03-27T08:21:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</loc>
+    <loc>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</loc>
     <lastmod>2019-03-14T00:30:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</loc>
+    <loc>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</loc>
     <lastmod>2019-03-13T21:36:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</loc>
+    <loc>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</loc>
     <lastmod>2019-03-12T00:53:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</loc>
     <lastmod>2019-03-11T19:37:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/gcompris/</loc>
+    <loc>https://info.wsouza.com.br/tags/gcompris/</loc>
     <lastmod>2019-02-16T23:38:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/02/suite-educacional-gcompris.html</loc>
+    <loc>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</loc>
     <lastmod>2019-02-16T23:38:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/02/ferramentas-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</loc>
     <lastmod>2019-02-01T05:48:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categories/linux/</loc>
-    <lastmod>2019-02-01T05:48:00-02:00</lastmod>
-  </url><url>
-    <loc>https://testes.wsouza.com.br/tags/gmail/</loc>
+    <loc>https://info.wsouza.com.br/tags/gmail/</loc>
     <lastmod>2019-01-31T15:01:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/01/nova-aparencia-do-aplicativo-do-gmail.html</loc>
+    <loc>https://info.wsouza.com.br/2019/01/nova-aparencia-do-aplicativo-do-gmail.html</loc>
     <lastmod>2019-01-31T15:01:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/webmin/</loc>
+    <loc>https://info.wsouza.com.br/tags/webmin/</loc>
     <lastmod>2019-01-22T13:35:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</loc>
+    <loc>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</loc>
     <lastmod>2019-01-22T13:35:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</loc>
+    <loc>https://info.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</loc>
     <lastmod>2019-01-17T13:43:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</loc>
+    <loc>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</loc>
     <lastmod>2018-12-21T23:00:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/recuperar-grub/</loc>
+    <loc>https://info.wsouza.com.br/tags/recuperar-grub/</loc>
     <lastmod>2018-12-21T23:00:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</loc>
+    <loc>https://info.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</loc>
     <lastmod>2018-12-17T11:41:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/google/</loc>
+    <loc>https://info.wsouza.com.br/tags/google/</loc>
     <lastmod>2018-12-17T11:41:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</loc>
+    <loc>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</loc>
     <lastmod>2018-11-19T12:29:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</loc>
+    <loc>https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</loc>
     <lastmod>2018-10-08T22:12:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/10/encerrar-ou-desativar-contas-do-facebook-instagram-google-e-outras.html</loc>
+    <loc>https://info.wsouza.com.br/2018/10/encerrar-ou-desativar-contas-do-facebook-instagram-google-e-outras.html</loc>
     <lastmod>2018-10-06T01:32:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/dropbox/</loc>
+    <loc>https://info.wsouza.com.br/tags/dropbox/</loc>
     <lastmod>2018-08-26T19:26:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</loc>
     <lastmod>2018-08-26T19:26:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</loc>
+    <loc>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</loc>
     <lastmod>2018-08-14T16:22:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/vmware-player/</loc>
+    <loc>https://info.wsouza.com.br/tags/vmware-player/</loc>
     <lastmod>2018-08-14T16:22:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</loc>
+    <loc>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</loc>
     <lastmod>2018-07-25T02:15:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</loc>
+    <loc>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</loc>
     <lastmod>2018-07-24T01:32:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/gparted/</loc>
+    <loc>https://info.wsouza.com.br/tags/gparted/</loc>
     <lastmod>2018-07-19T20:28:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/07/gparted-particionador-grafico.html</loc>
+    <loc>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</loc>
     <lastmod>2018-07-19T20:28:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</loc>
+    <loc>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</loc>
     <lastmod>2018-07-16T22:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/remaster/</loc>
+    <loc>https://info.wsouza.com.br/tags/remaster/</loc>
     <lastmod>2018-07-16T22:00:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</loc>
+    <loc>https://info.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</loc>
     <lastmod>2018-04-28T19:19:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/paint/</loc>
+    <loc>https://info.wsouza.com.br/tags/paint/</loc>
     <lastmod>2018-04-28T19:19:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/whatsapp/</loc>
+    <loc>https://info.wsouza.com.br/tags/whatsapp/</loc>
     <lastmod>2018-02-27T12:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</loc>
+    <loc>https://info.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</loc>
     <lastmod>2018-02-27T12:13:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</loc>
+    <loc>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</loc>
     <lastmod>2018-01-16T02:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/windows-8/</loc>
+    <loc>https://info.wsouza.com.br/tags/windows-8/</loc>
     <lastmod>2018-01-16T02:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</loc>
+    <loc>https://info.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</loc>
     <lastmod>2018-01-09T03:41:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ccleaner/</loc>
+    <loc>https://info.wsouza.com.br/tags/ccleaner/</loc>
     <lastmod>2017-09-19T13:01:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</loc>
+    <loc>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</loc>
     <lastmod>2017-09-19T13:01:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</loc>
+    <loc>https://info.wsouza.com.br/2017/07/fim-do-paint.html</loc>
     <lastmod>2017-07-25T15:04:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</loc>
+    <loc>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</loc>
     <lastmod>2017-06-17T20:29:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html</loc>
+    <loc>https://info.wsouza.com.br/2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html</loc>
     <lastmod>2017-05-31T13:05:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2017/03/golpes-nas-compras-online.html</loc>
+    <loc>https://info.wsouza.com.br/2017/03/golpes-nas-compras-online.html</loc>
     <lastmod>2017-03-15T00:29:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</loc>
+    <loc>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</loc>
     <lastmod>2016-12-30T01:23:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2016/11/nunca-mais-perca-seus-contatos-do-celular.html</loc>
+    <loc>https://info.wsouza.com.br/2016/11/nunca-mais-perca-seus-contatos-do-celular.html</loc>
     <lastmod>2016-11-20T23:19:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</loc>
+    <loc>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</loc>
     <lastmod>2016-02-21T01:02:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</loc>
+    <loc>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</loc>
     <lastmod>2015-12-01T01:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/google-maps/</loc>
+    <loc>https://info.wsouza.com.br/tags/google-maps/</loc>
     <lastmod>2015-12-01T01:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</loc>
+    <loc>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</loc>
     <lastmod>2015-11-01T13:12:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/ubuntu-15.10/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-15.10/</loc>
     <lastmod>2015-10-22T23:50:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</loc>
+    <loc>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</loc>
     <lastmod>2015-10-22T23:50:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</loc>
+    <loc>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</loc>
     <lastmod>2015-10-07T22:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</loc>
+    <loc>https://info.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</loc>
     <lastmod>2015-09-30T00:28:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</loc>
+    <loc>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</loc>
     <lastmod>2015-09-29T23:09:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</loc>
+    <loc>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</loc>
     <lastmod>2015-04-27T00:24:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</loc>
+    <loc>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</loc>
     <lastmod>2015-04-26T23:31:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</loc>
+    <loc>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</loc>
     <lastmod>2015-01-04T05:05:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/sis-mirage-3-graphics/</loc>
+    <loc>https://info.wsouza.com.br/tags/sis-mirage-3-graphics/</loc>
     <lastmod>2015-01-04T05:05:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</loc>
+    <loc>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</loc>
     <lastmod>2015-01-03T03:15:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/pendrive-multiboot/</loc>
+    <loc>https://info.wsouza.com.br/tags/pendrive-multiboot/</loc>
     <lastmod>2015-01-03T03:15:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2014/11/alguns-sites-uteis.html</loc>
+    <loc>https://info.wsouza.com.br/2014/11/alguns-sites-uteis.html</loc>
     <lastmod>2014-11-06T12:41:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</loc>
+    <loc>https://info.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</loc>
     <lastmod>2014-06-30T23:52:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</loc>
+    <loc>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</loc>
     <lastmod>2013-12-29T00:22:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/armazenamento-na-nuvem/</loc>
+    <loc>https://info.wsouza.com.br/tags/armazenamento-na-nuvem/</loc>
     <lastmod>2013-11-17T03:19:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</loc>
+    <loc>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</loc>
     <lastmod>2013-11-17T03:19:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/adblock-plus/</loc>
+    <loc>https://info.wsouza.com.br/tags/adblock-plus/</loc>
     <lastmod>2013-08-18T21:07:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/08/dica-adblock-plus.html</loc>
+    <loc>https://info.wsouza.com.br/2013/08/dica-adblock-plus.html</loc>
     <lastmod>2013-08-18T21:07:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/08/flashgot.html</loc>
+    <loc>https://info.wsouza.com.br/2013/08/flashgot.html</loc>
     <lastmod>2013-08-14T23:12:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/tags/arquivo-da-internet/</loc>
+    <loc>https://info.wsouza.com.br/tags/arquivo-da-internet/</loc>
     <lastmod>2013-07-31T00:36:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/07/arquivo-da-internet.html</loc>
+    <loc>https://info.wsouza.com.br/2013/07/arquivo-da-internet.html</loc>
     <lastmod>2013-07-31T00:36:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/07/ccleaner.html</loc>
+    <loc>https://info.wsouza.com.br/2013/07/ccleaner.html</loc>
     <lastmod>2013-07-23T01:57:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/04/descobrir-telefone.html</loc>
+    <loc>https://info.wsouza.com.br/2013/04/descobrir-telefone.html</loc>
     <lastmod>2013-04-09T00:11:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/04/sis-mirage3.html</loc>
+    <loc>https://info.wsouza.com.br/2013/04/sis-mirage3.html</loc>
     <lastmod>2013-04-02T00:23:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</loc>
+    <loc>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</loc>
     <lastmod>2013-02-23T00:34:00-03:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</loc>
+    <loc>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</loc>
     <lastmod>2013-01-27T00:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</loc>
+    <loc>https://info.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</loc>
     <lastmod>2013-01-14T00:57:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</loc>
+    <loc>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</loc>
     <lastmod>2013-01-08T03:26:00-02:00</lastmod>
   </url><url>
-    <loc>https://testes.wsouza.com.br/categorias/</loc>
+    <loc>https://info.wsouza.com.br/categorias/</loc>
   </url><url>
-    <loc>https://testes.wsouza.com.br/privacidade/</loc>
+    <loc>https://info.wsouza.com.br/privacidade/</loc>
   </url><url>
-    <loc>https://testes.wsouza.com.br/sistemas/</loc>
+    <loc>https://info.wsouza.com.br/sistemas/</loc>
   </url><url>
-    <loc>https://testes.wsouza.com.br/sobre/</loc>
+    <loc>https://info.wsouza.com.br/sobre/</loc>
   </url>
 </urlset>

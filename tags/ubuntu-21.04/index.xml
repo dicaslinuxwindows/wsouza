@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu 21.04 on </title>
-    <link>https://testes.wsouza.com.br/tags/ubuntu-21.04/</link>
+    <link>https://info.wsouza.com.br/tags/ubuntu-21.04/</link>
     <description>Recent content in Ubuntu 21.04 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/ubuntu-21.04/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ubuntu-21.04/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lançado o Ubuntu 21.04 Hirsute Hippo</title>
-      <link>https://testes.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</link>
+      <link>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</link>
       <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
+      <guid>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
       <description>Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
 Hirsute Hippo Como citado nas matérias anteriores sobre a versão 21.04, o nome Hirsute Hippo significa &amp;ldquo;Hipopótamo Peludo&amp;rdquo;.
 Esta será a segunda de 3 versões intermediárias que são lançadas entre cada versão LTS (a primeira foi a 20.10 e a próxima será a 21.10). É uma versão estável e seu suporte terá duração de 9 meses, durando até janeiro de 2022, conforme o ciclo de vida das versões do Ubuntu.</description>
@@ -20,30 +20,30 @@ Esta será a segunda de 3 versões intermediárias que são lançadas entre cada
     
     <item>
       <title>Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações </title>
-      <link>https://testes.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</link>
+      <link>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</link>
       <pubDate>Thu, 01 Apr 2021 01:37:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</guid>
+      <guid>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</guid>
       <description>Veja nesta matéria como está o cronograma de lançamento da próxima versão do Ubuntu, a 21.04 - chamada de Hirsute Hippo - e mais algumas informações.
 Ubuntu 21.04 - Hirsute Hippo É a próxima (e segunda de três) versão do intermediária do Ubuntu, que será lançada em abril e teve seu desenvolvimento iniciado em Outubro de 2020, conforme a matéria publicada na época: Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado.</description>
     </item>
     
     <item>
       <title>Ubuntu 21.04  - Saiba as últimas da versão que será lançada em Abril</title>
-      <link>https://testes.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</link>
+      <link>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</link>
       <pubDate>Sun, 24 Jan 2021 00:30:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</guid>
+      <guid>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</guid>
       <description>Com lançamento previsto para Abril, as notícias sobre o Ubuntu 21.04 Hirsute Hippo vêm surgindo. Veja nesta matéria o que foi revelado sobre ele até o momento.
 Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que está programada para lançamento no dia 22 de abril de 2021. Seguindo o padrão de lançamentos do Ubuntu esta será a segunda de três versões intermediárias antes de uma versão LTS.</description>
     </item>
     
     <item>
       <title>Daily Builds do Ubuntu 21.04 liberadas</title>
-      <link>https://testes.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</link>
+      <link>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</link>
       <pubDate>Wed, 04 Nov 2020 23:19:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
+      <guid>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
       <description>Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.
 Daily Builds Se ainda faltava alguma coisa para oficializar o início do desenvolvimento do Ubuntu 21.04, cujo nome será Hirsute Hippo, já não falta mais. Agora as Daily Builds, ou compilações diárias, começaram a ser liberadas.
 Mas o que são estas Daily Builds? São images ISO que são disponibilizadas diariamente com as novidades ou alterações lançadas até aquele momento.</description>
@@ -51,10 +51,10 @@ Mas o que são estas Daily Builds? São images ISO que são disponibilizadas dia
     
     <item>
       <title>Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado</title>
-      <link>https://testes.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</link>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</link>
       <pubDate>Fri, 30 Oct 2020 18:38:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</guid>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</guid>
       <description>Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.
 Como de costume, logo após lançar uma versão do Ubuntu, a equipe começa a publicar coisas sobre a próxima versão. Hoje foi revelado qual será o nome e codinome do Ubuntu 21.04, que será lançado em abril de 2021.
 Ubuntu Hirsute Hippo Como já sabemos, os nomes e codinomes das versões do Ubuntu alguns padrões.</description>

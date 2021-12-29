@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Educacional on </title>
-    <link>https://testes.wsouza.com.br/categories/educacional/</link>
+    <link>https://info.wsouza.com.br/categories/educacional/</link>
     <description>Recent content in Educacional on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2019 22:41:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/categories/educacional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2019 22:41:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/categories/educacional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skolelinux, o Debian Educacional</title>
-      <link>https://testes.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
+      <link>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
       <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
+      <guid>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
       <description>Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.
 Skolelinux O Skolelinux (ou Debian EDU) é um ambiente educacional completo e facilmente configurável. Após instalado e configurado disponibiliza um conjunto de aplicativos educacionais que pode ser categorizado por idade, além de um servidor LTSP¹.
 Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com um ambiente educacional instalado e pré-configurado. Possui perfis com aplicativos educacionais voltados para várias faixas de idade.</description>
@@ -20,10 +20,10 @@ Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com 
     
     <item>
       <title>Suíte Educacional GCompris</title>
-      <link>https://testes.wsouza.com.br/2019/02/suite-educacional-gcompris.html</link>
+      <link>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</link>
       <pubDate>Sat, 16 Feb 2019 23:38:00 -0200</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2019/02/suite-educacional-gcompris.html</guid>
+      <guid>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</guid>
       <description>GCompris é uma suíte educacional que oferece atividades para crianças partir dos 2 anos de idade. Na versão que será apresentada aqui possui mais de 141 atividades.
 O GCompris é incluído em vários sistemas Linux. É gratuito para Linux e Mac. Para Windows e Android há uma versão demo e uma versão completa, esta última paga. Conta com uma grande quantidade de colaboradores pelo mundo que auxiliam, entre outras coisas, na tradução para diversos idiomas.</description>
     </item>

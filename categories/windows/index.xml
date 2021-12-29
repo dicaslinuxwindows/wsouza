@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on </title>
-    <link>https://testes.wsouza.com.br/categories/windows/</link>
+    <link>https://info.wsouza.com.br/categories/windows/</link>
     <description>Recent content in Windows on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2020 20:06:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/categories/windows/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Mar 2020 20:06:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/categories/windows/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Painel de Controle do Windows pode estar com os dias contados</title>
-      <link>https://testes.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</link>
+      <link>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</link>
       <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</guid>
+      <guid>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</guid>
       <description>Ao que parece, a Microsoft vem trabalhando para acabar com o Painel de Controle, tradicional ferramenta onde ficam as configurações do Windows.
 O Painel de Controle foi lançado no Windows 1.0, em 1985. Até o Windows 3.1 era um utilitário (como eram chamadas as ferramentas do Windows na época) e, após o Windows 95 passou a ser parte integrante do sistema. A partir do ano 2000, com o lançamento do Windows ME e 2000, ele passou a possuir a mesma estrutura que possui atualmente.</description>
     </item>
     
     <item>
       <title>Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 2</title>
-      <link>https://testes.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</link>
+      <link>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</link>
       <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
+      <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
       <description>Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.
 Na matéria anterior mostrei como atualizar o W7 para o W10 utilizando a ferramenta de atualização da Microsoft. A tal ferramenta dá 2 opções de atualização, sendo a primeira forma a que mostrei na matéria anterior, onde o W10 é baixado e instalado automaticamente no dispositivo onde estava instalado o W7.</description>
     </item>
     
     <item>
       <title>Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 1</title>
-      <link>https://testes.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</link>
+      <link>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</link>
       <pubDate>Thu, 13 Feb 2020 23:53:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
+      <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
       <description>Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.
 Atualizar para o W10. Sim ou não? O suporte do W7 acabou em 14 de janeiro de 2020, conforme foi mostrado na matéria anterior. Muita gente ainda permanece com o W7 por vários motivos, entre estes está o medo de não se adaptar ao W10 ou não possuir um hardware que suporte o sistema, ou ainda não poder obter uma licença do W10, que custa R$ 730,00 (Home) e R$ 1099,00 (Pro).</description>
     </item>
     
     <item>
       <title>Suporte do Windows 7 acaba em 14/01/2020</title>
-      <link>https://testes.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</link>
+      <link>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</link>
       <pubDate>Mon, 06 Jan 2020 14:30:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</guid>
+      <guid>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</guid>
       <description>Conforme anunciado no ano passado, a Microsoft deixará de fornecer atualizações de segurança gratuitas para o Windows 7 em janeiro de 2020. Saiba mais a seguir.
 O final do fim No dia 14 de janeiro de 2020 o suporte dado ao Windows 7 pela Microsoft será encerrado completamente. A data oficial é esta, mas considere que o sistema está &amp;ldquo;morto&amp;rdquo;. Por curiosidade tentei atualizar o Windows Defender, e posteriormente o Microsoft Security Essentials no dia 03 de janeiro e já não foi possível completar a atualização.</description>
     </item>
     
     <item>
       <title>Como gravar a tela utilizando o VLC</title>
-      <link>https://testes.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</link>
+      <link>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</link>
       <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
+      <guid>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
       <description>Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
 O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.
 Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC.</description>
@@ -60,20 +60,20 @@ Quando falamos de gravação de tela existem várias opções de softwares, apli
     
     <item>
       <title>Microsoft Edge agora é baseado no Chromium</title>
-      <link>https://testes.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</link>
+      <link>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</link>
       <pubDate>Wed, 27 Mar 2019 08:21:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
+      <guid>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
       <description>Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.
 Microsoft Edge O Microsoft Edge foi lançado em 2015 para ser o sucessor do Microsoft Internet Explorer, que teve sua última versão lançada em 2017. A versão atual, não baseada no Chromium, nunca conseguiu obter uma boa fatia de mercado. Com o novo Edge a Microsoft tentava voltar à liderança entre os navegadores, posto que deteve durante muitos anos com o Internet Explorer e perdeu em 2012 para o Google Chrome.</description>
     </item>
     
     <item>
       <title>Microsoft alerta usuários do Windows 7 sobre atualização para o Windows 10</title>
-      <link>https://testes.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</link>
+      <link>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</link>
       <pubDate>Thu, 14 Mar 2019 00:30:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</guid>
+      <guid>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</guid>
       <description>Você ainda utiliza o Windows 7? Nas próximas semanas a Microsoft vai começar uma campanha para convencer os usuários a migrarem para o Windows 10.
 Caso utilize, prepare-se para receber notificações periódicas da Microsoft tentando convencê-lo a atualizar para o Windows 10.
 Segundo um comunicado lançado recentemente, os usuários do Windows 7 vão receber as notificações &amp;ldquo;de cortesia&amp;rdquo;. Porém, quem não desejar recebê-las novamente terá a opção de desativá-las.
@@ -82,69 +82,69 @@ O motivo de tais notificações (além do óbvio que é oferecer o produto mais 
     
     <item>
       <title>MS Paint clássico direto no navegador</title>
-      <link>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</link>
+      <link>https://info.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</link>
       <pubDate>Sat, 28 Apr 2018 19:19:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</guid>
+      <guid>https://info.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</guid>
       <description>Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint.
 O MS Paint foi um software que permitia desenhos &amp;ldquo;a mão livre&amp;rdquo; e pequenas edições, e esteve presente nas versões Windows até o 10, deixando de ser incluído nas atualizações do próprio Windows 10 (leia mais em Fim do Paint).</description>
     </item>
     
     <item>
       <title>Fim do suporte ao Windows 8.1</title>
-      <link>https://testes.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</link>
+      <link>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</link>
       <pubDate>Tue, 16 Jan 2018 02:02:00 -0200</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
+      <guid>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
       <description>O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua política de ciclo de vida, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.
 Mas, segundo a Microsoft, ainda serão lançadas atualizações de segurança. Estas atualizações serão disponibilizadas até 2023 (ver tabela abaixo), quando o sistema deixará de vez de receber suporte.</description>
     </item>
     
     <item>
       <title>Versão do CCleaner é atingida por Malware</title>
-      <link>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</link>
+      <link>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</link>
       <pubDate>Tue, 19 Sep 2017 13:01:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</guid>
+      <guid>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</guid>
       <description>A Avast, empresa que comprou a Piriform, que por sua vez é a criadora do CCleaner, anunciou nas últimas horas que algumas versões oficiais que estavam disponíveis para download no site oficial foram invadidas, podendo conter malwares.
 A versão v5.33.6162 do CCleaner e a versão v1.07.3191 do CCleaner Cloud possui um código malicioso que pode baixar e instalar automaticamente softwares capazes de capturar tudo o que é digitado (assim, pode capturar senhas de emails, bancos, etc.</description>
     </item>
     
     <item>
       <title>Fim do Paint</title>
-      <link>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</link>
+      <link>https://info.wsouza.com.br/2017/07/fim-do-paint.html</link>
       <pubDate>Tue, 25 Jul 2017 15:04:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2017/07/fim-do-paint.html</guid>
+      <guid>https://info.wsouza.com.br/2017/07/fim-do-paint.html</guid>
       <description>Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&amp;hellip;
 Na semana passada a Microsoft anunciou que o tradicional MS Paint seria descontinuado, ou seja, não faria mais parte dos próximos sistemas da empresa e já ficaria indisponível nas próximas atualizações. Esta informação causou muitas reclamações de usuários que tradicionalmente utilizam o software para pequenos ajustes e alterações em imagens ou mesmo para desenhos à mão livre.</description>
     </item>
     
     <item>
       <title>Criando um Pendrive Multiboot com o Yumi</title>
-      <link>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</link>
+      <link>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</link>
       <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
+      <guid>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
       <description>Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:
 Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Windows.</description>
     </item>
     
     <item>
       <title>Sis Mirage 3 Graphics no Windows 8</title>
-      <link>https://testes.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</link>
+      <link>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</link>
       <pubDate>Sun, 29 Dec 2013 00:22:00 -0200</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</guid>
+      <guid>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</guid>
       <description>Em abril publiquei um post sobre o funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.</description>
     </item>
     
     <item>
       <title>Sis Mirage 3 Graphics</title>
-      <link>https://testes.wsouza.com.br/2013/04/sis-mirage3.html</link>
+      <link>https://info.wsouza.com.br/2013/04/sis-mirage3.html</link>
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2013/04/sis-mirage3.html</guid>
+      <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
       <description>Atualizado em 08/01/2015
 Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.
 Entre os piores chipsets (senão o pior) está a famosa placa de vídeo Sis Mirage 3 (SiS671 , SiS671FX , SiS672 , SiS672FX , SiSM671 , SiSM671MX , SiSM672 , SiSM672MX), fabricada pela Silicon Integrated Systems Corp.</description>

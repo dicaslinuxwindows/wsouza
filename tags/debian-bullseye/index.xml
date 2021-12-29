@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debian Bullseye on </title>
-    <link>https://testes.wsouza.com.br/tags/debian-bullseye/</link>
+    <link>https://info.wsouza.com.br/tags/debian-bullseye/</link>
     <description>Recent content in Debian Bullseye on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 23:20:00 -0300</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/debian-bullseye/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 23:20:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/debian-bullseye/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debian Bullseye entra em congelamento</title>
-      <link>https://testes.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</link>
+      <link>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</link>
       <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
+      <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
       <description>O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.
 Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do Debian Bullseye, que naquele momento, fazia aproximadamente 1 ano que estava em desenvolvimento na &amp;ldquo;fase&amp;rdquo; testing. De lá pra cá os desenvolvedores continuaram trabalhando, trazendo as versões mais recentes dos aplicativos, corrigindo bugs e agora, em janeiro de 2021, inicia-se o congelamento (freeze).</description>
     </item>
     
     <item>
       <title>Acompanhe o desenvolvimento do Debian Bullseye</title>
-      <link>https://testes.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</link>
+      <link>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</link>
       <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
+      <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
       <description>O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.
 No dia 06/07/2020 fez 1 ano que o Debian 10 (Buster), a versão estável do Debian, foi lançada. Logo após o anúncio do Buster, também foi a anunciado a próxima versão, que sai da &amp;ldquo;fase&amp;rdquo; sid e entra na &amp;ldquo;fase&amp;rdquo; testing . Para saber mais sobre as fases de desenvolvimento do Debian, leia a matéria Debian - Curiosidades, informações, versões e ciclo de vida.</description>
     </item>

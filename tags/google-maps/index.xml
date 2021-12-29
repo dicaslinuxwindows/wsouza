@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Google Maps on </title>
-    <link>https://testes.wsouza.com.br/tags/google-maps/</link>
+    <link>https://info.wsouza.com.br/tags/google-maps/</link>
     <description>Recent content in Google Maps on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2015 01:02:00 -0200</lastBuildDate><atom:link href="https://testes.wsouza.com.br/tags/google-maps/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2015 01:02:00 -0200</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/google-maps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como utilizar o Google Maps Off-line</title>
-      <link>https://testes.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</link>
+      <link>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</link>
       <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
       
-      <guid>https://testes.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</guid>
+      <guid>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</guid>
       <description>Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Funciona assim: O usuário pode baixar uma área do mapa para visualizar quando estiver sem conexão com a internet. Esta área baixada pode ser um bairro, cidade, estado, país, etc.. Quanto maior a área selecionada, maior será o tamanho do arquivo a ser baixado. Desta maneira o Google Maps pode ser utilizado com um navegador GPS, tornando-se um GPS off-line, muito útil para quem possui plano de dados limitado.</description>
     </item>
     
