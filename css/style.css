@@ -88,7 +88,7 @@ body {
 	flex: 1 0 31.66%;
 	-webkit-order: 2;
 	order: 2;
-	text-align: left;
+	text-align: left; /*Alinhamento dos itens da barra direita*/
 	min-width: 0;
 	margin: 0 0 0 2.5%;
 }
@@ -577,7 +577,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 @media screen and (min-width: 767px) {
   .menu {
-    border-bottom: 0px solid #e22d30; #Borda abaixo do menu. Padrão 5px
+    border-bottom: 0px solid #e22d30; /*Borda abaixo do menu. Padrão 5px*/
   }
 
   .menu__btn {
@@ -733,7 +733,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .warning a,
 .authorbox__description a {
 	font-weight: 700;
-	color: #188bc7; #Links dentro das postagens
+	color: #188bc7; /*Links dentro das postagens*/
 }
 
 .content a:hover,
@@ -812,7 +812,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	list-style: none;
 }
 
-.tags__item {
+.tags__badge {
 	float: left;
 	margin: 0 6px 6px 0;
 	margin: 0 .375rem .375rem 0;
@@ -831,7 +831,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .tags__badge {
-	float: left;
+	float: center;
 	width: 32px;
 	height: 32px;
 	padding: 8px;
