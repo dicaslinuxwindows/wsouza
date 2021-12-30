@@ -88,7 +88,7 @@ body {
 	flex: 1 0 31.66%;
 	-webkit-order: 2;
 	order: 2;
-	text-align: left; /*Alinhamento dos itens da barra direita*/
+	text-align: justify; /*Alinhamento dos itens da barra direita*/
 	min-width: 0;
 	margin: 0 0 0 2.5%;
 }
