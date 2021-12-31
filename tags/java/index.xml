@@ -6,26 +6,14 @@
     <description>Recent content in Java on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 19:25:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
-      <link>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
-      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 25 Mar 2020 20:35:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
       <link>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</link>
       <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
-      <description>A Oracle acabou de lançar a versão 14 15 do Java SE. Veja aqui como baixar, instalar e configurar no Debian, Ubuntu e derivados.
-Atualizado em 06/04/2021
-Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias para o desenvolvimento e execução de programas com a linguagem de programação Java. O Java SE (Java Platform, Standard Edition) contém o ambiente de execução, chamado de JRE (Java Runtime Environment), e o JDK (Java Development Kit), que é o &amp;ldquo;modo&amp;rdquo; utilizado para criar programas na linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle acabou de lançar a versão 15 do Java SE. Veja aqui como baixar, instalar e configurar esta versão e as posteriores no Debian, Ubuntu e derivados.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,8 +33,7 @@ Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime 
       <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
-      <description>Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados
-Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramentas necessárias para o desenvolvimento de programas com a linguagem de produção Java e execução dos mesmos. Diversos programas que são desenvolvidos para serem executados em multiplataforma são disponibilizados neste formato, portanto, necessitarão do Java para serem executados.</description>
+      <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,9 +42,7 @@ Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramen
       <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
-      <description>Esta dica está desatualizada, veja a nova em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados.
-A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
-O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.&lt;/p&gt;</description>
     </item>
     
   </channel>

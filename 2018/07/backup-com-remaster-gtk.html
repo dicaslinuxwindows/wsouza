@@ -9,8 +9,7 @@
 	<meta name="description" content="">
 		<meta property="og:title" content="Backup com Remaster GTK" />
 <meta property="og:description" content="Iniciarei uma série de postagens sobre algumas ferramentas Linux.
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
-1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais." />
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2018-07-16T22:00:00-03:00" />
@@ -19,16 +18,14 @@ E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entr
 
 		<meta itemprop="name" content="Backup com Remaster GTK">
 <meta itemprop="description" content="Iniciarei uma série de postagens sobre algumas ferramentas Linux.
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
-1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais."><meta itemprop="datePublished" content="2018-07-16T22:00:00-03:00" />
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo."><meta itemprop="datePublished" content="2018-07-16T22:00:00-03:00" />
 <meta itemprop="dateModified" content="2018-07-16T22:00:00-03:00" />
-<meta itemprop="wordCount" content="455">
+<meta itemprop="wordCount" content="447">
 <meta itemprop="keywords" content="Remaster,Ferramentas Linux," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Backup com Remaster GTK"/>
 <meta name="twitter:description" content="Iniciarei uma série de postagens sobre algumas ferramentas Linux.
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
-1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais."/>
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -219,25 +216,24 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
+    <li><a href="#o-que-é-o-remaster-gtk">O que é o Remaster-GTK?</a></li>
+    <li><a href="#instalação">Instalação</a></li>
+    <li><a href="#configuração-e-utilização">Configuração e utilização</a></li>
+    <li><a href="#considerações-finais">Considerações finais</a></li>
   </ul>
 </nav>
 	</div>
 </div><div class="content post__content clearfix">
 			<p>Iniciarei uma série de postagens sobre algumas ferramentas Linux.<br>
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.</p>
-<h4 id="1---o-que-é-o-remaster-gtk">1 - O que é o Remaster-GTK?</h4>
+<h2 id="o-que-é-o-remaster-gtk">O que é o Remaster-GTK?</h2>
 <p>O Remaster é um fork do descontinuado <a href="https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html">Remastersys-GTK</a>, desenvolvido e mantido pelo Lobo do site <a href="https://linuxdicasesuporte.blogspot.com/">Linux Dicas e Suporte</a>. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais. Será gerado uma ISO Live e poderá ser gravada num DVD ou pendrive podendo ser executado diretamente ou mesmo instalado num outro dispositivo.<br>
 No Remaster há versões para Debian e Ubuntu e a dica a seguir será mostrada com a versão para Debian, executada e testada no Debian 9.</p>
-<h4 id="2---instalação">2 - Instalação</h4>
+<h2 id="instalação">Instalação</h2>
 <p>Baixe o Remaster Debian, e siga os passos para a instalação em: <a href="https://linuxdicasesuporte.blogspot.com/p/remaster_31.html">https://linuxdicasesuporte.blogspot.com/p/remaster_31.html</a></p>
-<h4 id="3---configuração-e-utilização">3 - Configuração e utilização</h4>
+<h2 id="configuração-e-utilização">Configuração e utilização</h2>
 <p>Após instalado, você pode encontrá-lo no menu ou, se preferir, no terminal execute o comando:</p>
-<p>sudo remaster-gtk</p>
+<p><code>sudo remaster-gtk</code></p>
 <p>A imagem abaixo mostra a tela inicial do Remaster.</p>
 <p><a href="https://1.bp.blogspot.com/-U0Jq_wVBMxM/W00q3EpK56I/AAAAAAAAIkU/98DsJ7cm6B4BJKxl7qyF-YJ_Y4OBzPZ-ACLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-43-44.png"><img src="https://1.bp.blogspot.com/-U0Jq_wVBMxM/W00q3EpK56I/AAAAAAAAIkU/98DsJ7cm6B4BJKxl7qyF-YJ_Y4OBzPZ-ACLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-15%2B23-43-44.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
 <p>Abaixo é possível configurar os dados de seu sistema. Em <em>&ldquo;nome de usuário&rdquo;</em> eu normalmente coloco o mesmo nome de usuário que estou desejo que seja o usuário padrão do backup. O nome da ISO e da remasterização fica a critério do usuário. Normalmente não altero outras opções, com exceção da <em>Selecionar configurações do usuário</em>, onde escolho as configurações do usuário de preferência. Detalhe: Deve-se escolher um usuário que tenha uma <em>home</em> pequena, pois a ISO poderá ser muito grande e não caber num DVD.</p>
@@ -255,10 +251,9 @@ Vela ressaltar que normalmente testo na interface Gnome e sempre obtive os resul
 <p>Caso deseje apagar os arquivos gerados, utilize a opção Clear. <strong>Mas cuidado!!!</strong> Esta opção apaga tudo, inclusive a iso. Certifique-se de gravá-la num DVD ou Pendrive antes de utilizar esta opção.</p>
 <p><a href="https://2.bp.blogspot.com/-y0Y-6rBLBU4/W00q4mOXDDI/AAAAAAAAIks/vZLn8DfUD5ILN8TvjcZYIG8E_5FHoebDQCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-26-42.png"><img src="https://2.bp.blogspot.com/-y0Y-6rBLBU4/W00q4mOXDDI/AAAAAAAAIks/vZLn8DfUD5ILN8TvjcZYIG8E_5FHoebDQCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-26-42.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
 <p><a href="https://2.bp.blogspot.com/-4O_0GBz3IVk/W00q4x-Z3qI/AAAAAAAAIkw/PKtwThUSWcERrnyrfSGCuVpp5EPAIvsSQCLcBGAs/s1600/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-27-00.png"><img src="https://2.bp.blogspot.com/-4O_0GBz3IVk/W00q4x-Z3qI/AAAAAAAAIkw/PKtwThUSWcERrnyrfSGCuVpp5EPAIvsSQCLcBGAs/s640/Captura%2Bde%2Btela%2Bde%2B2018-07-16%2B01-27-00.png" alt="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows" title="Ferramentas Linux 1 - Backup com Remaster GTK - Dicas Linux e Windows"></a></p>
-<h4 id="4---considerações-finais">4 - Considerações finais.</h4>
+<h2 id="considerações-finais">Considerações finais</h2>
 <p>Após o backup você pode utilizá-lo como um live DVD e depois instalar em seu computador. Também é possível instalar numa máquina virtual.<br>
 No início citei que há uma versão para Ubuntu. Baixe-a <a href="https://linuxdicasesuporte.blogspot.com/p/remaster-gtk-ubuntu-e-derivados.html">aqui</a>.</p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -357,362 +352,324 @@ No início citei que há uma versão para Ubuntu. Baixe-a <a href="https://linux
 
 
 
-<a href="/tags/ferramentas-linux" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ferramentas-linux <span class="badge">(8)</span></a>
+
  
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
 
 
 
 
 
-<a href="/tags/firefox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >firefox <span class="badge">(7)</span></a>
  
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/redes-sociais" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >redes-sociais <span class="badge">(7)</span></a>
  
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/debian-buster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-buster <span class="badge">(6)</span></a>
  
+<a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
 
 
 
-<a href="/tags/java" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >java <span class="badge">(5)</span></a>
  
+<a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/microsoft-edge" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >microsoft-edge <span class="badge">(5)</span></a>
  
+<a href="/tags/ubuntu-21.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-21.04 <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-21.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-21.04 <span class="badge">(5)</span></a>
  
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/irpf" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >irpf <span class="badge">(4)</span></a>
  
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.04 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.04 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.10 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.10 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/windows-7" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-7 <span class="badge">(4)</span></a>
  
+<a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/m%c3%a1quina-virtual" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >máquina-virtual <span class="badge">(3)</span></a>
  
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/sis-mirage-3-graphics" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >sis-mirage-3-graphics <span class="badge">(3)</span></a>
  
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/windows-10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-10 <span class="badge">(3)</span></a>
  
+<a href="/tags/ubuntu-32-bits" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-32-bits <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/ccleaner" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ccleaner <span class="badge">(2)</span></a>
  
+<a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/debian-bullseye" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-bullseye <span class="badge">(2)</span></a>
  
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/paint" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >paint <span class="badge">(2)</span></a>
  
+<a href="/tags/debian-bullseye" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-bullseye <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/recuperar-grub" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >recuperar-grub <span class="badge">(2)</span></a>
  
+<a href="/tags/fedora-33" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora-33 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/remaster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >remaster <span class="badge">(2)</span></a>
  
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/vmware-player" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vmware-player <span class="badge">(2)</span></a>
  
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/whatsapp" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >whatsapp <span class="badge">(2)</span></a>
  
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/windows-8" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-8 <span class="badge">(2)</span></a>
  
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/yaru" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >yaru <span class="badge">(2)</span></a>
  
+<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/adblock-plus" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >adblock-plus <span class="badge">(1)</span></a>
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/armazenamento-na-nuvem" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >armazenamento-na-nuvem <span class="badge">(1)</span></a>
  
+<a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/arquivo-da-internet" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >arquivo-da-internet <span class="badge">(1)</span></a>
  
+<a href="/tags/yaru" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">yaru <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/dropbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >dropbox <span class="badge">(1)</span></a>
  
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/fedora-33" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >fedora-33 <span class="badge">(1)</span></a>
  
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/flatpak" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >flatpak <span class="badge">(1)</span></a>
  
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gcompris" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gcompris <span class="badge">(1)</span></a>
  
+<a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gmail" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gmail <span class="badge">(1)</span></a>
  
+<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gnome" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gnome <span class="badge">(1)</span></a>
  
+<a href="/tags/flatpak" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">flatpak <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google <span class="badge">(1)</span></a>
  
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google-maps" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google-maps <span class="badge">(1)</span></a>
  
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gparted" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gparted <span class="badge">(1)</span></a>
  
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/libre-office" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >libre-office <span class="badge">(1)</span></a>
  
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/open-source" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >open-source <span class="badge">(1)</span></a>
  
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/pendrive-multiboot" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >pendrive-multiboot <span class="badge">(1)</span></a>
  
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/snap" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >snap <span class="badge">(1)</span></a>
  
+<a href="/tags/snap" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">snap <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-15.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-15.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.04 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/virtualbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >virtualbox <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/vlc" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vlc <span class="badge">(1)</span></a>
  
+<a href="/tags/virtualbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">virtualbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/webmin" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >webmin <span class="badge">(1)</span></a>
  
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
 
+
+
+
+
+ 
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
 
 
 </div>

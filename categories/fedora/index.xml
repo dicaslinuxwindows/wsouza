@@ -24,8 +24,7 @@ GNOME Segundo a Wikipédia:
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,9 +33,7 @@ DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda par
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
-      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
-VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
- &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,8 +42,7 @@ VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virt
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
-      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-1. Aplicativos em sistemas Linux Há várias formas de instalar aplicativos nos sistemas baseados em Linux. Uma forma que funciona em qualquer distribuição é a instalação por código fonte. Desta forma o código é compilado de acordo com a arquitetura do sistema (32, 64 bits&amp;hellip;).</description>
+      <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,8 +51,7 @@ VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virt
       <pubDate>Wed, 28 Oct 2020 14:56:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</guid>
-      <description>No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.
- &amp;ldquo;Hoje, estou animado para compartilhar os resultados do trabalho árduo de milhares de colaboradores para o Projeto Fedora: nosso último lançamento, Fedora 33, está aqui! Este é um grande lançamento com muita mudança, mas acredito que todo esse trabalho também o tornará confortável, cumprindo nosso objetivo de trazer-lhe o mais recente software estável, poderoso e robusto de código livre e de código aberto em muitas ofertas fáceis de usar&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,8 +70,7 @@ Microsoft Edge O Microsoft Edge em questão é a segunda geração do navegador 
       <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</guid>
-      <description>Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.
-Fedora É a primeira vez que falo alguma coisa sobre o Fedora aqui no blog. Como de costume, só falo aqui sobre sistemas e aplicativos que utilizo, e o motivo de nunca ter falado sobre o Fedora era exatamente por nunca tê-lo utilizado. Esta situação mudou há alguns meses, quando resolvi instalar a versão 32 por curiosidade.</description>
+      <description>&lt;p&gt;Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>

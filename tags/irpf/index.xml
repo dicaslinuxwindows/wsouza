@@ -13,8 +13,7 @@
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,9 +44,7 @@ IRPF 2020 O programa é necessário para efetuar as declarações do imposto de 
       <pubDate>Mon, 11 Mar 2019 19:37:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
-      <description>Se procura a versão 2020, veja em: Programa de declaração do IRPF 2020 - Instalação no Debian e Derivados
-Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.
-O programa que será instalado realiza a declaração de imposto de renda de pessoa física, por isto é chamado de IRPF, e seu instalador está disponível no formato .</description>
+      <description>&lt;p&gt;Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.&lt;/p&gt;</description>
     </item>
     
   </channel>

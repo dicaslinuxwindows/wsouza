@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GNOME on Dicas Linux e Windows</title>
+    <title>Gnome on Dicas Linux e Windows</title>
     <link>https://info.wsouza.com.br/tags/gnome/</link>
-    <description>Recent content in GNOME on Dicas Linux e Windows</description>
+    <description>Recent content in Gnome on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Apr 2021 19:43:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
@@ -16,6 +16,17 @@
       <description>Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.
 GNOME Segundo a Wikipédia:
  GNOME (acrônimo para GNU Network Object Model Environment) é um projeto de software livre abrangendo o Ambiente de Trabalho GNOME, para os usuários, e a Plataforma de Desenvolvimento GNOME, para os desenvolvedores. O projeto dá ênfase especial a usabilidade, acessibilidade e internacionalização.</description>
+    </item>
+    
+    <item>
+      <title>Gnome 3.38 é lançado</title>
+      <link>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</link>
+      <pubDate>Fri, 18 Sep 2020 21:25:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</guid>
+      <description>O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
+O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico&amp;hellip;) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.
+O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.</description>
     </item>
     
   </channel>

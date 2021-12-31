@@ -13,9 +13,7 @@
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
-      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
-VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
- &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,9 +32,7 @@ Microsoft Edge O Microsoft Edge em questão é a segunda geração do navegador 
       <pubDate>Sun, 28 Jun 2020 23:57:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</guid>
-      <description>A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo;. Veja a seguir mais informações sobre este lançamento.
-Ulyana O Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo; é a versão estável da distribuição francesa baseada no Ubuntu, neste caso, Ubuntu 20.04 LTS. Esta versão terá suporte até 2025.
-Nas matérias &amp;ldquo;Linux Mint Ulyana&amp;rdquo; e &amp;ldquo;Linux Mint 20: Beta disponível e polêmica com pacotes Snap&amp;rdquo; já adiantamos as novidades e melhorias que viriam com esta nova versão, mas cabe um breve resumo:</description>
+      <description>&lt;p&gt;A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo;. Veja a seguir mais informações sobre este lançamento.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,8 +41,7 @@ Nas matérias &amp;ldquo;Linux Mint Ulyana&amp;rdquo; e &amp;ldquo;Linux Mint 20
       <pubDate>Fri, 12 Jun 2020 23:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</guid>
-      <description>A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.
-O que sabemos sobre o LM20 até agora. A matéria de 1º de abril &amp;ldquo;Linux Mint 20 Ulyana&amp;rdquo; abordou sobre o que se sabia a respeito do LM20 até aquele momento, como seu codinome que será Ulyana e que este seria baseado no Ubuntu 20.</description>
+      <description>&lt;p&gt;A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,8 +50,7 @@ O que sabemos sobre o LM20 até agora. A matéria de 1º de abril &amp;ldquo;Lin
       <pubDate>Wed, 01 Apr 2020 00:21:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</guid>
-      <description>Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.
-Quando se trata de distribuições baseadas no Kernel Linux, geralmente tenho o hábito de falar e utilizar como exemplo o Debian e Ubuntu, pois são as distribuições que geralmente utilizo. Como a ideia principal do blog é falar sobre assuntos e situações que encontro no dia-a-dia como usuário, acabo não tendo muito o que falar sobre outras distribuições.</description>
+      <description>&lt;p&gt;Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.&lt;/p&gt;</description>
     </item>
     
     <item>

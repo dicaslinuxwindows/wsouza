@@ -13,8 +13,7 @@
       <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
-      <description>O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.
-Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do Debian Bullseye, que naquele momento, fazia aproximadamente 1 ano que estava em desenvolvimento na &amp;ldquo;fase&amp;rdquo; testing. De lá pra cá os desenvolvedores continuaram trabalhando, trazendo as versões mais recentes dos aplicativos, corrigindo bugs e agora, em janeiro de 2021, inicia-se o congelamento (freeze).</description>
+      <description>&lt;p&gt;O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -23,8 +22,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
-      <description>O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.
-No dia 06/07/2020 fez 1 ano que o Debian 10 (Buster), a versão estável do Debian, foi lançada. Logo após o anúncio do Buster, também foi a anunciado a próxima versão, que sai da &amp;ldquo;fase&amp;rdquo; sid e entra na &amp;ldquo;fase&amp;rdquo; testing . Para saber mais sobre as fases de desenvolvimento do Debian, leia a matéria Debian - Curiosidades, informações, versões e ciclo de vida.</description>
+      <description>&lt;p&gt;O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.&lt;/p&gt;</description>
     </item>
     
   </channel>

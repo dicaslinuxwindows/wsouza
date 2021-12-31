@@ -13,8 +13,7 @@
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
-      <description>Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.
-1 - Introdução Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização (GRUB) ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel.</description>
+      <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -10,8 +10,7 @@
 		<meta property="og:title" content="GParted, Particionador Gráfico" />
 <meta property="og:description" content="Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
-1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente." />
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2018-07-19T20:28:00-03:00" />
@@ -21,8 +20,7 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
 		<meta itemprop="name" content="GParted, Particionador Gráfico">
 <meta itemprop="description" content="Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
-1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente."><meta itemprop="datePublished" content="2018-07-19T20:28:00-03:00" />
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário."><meta itemprop="datePublished" content="2018-07-19T20:28:00-03:00" />
 <meta itemprop="dateModified" content="2018-07-19T20:28:00-03:00" />
 <meta itemprop="wordCount" content="797">
 <meta itemprop="keywords" content="GParted,Ferramentas Linux," />
@@ -30,8 +28,7 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
 <meta name="twitter:title" content="GParted, Particionador Gráfico"/>
 <meta name="twitter:description" content="Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
-1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente."/>
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -222,11 +219,11 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li></li>
-      </ul>
-    </li>
+    <li><a href="#1---introdução">1 - Introdução</a></li>
+    <li><a href="#2---instalação-e-execução">2 - Instalação e execução</a></li>
+    <li><a href="#3---criando-uma-partição-num-disco-vazio">3 - Criando uma partição num disco vazio</a></li>
+    <li><a href="#4---criando-uma-segunda-partição-no-mesmo-disco">4 - Criando uma segunda partição no mesmo disco</a></li>
+    <li><a href="#5---considerações-finais">5 - Considerações finais</a></li>
   </ul>
 </nav>
 	</div>
@@ -234,19 +231,19 @@ if (!doNotTrack) {
 			<p>Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.<br>
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?<br>
 Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.</p>
-<h4 id="1---introdução">1 - Introdução</h4>
+<h2 id="1---introdução">1 - Introdução</h2>
 <p>Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente. Num disco de 500 GB, por exemplo, não há a necessidade de utilizá-lo totalmente como um único setor. Ao particionar o disco, cada parte funciona como um setor independente, como se fossem vários discos, trazendo várias vantagens como a possibilidade de instalar mais de um sistema operacional ao mesmo tempo, manter os arquivos pessoais separados dos arquivos do sistema, separar os arquivos de boot&hellip;<br>
 A seguir vou mostrar como particionar um disco utilizando o gerenciador de partições GParted, rodando no Debian 9.4.</p>
-<h4 id="2---instalação-e-execução">2 - Instalação e execução</h4>
+<h2 id="2---instalação-e-execução">2 - Instalação e execução</h2>
 <p>Para abrir o Gparted procure no menu por Editor de partições Gparted <em>(como mostra a imagem abaixo)</em>, ou no terminal, execute o comando:</p>
-<p>sudo gparted</p>
+<p><code>sudo gparted</code></p>
 <p><a href="https://1.bp.blogspot.com/-xYynfo_WItM/W1DyBiASAaI/AAAAAAAAImc/Fe5XCPNweSg14j0bRsaYmWz7RH3LT7QUgCLcBGAs/s1600/01.png"><img src="https://1.bp.blogspot.com/-xYynfo_WItM/W1DyBiASAaI/AAAAAAAAImc/Fe5XCPNweSg14j0bRsaYmWz7RH3LT7QUgCLcBGAs/s640/01.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
 <p>Caso não esteja instalado, execute o comando a seguir para instalação:</p>
-<p>sudo apt-get install gparted</p>
+<p><code>sudo apt-get install gparted</code></p>
 <p>A imagem abaixo mostra a opção dispositivos onde vemos 3 discos: /dev/sda (20GB), /dev/sdb (2GB) e /dev/sdc (10GB). Cada letra significa um dispositivo físico, isto significa que temos 3 discos reais.<br>
 Para mostrar o funcionamento iremos utilizar o /dev/sdc <em>(selecionado)</em>, que está vazio, pois no /dev/sda estão os arquivos do sistema e /dev/sdb está a swap.</p>
 <p><a href="https://4.bp.blogspot.com/-mYSJY9A5DlI/W1D8YrEbxsI/AAAAAAAAImo/852g8FAINdYFfMkhWmSZEQk6822P0JdyACLcBGAs/s1600/02.png"><img src="https://4.bp.blogspot.com/-mYSJY9A5DlI/W1D8YrEbxsI/AAAAAAAAImo/852g8FAINdYFfMkhWmSZEQk6822P0JdyACLcBGAs/s640/02.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
-<h4 id="3---criando-uma-partição-num-disco-vazio">3 - Criando uma partição num disco vazio</h4>
+<h2 id="3---criando-uma-partição-num-disco-vazio">3 - Criando uma partição num disco vazio</h2>
 <p>O disco /dev/sdc está sem nenhuma partição criada portanto vamos criar uma. Para isto basta clicar com o botão direito do mouse em cima da partição não alocada e clicar em novo, como mostra a imagem abaixo.</p>
 <p><a href="https://4.bp.blogspot.com/-ZR3sgIhR3j0/W1EOjTBOr6I/AAAAAAAAIm0/lnxglEM0jY4ZoHabC-Pb3RJPTmbqM-TXgCLcBGAs/s1600/03.png"><img src="https://4.bp.blogspot.com/-ZR3sgIhR3j0/W1EOjTBOr6I/AAAAAAAAIm0/lnxglEM0jY4ZoHabC-Pb3RJPTmbqM-TXgCLcBGAs/s640/03.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
 <p>Caso não haja nenhuma tabela de partições, será solicitada a criação de uma, como na imagem abaixo.</p>
@@ -257,7 +254,7 @@ Para mostrar o funcionamento iremos utilizar o /dev/sdc <em>(selecionado)</em>, 
 <p><a href="https://4.bp.blogspot.com/-d_i0nI__2zQ/W05qP7zu-9I/AAAAAAAAIlc/EiBDm41k_SEIdZcrHL0WImOuqtDNuX5kACLcBGAs/s1600/04.png"><img src="https://4.bp.blogspot.com/-d_i0nI__2zQ/W05qP7zu-9I/AAAAAAAAIlc/EiBDm41k_SEIdZcrHL0WImOuqtDNuX5kACLcBGAs/s640/04.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
 <p>Clique no &ldquo;botão&rdquo; verde para aplicar a operação de criação da partição, confirme a aplicação da operação e aguarde a conclusão.</p>
 <p><a href="https://2.bp.blogspot.com/-J3O_rXbEvYk/W1EalRw9VxI/AAAAAAAAIoM/KQ3gGwnBiwQ8ELcX3N-ZWVjUJB8lG91zwCLcBGAs/s1600/05.png"><img src="https://2.bp.blogspot.com/-J3O_rXbEvYk/W1EalRw9VxI/AAAAAAAAIoM/KQ3gGwnBiwQ8ELcX3N-ZWVjUJB8lG91zwCLcBGAs/s640/05.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
-<h4 id="4---criando-uma-segunda-partição-no-mesmo-disco">4 - Criando uma segunda partição no mesmo disco</h4>
+<h2 id="4---criando-uma-segunda-partição-no-mesmo-disco">4 - Criando uma segunda partição no mesmo disco</h2>
 <p>Como vemos abaixo, a partição /dev/sdc1 foi criada com as configurações escolhidas. Veja que o nome do disco é /dev/sdc porém, o nome da partição  é /dev/sdc1. Agora iremos criar uma segunda partição. Para isto basta clicar com o botão direito e escolher a opção Redimensionar/Mover.</p>
 <p><a href="https://2.bp.blogspot.com/-wbehzK65tW0/W05qQ6_3aqI/AAAAAAAAIls/-JQAfExRFrQ-5WpHpe2OzS2xFkonh3bigCLcBGAs/s1600/08.png"><img src="https://2.bp.blogspot.com/-wbehzK65tW0/W05qQ6_3aqI/AAAAAAAAIls/-JQAfExRFrQ-5WpHpe2OzS2xFkonh3bigCLcBGAs/s640/08.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
 <p>A imagem abaixo mostra o disco dividido em dois. A opção <em>Espaço livre antes (MB)</em> será uma partição e a opção <em>Novo tamanho (MB)</em> será o novo tamanho da partição criada anteriormente, ou seja, ela foi dividida exatamente pela metade.  Basta confirmar a operação no botão <em>Redimensionar/Mover.</em></p>
@@ -270,7 +267,7 @@ Para mostrar o funcionamento iremos utilizar o /dev/sdc <em>(selecionado)</em>, 
 <p><a href="https://2.bp.blogspot.com/-Nu-rrkcxvs8/W1EVlH66XoI/AAAAAAAAInw/npioxXNQ6u0hM0ZEP-u4HR8ujpn8dO9NwCLcBGAs/s1600/19.png"><img src="https://2.bp.blogspot.com/-Nu-rrkcxvs8/W1EVlH66XoI/AAAAAAAAInw/npioxXNQ6u0hM0ZEP-u4HR8ujpn8dO9NwCLcBGAs/s640/19.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
 <p>Após todos os processos concluídos ficará assim: O disco /dev/sdc com duas partições. A partição /dev/sdc1 com 5 GB e sistema de arquivos ext4 e a partição /dev/sdc2 com 5 GB e sistema de arquivos fat32.</p>
 <p><a href="https://3.bp.blogspot.com/-D_6nPplIT0w/W1EWiXZPivI/AAAAAAAAIoA/J8v7e4kr59Ipry3eLfDMuQaNmsgUpb_aQCLcBGAs/s1600/20.png"><img src="https://3.bp.blogspot.com/-D_6nPplIT0w/W1EWiXZPivI/AAAAAAAAIoA/J8v7e4kr59Ipry3eLfDMuQaNmsgUpb_aQCLcBGAs/s640/20.png" alt="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows" title="Ferramentas Linux 2 - GParted, Particionador Gráfico - Dicas Linux e Windows"></a></p>
-<h4 id="5---considerações-finais">5 - Considerações finais</h4>
+<h2 id="5---considerações-finais">5 - Considerações finais</h2>
 <p>Como vimos, o Gparted é uma ferramenta indispensável quando precisamos redimensionar ou particionar discos. Porém, são necessários alguns cuidados para não perder os arquivos pessoais ou os arquivos de boot _(o que impediria o sistema de iniciar). _<br>
 Alguns cuidados necessários:</p>
 <ul>
@@ -280,7 +277,6 @@ Alguns cuidados necessários:</p>
 <li>Dê preferência para utilizar o Gparted num Live CD. <em>(Futuramente será mostrado como fazer isso.)</em></li>
 </ul>
 <p>Para mais detalhes, acesse o <a href="https://gparted.org/display-doc.php?name=help-manual&amp;lang=pt_BR">manual do GParted</a>.</p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -379,362 +375,324 @@ Alguns cuidados necessários:</p>
 
 
 
-<a href="/tags/ferramentas-linux" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ferramentas-linux <span class="badge">(8)</span></a>
+
  
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
 
 
 
 
 
-<a href="/tags/firefox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >firefox <span class="badge">(7)</span></a>
  
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/redes-sociais" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >redes-sociais <span class="badge">(7)</span></a>
  
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/debian-buster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-buster <span class="badge">(6)</span></a>
  
+<a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
 
 
 
-<a href="/tags/java" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >java <span class="badge">(5)</span></a>
  
+<a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/microsoft-edge" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >microsoft-edge <span class="badge">(5)</span></a>
  
+<a href="/tags/ubuntu-21.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-21.04 <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-21.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-21.04 <span class="badge">(5)</span></a>
  
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/irpf" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >irpf <span class="badge">(4)</span></a>
  
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.04 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.04 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.10 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.10 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/windows-7" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-7 <span class="badge">(4)</span></a>
  
+<a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/m%c3%a1quina-virtual" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >máquina-virtual <span class="badge">(3)</span></a>
  
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/sis-mirage-3-graphics" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >sis-mirage-3-graphics <span class="badge">(3)</span></a>
  
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/windows-10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-10 <span class="badge">(3)</span></a>
  
+<a href="/tags/ubuntu-32-bits" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-32-bits <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/ccleaner" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ccleaner <span class="badge">(2)</span></a>
  
+<a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/debian-bullseye" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-bullseye <span class="badge">(2)</span></a>
  
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/paint" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >paint <span class="badge">(2)</span></a>
  
+<a href="/tags/debian-bullseye" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-bullseye <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/recuperar-grub" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >recuperar-grub <span class="badge">(2)</span></a>
  
+<a href="/tags/fedora-33" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora-33 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/remaster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >remaster <span class="badge">(2)</span></a>
  
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/vmware-player" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vmware-player <span class="badge">(2)</span></a>
  
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/whatsapp" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >whatsapp <span class="badge">(2)</span></a>
  
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/windows-8" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-8 <span class="badge">(2)</span></a>
  
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/yaru" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >yaru <span class="badge">(2)</span></a>
  
+<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/adblock-plus" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >adblock-plus <span class="badge">(1)</span></a>
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/armazenamento-na-nuvem" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >armazenamento-na-nuvem <span class="badge">(1)</span></a>
  
+<a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/arquivo-da-internet" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >arquivo-da-internet <span class="badge">(1)</span></a>
  
+<a href="/tags/yaru" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">yaru <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/dropbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >dropbox <span class="badge">(1)</span></a>
  
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/fedora-33" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >fedora-33 <span class="badge">(1)</span></a>
  
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/flatpak" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >flatpak <span class="badge">(1)</span></a>
  
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gcompris" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gcompris <span class="badge">(1)</span></a>
  
+<a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gmail" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gmail <span class="badge">(1)</span></a>
  
+<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gnome" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gnome <span class="badge">(1)</span></a>
  
+<a href="/tags/flatpak" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">flatpak <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google <span class="badge">(1)</span></a>
  
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google-maps" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google-maps <span class="badge">(1)</span></a>
  
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gparted" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gparted <span class="badge">(1)</span></a>
  
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/libre-office" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >libre-office <span class="badge">(1)</span></a>
  
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/open-source" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >open-source <span class="badge">(1)</span></a>
  
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/pendrive-multiboot" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >pendrive-multiboot <span class="badge">(1)</span></a>
  
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/snap" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >snap <span class="badge">(1)</span></a>
  
+<a href="/tags/snap" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">snap <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-15.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-15.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.04 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/virtualbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >virtualbox <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/vlc" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vlc <span class="badge">(1)</span></a>
  
+<a href="/tags/virtualbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">virtualbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/webmin" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >webmin <span class="badge">(1)</span></a>
  
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
 
+
+
+
+
+ 
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
 
 
 </div>

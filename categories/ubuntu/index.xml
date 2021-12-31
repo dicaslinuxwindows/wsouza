@@ -13,9 +13,7 @@
       <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
-      <description>Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
-Hirsute Hippo Como citado nas matérias anteriores sobre a versão 21.04, o nome Hirsute Hippo significa &amp;ldquo;Hipopótamo Peludo&amp;rdquo;.
-Esta será a segunda de 3 versões intermediárias que são lançadas entre cada versão LTS (a primeira foi a 20.10 e a próxima será a 21.10). É uma versão estável e seu suporte terá duração de 9 meses, durando até janeiro de 2022, conforme o ciclo de vida das versões do Ubuntu.</description>
+      <description>&lt;p&gt;Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,8 +43,7 @@ Ubuntu 21.04 - Hirsute Hippo É a próxima (e segunda de três) versão do inter
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,9 +52,7 @@ DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda par
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
-      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
-VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
- &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -76,8 +71,7 @@ Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
-      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-1. Aplicativos em sistemas Linux Há várias formas de instalar aplicativos nos sistemas baseados em Linux. Uma forma que funciona em qualquer distribuição é a instalação por código fonte. Desta forma o código é compilado de acordo com a arquitetura do sistema (32, 64 bits&amp;hellip;).</description>
+      <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -86,9 +80,7 @@ Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que
       <pubDate>Wed, 04 Nov 2020 23:19:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
-      <description>Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.
-Daily Builds Se ainda faltava alguma coisa para oficializar o início do desenvolvimento do Ubuntu 21.04, cujo nome será Hirsute Hippo, já não falta mais. Agora as Daily Builds, ou compilações diárias, começaram a ser liberadas.
-Mas o que são estas Daily Builds? São images ISO que são disponibilizadas diariamente com as novidades ou alterações lançadas até aquele momento.</description>
+      <description>&lt;p&gt;Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -170,9 +162,7 @@ Poucos dias após o lançamento do Ubuntu 20.04 &amp;ldquo;Focal Fossa&amp;rdquo
       <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
-      <description>Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
-Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
- Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live.</description>
+      <description>&lt;p&gt;Após o &lt;a href=&#34;https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html&#34;&gt;lançamento oficial do Ubuntu 20.04&lt;/a&gt; vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -232,12 +222,7 @@ Sobre o Ubuntu O Ubuntu é um sistema operacional de código aberto, construído
       <pubDate>Mon, 19 Aug 2019 13:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</guid>
-      <description>Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.
-Uma das coisas mais legais do Ubuntu é o visual, e boa parte desta beleza visual deve-se às suas fontes.
-Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como instalar em dois passos.
-1º passo Abra o terminal e insira o comando:
- wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1
-2º passo Ainda no terminal, primeiramente vamos criar a pasta ubuntu-font dentro da pasta de fontes do sistema.</description>
+      <description>&lt;p&gt;Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -246,20 +231,16 @@ Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como
       <pubDate>Wed, 26 Jun 2019 22:24:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</guid>
-      <description>Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.
-Na semana passada foi anunciado que o Ubuntu não teria suporte para pacotes na arquitetura 32 bits (i386, x86), conforme divulgado em Fim do Ubuntu 32bits.
-Porém, devido à pressões da comunidade, usuários, desenvolvedores e &amp;ldquo;parceiros&amp;rdquo;, a empresa soltou um comunicado oficial informando que a história não será bem assim.</description>
+      <description>&lt;p&gt;Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>[Atualizado] Fim do Ubuntu 32 bits</title>
+      <title>Fim do Ubuntu 32 bits</title>
       <link>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</link>
       <pubDate>Thu, 20 Jun 2019 19:41:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</guid>
-      <description>Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.
-Atualizado: Canonical recuou a respeito desta decisão. Leia em Canonical recua e não removerá os pacotes 32bits do Ubuntu
-Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utilizado em dispositivo mais antigos, que possuem ate 2Gb de memória RAM, algo pouco comum atualmente.</description>
+      <description>&lt;p&gt;Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -268,8 +249,7 @@ Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utiliz
       <pubDate>Sat, 20 Apr 2019 18:54:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
-      <description>No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.
-Sobre o Ubuntu O Ubuntu é desenvolvido por uma empresa chamada Canonical e é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.04 e terá suporte até janeiro de 2020.</description>
+      <description>&lt;p&gt;No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -288,9 +268,7 @@ Sobre o Ubuntu O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados no
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?
-Confira na dica a seguir.
-Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -299,8 +277,7 @@ Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do 
       <pubDate>Sun, 01 Nov 2015 13:12:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</guid>
-      <description>Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).
-Como de costume, as versões pares (16.04) são LTS, ou seja, a cada dois anos no mês de abril, sai uma versão LTS. LTS quer dizer &amp;ldquo;Long Time Support&amp;rdquo;, ou seja, com um tempo maior de suporte. O suporte das versões LTS dura 5 anos, enquanto das versões normais dura apenas 9 meses.</description>
+      <description>&lt;p&gt;Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -319,8 +296,7 @@ Quem gosta de utilizar as versões mais recentes dos pacotes não deixe de baixa
       <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
-      <description>Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.
-O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de software livre e não possui nada comercial em seu código. É uma ótima escola para desenvolvedores de software livre.</description>
+      <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -329,8 +305,7 @@ O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de soft
       <pubDate>Sun, 26 Apr 2015 23:31:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</guid>
-      <description>O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.
-Num único programa é possível adicionar PPAs, trocar o papel de parede, configurações de janela e do Unity, remover arquivos temporários do APT, cache do Firefox, Chrome ou outros navegadores, remover arquivos de configuração de pacotes que já foram desinstalados, ajustar configurações de pastas de usuários, configurações de fontes, configurações de login, remover kernels antigos com segurança… A lista é grande, então vamos nos concentrar em algumas funções mais importantes.</description>
+      <description>&lt;p&gt;O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.&lt;/p&gt;</description>
     </item>
     
     <item>

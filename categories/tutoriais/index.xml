@@ -13,8 +13,7 @@
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -23,9 +22,7 @@ DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda par
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
-      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
-VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
- &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,8 +31,7 @@ VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virt
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
-      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-1. Aplicativos em sistemas Linux Há várias formas de instalar aplicativos nos sistemas baseados em Linux. Uma forma que funciona em qualquer distribuição é a instalação por código fonte. Desta forma o código é compilado de acordo com a arquitetura do sistema (32, 64 bits&amp;hellip;).</description>
+      <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -44,8 +40,7 @@ VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virt
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
-      <description>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema.</description>
+      <description>&lt;p&gt;Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -54,9 +49,7 @@ Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mai
       <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
-      <description>A Oracle acabou de lançar a versão 14 15 do Java SE. Veja aqui como baixar, instalar e configurar no Debian, Ubuntu e derivados.
-Atualizado em 06/04/2021
-Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias para o desenvolvimento e execução de programas com a linguagem de programação Java. O Java SE (Java Platform, Standard Edition) contém o ambiente de execução, chamado de JRE (Java Runtime Environment), e o JDK (Java Development Kit), que é o &amp;ldquo;modo&amp;rdquo; utilizado para criar programas na linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle acabou de lançar a versão 15 do Java SE. Veja aqui como baixar, instalar e configurar esta versão e as posteriores no Debian, Ubuntu e derivados.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -87,8 +80,7 @@ IRPF 2020 O programa é necessário para efetuar as declarações do imposto de 
       <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
-      <description>Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados
-Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramentas necessárias para o desenvolvimento de programas com a linguagem de produção Java e execução dos mesmos. Diversos programas que são desenvolvidos para serem executados em multiplataforma são disponibilizados neste formato, portanto, necessitarão do Java para serem executados.</description>
+      <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -97,8 +89,7 @@ Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramen
       <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
-      <description>Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.
-Na matéria anterior mostrei como atualizar o W7 para o W10 utilizando a ferramenta de atualização da Microsoft. A tal ferramenta dá 2 opções de atualização, sendo a primeira forma a que mostrei na matéria anterior, onde o W10 é baixado e instalado automaticamente no dispositivo onde estava instalado o W7.</description>
+      <description>&lt;p&gt;Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -107,8 +98,7 @@ Na matéria anterior mostrei como atualizar o W7 para o W10 utilizando a ferrame
       <pubDate>Thu, 13 Feb 2020 23:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
-      <description>Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.
-Atualizar para o W10. Sim ou não? O suporte do W7 acabou em 14 de janeiro de 2020, conforme foi mostrado na matéria anterior. Muita gente ainda permanece com o W7 por vários motivos, entre estes está o medo de não se adaptar ao W10 ou não possuir um hardware que suporte o sistema, ou ainda não poder obter uma licença do W10, que custa R$ 730,00 (Home) e R$ 1099,00 (Pro).</description>
+      <description>&lt;p&gt;Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -117,9 +107,7 @@ Atualizar para o W10. Sim ou não? O suporte do W7 acabou em 14 de janeiro de 20
       <pubDate>Sat, 20 Jul 2019 20:31:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
-      <description>Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
-Debian Buster O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em Debian Buster é lançado oficialmente.
-Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:</description>
+      <description>&lt;p&gt;Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -128,9 +116,7 @@ Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a
       <pubDate>Tue, 02 Jul 2019 21:19:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
-      <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
-Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
-  Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
+      <description>&lt;p&gt;Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -139,9 +125,7 @@ Considerações iniciais   Este tutorial foi elaborado através da atualização
       <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
-      <description>Esta dica está desatualizada, veja a nova em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados.
-A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
-O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -150,9 +134,7 @@ O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de dese
       <pubDate>Mon, 11 Mar 2019 19:37:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
-      <description>Se procura a versão 2020, veja em: Programa de declaração do IRPF 2020 - Instalação no Debian e Derivados
-Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.
-O programa que será instalado realiza a declaração de imposto de renda de pessoa física, por isto é chamado de IRPF, e seu instalador está disponível no formato .</description>
+      <description>&lt;p&gt;Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -161,10 +143,7 @@ O programa que será instalado realiza a declaração de imposto de renda de pes
       <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</guid>
-      <description>Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.
-3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Como criar uma Live USB utilizando algum sistema Linux.
-Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados - Instalação do JAVA Oracle 14 e posteriores no Debian, Ubuntu e sistemas derivados.
-Java Oracle 13 no Debian e Derivados - Instalação do JAVA Oracle 13 no Debian e sistemas derivados.</description>
+      <description>&lt;p&gt;Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -184,8 +163,7 @@ Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéri
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
-      <description>Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.
-1 - Introdução Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização (GRUB) ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel.</description>
+      <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -194,9 +172,7 @@ Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéri
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?
-Confira na dica a seguir.
-Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -226,10 +202,9 @@ A utilização de uma máquina virtual torna-se muito importante quando, por exe
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
-      <description>Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
-O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
-1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente.</description>
+      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
+O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -238,9 +213,8 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
-      <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
-1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
+      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -282,11 +256,8 @@ Faremos a transformação em 3 passos apenas instalando um tema do Windows e alt
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.
-Não conhece? Veja abaixo.
-
-Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser instalada facilmente, com um único comando:
-##Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
+      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;
+Não conhece? Veja abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -305,8 +276,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
-      <description>Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:
-Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Windows.</description>
+      <description>&lt;p&gt;Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -324,8 +294,7 @@ Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Wind
       <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/08/flashgot.html</guid>
-      <description>FlashGot é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. O Flashgot não funciona no Firefox Quantum.
-Uma função muito interessante do FlashGot é permitir o download direto de vídeos de sites como Youtube e outros sites de vídeos e músicas.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://draft.blogger.com/flashgot.net/%E2%80%8E&#34;&gt;FlashGot&lt;/a&gt; é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. _O Flashgot não funciona no Firefox Quantum.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -356,8 +325,7 @@ Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira
       <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</guid>
-      <description>Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.
-Isto não irá acontecer, pois a rede do Windows Live Messenger continuará funcionando, o que irá ocorrer é apenas o fim do software WLM, e ainda poderemos nos conectar utilizando outros softwares como o Pidgin, Amsn, Ebuddy&amp;hellip; Mas o usuário que gosta dos softwares da Microsoft não ficará órfão de um cliente de bate papo capaz de conectar-se e utilizar os contatos do WLM já que a Microsoft havia comprado o Skype, e quem possui uma conta Microsoft (a mesma que utilizava para conectar-se ao WLM, Xbox, Windows Phone, Hotmail, Outlook.</description>
+      <description>&lt;p&gt;Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.&lt;/p&gt;</description>
     </item>
     
     <item>

@@ -56,9 +56,6 @@
     <loc>https://info.wsouza.com.br/tags/irpf/</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/java/</loc>
-    <lastmod>2021-02-28T19:25:00-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/categories/tutoriais/</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
@@ -104,6 +101,9 @@
     <loc>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</loc>
     <lastmod>2020-10-30T18:38:00-03:00</lastmod>
   </url><url>
+    <loc>https://info.wsouza.com.br/tags/fedora-33/</loc>
+    <lastmod>2020-10-28T14:56:00-03:00</lastmod>
+  </url><url>
     <loc>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</loc>
     <lastmod>2020-10-28T14:56:00-03:00</lastmod>
   </url><url>
@@ -124,9 +124,6 @@
   </url><url>
     <loc>https://info.wsouza.com.br/tags/yaru/</loc>
     <lastmod>2020-10-12T17:53:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/fedora-33/</loc>
-    <lastmod>2020-10-07T00:05:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</loc>
     <lastmod>2020-10-07T00:05:00-03:00</lastmod>
@@ -205,6 +202,9 @@
   </url><url>
     <loc>https://info.wsouza.com.br/tags/windows-10/</loc>
     <lastmod>2020-03-29T20:06:00-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/java/</loc>
+    <lastmod>2020-03-25T20:35:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</loc>
     <lastmod>2020-03-25T20:35:00-03:00</lastmod>
@@ -287,6 +287,9 @@
     <loc>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</loc>
     <lastmod>2019-06-26T22:24:00-03:00</lastmod>
   </url><url>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-32-bits/</loc>
+    <lastmod>2019-06-26T22:24:00-03:00</lastmod>
+  </url><url>
     <loc>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</loc>
     <lastmod>2019-06-25T00:05:00-03:00</lastmod>
   </url><url>
@@ -357,9 +360,6 @@
     <lastmod>2018-12-21T23:00:00-02:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</loc>
-    <lastmod>2018-12-17T11:41:00-02:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/google/</loc>
     <lastmod>2018-12-17T11:41:00-02:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</loc>
@@ -452,9 +452,6 @@
     <loc>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</loc>
     <lastmod>2015-12-01T01:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/google-maps/</loc>
-    <lastmod>2015-12-01T01:02:00-02:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</loc>
     <lastmod>2015-11-01T13:12:00-02:00</lastmod>
   </url><url>
@@ -474,6 +471,12 @@
     <lastmod>2015-09-29T23:09:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</loc>
+    <lastmod>2015-04-27T00:24:00-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/debian-jessie/</loc>
+    <lastmod>2015-04-27T00:24:00-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/ubuntu-15.04/</loc>
     <lastmod>2015-04-27T00:24:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</loc>

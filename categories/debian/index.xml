@@ -24,8 +24,7 @@ GNOME Segundo a Wikipédia:
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -34,9 +33,7 @@ DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda par
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
-      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
-VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
- &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -45,8 +42,7 @@ VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virt
       <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
-      <description>O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.
-Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do Debian Bullseye, que naquele momento, fazia aproximadamente 1 ano que estava em desenvolvimento na &amp;ldquo;fase&amp;rdquo; testing. De lá pra cá os desenvolvedores continuaram trabalhando, trazendo as versões mais recentes dos aplicativos, corrigindo bugs e agora, em janeiro de 2021, inicia-se o congelamento (freeze).</description>
+      <description>&lt;p&gt;O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,8 +51,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
-      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-1. Aplicativos em sistemas Linux Há várias formas de instalar aplicativos nos sistemas baseados em Linux. Uma forma que funciona em qualquer distribuição é a instalação por código fonte. Desta forma o código é compilado de acordo com a arquitetura do sistema (32, 64 bits&amp;hellip;).</description>
+      <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -75,8 +70,7 @@ Microsoft Edge O Microsoft Edge em questão é a segunda geração do navegador 
       <pubDate>Sat, 01 Aug 2020 22:51:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</guid>
-      <description>Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.
-O sistema de atualizações do Debian consiste em atualizações pontuais, com apenas um ou poucos pacotes, e de tempos em tempos saem atualizações maiores, com um maior número de pacotes atualizados. Estas versões não são consideradas um lançamento, mas sim complementos com melhorias e/ou atualizações de segurança.</description>
+      <description>&lt;p&gt;Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -85,8 +79,7 @@ O sistema de atualizações do Debian consiste em atualizações pontuais, com a
       <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
-      <description>O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.
-No dia 06/07/2020 fez 1 ano que o Debian 10 (Buster), a versão estável do Debian, foi lançada. Logo após o anúncio do Buster, também foi a anunciado a próxima versão, que sai da &amp;ldquo;fase&amp;rdquo; sid e entra na &amp;ldquo;fase&amp;rdquo; testing . Para saber mais sobre as fases de desenvolvimento do Debian, leia a matéria Debian - Curiosidades, informações, versões e ciclo de vida.</description>
+      <description>&lt;p&gt;O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -105,8 +98,7 @@ Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus pref
       <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
-      <description>Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados
-Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramentas necessárias para o desenvolvimento de programas com a linguagem de produção Java e execução dos mesmos. Diversos programas que são desenvolvidos para serem executados em multiplataforma são disponibilizados neste formato, portanto, necessitarão do Java para serem executados.</description>
+      <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -126,9 +118,7 @@ Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com 
       <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
-      <description>Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
-O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.
-Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC.</description>
+      <description>&lt;p&gt;Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -137,9 +127,7 @@ Quando falamos de gravação de tela existem várias opções de softwares, apli
       <pubDate>Sat, 20 Jul 2019 20:31:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
-      <description>Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
-Debian Buster O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em Debian Buster é lançado oficialmente.
-Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:</description>
+      <description>&lt;p&gt;Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -148,9 +136,7 @@ Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a
       <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
-      <description>O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.
-Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.
-Para entender como funciona, e para mais informações sobre o Debian leia: Debian - Curiosidades, informações, versões e ciclo de vida</description>
+      <description>&lt;p&gt;O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -159,8 +145,7 @@ Para entender como funciona, e para mais informações sobre o Debian leia: Debi
       <pubDate>Wed, 03 Jul 2019 00:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
-      <description>Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
-Debian O que é O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD. Há um trabalho em andamento para disponibilizá-lo com o Kernel Hurd, do projeto GNU.</description>
+      <description>&lt;p&gt;Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -169,9 +154,7 @@ Debian O que é O Debian é um sistema operacional composto inteiramente por sof
       <pubDate>Tue, 02 Jul 2019 21:19:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
-      <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
-Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
-  Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
+      <description>&lt;p&gt;Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -180,9 +163,7 @@ Considerações iniciais   Este tutorial foi elaborado através da atualização
       <pubDate>Thu, 27 Jun 2019 01:39:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
-      <description>Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
-Debian Debian - Curiosidades, informações, versões e ciclo de vida.
-Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto.</description>
+      <description>&lt;p&gt;Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -191,9 +172,7 @@ Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um 
       <pubDate>Tue, 25 Jun 2019 00:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
-      <description>A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.
-Debian Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em Debian - Curiosidades, informações, versões e ciclo de vida.
-Buster O Debian Buster será a próxima versão estável, sendo substituto do Debian Stretch.</description>
+      <description>&lt;p&gt;A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -202,9 +181,7 @@ Buster O Debian Buster será a próxima versão estável, sendo substituto do De
       <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
-      <description>Esta dica está desatualizada, veja a nova em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados.
-A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
-O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -213,8 +190,7 @@ O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de dese
       <pubDate>Sat, 17 Jun 2017 20:29:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</guid>
-      <description>No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.
-Segundo a página de lançamento, o Stretch inclui mais de 15346 novos pacotes, num total de mais de 51687 pacotes, 57% dos pacotes de seu antecessor foram atualizados e 13% foram removidos e serão marcados como obsoletos.</description>
+      <description>&lt;p&gt;No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -223,9 +199,7 @@ Segundo a página de lançamento, o Stretch inclui mais de 15346 novos pacotes, 
       <pubDate>Sun, 21 Feb 2016 01:02:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</guid>
-      <description>No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.
-A partir desta data não haverá mais suporte de segurança, ou seja, o sistema não receberá mais atualizações de segurança. O Debian Squeeze foi lançado em 2011 e recebeu suporte de 5 anos.
-A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013, e hoje chamado de oldstable.</description>
+      <description>&lt;p&gt;No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -234,11 +208,8 @@ A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.
-Não conhece? Veja abaixo.
-
-Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser instalada facilmente, com um único comando:
-##Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
+      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;
+Não conhece? Veja abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -247,8 +218,7 @@ Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser 
       <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
-      <description>Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.
-O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de software livre e não possui nada comercial em seu código. É uma ótima escola para desenvolvedores de software livre.</description>
+      <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
     </item>
     
     <item>

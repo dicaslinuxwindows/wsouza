@@ -8,8 +8,7 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Como resolver o erro ao instalar extensões no Firefox" />
-<meta property="og:description" content="Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
-Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu." />
+<meta property="og:description" content="Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2019-05-07T23:30:00-03:00" />
@@ -17,15 +16,13 @@ Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvid
 
 
 		<meta itemprop="name" content="Como resolver o erro ao instalar extensões no Firefox">
-<meta itemprop="description" content="Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
-Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu."><meta itemprop="datePublished" content="2019-05-07T23:30:00-03:00" />
+<meta itemprop="description" content="Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir."><meta itemprop="datePublished" content="2019-05-07T23:30:00-03:00" />
 <meta itemprop="dateModified" content="2019-05-07T23:30:00-03:00" />
 <meta itemprop="wordCount" content="471">
 <meta itemprop="keywords" content="Firefox," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Como resolver o erro ao instalar extensões no Firefox"/>
-<meta name="twitter:description" content="Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
-Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu."/>
+<meta name="twitter:description" content="Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -216,57 +213,53 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li><a href="#firefox-e-firefox-esr">Firefox e Firefox ESR</a></li>
-        <li><a href="#extensões-desativadas">Extensões desativadas</a></li>
-        <li><a href="#resolvendo-o-problema">Resolvendo o problema</a></li>
-        <li><a href="#como-garantir-sempre-a-versão-mais-recente">Como garantir sempre a versão mais recente?</a></li>
-      </ul>
-    </li>
+    <li><a href="#firefox-e-firefox-esr">Firefox e Firefox ESR</a></li>
+    <li><a href="#extensões-desativadas">Extensões desativadas</a></li>
+    <li><a href="#resolvendo-o-problema">Resolvendo o problema</a></li>
+    <li><a href="#como-garantir-sempre-a-versão-mais-recente">Como garantir sempre a versão mais recente?</a></li>
   </ul>
 </nav>
 	</div>
 </div><div class="content post__content clearfix">
 			<p>Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.</p>
-<h3 id="firefox-e-firefox-esr">Firefox e Firefox ESR</h3>
+<h2 id="firefox-e-firefox-esr">Firefox e Firefox ESR</h2>
 <p>O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox <em>(ou Firefox Quantum)</em> atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu. Já a versão chamada Firefox ESR é uma versão de suporte estendido, ainda possui alguns recursos - <em>como o leitor de RSS</em> - que já não está mais disponível no Firefox padrão. É a versão que está disponível no repositório do Debian e está na casa da versão 60.</p>
-<h3 id="extensões-desativadas">Extensões desativadas</h3>
+<h2 id="extensões-desativadas">Extensões desativadas</h2>
 <p>Após a atualização para a versão 66.0.4 do Firefox e 60.6.2 do Firefox-ESR, todas as extensões foram desativadas e não estava sendo permitida nenhuma outra instalação de extensões. O problema ocorreu devido ao vencimento e a não renovação dos certificados de segurança.</p>
-<h3 id="resolvendo-o-problema">Resolvendo o problema</h3>
+<h2 id="resolvendo-o-problema">Resolvendo o problema</h2>
 <p> Para resolver o problema foram disponibilizadas novas versões dos navegadores, a 60.6.3 do ESR e a  66.0.5 do padrão. Abra o terminal <em>(CTRL + ALT + T)</em> e insira os comando abaixo:</p>
-<p><strong>sudo su</strong></p>
-<p><strong>apt update</strong></p>
+<p><code>sudo su</code></p>
+<p><code>apt update</code></p>
 <p><strong>No Debian</strong></p>
+<p><code>apt install firefox-esr</code></p>
 <p><strong>No Ubuntu</strong></p>
-<p><strong>apt install firefox-esr</strong></p>
-<p><strong>apt install firefox</strong></p>
+<p><code>apt install firefox</code></p>
 <p>Pronto, o Firefox estará atualizado e com extensões funcionando de maneira correta novamente.</p>
-<h3 id="como-garantir-sempre-a-versão-mais-recente">Como garantir sempre a versão mais recente?</h3>
+<h2 id="como-garantir-sempre-a-versão-mais-recente">Como garantir sempre a versão mais recente?</h2>
 <p>Se por qualquer motivo você não conseguir atualizar, ou se deseja receber sempre a versão mais recente direto da Mozilla, volte ao terminal e siga os passos abaixo:</p>
-<p><strong>sudo su</strong></p>
+<p><code>sudo su</code></p>
 <p>Primeiramente desinstale a versão que veio instalada na sua distribuição.</p>
 <p><strong>No Debian</strong></p>
+<p><code>apt remove firefox</code></p>
 <p><strong>No Ubuntu</strong></p>
-<p><strong>apt remove firefox-esr</strong></p>
-<p><strong>apt remove firefox</strong></p>
+<p><code>apt remove firefox-esr</code></p>
 <p>Agora, faça o download da última versão, de acordo com a sua preferência. Salve em sua pasta home. Como exemplo vou utilizar a instalação do Firefox-ESR, mas é o mesmo princípio com o Firefox Padrão, o que altera é apenas o nome do arquivo baixado.</p>
 <p><strong>Firefox ESR</strong></p>
-<p><strong>wget <a href="https://download.mozilla.org/?product=firefox-esr-latest-ssl&amp;os=linux64&amp;lang=pt-BR">https://download.mozilla.org/?product=firefox-esr-latest-ssl&amp;os=linux64&amp;lang=pt-BR</a></strong></p>
+<p><code>wget https://download.mozilla.org/?product=firefox-esr-latest-ssl&amp;os=linux64&amp;lang=pt-BR</code></p>
 <p>Mova a pasta de sua pasta home para a pasta /opt.</p>
-<p><strong>mv firefox-60.6.3esr.tar.bz2 /opt</strong></p>
+<p><code>mv firefox-60.6.3esr.tar.bz2 /opt</code></p>
 <p>Acesse a pasta Opt e descompacte o arquivo.</p>
-<p><strong>cd /opt</strong></p>
-<p><strong>tar -jxvf firefox-60.6.3esr.tar.bz2</strong></p>
+<p><code>cd /opt</code></p>
+<p><code>tar -jxvf firefox-60.6.3esr.tar.bz2</code></p>
 <p>Para permitir a atualização automática para as novas versões dê permissão ao seu usuário na pasta /opt/firefox. Desta maneira, quando logado com seu usuário, a atualização ocorrerá de forma automática, da mesma forma que acontece no Firefox do Windows.</p>
-<p><strong>chown -R nomedousuario.nomedogrupo firefox</strong></p>
+<p><code>chown -R nomedousuario.nomedogrupo firefox</code></p>
 <p>Como o arquivo gerado anteriormente não será mais necessário, exclua-o.</p>
-<p><strong>rm -rf firefox-60.6.3esr.tar.bz2</strong></p>
+<p><code>rm -rf firefox-60.6.3esr.tar.bz2</code></p>
 <p>Para criar o atalho no menu:</p>
-<p><strong>sudo *nome*do*editor* /usr/share/applications/Firefox.desktop</strong></p>
+<p><code>sudo joe /usr/share/applications/Firefox.desktop</code></p>
 <p>O editor pode ser qualquer um, tanto em modo texto, quanto em modo gráfico. Ex: <em>nano vi joe gedit kedit pluma</em>. Copie os dados abaixo, cole no arquivo aberto e salve.</p>
-<p>[Desktop Entry] Name=Firefox ESR Exec=/opt/firefox/firefox %u Icon=/opt/firefox/browser/chrome/icons/default/default48.png Type=Application Categories=Network;</p>
-
+<pre tabindex="0"><code>\[Desktop Entry\] Name=Firefox ESR Exec=/opt/firefox/firefox %u Icon=/opt/firefox/browser/chrome/icons/default/default48.png Type=Application Categories=Network;
+</code></pre>
 		</div>
 		<footer class="post__footer">
 			
@@ -304,7 +297,7 @@ if (!doNotTrack) {
 	<div class="pager__item pager__item--next">
 		<a class="pager__link" href="/2019/06/fim-do-ubuntu-32-bits.html" rel="next">
 			<span class="pager__subtitle">Próximo&thinsp;»</span>
-			<p class="pager__title">[Atualizado] Fim do Ubuntu 32 bits</p>
+			<p class="pager__title">Fim do Ubuntu 32 bits</p>
 		</a>
 	</div>
 </nav>
@@ -362,362 +355,324 @@ if (!doNotTrack) {
 
 
 
-<a href="/tags/ferramentas-linux" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ferramentas-linux <span class="badge">(8)</span></a>
+
  
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
 
 
 
 
 
-<a href="/tags/firefox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >firefox <span class="badge">(7)</span></a>
  
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/redes-sociais" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >redes-sociais <span class="badge">(7)</span></a>
  
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/debian-buster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-buster <span class="badge">(6)</span></a>
  
+<a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
 
 
 
-<a href="/tags/java" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >java <span class="badge">(5)</span></a>
  
+<a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/microsoft-edge" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >microsoft-edge <span class="badge">(5)</span></a>
  
+<a href="/tags/ubuntu-21.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-21.04 <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-21.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-21.04 <span class="badge">(5)</span></a>
  
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/irpf" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >irpf <span class="badge">(4)</span></a>
  
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.04 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.04 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.10 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.10 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/windows-7" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-7 <span class="badge">(4)</span></a>
  
+<a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/m%c3%a1quina-virtual" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >máquina-virtual <span class="badge">(3)</span></a>
  
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/sis-mirage-3-graphics" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >sis-mirage-3-graphics <span class="badge">(3)</span></a>
  
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/windows-10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-10 <span class="badge">(3)</span></a>
  
+<a href="/tags/ubuntu-32-bits" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-32-bits <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/ccleaner" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ccleaner <span class="badge">(2)</span></a>
  
+<a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/debian-bullseye" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-bullseye <span class="badge">(2)</span></a>
  
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/paint" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >paint <span class="badge">(2)</span></a>
  
+<a href="/tags/debian-bullseye" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-bullseye <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/recuperar-grub" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >recuperar-grub <span class="badge">(2)</span></a>
  
+<a href="/tags/fedora-33" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora-33 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/remaster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >remaster <span class="badge">(2)</span></a>
  
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/vmware-player" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vmware-player <span class="badge">(2)</span></a>
  
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/whatsapp" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >whatsapp <span class="badge">(2)</span></a>
  
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/windows-8" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-8 <span class="badge">(2)</span></a>
  
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/yaru" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >yaru <span class="badge">(2)</span></a>
  
+<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/adblock-plus" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >adblock-plus <span class="badge">(1)</span></a>
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/armazenamento-na-nuvem" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >armazenamento-na-nuvem <span class="badge">(1)</span></a>
  
+<a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/arquivo-da-internet" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >arquivo-da-internet <span class="badge">(1)</span></a>
  
+<a href="/tags/yaru" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">yaru <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/dropbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >dropbox <span class="badge">(1)</span></a>
  
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/fedora-33" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >fedora-33 <span class="badge">(1)</span></a>
  
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/flatpak" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >flatpak <span class="badge">(1)</span></a>
  
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gcompris" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gcompris <span class="badge">(1)</span></a>
  
+<a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gmail" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gmail <span class="badge">(1)</span></a>
  
+<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gnome" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gnome <span class="badge">(1)</span></a>
  
+<a href="/tags/flatpak" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">flatpak <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google <span class="badge">(1)</span></a>
  
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google-maps" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google-maps <span class="badge">(1)</span></a>
  
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gparted" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gparted <span class="badge">(1)</span></a>
  
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/libre-office" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >libre-office <span class="badge">(1)</span></a>
  
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/open-source" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >open-source <span class="badge">(1)</span></a>
  
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/pendrive-multiboot" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >pendrive-multiboot <span class="badge">(1)</span></a>
  
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/snap" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >snap <span class="badge">(1)</span></a>
  
+<a href="/tags/snap" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">snap <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-15.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-15.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.04 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/virtualbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >virtualbox <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/vlc" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vlc <span class="badge">(1)</span></a>
  
+<a href="/tags/virtualbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">virtualbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/webmin" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >webmin <span class="badge">(1)</span></a>
  
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
 
+
+
+
+
+ 
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
 
 
 </div>

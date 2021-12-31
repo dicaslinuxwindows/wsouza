@@ -8,9 +8,7 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa" />
-<meta property="og:description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
-Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
- Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live." />
+<meta property="og:description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-04-23T12:16:00-03:00" />
@@ -18,17 +16,13 @@ Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nes
 
 
 		<meta itemprop="name" content="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa">
-<meta itemprop="description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
-Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
- Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live."><meta itemprop="datePublished" content="2020-04-23T12:16:00-03:00" />
+<meta itemprop="description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira."><meta itemprop="datePublished" content="2020-04-23T12:16:00-03:00" />
 <meta itemprop="dateModified" content="2020-04-23T12:16:00-03:00" />
-<meta itemprop="wordCount" content="693">
+<meta itemprop="wordCount" content="694">
 <meta itemprop="keywords" content="Ubuntu 20.04," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa"/>
-<meta name="twitter:description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
-Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
- Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live."/>
+<meta name="twitter:description" content="Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -219,15 +213,11 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li><a href="#atualizar-a-partir-do-ubuntu-1804-ou-1910">Atualizar a partir do Ubuntu 18.04 ou 19.10</a></li>
-        <li><a href="#download-da-iso">Download da ISO</a></li>
-        <li><a href="#executar-em-modo-live">Executar em modo live</a></li>
-        <li><a href="#instalar-com-um-live-dvdusb">Instalar com um Live DVD/USB</a></li>
-        <li><a href="#instalar-em-uma-máquina-virtual">Instalar em uma Máquina Virtual</a></li>
-      </ul>
-    </li>
+    <li><a href="#atualizar-a-partir-do-ubuntu-1804-ou-1910">Atualizar a partir do Ubuntu 18.04 ou 19.10</a></li>
+    <li><a href="#download-da-iso">Download da ISO</a></li>
+    <li><a href="#executar-em-modo-live">Executar em modo live</a></li>
+    <li><a href="#instalar-com-um-live-dvdusb">Instalar com um Live DVD/USB</a></li>
+    <li><a href="#instalar-em-uma-máquina-virtual">Instalar em uma Máquina Virtual</a></li>
   </ul>
 </nav>
 	</div>
@@ -240,17 +230,17 @@ if (!doNotTrack) {
 <li>Instalar em uma máquina virtual;</li>
 <li>Executar em modo live.</li>
 </ul>
-<h3 id="atualizar-a-partir-do-ubuntu-1804-ou-1910">Atualizar a partir do Ubuntu 18.04 ou 19.10</h3>
+<h2 id="atualizar-a-partir-do-ubuntu-1804-ou-1910">Atualizar a partir do Ubuntu 18.04 ou 19.10</h2>
 <p>Se você está utilizando atualmente o Ubuntu 18.04 <em>(Bionic Beaver)</em> ou o Ubuntu 19.10 <em>(Eoan Ermine)</em> você pode atualizar diretamente - mantendo os arquivos e configurações - seguindo os passos abaixo:</p>
 <ul>
 <li>Tenha certeza que o a versão atual está com as últimas atualizações. No terminal, faça:</li>
 </ul>
-<p> sudo apt update<br>
- sudo apt upgrade</p>
+<p><code>sudo apt update</code>
+<code>sudo apt upgrade</code></p>
 <ul>
 <li>Após atualizar, faça:</li>
 </ul>
-<p> sudo do-release-upgrade -d</p>
+<p><code>sudo do-release-upgrade -d</code></p>
 <p>O comando anterior vai:</p>
 <ul>
 <li>Verificar se há uma nova versão em desenvolvimento;</li>
@@ -263,45 +253,73 @@ if (!doNotTrack) {
 <li>Caso não confirme <em>(N)</em>, pode ser que seja preciso alterar os repositórios manualmente de <strong>focal para bionic</strong> <em>(se você estava no 18.04)</em> ou de <strong>focal para eoan</strong> <em>(se estava no 19.10)</em>. Nos testes que realizei não ocorreram problemas quando não confirmei a atualização.<br>
 Mas, caso ocorram problemas, utilize o editor de texto que preferir <em>(joe gedit, kate, nano, vi, pluma&hellip;)</em>, e abra o arquivo sources.list com o comando abaixo:</li>
 </ol>
-<p> sudo <em>joe</em> /etc/apt/sources.list</p>
+<p><code>sudo _joe_ /etc/apt/sources.list</code></p>
 <ul>
 <li>No arquivo aberto, faça as alterações solicitadas e salve o arquivo.</li>
 </ul>
-<h3 id="download-da-iso">Download da ISO</h3>
-<p>Seguem os links para download das imagens de instalação <em>(amd64)</em> do Ubuntu e de alguns dos seus <em>&ldquo;flavours&rdquo; ou &ldquo;sabores&rdquo;</em> oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute .</p>
-<p>Ubuntu</p>
-<p><a href="https://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://ubuntu.com/download">Mais&hellip;</a></p>
-<p>Kubuntu</p>
-<p><a href="http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://kubuntu.org/getkubuntu/">Mais&hellip;</a></p>
-<p>Xubuntu</p>
-<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://xubuntu.org/download">Mais&hellip;</a></p>
-<p>Ubuntu Mate</p>
-<p><a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://ubuntu-mate.org/download/">Mais&hellip;</a></p>
-<p>Lubuntu</p>
-<p><a href="http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://lubuntu.me/downloads/">Mais&hellip;</a></p>
-<p>Ubuntu Kylin</p>
-<p><a href="http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://www.ubuntukylin.com/downloads/show.php?id=451&amp;lang=en">Mais&hellip;</a></p>
-<p>Ubuntu Studio</p>
-<p><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://ubuntustudio.org/download/">Mais&hellip;</a></p>
-<p>Ubuntu Budgie</p>
-<p><a href="http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso"> Live</a></p>
-<p><a href="http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso.torrent"> Torrent</a></p>
-<p><a href="https://ubuntubudgie.org/downloads/">Mais&hellip;</a></p>
-<h3 id="executar-em-modo-live">Executar em modo live</h3>
+<h2 id="download-da-iso">Download da ISO</h2>
+<p>Seguem os links para download das imagens de instalação <em>(amd64)</em> do Ubuntu e de alguns dos seus <em>&ldquo;flavours&rdquo; ou &ldquo;sabores&rdquo;</em> oficiais. Todas as imagens são da versão Desktop e podem ser utilizadas sem necessidade de instalação. Há também a opção de download em Torrent. Escolha a de sua preferência, grave num DVD ou Pendrive e desfrute.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"></th>
+<th style="text-align:center">Focal Fossa</th>
+<th style="text-align:center"></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Ubuntu</td>
+<td style="text-align:center"><a href="https://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://releases.ubuntu.com/focal/ubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://ubuntu.com/download">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Kubuntu</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/kubuntu/releases/focal/release/kubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://kubuntu.org/getkubuntu/">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Xubuntu</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/xubuntu/releases/focal/release/xubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://xubuntu.org/download">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Ubuntu Mate</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntu-mate/releases/focal/release/ubuntu-mate-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://ubuntu-mate.org/download/">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Lubuntu</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/lubuntu/releases/focal/release/lubuntu-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://lubuntu.me/downloads/">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Ubuntu Kylin</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntukylin/releases/focal/release/ubuntukylin-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://www.ubuntukylin.com/downloads/show.php?id=451&amp;lang=en">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Ubuntu Studio</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntustudio/releases/focal/release/ubuntustudio-20.04-dvd-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://ubuntustudio.org/download/">Mais&hellip;</a></td>
+</tr>
+<tr>
+<td style="text-align:center">Ubuntu Budgie</td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso"> Live</a></td>
+<td style="text-align:center"><a href="http://cdimage.ubuntu.com/ubuntu-budgie/releases/20.04/release/ubuntu-budgie-20.04-desktop-amd64.iso.torrent"> Torrent</a></td>
+<td style="text-align:center"><a href="https://ubuntubudgie.org/downloads/">Mais&hellip;</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="executar-em-modo-live">Executar em modo live</h2>
 <p>Essa opção permite utilizar o Ubuntu sem precisar instalar. O sistema é executado pelo Pendrive/DVD e &ldquo;descarregado&rdquo; na memória RAM.</p>
 <ul>
 <li>Grave a imagem ISO num DVD ou Pendrive <em>(Veja como gravar o pendrive no <a href="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html">Linux</a> ou <a href="https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html">Windows</a>)</em>;</li>
@@ -315,7 +333,7 @@ Mas, caso ocorram problemas, utilize o editor de texto que preferir <em>(joe ged
 </ul>
 <p><a href="https://4.bp.blogspot.com/--6oAMhozAUg/XqJP6Dn2TEI/AAAAAAAAOvo/Y5MnX3IS_OIeC4we_62U4dHejLaHePwhwCNcBGAsYHQ/s1600/03.png"><img src="https://4.bp.blogspot.com/--6oAMhozAUg/XqJP6Dn2TEI/AAAAAAAAOvo/Y5MnX3IS_OIeC4we_62U4dHejLaHePwhwCNcBGAsYHQ/s640/03.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows" title="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></a></p>
 <p><a href="https://3.bp.blogspot.com/-k7-9bIHDMdc/XqJP6MltjvI/AAAAAAAAOvs/Nvfuy0ERzFon0WkGuh41On0fe1QG00jJACNcBGAsYHQ/s1600/04.png"><img src="https://3.bp.blogspot.com/-k7-9bIHDMdc/XqJP6MltjvI/AAAAAAAAOvs/Nvfuy0ERzFon0WkGuh41On0fe1QG00jJACNcBGAsYHQ/s640/04.png" alt="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows" title="Instalando ou atualizando o Ubuntu 20.04 Focal Fossa - Dicas Linux e Windows"></a></p>
-<h3 id="instalar-com-um-live-dvdusb">Instalar com um Live DVD/USB</h3>
+<h2 id="instalar-com-um-live-dvdusb">Instalar com um Live DVD/USB</h2>
 <ul>
 <li>
 <p>O vídeo abaixo mostra a instalação normal do Ubuntu num computador que não possui nenhum outro sistema, ou seja, sem dual boot e aproveitando o disco todo com particionamento automático. No vídeo a instalação foi iniciada após entrar no modo live, mas a instalação também pode ser iniciada sem entrar no live. Para isto, basta escolher a opção &ldquo;Instalar o Ubuntu&rdquo;, mostrada no menu que aparece ao iniciar.</p>
@@ -324,9 +342,9 @@ Mas, caso ocorram problemas, utilize o editor de texto que preferir <em>(joe ged
 <p>Já no vídeo abaixo, foi utilizada a instalação lado a lado com o Windows 10, ou seja, o Ubuntu e Windows 10 instalados no mesmo disco, em <strong>dual boot</strong>. Neste tipo de instalação, o instalador do Ubuntu cria uma partição a partir do espaço vazio no disco e separa a partição do Windows. Após, ocorre a instalação do Ubuntu.</p>
 </li>
 </ul>
-<h3 id="instalar-em-uma-máquina-virtual">Instalar em uma Máquina Virtual</h3>
+<p><a href="https://www.youtube.com/embed/pZm-xxZbLRI"><img src="https://img.youtube.com/vi/pZm-xxZbLRI/maxresdefault.jpg" alt="Watch the video"></a></p>
+<h2 id="instalar-em-uma-máquina-virtual">Instalar em uma Máquina Virtual</h2>
 <p>Se deseja instalar o Focal Fossa, mas nunca fez antes e tem medo de comprometer seus arquivos, tente <a href="https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html">instalar o sistema em uma máquina virtual</a>.</p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -422,362 +440,324 @@ Mas, caso ocorram problemas, utilize o editor de texto que preferir <em>(joe ged
 
 
 
-<a href="/tags/ferramentas-linux" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ferramentas-linux <span class="badge">(8)</span></a>
+
  
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
 
 
 
 
 
-<a href="/tags/firefox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >firefox <span class="badge">(7)</span></a>
  
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/redes-sociais" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >redes-sociais <span class="badge">(7)</span></a>
  
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/debian-buster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-buster <span class="badge">(6)</span></a>
  
+<a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
 
 
 
-<a href="/tags/java" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >java <span class="badge">(5)</span></a>
  
+<a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/microsoft-edge" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >microsoft-edge <span class="badge">(5)</span></a>
  
+<a href="/tags/ubuntu-21.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-21.04 <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-21.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-21.04 <span class="badge">(5)</span></a>
  
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/irpf" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >irpf <span class="badge">(4)</span></a>
  
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.04 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.04 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.10 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.10 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/windows-7" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-7 <span class="badge">(4)</span></a>
  
+<a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/m%c3%a1quina-virtual" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >máquina-virtual <span class="badge">(3)</span></a>
  
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/sis-mirage-3-graphics" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >sis-mirage-3-graphics <span class="badge">(3)</span></a>
  
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/windows-10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-10 <span class="badge">(3)</span></a>
  
+<a href="/tags/ubuntu-32-bits" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-32-bits <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/ccleaner" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ccleaner <span class="badge">(2)</span></a>
  
+<a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/debian-bullseye" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-bullseye <span class="badge">(2)</span></a>
  
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/paint" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >paint <span class="badge">(2)</span></a>
  
+<a href="/tags/debian-bullseye" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-bullseye <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/recuperar-grub" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >recuperar-grub <span class="badge">(2)</span></a>
  
+<a href="/tags/fedora-33" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora-33 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/remaster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >remaster <span class="badge">(2)</span></a>
  
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/vmware-player" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vmware-player <span class="badge">(2)</span></a>
  
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/whatsapp" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >whatsapp <span class="badge">(2)</span></a>
  
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/windows-8" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-8 <span class="badge">(2)</span></a>
  
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/yaru" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >yaru <span class="badge">(2)</span></a>
  
+<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/adblock-plus" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >adblock-plus <span class="badge">(1)</span></a>
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/armazenamento-na-nuvem" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >armazenamento-na-nuvem <span class="badge">(1)</span></a>
  
+<a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/arquivo-da-internet" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >arquivo-da-internet <span class="badge">(1)</span></a>
  
+<a href="/tags/yaru" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">yaru <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/dropbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >dropbox <span class="badge">(1)</span></a>
  
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/fedora-33" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >fedora-33 <span class="badge">(1)</span></a>
  
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/flatpak" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >flatpak <span class="badge">(1)</span></a>
  
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gcompris" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gcompris <span class="badge">(1)</span></a>
  
+<a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gmail" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gmail <span class="badge">(1)</span></a>
  
+<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gnome" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gnome <span class="badge">(1)</span></a>
  
+<a href="/tags/flatpak" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">flatpak <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google <span class="badge">(1)</span></a>
  
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google-maps" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google-maps <span class="badge">(1)</span></a>
  
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gparted" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gparted <span class="badge">(1)</span></a>
  
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/libre-office" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >libre-office <span class="badge">(1)</span></a>
  
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/open-source" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >open-source <span class="badge">(1)</span></a>
  
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/pendrive-multiboot" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >pendrive-multiboot <span class="badge">(1)</span></a>
  
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/snap" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >snap <span class="badge">(1)</span></a>
  
+<a href="/tags/snap" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">snap <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-15.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-15.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.04 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/virtualbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >virtualbox <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/vlc" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vlc <span class="badge">(1)</span></a>
  
+<a href="/tags/virtualbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">virtualbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/webmin" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >webmin <span class="badge">(1)</span></a>
  
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
 
+
+
+
+
+ 
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
 
 
 </div>

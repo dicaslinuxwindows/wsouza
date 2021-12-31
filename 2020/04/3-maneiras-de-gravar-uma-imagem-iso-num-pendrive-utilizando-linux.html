@@ -8,8 +8,7 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux" />
-<meta property="og:description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema." />
+<meta property="og:description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-04-20T02:17:00-03:00" />
@@ -17,15 +16,13 @@ Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mai
 
 
 		<meta itemprop="name" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux">
-<meta itemprop="description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema."><meta itemprop="datePublished" content="2020-04-20T02:17:00-03:00" />
+<meta itemprop="description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele."><meta itemprop="datePublished" content="2020-04-20T02:17:00-03:00" />
 <meta itemprop="dateModified" content="2020-04-20T02:17:00-03:00" />
 <meta itemprop="wordCount" content="1112">
 <meta itemprop="keywords" content="Ferramentas Linux," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux"/>
-<meta name="twitter:description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema."/>
+<meta name="twitter:description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -216,47 +213,43 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
-      <ul>
-        <li><a href="#por-que-eu-preciso-disso">Por que eu preciso disso?</a></li>
-        <li><a href="#dd">DD</a></li>
-        <li><a href="#unetbootin">UNetbootin</a></li>
-        <li><a href="#etcher">Etcher</a></li>
-      </ul>
-    </li>
+    <li><a href="#por-que-eu-preciso-disso">Por que eu preciso disso?</a></li>
+    <li><a href="#dd">DD</a></li>
+    <li><a href="#unetbootin">UNetbootin</a></li>
+    <li><a href="#etcher">Etcher</a></li>
   </ul>
 </nav>
 	</div>
 </div><div class="content post__content clearfix">
 			<p>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele.</p>
-<h3 id="por-que-eu-preciso-disso">Por que eu preciso disso?</h3>
+<h2 id="por-que-eu-preciso-disso">Por que eu preciso disso?</h2>
 <p>Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável <em>(Live USB)</em> e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema. A utilização do pendrive trouxe, entre outras vantagens, o ganho de velocidade quando utilizado o sistema rodando a partir dele.<br>
 Diferente dos gravadores de CD/DVD, que como citei anteriormente, estavam disponíveis <em>(ou eram facilmente encontrados)</em> em qualquer sistema operacional, os softwares para gravar uma ISO num pendrive nem sempre estão acessíveis. Veja a seguir 3 opções para criar uma Live USB.</p>
-<h3 id="dd">DD</h3>
+<h2 id="dd">DD</h2>
 <p>O dd é uma ferramenta que tem diversas utilidades como cópia de partições, discos inteiros, da MBR, etc&hellip;<br>
 Uma das mais interessantes funções desta poderosa ferramenta é permitir a gravação de imagens ISO num pendrive, ideal para criar um Live USB.<br>
 Tudo é executado no terminal de maneira bem simples. Para iniciar insira um pendrive no computador. Após, abra o terminal e logue como super usuário com o comando abaixo:</p>
-<p> sudo su</p>
+<p><code>sudo su</code></p>
 <p>Com o comando abaixo podemos identificar o caminho do pendrive que será utilizado.</p>
-<p> lsblk</p>
+<p><code>lsblk</code></p>
 <p>É importante saber exatamente o caminho correto pois, se escolher o caminho incorreto, você poderá gravar no disco onde o sistema está instalado. Se não conseguiu identificar na primeira tentativa, experimente tirar o pendrive, executar o comando e ver o que aparece. Depois, insira o pendrive e veja o que apareceu de diferente e isto será o que está procurando. Nota: No exemplo abaixo é mostrado sdb e sdb1, onde sdb1 pode ser uma partição. Sempre utilize o dispositivo sem indicar a partição, neste caso, <em>/sdb</em>.</p>
-<p> NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT<br>
- sda 8:0 0 931,5G 0 disk<br>
- ├─sda1 8:1 0 260M 0 part<br>
- ├─sda2 8:2 0 16M 0 part<br>
- ├─sda3 8:3 0 583,4G 0 part<br>
- ├─sda4 8:4 0 850M 0 part<br>
- ├─sda5 8:5 0 16,1G 0 part<br>
- ├─sda6 8:6 0 1G 0 part<br>
- ├─sda7 8:7 0 286G 0 part /media/Dados<br>
- ├─sda8 8:8 0 40G 0 part /<br>
- └─sda9 8:9 0 4G 0 part [SWAP]<br>
-  sdb 8:16 1 7,5G 0 disk<br>
- └─sdb1 8:17 1 7,5G 0 part</p>
-<p>O pendrive precisa estar formatado no formato fat32, faça isto com o comando abaixo.</p>
-<p> mkfs.vfat /dev/sdb -I</p>
+<pre tabindex="0"><code> NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT  
+ sda 8:0 0 931,5G 0 disk  
+ ├─sda1 8:1 0 260M 0 part  
+ ├─sda2 8:2 0 16M 0 part  
+ ├─sda3 8:3 0 583,4G 0 part  
+ ├─sda4 8:4 0 850M 0 part  
+ ├─sda5 8:5 0 16,1G 0 part  
+ ├─sda6 8:6 0 1G 0 part  
+ ├─sda7 8:7 0 286G 0 part /media/Dados  
+ ├─sda8 8:8 0 40G 0 part /  
+ └─sda9 8:9 0 4G 0 part \[SWAP\]  
+  sdb 8:16 1 7,5G 0 disk  
+ └─sdb1 8:17 1 7,5G 0 part  
+</code></pre><p>O pendrive precisa estar formatado no formato fat32, faça isto com o comando abaixo.</p>
+<p><code>mkfs.vfat /dev/sdb -I</code></p>
 <p>Após identificar o caminho, vamos executar o dd e finalmente gravar a ISO no pendrive. Ainda no terminal, rode o comando a seguir.</p>
-<p> dd if=/home/dlw/debian-live-10.3.0-amd64-cinnamon.iso of=/dev/sdb status=progress &amp;&amp; sync</p>
+<p><code>dd if=/home/dlw/debian-live-10.3.0-amd64-cinnamon.iso of=/dev/sdb status=progress &amp;&amp; sync</code></p>
 <p>Sobre a sintaxe do comando:</p>
 <ul>
 <li>dd if= é o caminho de origem, onde está a ISO que deseja gravar;</li>
@@ -265,18 +258,18 @@ Tudo é executado no terminal de maneira bem simples. Para iniciar insira um pen
 <li>sync - copia os dados imediatamente para o pendrive.</li>
 </ul>
 <p>O tempo de duração depende de alguns fatores, principalmente do tamanho da imagem ISO escolhida. Aguarde até o final e se a saída for parecida com a saída abaixo significa que deu tudo certo.</p>
-<p> 4896000+0 registros de entrada<br>
- 4896000+0 registros de saída<br>
- 2506752000 bytes (2,5 GB, 2,3 GiB) copiados, 1465,48 s, 1,7 MB/s</p>
-<h3 id="unetbootin">UNetbootin</h3>
+<pre tabindex="0"><code>4896000+0 registros de entrada
+4896000+0 registros de saída 
+2506752000 bytes (2,5 GB, 2,3 GiB) copiados, 1465,48 s, 1,7 MB/s
+</code></pre><h2 id="unetbootin">UNetbootin</h2>
 <p>Diferente do dd, que funciona no terminal, o UNetbootin é uma ferramenta que possui uma interface gráfica e possui a função de gerar um Live USB.<br>
 Vá ao site oficial <a href="https://unetbootin.github.io/linux_download.html">https://unetbootin.github.io</a> e faça o download na arquitetura que desejar <em>(32 ou 64 bits)</em>. A versão utilizada neste tutorial foi a <em>.bin</em>, que é bem simples de executar e não necessita instalação.<br>
 Para executar o programa é preciso dar permissão de execução. Supondo que o programa foi baixado na pasta <em>Downloads</em> execute o comando abaixo. <em>(Troque o que está em vermelho pelo nome do arquivo baixado)</em></p>
-<p> sudo chmod +x Downloads/unetbootin-linux64-677.bin</p>
+<p><code>sudo chmod +x Downloads/unetbootin-linux64-677.bin</code></p>
 <p>Como o UNetbootin só permite a execução utilizando o superusuário <em>(root)</em>, quando buscamos a ISO apenas a pasta /root é habilitada, não permitindo a busca nas outras pastas. A maneira mais simples que encontrei para contornar este problema: Crie um link da pasta onde está a ISO, apontando para a pasta /root/. Supondo que você tenha uma pasta chamada ISOS em sua home <em>(/home/seu-nome-de-usuario/ISOS/)</em> faça da seguinte maneira:</p>
-<p> sudo ln -s $HOME/ISOS/ /root/</p>
+<p><code>sudo ln -s $HOME/ISOS/ /root/</code></p>
 <p>O comando abaixo executa o UNetbootin. <em>(Não feche o terminal, pois o UNetbootin será fechado também).</em></p>
-<p> sudo ./Downloads/unetbootin-linux64-677.bin</p>
+<p><code>sudo ./Downloads/unetbootin-linux64-677.bin</code></p>
 <p>Eis a tela principal do programa. Temos duas opções para gravar o pendrive Live USB. A primeira é baixar a ISO <em>(Na opção distribuição escolha a que preferir)</em>, porém, é uma opção demorada e acho que não vale a pena, portanto, vamos à 2º opção. Utilizaremos uma ISO que já foi baixada anteriormente.</p>
 <ul>
 <li>Em <em>&ldquo;Imagem de disco&rdquo;</em> escolha a opção ISO, clique nos 3 pontos para procurar e selecione a ISO desejada;</li>
@@ -287,14 +280,14 @@ Para executar o programa é preciso dar permissão de execução. Supondo que o 
 <p><a href="https://4.bp.blogspot.com/-16PfeUrPqdI/XpvW3eloLtI/AAAAAAAAOp4/uFcj_djvQx0cAYwFSudF1JTQYEIzZ66FwCNcBGAsYHQ/s1600/unet003.png"><img src="https://4.bp.blogspot.com/-16PfeUrPqdI/XpvW3eloLtI/AAAAAAAAOp4/uFcj_djvQx0cAYwFSudF1JTQYEIzZ66FwCNcBGAsYHQ/s1600/unet003.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
 <p><a href="https://3.bp.blogspot.com/--u8aJHGVVl0/XpvW4Fw3NeI/AAAAAAAAOp8/vg-XoH7XW8otThp6pW9dBjIkHmpz7By5QCNcBGAsYHQ/s1600/unet004.png"><img src="https://3.bp.blogspot.com/--u8aJHGVVl0/XpvW4Fw3NeI/AAAAAAAAOp8/vg-XoH7XW8otThp6pW9dBjIkHmpz7By5QCNcBGAsYHQ/s1600/unet004.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
 <p>Após alguns minutos, o processo está finalizado.</p>
-<h3 id="etcher">Etcher</h3>
+<h2 id="etcher">Etcher</h2>
 <p>O Etcher <em>(ou Balena Etcher)</em> é outra opção para gerar Live USB, talvez a mais fácil das 3 apresentadas aqui. É bem simples de ser utilizado, até mais simples que o UNetbootin, porém, não possui opção de persistência.<br>
 Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a>. A opção padrão de download é a x64, para sistemas 64 bits, mas caso precise da versão 32 bits basta escolher esta versão. Descompacte o aquivo baixado com o comando: <em>(Troque o que está em vermelho pelo nome do arquivo baixado)</em></p>
-<p> unzip balena-etcher-electron-1.5.81-linux-x64.zip</p>
+<p><code>unzip balena-etcher-electron-1.5.81-linux-x64.zip</code></p>
 <p>O arquivo descompactado é no formato <em>AppImage</em>, e não necessita instalação. Porém, antes de executar o programa é preciso dar permissão de execução. Supondo que foi baixado na pasta <em>Downloads</em> execute o comando abaixo.</p>
-<p> sudo chmod +x Downloads/balenaEtcher-1.5.81-x64.AppImage</p>
+<p><code>sudo chmod +x Downloads/balenaEtcher-1.5.81-x64.AppImage</code></p>
 <p>O comando abaixo executa o Etcher. <em>(Não feche o terminal, pois o Etcher será fechado também).</em></p>
-<p> sudo ./Downloads/balenaEtcher-1.5.81-x64.AppImage</p>
+<p><code>sudo ./Downloads/balenaEtcher-1.5.81-x64.AppImage</code></p>
 <p>A tela do Etcher é apresentada abaixo. Para iniciar o processo:</p>
 <ul>
 <li>Em <em>Select image</em> selecione a imagem ISO que deseja gravar;</li>
@@ -306,7 +299,6 @@ Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.i
 <p><a href="https://3.bp.blogspot.com/-fmPIjcFJDsU/Xpvrrb9GCEI/AAAAAAAAOqY/f_IbV6IDXpgRfKhs0hh3ALe5oHd0WSh5gCNcBGAsYHQ/s1600/etcher02.png"><img src="https://3.bp.blogspot.com/-fmPIjcFJDsU/Xpvrrb9GCEI/AAAAAAAAOqY/f_IbV6IDXpgRfKhs0hh3ALe5oHd0WSh5gCNcBGAsYHQ/s640/etcher02.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
 <p>Processo concluído, Live USB criada e o pendrive já foi desmontado.</p>
 <p><a href="https://2.bp.blogspot.com/-QcH5yCvidBQ/XpvrrSCopoI/AAAAAAAAOqU/yVEA3eth_oUeRXJLkDo3U7gesQBACrRlQCNcBGAsYHQ/s1600/etcher03.png"><img src="https://2.bp.blogspot.com/-QcH5yCvidBQ/XpvrrSCopoI/AAAAAAAAOqU/yVEA3eth_oUeRXJLkDo3U7gesQBACrRlQCNcBGAsYHQ/s640/etcher03.png" alt="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows" title="3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Dicas Linux e Windows"></a></p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -402,362 +394,324 @@ Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.i
 
 
 
-<a href="/tags/ferramentas-linux" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ferramentas-linux <span class="badge">(8)</span></a>
+
  
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
 
 
 
 
 
-<a href="/tags/firefox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >firefox <span class="badge">(7)</span></a>
  
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/redes-sociais" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >redes-sociais <span class="badge">(7)</span></a>
  
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
 
 
 
 
 
-<a href="/tags/debian-buster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-buster <span class="badge">(6)</span></a>
  
+<a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
 
 
 
-<a href="/tags/java" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >java <span class="badge">(5)</span></a>
  
+<a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/microsoft-edge" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >microsoft-edge <span class="badge">(5)</span></a>
  
+<a href="/tags/ubuntu-21.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-21.04 <span class="badge">(5)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-21.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-21.04 <span class="badge">(5)</span></a>
  
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/irpf" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >irpf <span class="badge">(4)</span></a>
  
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.04 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.04 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-20.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-20.10 <span class="badge">(4)</span></a>
  
+<a href="/tags/ubuntu-20.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.10 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/windows-7" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-7 <span class="badge">(4)</span></a>
  
+<a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
 
 
 
-<a href="/tags/m%c3%a1quina-virtual" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >máquina-virtual <span class="badge">(3)</span></a>
  
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/sis-mirage-3-graphics" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >sis-mirage-3-graphics <span class="badge">(3)</span></a>
  
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/windows-10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-10 <span class="badge">(3)</span></a>
  
+<a href="/tags/ubuntu-32-bits" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-32-bits <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/ccleaner" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ccleaner <span class="badge">(2)</span></a>
  
+<a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
 
 
 
 
 
-<a href="/tags/debian-bullseye" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >debian-bullseye <span class="badge">(2)</span></a>
  
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/paint" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >paint <span class="badge">(2)</span></a>
  
+<a href="/tags/debian-bullseye" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-bullseye <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/recuperar-grub" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >recuperar-grub <span class="badge">(2)</span></a>
  
+<a href="/tags/fedora-33" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora-33 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/remaster" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >remaster <span class="badge">(2)</span></a>
  
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/vmware-player" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vmware-player <span class="badge">(2)</span></a>
  
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/whatsapp" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >whatsapp <span class="badge">(2)</span></a>
  
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/windows-8" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >windows-8 <span class="badge">(2)</span></a>
  
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/yaru" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >yaru <span class="badge">(2)</span></a>
  
+<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/adblock-plus" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >adblock-plus <span class="badge">(1)</span></a>
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/armazenamento-na-nuvem" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >armazenamento-na-nuvem <span class="badge">(1)</span></a>
  
+<a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/arquivo-da-internet" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >arquivo-da-internet <span class="badge">(1)</span></a>
  
+<a href="/tags/yaru" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">yaru <span class="badge">(2)</span></a>
 
 
 
 
 
-<a href="/tags/dropbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >dropbox <span class="badge">(1)</span></a>
  
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/fedora-33" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >fedora-33 <span class="badge">(1)</span></a>
  
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/flatpak" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >flatpak <span class="badge">(1)</span></a>
  
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gcompris" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gcompris <span class="badge">(1)</span></a>
  
+<a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gmail" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gmail <span class="badge">(1)</span></a>
  
+<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gnome" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gnome <span class="badge">(1)</span></a>
  
+<a href="/tags/flatpak" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">flatpak <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google <span class="badge">(1)</span></a>
  
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/google-maps" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >google-maps <span class="badge">(1)</span></a>
  
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/gparted" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >gparted <span class="badge">(1)</span></a>
  
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/libre-office" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >libre-office <span class="badge">(1)</span></a>
  
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/open-source" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >open-source <span class="badge">(1)</span></a>
  
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/pendrive-multiboot" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >pendrive-multiboot <span class="badge">(1)</span></a>
  
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/snap" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >snap <span class="badge">(1)</span></a>
  
+<a href="/tags/snap" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">snap <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-15.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-15.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.04" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.04 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-15.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/ubuntu-19.10" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >ubuntu-19.10 <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.04 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/virtualbox" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >virtualbox <span class="badge">(1)</span></a>
  
+<a href="/tags/ubuntu-19.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.10 <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/vlc" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >vlc <span class="badge">(1)</span></a>
  
+<a href="/tags/virtualbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">virtualbox <span class="badge">(1)</span></a>
 
 
 
 
 
-<a href="/tags/webmin" class="btn btn-default" role="button"
- style="text-transform: uppercase; font-size: 11px; padding-right: 5px; padding-left: 5px;" >webmin <span class="badge">(1)</span></a>
  
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
 
+
+
+
+
+ 
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
 
 
 </div>

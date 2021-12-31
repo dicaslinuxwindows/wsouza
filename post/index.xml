@@ -13,9 +13,7 @@
       <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
-      <description>Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.
-Hirsute Hippo Como citado nas matérias anteriores sobre a versão 21.04, o nome Hirsute Hippo significa &amp;ldquo;Hipopótamo Peludo&amp;rdquo;.
-Esta será a segunda de 3 versões intermediárias que são lançadas entre cada versão LTS (a primeira foi a 20.10 e a próxima será a 21.10). É uma versão estável e seu suporte terá duração de 9 meses, durando até janeiro de 2022, conforme o ciclo de vida das versões do Ubuntu.</description>
+      <description>&lt;p&gt;Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes, como baixá-lo e instalá-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -55,8 +53,7 @@ Microsoft Edge O Microsoft Edge é um navegador Web da Microsoft desenvolvido co
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
-      <description>Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian (e seus derivados) e Fedora.
-DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda para pessoa física. Há versões para sistemas operacionais Linux, Windows, MacOS e uma versão Multiplataforma. Nesta matéria será mostrado como instalar/executar a versão para Linux e a Multiplataforma.</description>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,9 +62,7 @@ DIRPF 2021 O DIRPF é o programa que gera a declaração do imposto de renda par
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
-      <description>Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.
-VirtualBox VirtualBox (VB) é um software gratuito (e de código aberto) de virtualização, muitas vezes chamado de máquina virtual. Como citei na matéria que fiz em 2018, quando falei do &amp;ldquo;concorrente do VB&amp;rdquo;, o VMware, o conceito de de máquina virtual é:
- &amp;ldquo;O conceito de máquina virtual (VM) é um software que emula as funções de um computador, permitindo que outro (s) SO (s) (convidado) sejam instalados dentro de um SO hospedeiro&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -86,8 +81,7 @@ Hirsute Hippo Hirsute Hippo é o nome e codinome da versão 21.04 do Ubuntu, que
       <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
-      <description>O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.
-Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do Debian Bullseye, que naquele momento, fazia aproximadamente 1 ano que estava em desenvolvimento na &amp;ldquo;fase&amp;rdquo; testing. De lá pra cá os desenvolvedores continuaram trabalhando, trazendo as versões mais recentes dos aplicativos, corrigindo bugs e agora, em janeiro de 2021, inicia-se o congelamento (freeze).</description>
+      <description>&lt;p&gt;O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -96,8 +90,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
-      <description>Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.
-1. Aplicativos em sistemas Linux Há várias formas de instalar aplicativos nos sistemas baseados em Linux. Uma forma que funciona em qualquer distribuição é a instalação por código fonte. Desta forma o código é compilado de acordo com a arquitetura do sistema (32, 64 bits&amp;hellip;).</description>
+      <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -106,8 +99,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</guid>
-      <description>Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria. Depois de um tempo lançando versões com pequenas correções, a Mozilla lança o Firefox 43 com uma maior quantidade de novidades, melhorias e correções. Vejamos quais são:
- Melhoria de desempenho: Graças à melhorias no SpiderMonkey, que é o mecanismo JavaScript do Firefox, as páginas podem ser carregadas até 15% mais rápidas, com capacidade de resposta da página em até 12% e o uso de memória reduzido em até 8%.</description>
+      <description>&lt;p&gt;Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -116,9 +108,7 @@ Em julho de 2020 fiz uma matéria mostrando como acompanhar o desenvolvimento do
       <pubDate>Wed, 04 Nov 2020 23:19:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
-      <description>Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.
-Daily Builds Se ainda faltava alguma coisa para oficializar o início do desenvolvimento do Ubuntu 21.04, cujo nome será Hirsute Hippo, já não falta mais. Agora as Daily Builds, ou compilações diárias, começaram a ser liberadas.
-Mas o que são estas Daily Builds? São images ISO que são disponibilizadas diariamente com as novidades ou alterações lançadas até aquele momento.</description>
+      <description>&lt;p&gt;Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -138,8 +128,7 @@ Ubuntu Hirsute Hippo Como já sabemos, os nomes e codinomes das versões do Ubun
       <pubDate>Wed, 28 Oct 2020 14:56:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</guid>
-      <description>No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.
- &amp;ldquo;Hoje, estou animado para compartilhar os resultados do trabalho árduo de milhares de colaboradores para o Projeto Fedora: nosso último lançamento, Fedora 33, está aqui! Este é um grande lançamento com muita mudança, mas acredito que todo esse trabalho também o tornará confortável, cumprindo nosso objetivo de trazer-lhe o mais recente software estável, poderoso e robusto de código livre e de código aberto em muitas ofertas fáceis de usar&amp;hellip;&amp;quot;</description>
+      <description>&lt;p&gt;No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -180,8 +169,7 @@ Tema Yaru O tema Yaru é o tema padrão do Ubuntu há algumas versões. Desde o 
       <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</guid>
-      <description>Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.
-Fedora É a primeira vez que falo alguma coisa sobre o Fedora aqui no blog. Como de costume, só falo aqui sobre sistemas e aplicativos que utilizo, e o motivo de nunca ter falado sobre o Fedora era exatamente por nunca tê-lo utilizado. Esta situação mudou há alguns meses, quando resolvi instalar a versão 32 por curiosidade.</description>
+      <description>&lt;p&gt;Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -231,9 +219,7 @@ Conforme mostrado na matéria Ubuntu 20.10 - Maio 2020, a próxima versão do Ub
       <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</guid>
-      <description>O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.
-A fundação Mozilla liberou, nos últimos dias, uma atualização para o navegador Firefox no Android. Trata-se da versão 79, que reformulou quase totalmente o visual, opções de configurações e funcionalidades. Podemos considerar que trata-se de um novo navegador.
-De onde surgiu o novo Firefox?</description>
+      <description>&lt;p&gt;O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -242,9 +228,7 @@ De onde surgiu o novo Firefox?</description>
       <pubDate>Tue, 25 Aug 2020 23:09:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</guid>
-      <description>Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.
-O Mozilla Firefox ainda é o segundo navegador mais utilizado no mundo, porém, esta vice liderança está ameaçada pelo Microsoft Edge (e pode ser que já tenha sido perdida). Paralelamente aos acontecimentos, a fundação Mozilla continua trabalhando nas atualizações com correções e melhorias, e chega agora na versão 80.
-Novidades  No Windows 10, o Firefox agora pode ser definido como o visualizador de PDF padrão do sistema; No Linux agora é possível habilitar a aceleração de GPU para Firefox no X11, algo que já era possível no Wayland.</description>
+      <description>&lt;p&gt;Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -253,8 +237,7 @@ Novidades  No Windows 10, o Firefox agora pode ser definido como o visualizador 
       <pubDate>Sat, 01 Aug 2020 22:51:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</guid>
-      <description>Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.
-O sistema de atualizações do Debian consiste em atualizações pontuais, com apenas um ou poucos pacotes, e de tempos em tempos saem atualizações maiores, com um maior número de pacotes atualizados. Estas versões não são consideradas um lançamento, mas sim complementos com melhorias e/ou atualizações de segurança.</description>
+      <description>&lt;p&gt;Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -263,8 +246,7 @@ O sistema de atualizações do Debian consiste em atualizações pontuais, com a
       <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
-      <description>O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.
-No dia 06/07/2020 fez 1 ano que o Debian 10 (Buster), a versão estável do Debian, foi lançada. Logo após o anúncio do Buster, também foi a anunciado a próxima versão, que sai da &amp;ldquo;fase&amp;rdquo; sid e entra na &amp;ldquo;fase&amp;rdquo; testing . Para saber mais sobre as fases de desenvolvimento do Debian, leia a matéria Debian - Curiosidades, informações, versões e ciclo de vida.</description>
+      <description>&lt;p&gt;O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -273,9 +255,7 @@ No dia 06/07/2020 fez 1 ano que o Debian 10 (Buster), a versão estável do Debi
       <pubDate>Sun, 28 Jun 2020 23:57:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</guid>
-      <description>A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo;. Veja a seguir mais informações sobre este lançamento.
-Ulyana O Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo; é a versão estável da distribuição francesa baseada no Ubuntu, neste caso, Ubuntu 20.04 LTS. Esta versão terá suporte até 2025.
-Nas matérias &amp;ldquo;Linux Mint Ulyana&amp;rdquo; e &amp;ldquo;Linux Mint 20: Beta disponível e polêmica com pacotes Snap&amp;rdquo; já adiantamos as novidades e melhorias que viriam com esta nova versão, mas cabe um breve resumo:</description>
+      <description>&lt;p&gt;A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo;. Veja a seguir mais informações sobre este lançamento.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -284,8 +264,7 @@ Nas matérias &amp;ldquo;Linux Mint Ulyana&amp;rdquo; e &amp;ldquo;Linux Mint 20
       <pubDate>Fri, 12 Jun 2020 23:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</guid>
-      <description>A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.
-O que sabemos sobre o LM20 até agora. A matéria de 1º de abril &amp;ldquo;Linux Mint 20 Ulyana&amp;rdquo; abordou sobre o que se sabia a respeito do LM20 até aquele momento, como seu codinome que será Ulyana e que este seria baseado no Ubuntu 20.</description>
+      <description>&lt;p&gt;A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -304,9 +283,7 @@ Poucos dias após o lançamento do Ubuntu 20.04 &amp;ldquo;Focal Fossa&amp;rdquo
       <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
-      <description>Após o lançamento oficial do Ubuntu 20.04 vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.
-Há várias formas de obter e utilizar o recém lançado Ubuntu Focal Fossa. Nesta matéria mostrarei algumas destas formas, como:
- Atualizar a partir de uma versão anterior, sem perder arquivos e configurações. A dica apresentada nesta matéria ignora a notificação do sistema sobre a nova versão disponível, todo o processo será realizado pelo terminal; Instalar do zero a partir de um Live DVD/USB; Instalar em uma máquina virtual; Executar em modo live.</description>
+      <description>&lt;p&gt;Após o &lt;a href=&#34;https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html&#34;&gt;lançamento oficial do Ubuntu 20.04&lt;/a&gt; vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -325,8 +302,7 @@ O sistema operacional Ubuntu - uma das mais populares distribuições Linux - ch
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
-      <description>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema.</description>
+      <description>&lt;p&gt;Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -335,9 +311,7 @@ Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mai
       <pubDate>Thu, 09 Apr 2020 23:58:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</guid>
-      <description>O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à versão anterior, trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.
-O Firefox 75 foi lançado oficialmente no dia 07 de abril de 2020, aproximadamente um mês após a versão anterior. Devido à diminuição do ciclo de lançamento das versões, teremos novas versões quase que mensalmente.
-A nova versão traz melhorias relacionadas à pesquisa, tornando a pesquisa mais rápida, inteligente e com as melhorias na barra de endereços é possível digitar menos para encontrar o que procura e com os sites mais populares aparecendo em destaque.</description>
+      <description>&lt;p&gt;O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à &lt;a href=&#34;https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html&#34;&gt;versão anterior&lt;/a&gt;, trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -356,8 +330,7 @@ O Ubuntu 20.04, codinome Focal Fossa, é a próxima versão LTS e será lançado
       <pubDate>Wed, 01 Apr 2020 00:21:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</guid>
-      <description>Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.
-Quando se trata de distribuições baseadas no Kernel Linux, geralmente tenho o hábito de falar e utilizar como exemplo o Debian e Ubuntu, pois são as distribuições que geralmente utilizo. Como a ideia principal do blog é falar sobre assuntos e situações que encontro no dia-a-dia como usuário, acabo não tendo muito o que falar sobre outras distribuições.</description>
+      <description>&lt;p&gt;Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -386,9 +359,7 @@ O Painel de Controle foi lançado no Windows 1.0, em 1985. Até o Windows 3.1 er
       <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
-      <description>A Oracle acabou de lançar a versão 14 15 do Java SE. Veja aqui como baixar, instalar e configurar no Debian, Ubuntu e derivados.
-Atualizado em 06/04/2021
-Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias para o desenvolvimento e execução de programas com a linguagem de programação Java. O Java SE (Java Platform, Standard Edition) contém o ambiente de execução, chamado de JRE (Java Runtime Environment), e o JDK (Java Development Kit), que é o &amp;ldquo;modo&amp;rdquo; utilizado para criar programas na linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle acabou de lançar a versão 15 do Java SE. Veja aqui como baixar, instalar e configurar esta versão e as posteriores no Debian, Ubuntu e derivados.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -397,9 +368,7 @@ Java Oracle O Java Oracle (Java SE) é o conjunto de ferramentas necessárias pa
       <pubDate>Tue, 10 Mar 2020 13:52:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</guid>
-      <description>A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.
-A versão 74 do Firefox traz algumas melhorias em relação ao seu antecessor, principalmente à nível de segurança e privacidade. Veja alguns destaques:
- Firefox Contêiner dedicado - Este contêiner é bem interessante, pois evita que sua navegação no Facebook seja rastreada. Sabe quando você pesquisa alguma coisa e logo em seguida as propagandas aparecem no Facebook?</description>
+      <description>&lt;p&gt;A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -441,8 +410,7 @@ IRPF 2020 O programa é necessário para efetuar as declarações do imposto de 
       <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
-      <description>Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados
-Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramentas necessárias para o desenvolvimento de programas com a linguagem de produção Java e execução dos mesmos. Diversos programas que são desenvolvidos para serem executados em multiplataforma são disponibilizados neste formato, portanto, necessitarão do Java para serem executados.</description>
+      <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -451,8 +419,7 @@ Java 13 O Java Oracle 13 é uma versão máquina virtual do conjunto de ferramen
       <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
-      <description>Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.
-Na matéria anterior mostrei como atualizar o W7 para o W10 utilizando a ferramenta de atualização da Microsoft. A tal ferramenta dá 2 opções de atualização, sendo a primeira forma a que mostrei na matéria anterior, onde o W10 é baixado e instalado automaticamente no dispositivo onde estava instalado o W7.</description>
+      <description>&lt;p&gt;Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -461,8 +428,7 @@ Na matéria anterior mostrei como atualizar o W7 para o W10 utilizando a ferrame
       <pubDate>Thu, 13 Feb 2020 23:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
-      <description>Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.
-Atualizar para o W10. Sim ou não? O suporte do W7 acabou em 14 de janeiro de 2020, conforme foi mostrado na matéria anterior. Muita gente ainda permanece com o W7 por vários motivos, entre estes está o medo de não se adaptar ao W10 ou não possuir um hardware que suporte o sistema, ou ainda não poder obter uma licença do W10, que custa R$ 730,00 (Home) e R$ 1099,00 (Pro).</description>
+      <description>&lt;p&gt;Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -513,12 +479,7 @@ Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com 
       <pubDate>Mon, 19 Aug 2019 13:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</guid>
-      <description>Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.
-Uma das coisas mais legais do Ubuntu é o visual, e boa parte desta beleza visual deve-se às suas fontes.
-Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como instalar em dois passos.
-1º passo Abra o terminal e insira o comando:
- wget -O ubuntufonts.tar.gz https://www.dropbox.com/s/ge12zkzsosfsc24/ubuntufonts.tar.gz?dl=1
-2º passo Ainda no terminal, primeiramente vamos criar a pasta ubuntu-font dentro da pasta de fontes do sistema.</description>
+      <description>&lt;p&gt;Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -527,9 +488,7 @@ Se você não é usuário do Ubuntu e deseja deixar utilizar as fontes veja como
       <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
-      <description>Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.
-O recurso de gravação de tela é muito utilizado por usuários que querem compartilhar tutoriais sobre aplicativos e jogos.
-Quando falamos de gravação de tela existem várias opções de softwares, aplicativos. O VLC é um software que muitos usuários já utilizam para assistir vídeos e ouvir músicas mas ele é um poderoso software de mídia que inclui funções de gravação de vídeo, como a de gravar a tela do PC.</description>
+      <description>&lt;p&gt;Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -538,9 +497,7 @@ Quando falamos de gravação de tela existem várias opções de softwares, apli
       <pubDate>Sat, 20 Jul 2019 20:31:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
-      <description>Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.
-Debian Buster O Buster é a 10º versão do sistema operacional Debian e foi lançado no dia 06/07/2019, mais detalhes sobre seu lançamento em Debian Buster é lançado oficialmente.
-Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a interface Gnome e pode ser baixado num dos links abaixo:</description>
+      <description>&lt;p&gt;Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -549,9 +506,7 @@ Download Utilizarei como exemplo um Live CD com a versão padrão, que vem com a
       <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
-      <description>O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.
-Debian Debian é um sistema operacional que contém softwares livres. Até o dia 06/07/2019 a versão estável era a versão 9, chamada Stretch e lançada em 2017. Após dois anos é lançada a versão 10, de codinome Buster (cachorro do Andy, do filme Toy Story), que passa a ser a versão estável.
-Para entender como funciona, e para mais informações sobre o Debian leia: Debian - Curiosidades, informações, versões e ciclo de vida</description>
+      <description>&lt;p&gt;O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -572,8 +527,7 @@ Firefox Preview O Firefox Preview é a versão inicial de um navegador Firefox q
       <pubDate>Wed, 03 Jul 2019 00:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
-      <description>Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.
-Debian O que é O Debian é um sistema operacional composto inteiramente por softwares livres. É mantido pela Fundação Debian e distribuído pelo Projeto Debian. Os sistemas Debian atualmente usam o kernel Linux ou o kernel FreeBSD. Há um trabalho em andamento para disponibilizá-lo com o Kernel Hurd, do projeto GNU.</description>
+      <description>&lt;p&gt;Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -582,9 +536,7 @@ Debian O que é O Debian é um sistema operacional composto inteiramente por sof
       <pubDate>Tue, 02 Jul 2019 21:19:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
-      <description>Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.
-Considerações iniciais   Este tutorial foi elaborado através da atualização do Debian Jessie diretamente para o Debian Buster, mas pode ser aplicado na atualização do Debian Stretch para o Buster.
-  Antes de atualizar para uma nova versão sugiro que faça um backup do sistema para uma eventual de necessidade de voltar à versão anterior¹.</description>
+      <description>&lt;p&gt;Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -605,9 +557,7 @@ Android - Versão 2.3.7 - codinome Gingerbread - lançado em 2010.</description>
       <pubDate>Thu, 27 Jun 2019 01:39:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
-      <description>Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.
-Debian Debian - Curiosidades, informações, versões e ciclo de vida.
-Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um software. É quando ele já está praticamente pronto para ser colocado no mercado, mas ainda pendente de alguma inclusão/alteração e podendo possuir alguns bugs de pequeno impacto.</description>
+      <description>&lt;p&gt;Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -616,9 +566,7 @@ Debian Buster RC2 Release candidate é uma das fases antes do lançamento de um 
       <pubDate>Wed, 26 Jun 2019 22:24:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</guid>
-      <description>Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.
-Na semana passada foi anunciado que o Ubuntu não teria suporte para pacotes na arquitetura 32 bits (i386, x86), conforme divulgado em Fim do Ubuntu 32bits.
-Porém, devido à pressões da comunidade, usuários, desenvolvedores e &amp;ldquo;parceiros&amp;rdquo;, a empresa soltou um comunicado oficial informando que a história não será bem assim.</description>
+      <description>&lt;p&gt;Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -627,9 +575,7 @@ Porém, devido à pressões da comunidade, usuários, desenvolvedores e &amp;ldq
       <pubDate>Tue, 25 Jun 2019 00:05:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
-      <description>A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.
-Debian Debian é um sistema operacional que contém softwares livres e, atualmente a versão estável é a 9, de codinome Stretch, lançada em 17 de Junho de 2017. Mais informações sobre o Debian em Debian - Curiosidades, informações, versões e ciclo de vida.
-Buster O Debian Buster será a próxima versão estável, sendo substituto do Debian Stretch.</description>
+      <description>&lt;p&gt;A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -643,14 +589,12 @@ O sistema de comentários que estará ativo a partir de agora será o sistema na
     </item>
     
     <item>
-      <title>[Atualizado] Fim do Ubuntu 32 bits</title>
+      <title>Fim do Ubuntu 32 bits</title>
       <link>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</link>
       <pubDate>Thu, 20 Jun 2019 19:41:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</guid>
-      <description>Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.
-Atualizado: Canonical recuou a respeito desta decisão. Leia em Canonical recua e não removerá os pacotes 32bits do Ubuntu
-Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utilizado em dispositivo mais antigos, que possuem ate 2Gb de memória RAM, algo pouco comum atualmente.</description>
+      <description>&lt;p&gt;Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -659,8 +603,7 @@ Ubuntu 32 bits O Ubuntu com arquitetura 32 bits (i386, x86) é geralmente utiliz
       <pubDate>Tue, 07 May 2019 23:30:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</guid>
-      <description>Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.
-Firefox e Firefox ESR O Firefox é um navegador web multi-plataforma desenvolvido pela fundação Mozilla e por colaboradores. A versão padrão, chamada apenas de Firefox (ou Firefox Quantum) atualmente está na casa das versões 66 e é a versão disponível no repositório do Ubuntu.</description>
+      <description>&lt;p&gt;Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -679,8 +622,7 @@ Microsoft e sua política A Microsoft foi fundada em 1975 por Bill Gates e Paul 
       <pubDate>Sat, 20 Apr 2019 18:54:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
-      <description>No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.
-Sobre o Ubuntu O Ubuntu é desenvolvido por uma empresa chamada Canonical e é baseado no Debian, uma das mais antigas distribuições Linux e pai de várias distribuições Linux. Sua primeira versão foi lançada em 2004 e agora chega na versão 19.04 e terá suporte até janeiro de 2020.</description>
+      <description>&lt;p&gt;No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -721,9 +663,7 @@ Sobre o Ubuntu O Ubuntu é um dos sistemas Linux mais conhecidos e utilizados no
       <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
-      <description>Esta dica está desatualizada, veja a nova em Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados.
-A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.
-O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de desenvolvimento para construir aplicativos e componentes usando a linguagem de programação Java.</description>
+      <description>&lt;p&gt;A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -732,9 +672,7 @@ O que é Java? Segundo o site da Oracle: &amp;ldquo;O JDK é um ambiente de dese
       <pubDate>Mon, 11 Mar 2019 19:37:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
-      <description>Se procura a versão 2020, veja em: Programa de declaração do IRPF 2020 - Instalação no Debian e Derivados
-Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.
-O programa que será instalado realiza a declaração de imposto de renda de pessoa física, por isto é chamado de IRPF, e seu instalador está disponível no formato .</description>
+      <description>&lt;p&gt;Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -753,10 +691,7 @@ O GCompris é incluído em vários sistemas Linux. É gratuito para Linux e Mac.
       <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</guid>
-      <description>Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.
-3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Como criar uma Live USB utilizando algum sistema Linux.
-Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados - Instalação do JAVA Oracle 14 e posteriores no Debian, Ubuntu e sistemas derivados.
-Java Oracle 13 no Debian e Derivados - Instalação do JAVA Oracle 13 no Debian e sistemas derivados.</description>
+      <description>&lt;p&gt;Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -799,8 +734,7 @@ Lançado em 2016 para clientes empresariais e educacionais, o Microsoft Forms su
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
-      <description>Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.
-1 - Introdução Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização (GRUB) ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel.</description>
+      <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -809,10 +743,7 @@ Lançado em 2016 para clientes empresariais e educacionais, o Microsoft Forms su
       <pubDate>Mon, 17 Dec 2018 11:41:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</guid>
-      <description>Google antecipa o fim do Google+ após um novo vazamento de dados. Quem curte a já considerada finada rede social, terá que se despedir dela antes do que estava previsto inicialmente.
-Leia mais detalhes a seguir.
-
-Em outubro foi anunciado o fim do Google+, junto com alguns outros serviços da Google. A princípio, o fim da rede social seria em agosto de 2019, porém, após um novo ataque - que resultou em um novo vazamento de dados - a exclusão da rede social foi antecipada para agosto de 2019.</description>
+      <description>&lt;p&gt;Google antecipa o fim do Google+ após um novo vazamento de dados. Quem curte a já considerada finada rede social, terá que se despedir dela antes do que estava previsto inicialmente. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -821,9 +752,7 @@ Em outubro foi anunciado o fim do Google+, junto com alguns outros serviços da 
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?
-Confira na dica a seguir.
-Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do Ubuntu, deixou de fornecer imagens de seus lançamentos em 32 bits. Isto dificultou a vida de quem possui computadores mais antigos e desejam testar o sistema, ou mesmo para quem utiliza em máquinas virtuais, que por algum motivo não aceitam versões 64 bits.</description>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; as últimas versões do Ubuntu em 32 bits?&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -832,9 +761,7 @@ Entendendo o problema A partir da versão 18.04, a Canonical, desenvolvedora do 
       <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</guid>
-      <description>A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.
-Inbox by Gmail O aplicativo de emails será descontinuado no mês de março de 2019.
-O Inbox foi lançado em 2014 como uma alternativa ao aplicativo do Gmail (também possui uma versão Web).</description>
+      <description>&lt;p&gt;A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -843,8 +770,7 @@ O Inbox foi lançado em 2014 como uma alternativa ao aplicativo do Gmail (també
       <pubDate>Sat, 06 Oct 2018 01:32:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/10/encerrar-ou-desativar-contas-do-facebook-instagram-google-e-outras.html</guid>
-      <description>A dica a seguir traz um compilado de links para facilitar a exclusão ou desativação de redes sociais, serviços que estão cada vez mais presentes em nossas vidas. Em muitos casos temos mais contas em serviços do que podemos gerenciar, o que acaba tomando muito tempo e/ou diminuindo nossa produtividade. Ás vezes torna-se necessário sua desativação, por um determinado tempo, ou até mesmo sua exclusão.
-Para excluir/desativar os serviços vamos utilizar a versão web, pois nem todos os aplicativos destes serviços permitem a utilização de todos os recursos de exclusão/desativação.</description>
+      <description>&lt;p&gt;A dica a seguir traz um compilado de links para facilitar a exclusão ou desativação de redes sociais, serviços que estão cada vez mais presentes em nossas vidas. Em muitos casos temos mais contas em serviços do que podemos gerenciar, o que acaba tomando muito tempo e/ou diminuindo nossa produtividade. Ás vezes torna-se necessário sua desativação, por um determinado tempo, ou até mesmo sua exclusão.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -853,10 +779,7 @@ Para excluir/desativar os serviços vamos utilizar a versão web, pois nem todos
       <pubDate>Sun, 26 Aug 2018 19:26:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</guid>
-      <description>Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.
-Desde já fica claro que o Dropbox não encerrará o suporte à sistemas Linux.
-Veja o comunicado do Dropbox enviado aos usuários:
-&amp;ldquo;Em 15 de outubro, o Dropbox encerrará a compatibilidade com o Ubuntu 13.</description>
+      <description>&lt;p&gt;Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -897,10 +820,9 @@ Alguma destas mudanças ainda estão em versão beta, outras já foram estão di
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
-      <description>Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
-O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
-1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente.</description>
+      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
+O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -909,9 +831,8 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
-      <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
-1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
+      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -941,8 +862,7 @@ Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus cli
       <pubDate>Tue, 16 Jan 2018 02:02:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
-      <description>O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua política de ciclo de vida, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.
-Mas, segundo a Microsoft, ainda serão lançadas atualizações de segurança. Estas atualizações serão disponibilizadas até 2023 (ver tabela abaixo), quando o sistema deixará de vez de receber suporte.</description>
+      <description>&lt;p&gt;O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua &lt;a href=&#34;https://support.microsoft.com/pt-br/lifecycle&#34;&gt;política de ciclo de vida&lt;/a&gt;, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -971,8 +891,7 @@ A versão v5.33.6162 do CCleaner e a versão v1.07.3191 do CCleaner Cloud possui
       <pubDate>Tue, 25 Jul 2017 15:04:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2017/07/fim-do-paint.html</guid>
-      <description>Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&amp;hellip;
-Na semana passada a Microsoft anunciou que o tradicional MS Paint seria descontinuado, ou seja, não faria mais parte dos próximos sistemas da empresa e já ficaria indisponível nas próximas atualizações. Esta informação causou muitas reclamações de usuários que tradicionalmente utilizam o software para pequenos ajustes e alterações em imagens ou mesmo para desenhos à mão livre.</description>
+      <description>&lt;p&gt;Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&amp;hellip;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -981,8 +900,7 @@ Na semana passada a Microsoft anunciou que o tradicional MS Paint seria desconti
       <pubDate>Sat, 17 Jun 2017 20:29:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</guid>
-      <description>No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.
-Segundo a página de lançamento, o Stretch inclui mais de 15346 novos pacotes, num total de mais de 51687 pacotes, 57% dos pacotes de seu antecessor foram atualizados e 13% foram removidos e serão marcados como obsoletos.</description>
+      <description>&lt;p&gt;No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1001,10 +919,7 @@ Dentre estas novidades está a integração com alguns dos clientes de bate papo
       <pubDate>Wed, 15 Mar 2017 00:29:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2017/03/golpes-nas-compras-online.html</guid>
-      <description>Quando queremos comprar algum produto pelo internet devemos ficar muito atentos, pois estamos sujeitos à diversos tipos de golpe. Veja a seguir alguns exemplos.
-Na última semana tenho percebido que no facebook há uma grande quantidade de postagens com ofertas inacreditáveis de aparelhos eletrônicos, aparentemente de grandes redes de lojas como Walmart, Ponto Frio e Americanas, entre outras.
-Nem precisa de muito para perceber que trata-se de golpe.
-Nas imagens da esquerda vemos as publicações do facebook com as ofertas inacreditáveis.</description>
+      <description>&lt;p&gt;Quando queremos comprar algum produto pelo internet devemos ficar muito atentos, pois estamos sujeitos à diversos tipos de golpe. Veja a seguir alguns exemplos.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1036,9 +951,7 @@ Caso contrário, é possível fazer o cadastro no próprio dispositivo acessando
       <pubDate>Sun, 21 Feb 2016 01:02:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</guid>
-      <description>No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.
-A partir desta data não haverá mais suporte de segurança, ou seja, o sistema não receberá mais atualizações de segurança. O Debian Squeeze foi lançado em 2011 e recebeu suporte de 5 anos.
-A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013, e hoje chamado de oldstable.</description>
+      <description>&lt;p&gt;No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1047,7 +960,7 @@ A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013
       <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</guid>
-      <description>Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Funciona assim: O usuário pode baixar uma área do mapa para visualizar quando estiver sem conexão com a internet. Esta área baixada pode ser um bairro, cidade, estado, país, etc.. Quanto maior a área selecionada, maior será o tamanho do arquivo a ser baixado. Desta maneira o Google Maps pode ser utilizado com um navegador GPS, tornando-se um GPS off-line, muito útil para quem possui plano de dados limitado.</description>
+      <description>&lt;p&gt;Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Veja mais detalhes na dica abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1056,8 +969,7 @@ A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013
       <pubDate>Sun, 01 Nov 2015 13:12:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</guid>
-      <description>Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).
-Como de costume, as versões pares (16.04) são LTS, ou seja, a cada dois anos no mês de abril, sai uma versão LTS. LTS quer dizer &amp;ldquo;Long Time Support&amp;rdquo;, ou seja, com um tempo maior de suporte. O suporte das versões LTS dura 5 anos, enquanto das versões normais dura apenas 9 meses.</description>
+      <description>&lt;p&gt;Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1076,9 +988,7 @@ Quem gosta de utilizar as versões mais recentes dos pacotes não deixe de baixa
       <pubDate>Wed, 07 Oct 2015 22:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</guid>
-      <description>A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone
-
-Segundo o blog do Google Brasil, a função estará disponível para todos os usuários ao longo dos próximos meses, mas os mais impacientes já podem baixar diretamente do site do ofcial em http://www.</description>
+      <description>&lt;p&gt;A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone .&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1087,8 +997,7 @@ Segundo o blog do Google Brasil, a função estará disponível para todos os us
       <pubDate>Wed, 30 Sep 2015 00:28:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</guid>
-      <description>Esta dica é para quem te interesse em fazer algum curso na área de TI mas anda meio sem grana. São alguns cursos totalmente gratuitos oferecidos na modalidade &amp;ldquo;à distância&amp;rdquo;.
-No site www.brasilmaisti.com.br podemos encontrar cursos de lógica de programação e algoritmos em várias linguagens de programação, cursos de projetos de software, redes entre outros, ideal para alunos que estão entrando em faculdades de TI, ou para quem tem interesse de entrar, ou mesmo para estudantes que precisam aprimorar os conhecimentos e/ou conseguir pontos para atividades complementares.</description>
+      <description>&lt;p&gt;Esta dica é para quem te interesse em fazer algum curso na área de TI mas anda meio sem grana. São alguns cursos totalmente gratuitos oferecidos na modalidade &amp;ldquo;à distância&amp;rdquo;.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1097,11 +1006,8 @@ No site www.brasilmaisti.com.br podemos encontrar cursos de lógica de programa�
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.
-Não conhece? Veja abaixo.
-
-Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser instalada facilmente, com um único comando:
-##Debian Wheezy (Oldstable) - sudo apt-get install software-center</description>
+      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;
+Não conhece? Veja abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1110,8 +1016,7 @@ Ela não é exclusiva do Ubuntu, há uma versão para Debian também e pode ser 
       <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
-      <description>Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.
-O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de software livre e não possui nada comercial em seu código. É uma ótima escola para desenvolvedores de software livre.</description>
+      <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1120,8 +1025,7 @@ O Debian é também chamado Debian GNU/Linux, é mantido pela comunidade de soft
       <pubDate>Sun, 26 Apr 2015 23:31:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</guid>
-      <description>O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.
-Num único programa é possível adicionar PPAs, trocar o papel de parede, configurações de janela e do Unity, remover arquivos temporários do APT, cache do Firefox, Chrome ou outros navegadores, remover arquivos de configuração de pacotes que já foram desinstalados, ajustar configurações de pastas de usuários, configurações de fontes, configurações de login, remover kernels antigos com segurança… A lista é grande, então vamos nos concentrar em algumas funções mais importantes.</description>
+      <description>&lt;p&gt;O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1140,8 +1044,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
-      <description>Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:
-Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Windows.</description>
+      <description>&lt;p&gt;Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1150,8 +1053,7 @@ Para criar este pendrive utilizaremos o Yumi, disponível aqui, apenas para Wind
       <pubDate>Thu, 06 Nov 2014 12:41:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2014/11/alguns-sites-uteis.html</guid>
-      <description>Hoje, trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.
-Reclame Aqui - É um serviço totalmente gratuito que permite que consumidores registrem reclamações geralmente relacionadas à compra, venda, atendimentos prestados por empresas de produtos e serviços, mas também é possível reclamar de serviços públicos. Várias empresas estão cadastradas no site, o que facilita a comunicação entre o consumidor e a empresa.</description>
+      <description>&lt;p&gt;Hoje trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1160,9 +1062,8 @@ Reclame Aqui - É um serviço totalmente gratuito que permite que consumidores
       <pubDate>Mon, 30 Jun 2014 23:52:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</guid>
-      <description>Fim? Mas o Orkut já não estava morto?
-Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o blog oficial do Google ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.
-O Orkut foi criado em 2004 por um funcionário do Google que o desenvolveu em suas horas vagas.</description>
+      <description>&lt;p&gt;Fim? Mas o Orkut já não estava morto?&lt;br&gt;
+Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o &lt;a href=&#34;http://googlebrasilblog.blogspot.com.br/2014/06/adeus-ao-orkut.html&#34;&gt;blog oficial do Google&lt;/a&gt; ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1190,8 +1091,7 @@ O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento
       <pubDate>Sun, 18 Aug 2013 21:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/08/dica-adblock-plus.html</guid>
-      <description>A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.
-Através de filtros pré-configurados ela permite que sejam bloqueados frames, adwares, banners, propagandas no Youtube, Gmail e Facebook e diversos outros tipos de propagandas invasivas.</description>
+      <description>&lt;p&gt;A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1200,8 +1100,7 @@ Através de filtros pré-configurados ela permite que sejam bloqueados frames, a
       <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/08/flashgot.html</guid>
-      <description>FlashGot é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. O Flashgot não funciona no Firefox Quantum.
-Uma função muito interessante do FlashGot é permitir o download direto de vídeos de sites como Youtube e outros sites de vídeos e músicas.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://draft.blogger.com/flashgot.net/%E2%80%8E&#34;&gt;FlashGot&lt;/a&gt; é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. _O Flashgot não funciona no Firefox Quantum.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1210,8 +1109,7 @@ Uma função muito interessante do FlashGot é permitir o download direto de ví
       <pubDate>Wed, 31 Jul 2013 00:36:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/07/arquivo-da-internet.html</guid>
-      <description>Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.
-O Internet Archive: Wayback Machine é um arquivo da internet. Nele podemos acessar as páginas principais de vários sites em várias épocas. O endereço é http://archive.org/web/web.php e sua utilização é simples, basta digitar o endereço do site e clicar em &amp;ldquo;Take me back&amp;rdquo; depois é só navegar.</description>
+      <description>&lt;p&gt;Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1220,7 +1118,7 @@ O Internet Archive: Wayback Machine é um arquivo da internet. Nele podemos aces
       <pubDate>Tue, 23 Jul 2013 01:57:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/07/ccleaner.html</guid>
-      <description>Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.</description>
+      <description>&lt;p&gt;Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1229,8 +1127,7 @@ O Internet Archive: Wayback Machine é um arquivo da internet. Nele podemos aces
       <pubDate>Tue, 09 Apr 2013 00:11:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/04/descobrir-telefone.html</guid>
-      <description>Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.
-Mas existem algumas soluções que nos permitem descobrir de qual operadora é o telefone que pretendemos ligar e, uma destas soluções foi disponibilizada pela ABR Telecom (Associação Brasileira de Recursos em Comunicações), entidade administradora da portabilidade numérica.</description>
+      <description>&lt;p&gt;Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -1274,8 +1171,7 @@ Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira
       <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</guid>
-      <description>Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.
-Isto não irá acontecer, pois a rede do Windows Live Messenger continuará funcionando, o que irá ocorrer é apenas o fim do software WLM, e ainda poderemos nos conectar utilizando outros softwares como o Pidgin, Amsn, Ebuddy&amp;hellip; Mas o usuário que gosta dos softwares da Microsoft não ficará órfão de um cliente de bate papo capaz de conectar-se e utilizar os contatos do WLM já que a Microsoft havia comprado o Skype, e quem possui uma conta Microsoft (a mesma que utilizava para conectar-se ao WLM, Xbox, Windows Phone, Hotmail, Outlook.</description>
+      <description>&lt;p&gt;Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.&lt;/p&gt;</description>
     </item>
     
     <item>

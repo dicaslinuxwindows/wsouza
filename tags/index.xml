@@ -17,7 +17,7 @@
     </item>
     
     <item>
-      <title>GNOME</title>
+      <title>Gnome</title>
       <link>https://info.wsouza.com.br/tags/gnome/</link>
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       
@@ -40,15 +40,6 @@
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/tags/irpf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>https://info.wsouza.com.br/tags/java/</link>
-      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/tags/java/</guid>
       <description></description>
     </item>
     
@@ -107,6 +98,15 @@
     </item>
     
     <item>
+      <title>Fedora 33</title>
+      <link>https://info.wsouza.com.br/tags/fedora-33/</link>
+      <pubDate>Wed, 28 Oct 2020 14:56:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/fedora-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Ubuntu 20.10</title>
       <link>https://info.wsouza.com.br/tags/ubuntu-20.10/</link>
       <pubDate>Thu, 22 Oct 2020 23:58:00 -0300</pubDate>
@@ -130,15 +130,6 @@
       <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/tags/yaru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fedora 33</title>
-      <link>https://info.wsouza.com.br/tags/fedora-33/</link>
-      <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/tags/fedora-33/</guid>
       <description></description>
     </item>
     
@@ -179,6 +170,15 @@
     </item>
     
     <item>
+      <title>Java</title>
+      <link>https://info.wsouza.com.br/tags/java/</link>
+      <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Windows 7</title>
       <link>https://info.wsouza.com.br/tags/windows-7/</link>
       <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
@@ -211,6 +211,15 @@
       <pubDate>Mon, 01 Jul 2019 23:06:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/tags/redes-sociais/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 32 bits</title>
+      <link>https://info.wsouza.com.br/tags/ubuntu-32-bits/</link>
+      <pubDate>Wed, 26 Jun 2019 22:24:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/ubuntu-32-bits/</guid>
       <description></description>
     </item>
     
@@ -265,15 +274,6 @@
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/tags/recuperar-grub/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>https://info.wsouza.com.br/tags/google/</link>
-      <pubDate>Mon, 17 Dec 2018 11:41:00 -0200</pubDate>
-      
-      <guid>https://info.wsouza.com.br/tags/google/</guid>
       <description></description>
     </item>
     
@@ -350,20 +350,29 @@
     </item>
     
     <item>
-      <title>Google Maps</title>
-      <link>https://info.wsouza.com.br/tags/google-maps/</link>
-      <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
-      
-      <guid>https://info.wsouza.com.br/tags/google-maps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ubuntu 15.10</title>
       <link>https://info.wsouza.com.br/tags/ubuntu-15.10/</link>
       <pubDate>Thu, 22 Oct 2015 23:50:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/tags/ubuntu-15.10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Debian Jessie</title>
+      <link>https://info.wsouza.com.br/tags/debian-jessie/</link>
+      <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/debian-jessie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 15.04</title>
+      <link>https://info.wsouza.com.br/tags/ubuntu-15.04/</link>
+      <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/ubuntu-15.04/</guid>
       <description></description>
     </item>
     

@@ -13,8 +13,7 @@
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
-      <description>Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.
-Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mais recentes tornou-se ainda mais necessária a utilização de pendrives para gerar um pendrive bootável (Live USB) e iniciar o sistema a partir dele, ou mesmo criar uma imagem de instalação. Há tempos atrás isso era feito em Cds ou DVDs, que eram facilmente gravados em qualquer software gravador de CD/DVD, sempre disponível em qualquer sistema.</description>
+      <description>&lt;p&gt;Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -23,10 +22,7 @@ Por que eu preciso disso? Devido à ausência de drives de DVD nos notebooks mai
       <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</guid>
-      <description>Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.
-3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux - Como criar uma Live USB utilizando algum sistema Linux.
-Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados - Instalação do JAVA Oracle 14 e posteriores no Debian, Ubuntu e sistemas derivados.
-Java Oracle 13 no Debian e Derivados - Instalação do JAVA Oracle 13 no Debian e sistemas derivados.</description>
+      <description>&lt;p&gt;Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -46,8 +42,7 @@ Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéri
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
-      <description>Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.
-1 - Introdução Creio que quase todo mundo, enquanto usuário de sistemas GNU/Linux, já deve ter passado por algum aperto perder o gerenciador de inicialização (GRUB) ao atualizar ou instalar um novo sistema para trabalhar em Dual Boot, ou tentando remover versões antigas do Kernel.</description>
+      <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -77,10 +72,9 @@ A utilização de uma máquina virtual torna-se muito importante quando, por exe
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
-      <description>Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.
-O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.
-1 - Introdução Particionar um disco significa dividir o mesmo em partes que podem ser gerenciadas separadamente.</description>
+      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
+O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
+Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -89,9 +83,8 @@ Confira a resposta a seguir e conheça algumas funções deste poderoso utilitá
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
-      <description>Iniciarei uma série de postagens sobre algumas ferramentas Linux.
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.
-1 - O que é o Remaster-GTK? O Remaster é um fork do descontinuado Remastersys-GTK, desenvolvido e mantido pelo Lobo do site Linux Dicas e Suporte. Com ele é possível realizar um backup completo do seu sistema operacional, mantendo seus dados, programas e configurações pessoais.</description>
+      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
+E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
     
   </channel>
