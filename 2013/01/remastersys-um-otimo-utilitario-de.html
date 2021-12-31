@@ -9,8 +9,7 @@
 	<meta name="description" content="">
 		<meta property="og:title" content="Remastersys - Um ótimo utilitário de backup para Ubuntu" />
 <meta property="og:description" content="O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.
-Leia em Backup com Remaster-GTK
-Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil." />
+Leia em Backup com Remaster-GTK" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2013-01-27T00:02:00-02:00" />
@@ -19,16 +18,14 @@ Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira
 
 		<meta itemprop="name" content="Remastersys - Um ótimo utilitário de backup para Ubuntu">
 <meta itemprop="description" content="O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.
-Leia em Backup com Remaster-GTK
-Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil."><meta itemprop="datePublished" content="2013-01-27T00:02:00-02:00" />
+Leia em Backup com Remaster-GTK"><meta itemprop="datePublished" content="2013-01-27T00:02:00-02:00" />
 <meta itemprop="dateModified" content="2013-01-27T00:02:00-02:00" />
-<meta itemprop="wordCount" content="738">
+<meta itemprop="wordCount" content="742">
 <meta itemprop="keywords" content="Remaster," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Remastersys - Um ótimo utilitário de backup para Ubuntu"/>
 <meta name="twitter:description" content="O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.
-Leia em Backup com Remaster-GTK
-Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil."/>
+Leia em Backup com Remaster-GTK"/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -220,16 +217,17 @@ Leia em <a href="https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html
 Para resolver este problema existe o <a href="http://www.remastersys.com/">Remastersys</a>, um utilitário para Debian/Ubuntu que, além de outras funções, realiza um backup completo de seu sistema e gera numa ISO um Live Cd onde você pode acessar o sistema sem instalar no HD, mas também tornando possível a reinstalação do sistema operacional, deixando-o do mesmo modo que ele estava antes da formatação.<br>
 O objetivo desta dica é mostrar como funciona o processo de backup utilizando o <a href="http://www.remastersys.com/">Remastersys</a> para o Ubuntu mas o processo para Debian praticamente o mesmo.</p>
 <p>Primeiramente baixe a versão equivalente à versão de seu Ubuntu. Para versões acima da 12.04 (Precise) a dica é a seguinte:<br>
-No terminal, logado como root <em>(sudo su)</em> utilize o comando:<br>
-<strong>wget -O - <a href="http://www.remastersys.com/ubuntu/remastersys.gpg.key">http://www.remastersys.com/ubuntu/remastersys.gpg.key</a> | apt-key add -</strong><br>
-Este comando baixa as chaves do software.</p>
-<p>Edite o arquivo /etc/apt/sources.list com o comando <strong>sudo gedit /etc/apt/sources.list</strong> e no final do arquivo insira os comandos a seguir:<br>
-<strong><em>#Remastersys Precise<br>
-deb <a href="http://www.remastersys.com/ubuntu">http://www.remastersys.com/ubuntu</a> precise main</em></strong><br>
-Salve o arquivo.</p>
-<p>Para atualizar os pacotes digite:<br>
-**sudo apt-get update **<br>
-Para iniciar, procure pelo remastersys no painel inicial do Unity ou, simplesmente, digite <strong>sudo remastersys-gtk</strong> no terminal e interface principal estará aberta. Como aqui o foco é apenas a opção de backup a utilização torna-se bem simples, mas é necessário fazer algumas pequenas configurações, então vamos vê-las.</p>
+No terminal, logado como root <em>(sudo su)</em> utilize o comando:</p>
+<p><code>wget -O - http://www.remastersys.com/ubuntu/remastersys.gpg.key | apt-key add -</code></p>
+<p>O comando acima baixa as chaves do software.</p>
+<p>Edite o arquivo /etc/apt/sources.list com o comando <strong>sudo gedit /etc/apt/sources.list</strong> e no final do arquivo insira os comandos a seguir:</p>
+<pre tabindex="0"><code>#Remastersys Precise  
+deb http://www.remastersys.com/ubuntu precise main
+</code></pre><p>Salve o arquivo.</p>
+<p>Para atualizar os pacotes digite:</p>
+<p><code>sudo apt-get update</code></p>
+<p>Para iniciar, procure pelo remastersys no painel inicial do Unity ou, simplesmente, digite no terminal o comando abaixo e a interface principal estará aberta. Como aqui o foco é apenas a opção de backup a utilização torna-se bem simples, mas é necessário fazer algumas pequenas configurações, então vamos vê-las.</p>
+<p><code>sudo remastersys-gtk</code></p>
 <p>Na figura abaixo estamos na aba <strong><em>Settings</em></strong> e, é nesta aba que configuramos praticamente tudo.</p>
 <p><a href="http://1.bp.blogspot.com/-UivhKFtCTIg/UQR_NFJS08I/AAAAAAAAALI/qpy9qfq5rXc/s1600/remaster02.png"><img src="https://lh3.ggpht.com/-UivhKFtCTIg/UQR_NFJS08I/AAAAAAAAALI/qpy9qfq5rXc/s400/remaster02.png" alt="remastersys" title="remastersys"></a></p>
 <p>No campo <strong>Username</strong> você pode inserir o nome do usuário principal do sistema operacional que deseja fazer backup, na verdade é desejável que você coloque o mesmo nome pois, poderá ter problemas quando tentar utilizar o backup.<br>
@@ -243,7 +241,6 @@ Realizadas todas as configurações, vamos finalmente realizar o backup. Feche t
 Ao final do processo você terá um backup completo o seu sistema e serão gerados 2 arquivos com o nome que você escolheu lá em cima no campo Filename. Estes arquivos estarão na pasta /home/remastersys/remastersys (ou outra que você tenha escolhido no campo working directory). Você deve gravar o arquivo com a extensão .iso num CD/DVD (sugiro gravar num DVD regravável) após isto, utilize a opção <strong>Limpar</strong> para remover o arquivos temporários que provavelmente estarão ocupando bastante espaço em seu HD.</p>
 <p>Se quiser testar, é só reiniciar o PC/Notebook com o CD/DVD gerado. Você irá se deparar com o gerenciador de inicialização, escolha a opção de live cd se quiser apenas rodar como um live cd, mas também poderá escolher a opção de instalar.<br>
 Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora da instalação dá um erro, não instala o Grub e a instalação não termina, isto não ocorre quando gravado num CD/DVD.</p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -355,13 +352,6 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
 
  
-<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
-
-
-
-
-
- 
 <a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
@@ -370,6 +360,13 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
  
 <a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
 
 
 
@@ -411,6 +408,13 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
 
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
 <a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
@@ -440,6 +444,13 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
  
 <a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
 
 
 
@@ -495,20 +506,6 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
 
  
-<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
-
-
-
-
-
- 
-<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
-
-
-
-
-
- 
 <a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
@@ -530,13 +527,6 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
 
  
-<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
-
-
-
-
-
- 
 <a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
@@ -545,13 +535,6 @@ Dica preciosa: Não recomendo que você grave a ISO num Pendrive pois, na hora d
 
  
 <a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
-
-
-
-
-
- 
-<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 

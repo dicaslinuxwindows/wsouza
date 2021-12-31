@@ -8,9 +8,7 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Programa de declaração do IRPF 2020 no Linux com Java OpenJDK" />
-<meta property="og:description" content="Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java." />
+<meta property="og:description" content="Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-03-02T22:56:00-03:00" />
@@ -18,17 +16,13 @@ Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime 
 
 
 		<meta itemprop="name" content="Programa de declaração do IRPF 2020 no Linux com Java OpenJDK">
-<meta itemprop="description" content="Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java."><meta itemprop="datePublished" content="2020-03-02T22:56:00-03:00" />
+<meta itemprop="description" content="Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK."><meta itemprop="datePublished" content="2020-03-02T22:56:00-03:00" />
 <meta itemprop="dateModified" content="2020-03-02T22:56:00-03:00" />
 <meta itemprop="wordCount" content="512">
 <meta itemprop="keywords" content="IRPF,Java," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Programa de declaração do IRPF 2020 no Linux com Java OpenJDK"/>
-<meta name="twitter:description" content="Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java."/>
+<meta name="twitter:description" content="Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -219,54 +213,52 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#antes-de-tudo-o-que-é-e-para-que-serve-o-java">Antes de tudo: O que é, e para que serve o Java?</a></li>
+    <li><a href="#dirpf-2020">DIRPF 2020</a>
       <ul>
-        <li><a href="#antes-de-tudo-o-que-é-e-para-que-serve-o-java">Antes de tudo: O que é, e para que serve o Java?</a></li>
-        <li><a href="#dirpf-2020">DIRPF 2020</a></li>
-        <li><a href="#testando-o-java">Testando o Java</a></li>
-        <li><a href="#download-e-execução-do-dirpf">Download e execução do DIRPF</a></li>
+        <li></li>
       </ul>
     </li>
+    <li><a href="#download-e-execução-do-dirpf">Download e execução do DIRPF</a></li>
   </ul>
 </nav>
 	</div>
 </div><div class="content post__content clearfix">
-			<p>Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato <em>.BIN</em>, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.<br>
-Se procura a versão 2021, veja em: <a href="https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html">Instalando o programa do IRPF 2021 no Debian e Fedora</a></p>
-<h3 id="antes-de-tudo-o-que-é-e-para-que-serve-o-java">Antes de tudo: O que é, e para que serve o Java?</h3>
+			<p>Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato <em>.BIN</em>, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.</p>
+<p>Se procura a versão 2021, veja em: <a href="https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html">Instalando o programa do IRPF 2021 no Debian e Fedora</a></p>
+<h2 id="antes-de-tudo-o-que-é-e-para-que-serve-o-java">Antes de tudo: O que é, e para que serve o Java?</h2>
 <p>Java <em>(neste caso Java Runtime Environment, ou JRE)</em> é o ambiente de execução para programas criados com a linguagem de programação Java. É uma máquina virtual que permite a execução do código fonte, como se fosse um processador virtual. Foi desenvolvido pela Sun Microsystems e atualmente pertence à Oracle, portanto, é uma tecnologia proprietária.<br>
 Vários sistemas baseados em Linux utilizam a versão não proprietária, chamada de OpenJDK <em>(Open JRE)</em>. O OpenJDK é o resultado dos esforços da Comunidade Java para a evolução atemporal da linguagem. Serve como incubadora de novas ideias que normalmente são implementadas no JDK comercial da Oracle para serem rentabilizadas posteriormente.<br>
-Fonte: <a href="https://pt.wikipedia.org/wiki/OpenJDK">Wikipedia</a></p>
-<h3 id="dirpf-2020">DIRPF 2020</h3>
+<em>Fonte: <a href="https://pt.wikipedia.org/wiki/OpenJDK">Wikipedia</a></em></p>
+<h2 id="dirpf-2020">DIRPF 2020</h2>
 <p>O DIRPF, nas versões para sistemas operacionais específicos, funciona apenas com o Java Oracle. Muitos usuários encontram dificuldades na instalação do DIRPF em sistemas Linux devido à não disponibilidade do Java Oracle nos repositórios de algumas distribuições, principalmente nas distribuições onde há a predominância de software livre.<br>
 Para contornar este problema a saída é utilizar a versão <strong>multiplataforma</strong> do DIRPF, pois ela funciona com o OpenJDK. Veremos a seguir como fazer isto.</p>
-<h3 id="testando-o-java">Testando o Java</h3>
+<h4 id="testando-o-java">Testando o Java</h4>
 <p>Antes de qualquer coisa tenha certeza que há uma versão do OpenJDK instalada. No terminal digite:</p>
-<p> java -version</p>
+<p><code>java -version</code></p>
 <p>Se o OpenJDK estiver instalado, a saída deverá ser alguma coisa parecida com a abaixo:</p>
-<p>OpenJDK version &ldquo;11.0.6&rdquo; 2020-01-14<br>
-OpenJDK Runtime Environment (build 11.0.6+10-post-Ubuntu-1ubuntu118.04.1)<br>
-OpenJDK 64-Bit Server VM (build 11.0.6+10-post-Ubuntu-1ubuntu118.04.1, mixed mode, sharing)</p>
-<p>Se não aparecer nada, é porque o OpenJDK não está instalado. Para instalar, acesse a central de software de sua distribuição e procure por <strong>openjdk</strong> ou <strong>default-jre</strong>. Você também pode instalar via terminal utilizando um dos comandos abaixo, de acordo com a sua distribuição.</p>
-<p><em><strong>Debian e derivados</strong></em></p>
-<p> sudo apt install default-jre</p>
-<p><em><strong>openSUSE e derivados</strong></em></p>
-<p> sudo zypper in java-1_8_0-openjdk</p>
-<p><em><strong>Fedora e derivados</strong></em></p>
-<p> sudo dnf install java-1.8.0-openjdk</p>
+<pre tabindex="0"><code>OpenJDK version &quot;11.0.6&quot; 2020-01-14  
+OpenJDK Runtime Environment (build 11.0.6+10-post-Ubuntu-1ubuntu118.04.1)  
+OpenJDK 64-Bit Server VM (build 11.0.6+10-post-Ubuntu-1ubuntu118.04.1, mixed mode, sharing)
+</code></pre><p>Se não aparecer nada, é porque o OpenJDK não está instalado. Para instalar, acesse a central de software de sua distribuição e procure por <strong>openjdk</strong> ou <strong>default-jre</strong>. Você também pode instalar via terminal utilizando um dos comandos abaixo, de acordo com a sua distribuição.</p>
+<p><strong>Debian e derivados</strong></p>
+<p><code>sudo apt install default-jre</code></p>
+<p><strong>openSUSE e derivados</strong></p>
+<p><code>sudo zypper in java-1_8_0-openjdk</code></p>
+<p><strong>Fedora e derivados</strong></p>
+<p><code>sudo dnf install java-1.8.0-openjdk</code></p>
 <p>Para ter certeza que tudo deu certo, digite <em><strong>java -version</strong></em> no terminal novamente e verifique se a saída do terminal é parecida com a anterior.</p>
-<h3 id="download-e-execução-do-dirpf">Download e execução do DIRPF</h3>
+<h2 id="download-e-execução-do-dirpf">Download e execução do DIRPF</h2>
 <p>Após o Java estar funcionando, vamos ao DIRPF. Para fazer o download da versão multiplataforma do DIRPF, abra o terminal, copie e cole o código abaixo:</p>
-<p> wget <a href="http://downloadirpf.receita.fazenda.gov.br/irpf/2020/irpf/arquivos/IRPF2020-1.9.zip">http://downloadirpf.receita.fazenda.gov.br/irpf/2020/irpf/arquivos/IRPF2020-1.9.zip</a></p>
+<p><code>wget http://downloadirpf.receita.fazenda.gov.br/irpf/2020/irpf/arquivos/IRPF2020-1.9.zip</code></p>
 <p>Após o download, ainda no terminal,descompacte executando o comando:</p>
-<p> unzip $HOME/IRPF2020-1.9.zip</p>
+<p><code>unzip $HOME/IRPF2020-1.9.zip</code></p>
 <p>Esta versão não necessita de instalação, basta executar o arquivo com a extensão irpf.jar, que está na pasta que foi criada na descompactação.<br>
 Para executar primeiramente dê as permissões de execução no arquivo <strong>irpf.jar</strong> com o comando:</p>
-<p> chmod +x $HOME/IRPF2020/irpf.jar</p>
+<p><code>chmod +x $HOME/IRPF2020/irpf.jar</code></p>
 <p>Depois dê um duplo clique no arquivo, ou execute com o comando:</p>
-<p> java -jar $HOME/IRPF2020/irpf.jar</p>
+<p><code>java -jar $HOME/IRPF2020/irpf.jar</code></p>
 <p>Caso precise da versão com o Java Oracle veja em <a href="https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html">Programa de declaração do IRPF 2020 no Linux (Arquivo .bin + Java Oracle)</a></p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -381,13 +373,6 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
 
  
-<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
-
-
-
-
-
- 
 <a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
@@ -396,6 +381,13 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
  
 <a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
 
 
 
@@ -437,6 +429,13 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
 
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
 <a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
@@ -466,6 +465,13 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
  
 <a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
 
 
 
@@ -521,20 +527,6 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
 
  
-<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
-
-
-
-
-
- 
-<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
-
-
-
-
-
- 
 <a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
@@ -556,13 +548,6 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
 
  
-<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
-
-
-
-
-
- 
 <a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
@@ -571,13 +556,6 @@ Para executar primeiramente dê as permissões de execução no arquivo <strong>
 
  
 <a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
-
-
-
-
-
- 
-<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 

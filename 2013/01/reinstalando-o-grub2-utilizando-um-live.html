@@ -211,33 +211,33 @@ if (!doNotTrack) {
 			<p>Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.</p>
 <p>Então, vamos começar: Você vai precisar de um Live Cd/Dvd do Ubuntu, utlilize uma versão acima da 9.10 (Karmic Koala) pois, foi a partir desta versão que o Grub2 passou a fazer parte do Ubuntu.<br>
 Inicie o seu computador com o Live Cd.<br>
-Após iniciado o sistema abra o terminal e digite o seguinte comando:<br>
-<strong>sudo fdisk -l</strong><br>
-Você verá as partições existentes em seu disco, como está na imagem abaixo.</p>
+Após iniciado o sistema abra o terminal e digite o seguinte comando:</p>
+<p><code>sudo fdisk -l</code></p>
+<p>Você verá as partições existentes em seu disco, como está na imagem abaixo.</p>
 <p><a href="http://1.bp.blogspot.com/-mT381UN6cLQ/UTidYFuPtGI/AAAAAAAAAQ8/t8-J1HdVbo0/s1600/img01.png"><img src="https://1.bp.blogspot.com/-mT381UN6cLQ/UTidYFuPtGI/AAAAAAAAAQ8/t8-J1HdVbo0/s640/img01.png" alt="Recuperar o Grub" title="Recuperar o Grub"></a></p>
-<p>Descubra em qual partição seu Ubuntu está instalado. Neste caso a partição onde o Ubuntu está instalado é /dev/sda4, mas provavelmente não será este o seu caso. Monte o sistema de arquivos com o comando:<br>
-<strong>sudo mount /dev/sda4 /mnt</strong><br>
-Neste ponto, o sistema antigo já está montado, então aproveite e monte os outros dispositivos dentro dele.<br>
-<strong>sudo mount &ndash;bind /dev /mnt/dev</strong><br>
-Agora vamos acessar o diretório raíz do sistema antigo com o comando chroot, desta maneira você consegue administrá-lo via terminal.<br>
-<strong>sudo chroot /mnt</strong><br>
-O próximo passo é atualizar o arquivo de configuração do grub.<br>
-<strong>sudo update-grub</strong><br>
-Agora vamos efetivamente reinstalar o Grub2 na MBR. A MBR é o local onde ficam guardadas as informações de boot e sempre que instalamos o Windows ela é apagada, ficando apenas as informações do Windows<br>
-O primeiro passo é reinstalar o Grub2 na MBR. Preste atenção que é apenas /dev/sda, e não sda1, sda2, sda4&hellip;<br>
-<strong>sudo grub-install /dev/sda</strong><br>
-Pressione <strong>Ctrl+D</strong> para sair do sistema antigo.<br>
-Desmonte os todos os dispositivos montados anteriormente.<br>
-<strong>sudo umount /mnt/dev</strong><br>
-<strong>sudo umount /mnt</strong><br>
-Reinicie o sistema e retire o Live Cd da bandeja. <strong>sudo reboot</strong><br>
-Ao reiniciar você perceberá que o Grub está instalado mas, em alguns casos haverá um problema: o Windows não aparece, aparece apenas o Ubuntu.<br>
-Para resolver este problema reinicie normalmente, faça o login, abra o terminal atualize o arquivo de configuração do Grub novamente com o comando:<br>
-<strong>sudo update-grub</strong><br>
-Reinicie novamente o sistema.<br>
-<strong>sudo reboot</strong></p>
+<p>Descubra em qual partição seu Ubuntu está instalado. Neste caso a partição onde o Ubuntu está instalado é /dev/sda4, mas provavelmente não será este o seu caso. Monte o sistema de arquivos com o comando:</p>
+<p><code>sudo mount /dev/sda4 /mnt</code></p>
+<p>Neste ponto, o sistema antigo já está montado, então aproveite e monte os outros dispositivos dentro dele.</p>
+<p><code>sudo mount --bind /dev /mnt/dev</code></p>
+<p>Agora vamos acessar o diretório raíz do sistema antigo com o comando chroot, desta maneira você consegue administrá-lo via terminal.</p>
+<p><code>sudo chroot /mnt</code></p>
+<p>O próximo passo é atualizar o arquivo de configuração do grub.</p>
+<p><code>sudo update-grub</code></p>
+<p>Agora vamos efetivamente reinstalar o Grub2 na MBR. A MBR é o local onde ficam guardadas as informações de boot e sempre que instalamos o Windows ela é apagada, ficando apenas as informações do Windows.
+O primeiro passo é reinstalar o Grub2 na MBR. Preste atenção que é apenas /dev/sda, e não sda1, sda2, sda4&hellip;</p>
+<p><code>sudo grub-install /dev/sda</code></p>
+<p>Pressione <strong>Ctrl+D</strong> para sair do sistema antigo.
+Desmonte os todos os dispositivos montados anteriormente.</p>
+<p><code>sudo umount /mnt/dev</code>
+<code>sudo umount /mnt</code></p>
+<p>Reinicie o sistema e retire o Live Cd da bandeja.</p>
+<p><code>sudo reboot</code></p>
+<p>Ao reiniciar você perceberá que o Grub está instalado mas, em alguns casos haverá um problema: o Windows não aparece, aparece apenas o Ubuntu.<br>
+Para resolver este problema reinicie normalmente, faça o login, abra o terminal atualize o arquivo de configuração do Grub novamente com o comando:</p>
+<p><code>sudo update-grub</code></p>
+<p>Reinicie novamente o sistema.</p>
+<p><code>sudo reboot</code></p>
 <p>Pronto! Você agora estará com o Windows e o Ubuntu instalados e poderá escolher o qual desejar. Creio que esta dica funcione com outras distribuições, e não apenas com o Ubuntu, mas não testei, que tal tentar?</p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -343,13 +343,6 @@ Reinicie novamente o sistema.<br>
 
 
  
-<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
-
-
-
-
-
- 
 <a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
@@ -358,6 +351,13 @@ Reinicie novamente o sistema.<br>
 
  
 <a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
 
 
 
@@ -399,6 +399,13 @@ Reinicie novamente o sistema.<br>
 
 
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
 <a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
@@ -428,6 +435,13 @@ Reinicie novamente o sistema.<br>
 
  
 <a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
 
 
 
@@ -483,20 +497,6 @@ Reinicie novamente o sistema.<br>
 
 
  
-<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
-
-
-
-
-
- 
-<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
-
-
-
-
-
- 
 <a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
@@ -518,13 +518,6 @@ Reinicie novamente o sistema.<br>
 
 
  
-<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
-
-
-
-
-
- 
 <a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
@@ -533,13 +526,6 @@ Reinicie novamente o sistema.<br>
 
  
 <a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
-
-
-
-
-
- 
-<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 

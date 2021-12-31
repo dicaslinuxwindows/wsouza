@@ -8,8 +8,7 @@
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
 		<meta property="og:title" content="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux" />
-<meta property="og:description" content="Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.
-Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20." />
+<meta property="og:description" content="Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2020-03-31T21:07:00-03:00" />
@@ -17,15 +16,13 @@ Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus pref
 
 
 		<meta itemprop="name" content="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux">
-<meta itemprop="description" content="Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.
-Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20."><meta itemprop="datePublished" content="2020-03-31T21:07:00-03:00" />
+<meta itemprop="description" content="Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru."><meta itemprop="datePublished" content="2020-03-31T21:07:00-03:00" />
 <meta itemprop="dateModified" content="2020-03-31T21:07:00-03:00" />
 <meta itemprop="wordCount" content="354">
 <meta itemprop="keywords" content="Yaru," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux"/>
-<meta name="twitter:description" content="Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.
-Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20."/>
+<meta name="twitter:description" content="Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -216,11 +213,10 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#download">Download</a></li>
+    <li><a href="#instalando-o-tema">Instalando o tema</a></li>
+    <li><a href="#configurando-o-tema">Configurando o tema</a>
       <ul>
-        <li><a href="#download">Download</a></li>
-        <li><a href="#instalando-o-tema">Instalando o tema</a></li>
-        <li><a href="#configurando-o-tema">Configurando o tema</a></li>
         <li><a href="#debian">Debian</a></li>
         <li><a href="#fedora">Fedora</a></li>
         <li><a href="#linux-mint">Linux Mint</a></li>
@@ -232,18 +228,18 @@ if (!doNotTrack) {
 </div><div class="content post__content clearfix">
 			<p>Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.</p>
 <p>Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20.04 LTS traz uma versão ainda mais bonita deste tema com variantes Dark e Light. Nesta dica vou mostrar como instalar os ícones e cores das janelas deste tema no Debian e no Fedora ambos com o Gnome Shell e no Linux Mint, com o ambiente Cinnamon. Em outras interfaces gráficas apenas o tema de ícones fica legal.</p>
-<h3 id="download">Download</h3>
+<h2 id="download">Download</h2>
 <p>Os arquivos foram pegos diretamente de uma instalação do Ubuntu 20.04 e estão disponíveis em minha pasta do Dropbox.<br>
 Para baixar, abra o terminal <em>(CTRL +Alt+ T)</em> e insira o comando: <em>(Pode copiar e colar)</em></p>
-<p> wget <a href="https://www.dropbox.com/s/sbbpdap72m5agrf/yaru.zip?dl=0">https://www.dropbox.com/s/sbbpdap72m5agrf/yaru.zip?dl=0</a> -O yaru.zip</p>
-<h3 id="instalando-o-tema">Instalando o tema</h3>
+<p><code>wget https://www.dropbox.com/s/sbbpdap72m5agrf/yaru.zip?dl=0 -O yaru.zip</code></p>
+<h2 id="instalando-o-tema">Instalando o tema</h2>
 <p>A fim de não mexer nas configurações do sistema, vou mostrar como instalar o tema apenas na pasta de usuário, ou seja, o tema só ficará disponível para o usuário que o instalou.</p>
 <p>Descompacte o arquivo baixado</p>
-<p> unzip yaru.zip</p>
+<p><code>unzip yaru.zip</code></p>
 <p>O comando acima cria 2 pastas ocultas <em>(.themes e .icons)</em> na pasta home do usuário, e os arquivos dos temas ficam nestas 2 pastas. Para visualizar as pastas ocultas basta dar um <em>CTRL +H</em>.</p>
-<h3 id="configurando-o-tema">Configurando o tema</h3>
+<h2 id="configurando-o-tema">Configurando o tema</h2>
 <p>Para facilitar a configuração do tema no Gnome Shell instale a ferramenta de ajustes.</p>
-<p> sudo apt install gnome-tweak-tool</p>
+<p><code>sudo apt install gnome-tweak-tool</code></p>
 <p>Após a instalação da ferramenta de ajustes, procure ela mesma, como abaixo:</p>
 <p><a href="https://1.bp.blogspot.com/-oVNLhpn7ohw/XoPUr99K9eI/AAAAAAAAOfQ/Qpw1XxrHWnkLqTR3qMA773-P06hmM2hmQCNcBGAsYHQ/s1600/Ajustes.png"><img src="https://1.bp.blogspot.com/-oVNLhpn7ohw/XoPUr99K9eI/AAAAAAAAOfQ/Qpw1XxrHWnkLqTR3qMA773-P06hmM2hmQCNcBGAsYHQ/s640/Ajustes.png" alt="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows" title="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows"></a></p>
 <p>Depois escolha o menu Aparência e escolha os temas, como mostrado abaixo:</p>
@@ -262,7 +258,6 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 <p><a href="https://4.bp.blogspot.com/-Y90zBJKBcfA/XoPWy0ZGpWI/AAAAAAAAOgg/Eqf28P5NDW8WwXjkXbI0dPwp2OGs7ghxwCNcBGAsYHQ/s1600/Mint-Yaru1.png"><img src="https://4.bp.blogspot.com/-Y90zBJKBcfA/XoPWy0ZGpWI/AAAAAAAAOgg/Eqf28P5NDW8WwXjkXbI0dPwp2OGs7ghxwCNcBGAsYHQ/s640/Mint-Yaru1.png" alt="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows" title="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows"></a></p>
 <p><a href="https://2.bp.blogspot.com/-929LfltGErg/XoPWy4eRJCI/AAAAAAAAOgc/kJgxcNXt8UY7OKqGfCgCq3GAA4erJhqXwCNcBGAsYHQ/s1600/MintYaru4.png"><img src="https://2.bp.blogspot.com/-929LfltGErg/XoPWy4eRJCI/AAAAAAAAOgc/kJgxcNXt8UY7OKqGfCgCq3GAA4erJhqXwCNcBGAsYHQ/s640/MintYaru4.png" alt="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows" title="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows"></a></p>
 <p><a href="https://4.bp.blogspot.com/-R3t0NjbYyZ4/XoPWyv-Z2iI/AAAAAAAAOgY/7rlzD216KvUwBv4Iy5i6XX7TzPCN60RtACNcBGAsYHQ/s1600/MintYaru3.png"><img src="https://4.bp.blogspot.com/-R3t0NjbYyZ4/XoPWyv-Z2iI/AAAAAAAAOgY/7rlzD216KvUwBv4Iy5i6XX7TzPCN60RtACNcBGAsYHQ/s640/MintYaru3.png" alt="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows" title="Tema Yaru do Ubuntu no Debian e em outras distribuições Linux - Dicas Linux e Windows"></a></p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -374,13 +369,6 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
 
  
-<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
-
-
-
-
-
- 
 <a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
@@ -389,6 +377,13 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
  
 <a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
 
 
 
@@ -430,6 +425,13 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
 
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
 <a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
@@ -459,6 +461,13 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
  
 <a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
 
 
 
@@ -514,20 +523,6 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
 
  
-<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
-
-
-
-
-
- 
-<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
-
-
-
-
-
- 
 <a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
@@ -549,13 +544,6 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
 
  
-<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
-
-
-
-
-
- 
 <a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
@@ -564,13 +552,6 @@ Veja nas imagens abaixo como o tema, na variante Yaru Dark, ficou no Debian, Fed
 
  
 <a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
-
-
-
-
-
- 
-<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 

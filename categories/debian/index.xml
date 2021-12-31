@@ -13,9 +13,7 @@
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</guid>
-      <description>Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.
-GNOME Segundo a Wikipédia:
- GNOME (acrônimo para GNU Network Object Model Environment) é um projeto de software livre abrangendo o Ambiente de Trabalho GNOME, para os usuários, e a Plataforma de Desenvolvimento GNOME, para os desenvolvedores. O projeto dá ênfase especial a usabilidade, acessibilidade e internacionalização.</description>
+      <description>&lt;p&gt;Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -60,8 +58,7 @@ GNOME Segundo a Wikipédia:
       <pubDate>Wed, 21 Oct 2020 23:57:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</guid>
-      <description>A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.
-Microsoft Edge O Microsoft Edge em questão é a segunda geração do navegador da Microsoft, totalmente remodelado e baseado no navegador Chromium, que também é a base para o Google Chrome. A Microsoft vem há um certo tempo anunciando o lançamento de uma versão deste navegador para Linux.</description>
+      <description>&lt;p&gt;A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -88,8 +85,7 @@ Microsoft Edge O Microsoft Edge em questão é a segunda geração do navegador 
       <pubDate>Tue, 31 Mar 2020 21:07:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</guid>
-      <description>Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.
-Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus preferidos sempre foram os temas voltados para a cor marrom, presente nas versões 6, 7, e depois os voltados para a cor laranja. O tema Yaru é o tema oficial do Ubuntu há um certo tempo. A versão do Ubuntu 20.</description>
+      <description>&lt;p&gt;Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -107,9 +103,7 @@ Uma das coisas que sempre achei mais legais no Ubuntu são seus temas. Meus pref
       <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
-      <description>Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.
-Skolelinux O Skolelinux (ou Debian EDU) é um ambiente educacional completo e facilmente configurável. Após instalado e configurado disponibiliza um conjunto de aplicativos educacionais que pode ser categorizado por idade, além de um servidor LTSP¹.
-Detalhes, informações e lançamento O Skolelinux é uma versão do Debian com um ambiente educacional instalado e pré-configurado. Possui perfis com aplicativos educacionais voltados para várias faixas de idade.</description>
+      <description>&lt;p&gt;Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -227,8 +221,7 @@ Não conhece? Veja abaixo.&lt;/p&gt;</description>
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
-      <description>Atualizado em 21/02/2016
-Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior. O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente.</description>
+      <description>&lt;p&gt;Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.&lt;/a&gt; O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -237,9 +230,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
-      <description>Atualizado em 08/01/2015
-Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.
-Entre os piores chipsets (senão o pior) está a famosa placa de vídeo Sis Mirage 3 (SiS671 , SiS671FX , SiS672 , SiS672FX , SiSM671 , SiSM671MX , SiSM672 , SiSM672MX), fabricada pela Silicon Integrated Systems Corp.</description>
+      <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
     </item>
     
   </channel>

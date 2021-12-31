@@ -13,8 +13,7 @@
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
-      <description>Atualizado em 21/02/2016
-Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior. O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente.</description>
+      <description>&lt;p&gt;Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.&lt;/a&gt; O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -23,7 +22,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Sun, 29 Dec 2013 00:22:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</guid>
-      <description>Em abril publiquei um post sobre o funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.</description>
+      <description>&lt;p&gt;Em abril publiquei um post sobre o &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux&lt;/a&gt;, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,9 +31,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
-      <description>Atualizado em 08/01/2015
-Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.
-Entre os piores chipsets (senão o pior) está a famosa placa de vídeo Sis Mirage 3 (SiS671 , SiS671FX , SiS672 , SiS672FX , SiSM671 , SiSM671MX , SiSM672 , SiSM672MX), fabricada pela Silicon Integrated Systems Corp.</description>
+      <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
     </item>
     
   </channel>

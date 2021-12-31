@@ -24,7 +24,7 @@
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
       <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
 Confira a seguir.
-1 - Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
+Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
     
     <item>
@@ -33,8 +33,7 @@ Confira a seguir.
       <pubDate>Wed, 25 Jul 2018 02:15:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</guid>
-      <description>Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.
-A utilização de uma máquina virtual torna-se muito importante quando, por exemplo, o usuário deseja ou precisa testar algum sistema que por algum motivo não pode ser executado num Live CD/DVD. Ou quando este deseja/precisa instalar o Windows para ter um acesso rápido.</description>
+      <description>&lt;p&gt;Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.&lt;/p&gt;</description>
     </item>
     
   </channel>

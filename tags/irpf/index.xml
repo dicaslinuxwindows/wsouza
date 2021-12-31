@@ -22,9 +22,7 @@
       <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
-      <description>Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java.</description>
+      <description>&lt;p&gt;Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato &lt;em&gt;.BIN&lt;/em&gt;, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -33,9 +31,7 @@ Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime 
       <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
-      <description>A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo .BIN e o Java Oracle.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-IRPF 2020 O programa é necessário para efetuar as declarações do imposto de renda de pessoa física, que podem ser entregues do dia 01/03/2020 à 30/04/2020 30/06/2020.</description>
+      <description>&lt;p&gt;A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo &lt;em&gt;.BIN&lt;/em&gt; e o Java Oracle.&lt;/p&gt;</description>
     </item>
     
     <item>

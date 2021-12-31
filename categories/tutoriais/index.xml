@@ -58,9 +58,7 @@
       <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
-      <description>Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato .BIN, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime Environment, ou JRE) é o ambiente de execução para programas criados com a linguagem de programação Java.</description>
+      <description>&lt;p&gt;Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato &lt;em&gt;.BIN&lt;/em&gt;, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -69,9 +67,7 @@ Antes de tudo: O que é, e para que serve o Java? Java (neste caso Java Runtime 
       <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
-      <description>A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo .BIN e o Java Oracle.
-Se procura a versão 2021, veja em: Instalando o programa do IRPF 2021 no Debian e Fedora
-IRPF 2020 O programa é necessário para efetuar as declarações do imposto de renda de pessoa física, que podem ser entregues do dia 01/03/2020 à 30/04/2020 30/06/2020.</description>
+      <description>&lt;p&gt;A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo &lt;em&gt;.BIN&lt;/em&gt; e o Java Oracle.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -152,9 +148,8 @@ IRPF 2020 O programa é necessário para efetuar as declarações do imposto de 
       <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
-      <description>Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
-Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
-1 - O que é o Webmin? Segundo o site do Webmin: &amp;ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais.</description>
+      <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;
+Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -183,7 +178,7 @@ Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéri
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
       <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
 Confira a seguir.
-1 - Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
+Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
     
     <item>
@@ -192,8 +187,7 @@ Confira a seguir.
       <pubDate>Wed, 25 Jul 2018 02:15:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</guid>
-      <description>Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.
-A utilização de uma máquina virtual torna-se muito importante quando, por exemplo, o usuário deseja ou precisa testar algum sistema que por algum motivo não pode ser executado num Live CD/DVD. Ou quando este deseja/precisa instalar o Windows para ter um acesso rápido.</description>
+      <description>&lt;p&gt;Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -223,9 +217,7 @@ E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entr
       <pubDate>Tue, 27 Feb 2018 12:13:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</guid>
-      <description>Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.
-
-Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus clientes, porém sua função é para uso pessoal, o que faz com que o mesmo não possua ferramentas para sua utilização com um perfil comercial. O WhatsApp Business, um aplicativo nativo para a plataforma Android, torna este uso profissional, adicionando informações básicas, porém importantes, sobre a empresa no perfil do aplicativo.</description>
+      <description>&lt;p&gt;Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -234,8 +226,7 @@ Muitas empresas utilizam das ferramentas do WhatsApp para interagir com seus cli
       <pubDate>Tue, 09 Jan 2018 03:41:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</guid>
-      <description>O Android Auto é um aplicativo para veículos que controla as funções de GPS, Radio, Agenda, Ligações e tem integração com o Google Now, o que possibilita o controle por voz, dando ao motorista total controle às funções citadas anteriormente. Para ser mais exato, o Android Auto é um sistema operacional Android, otimizado para o uso em veículos
-Até então, o Android Auto funcionava apenas em veículos que vinham embarcados com esta tecnologia, porém, agora é possível utilizar suas funções no Smartphone, o que torna-o utilizável em qualquer veículo.</description>
+      <description>&lt;p&gt;O Android Auto é um aplicativo para veículos que controla as funções de GPS, Radio, Agenda, Ligações e tem integração com o Google Now, o que possibilita o controle por voz, dando ao motorista total controle às funções citadas anteriormente. Para ser mais exato, o Android Auto é um sistema operacional Android, otimizado para o uso em veículos.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -244,10 +235,8 @@ Até então, o Android Auto funcionava apenas em veículos que vinham embarcados
       <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
-      <description>Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.
-Mas como? A resposta é bem simples, veja na sequência:
-Muita gente que está acostumada com o Windows mal conhecem detalhes do mesmo, pois utilizam apenas o navegador para acessar a internet, logo, não sentirão diferença pois o seu sistema Linux ficará com a mesma aparência do Windows 7 ou 8.
-Faremos a transformação em 3 passos apenas instalando um tema do Windows e alterando este mesmo tema para o padrão do sistema.</description>
+      <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;
+Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -266,8 +255,7 @@ Não conhece? Veja abaixo.&lt;/p&gt;</description>
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
-      <description>Atualizado em 21/02/2016
-Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior. O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente.</description>
+      <description>&lt;p&gt;Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.&lt;/a&gt; O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -285,7 +273,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Sun, 29 Dec 2013 00:22:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</guid>
-      <description>Em abril publiquei um post sobre o funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.</description>
+      <description>&lt;p&gt;Em abril publiquei um post sobre o &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux&lt;/a&gt;, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -303,9 +291,7 @@ Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3,
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
-      <description>Atualizado em 08/01/2015
-Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.
-Entre os piores chipsets (senão o pior) está a famosa placa de vídeo Sis Mirage 3 (SiS671 , SiS671FX , SiS672 , SiS672FX , SiSM671 , SiSM671MX , SiSM672 , SiSM672MX), fabricada pela Silicon Integrated Systems Corp.</description>
+      <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -314,9 +300,8 @@ Entre os piores chipsets (senão o pior) está a famosa placa de vídeo Sis Mira
       <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
-      <description>O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.
-Leia em Backup com Remaster-GTK
-Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira que desejava, instalou programas que você gosta, removeu programas desnecessários, instalou temas e ícones, modificou as fontes,enfim, deixou o Ubuntu com a sua cara. Então, surge a necessidade de você formatar seu Notebook/PC e você fica desesperado pois precisará configurar tudo novamente e sabe que a trabalheira não será fácil.</description>
+      <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;
+Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -334,7 +319,7 @@ Após muito trabalho você finalmente conseguiu configurar seu Ubuntu da maneira
       <pubDate>Tue, 08 Jan 2013 03:26:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</guid>
-      <description>Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.</description>
+      <description>&lt;p&gt;Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -9,8 +9,7 @@
 	<meta name="description" content="">
 		<meta property="og:title" content="Webmin - Administrador de Sistemas" />
 <meta property="og:description" content="Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
-Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
-1 - O que é o Webmin? Segundo o site do Webmin: &ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais." />
+Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html" /><meta property="article:section" content="post" />
 <meta property="article:published_time" content="2019-01-22T13:35:00-02:00" />
@@ -19,16 +18,14 @@ Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéri
 
 		<meta itemprop="name" content="Webmin - Administrador de Sistemas">
 <meta itemprop="description" content="Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
-Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
-1 - O que é o Webmin? Segundo o site do Webmin: &ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais."><meta itemprop="datePublished" content="2019-01-22T13:35:00-02:00" />
+Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo."><meta itemprop="datePublished" content="2019-01-22T13:35:00-02:00" />
 <meta itemprop="dateModified" content="2019-01-22T13:35:00-02:00" />
-<meta itemprop="wordCount" content="1148">
+<meta itemprop="wordCount" content="1136">
 <meta itemprop="keywords" content="Ferramentas Linux,Webmin," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Webmin - Administrador de Sistemas"/>
 <meta name="twitter:description" content="Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.
-Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo.
-1 - O que é o Webmin? Segundo o site do Webmin: &ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais."/>
+Uma boa alternativa frente ao Secure Shell SSH. Confira mais detalhes na matéria abaixo."/>
 
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
@@ -219,50 +216,49 @@ if (!doNotTrack) {
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li>
+    <li><a href="#o-que-é-o-webmin">O que é o Webmin?</a>
       <ul>
-        <li><a href="#1---o-que-é-o-webmin">1 - O que é o Webmin?</a></li>
-        <li><a href="#11---variações-do-webmin">1.1 - Variações do Webmin</a></li>
-        <li><a href="#2---e-a-segurança">2 - E a segurança?</a></li>
-        <li><a href="#3---download-e-instalação">3 - Download e instalação</a></li>
-        <li><a href="#4---caso-de-uso">4 - Caso de uso</a></li>
-        <li><a href="#5---considerações-finais">5 - Considerações finais</a></li>
+        <li><a href="#variações-do-webmin">Variações do Webmin</a></li>
       </ul>
     </li>
+    <li><a href="#e-a-segurança">E a segurança?</a></li>
+    <li><a href="#download-e-instalação">Download e instalação</a></li>
+    <li><a href="#caso-de-uso">Caso de uso</a></li>
+    <li><a href="#considerações-finais">Considerações finais</a></li>
   </ul>
 </nav>
 	</div>
 </div><div class="content post__content clearfix">
 			<p>Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.<br>
 Uma boa alternativa frente ao Secure Shell <em>SSH</em>. Confira mais detalhes na matéria abaixo.</p>
-<h3 id="1---o-que-é-o-webmin">1 - O que é o Webmin?</h3>
+<h2 id="o-que-é-o-webmin">O que é o Webmin?</h2>
 <p>Segundo o site do Webmin: <em>&ldquo;O Webmin é uma interface baseada na Web para administração do sistema para o Unix. Usando qualquer navegador moderno, você pode configurar contas de usuário, Apache, DNS, compartilhamento de arquivos e muito mais. O Webmin elimina a necessidade de editar manualmente os arquivos de configuração do Unix (&hellip;) e permite gerenciar um sistema a partir do console ou remotamente.&quot;</em><br>
 O Webmin dá controle total para o usuário realizar a administração do sistema, tanto localmente, como remotamente, de maneira rápida e prática. Além de possuir diversos módulos que já vem ativados por padrão e permitir a ativação de diversos módulos.<br>
 No Webmin o administrador acessa o sistema pelo usuário root <em>(superusuário)</em> ou usuário com permissão no arquivo sudo.<br>
 Veja a lista com os <a href="http://www.webmin.com/standard.html">módulos padrão</a>.</p>
-<h3 id="11---variações-do-webmin">1.1 - Variações do Webmin</h3>
+<h3 id="variações-do-webmin">Variações do Webmin</h3>
 <p>O foco aqui é o Webmin mas vamos abrir um parêntese e mostrar algumas variações do Webmin.<br>
 Uma delas é o <a href="http://www.webmin.com/usermin.html">Usermin</a>, que possui ferramentas para webmail, alteração de senha, filtros de correio, fetchmail, voltada à usuários não-root.<br>
 Outra variação é o <a href="http://www.webmin.com/virtualmin.html">Virtalmin</a> que, segundo o site: <em>&ldquo;É um módulo Webmin para gerenciar múltiplos hosts virtuais através de uma única interface, como o Plesk ou o Cpanel. Ele suporta a criação e o gerenciamento de hosts virtuais Apache, domínios DNS BIND, bancos de dados MySQL e caixas de correio e aliases com Sendmail ou Postfix.&quot;</em><br>
 Ainda podemos encontrar o <a href="http://www.webmin.com/cloudmin.html">Cloudmin</a> que é uma interface de usuário construída sobre o Webmin para gerenciar sistemas virtuais, como instâncias de Xen, KVM e OpenVZ.</p>
-<h3 id="2---e-a-segurança">2 - E a segurança?</h3>
+<h2 id="e-a-segurança">E a segurança?</h2>
 <p>A segurança depende de vários fatores. Na página do Webmin há uma seção que mostra os problemas de segurança encontrados, as versões afetadas e a solução para corrigir o problema. Veja em: <a href="http://www.webmin.com/security.html">http://www.webmin.com/security.html</a><br>
 Porém, como o usuário que acessa o sistema tem acesso root, este deve tomar alguns cuidados ao utilizar alguns módulos. O gerenciador de arquivos, por exemplo, é um módulo que permite apagar qualquer arquivo do sistema e, dependendo do arquivo excluído, o sistema pode deixar de iniciar. Portanto, mais do que cuidados com segurança - no que diz respeito à ataques externos - deve-se ter cuidado com o que você vai fazer. Em caso de dúvidas, pesquise antes de tomar alguma atitude.</p>
-<h3 id="3---download-e-instalação">3 - Download e instalação</h3>
+<h2 id="download-e-instalação">Download e instalação</h2>
 <p>Na página de download, em <a href="http://www.webmin.com/download.html">http://www.webmin.com/download.html</a>, encontramos pacotes pré-compilados para Debian/Ubuntu e derivados <em>(.deb)</em>, Redhat, Fedora, CentOS, SuSE, Mandrake Linux <em>(.rpm)</em>. Há também pacotes para Solaris e Windows, além do código fonte, compilável para qualquer distribuição Linux.<br>
 Vou utilizar como base a instalação para Debian/Ubuntu. Para isto baixe o pacote em .deb na página de downloads, ou se preferir:</p>
-<p>wget <a href="http://prdownloads.sourceforge.net/webadmin/webmin">http://prdownloads.sourceforge.net/webadmin/webmin</a>_1.900_all.deb</p>
+<p><code>wget http://prdownloads.sourceforge.net/webadmin/webmin_1.900_all.deb</code></p>
 <p>O Webmin depende de algumas dependências de bibliotecas perl e python <em>(pois o mesmo é desenvolvido nestas linguagens)</em>, que podem ou não já estar instaladas no seu sistema. Também, em alguns casos, depende do sudo. Por via das dúvidas execute os comandos abaixo para instalar todas as dependências necessárias.<br>
 Obs: No Ubuntu, ao contrário do Debian, o sudo já vem como padrão. Para instalá-lo no Debian, no terminal execute o comando:</p>
-<p>su</p>
+<p><code>su</code></p>
 <p>Digite a senha e você estará logado como superusuário:<br>
 Execute o comando abaixo:</p>
-<p>apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python sudo gksu</p>
+<p><code>apt-get install perl libnet-ssleay-perl openssl libauthen-pam-perl libpam-runtime libio-pty-perl apt-show-versions python sudo gksu</code></p>
 <p>Agora vamos efetivamente instalar o Webmin:</p>
-<p>dpkg &ndash;install webmin_1.900_all.deb</p>
+<p><code>dpkg --install webmin_1.900_all.deb</code></p>
 <p>Para testar acesse https://localhost:10000, se instalou na máquina local. Caso tenha instalado numa outra máquina acesse https://ip-do-computador-que-foi-instalado:10000. Será pedido o login e senha. Você pode utilizar tanto o usuário root, como o seu usuário (desde que este esteja no sudo).<br>
 As eventuais atualizações aparecerão como sugestão quando você estiver na tela do Webmin. Caso deseje instalar basta confirmar e o processo correrá de forma automática.</p>
-<h3 id="4---caso-de-uso">4 - Caso de uso</h3>
+<h2 id="caso-de-uso">Caso de uso</h2>
 <p>Como exemplo criei um servidor num computador antigo, que já não suporta mais ambiente gráfico, rodando com o Debian Jessie. Instalei o Webmin e ativei e configurei os módulos de Servidor Web Apache, SSH, Servidor Proxy Squid, Servidor e Gerenciador de Banco de Dados Mysql e Servidor de Arquivos Samba. Como a configuração da máquina utilizada é fraca, tomei o cuidado para não deixá-los todos ativados ao mesmo tempo. Abaixo vou mostrar algumas telas do Webmin rodando nesta máquina. Clique na imagem para visualizar em melhor qualidade.</p>
 <p>A tela abaixo é a principal, onde aparecem os dados da máquina e à esquerda os menus para escolha dos módulos. No menu Webmin estão as opções de configuração do próprio Webmin. No menu sistema encontramos as opções de gerenciamento do sistema como criação e exclusão de usuários e grupos, módulo iniciar e encerrar <em>(que escolhe os programas que &ldquo;subirão&rdquo; junto com o sistema)</em>, entre outras.</p>
 <p><a href="https://1.bp.blogspot.com/-2NsxQoZx648/XEZ8HuqdD1I/AAAAAAAAKLk/v292yJJX23Mqg6dIhB4rOxbDdk71nnVegCPcBGAYYCw/s1600/Captura%2Bde%2Btela%2Bde%2B2019-01-09%2B23-52-06.png"><img src="https://1.bp.blogspot.com/-2NsxQoZx648/XEZ8HuqdD1I/AAAAAAAAKLk/v292yJJX23Mqg6dIhB4rOxbDdk71nnVegCPcBGAYYCw/s640/Captura%2Bde%2Btela%2Bde%2B2019-01-09%2B23-52-06.png" alt="Webmin - Administrador de Sistemas - Dicas Linux e Windows" title="Webmin - Administrador de Sistemas - Dicas Linux e Windows"></a></p>
@@ -281,10 +277,9 @@ As eventuais atualizações aparecerão como sugestão quando você estiver na t
 <p>Módulo do banco de dados MySql. Neste módulo é possível criar, administrar e excluir banco de dados e usuários. Também é possível parar e iniciar o banco de dados e alterar as mais variadas configurações.</p>
 <p><a href="https://2.bp.blogspot.com/-diXgK3B8JXc/XEZ8IZdr5TI/AAAAAAAAKLk/EJh68SZ4TGU4ND_nPdV3r8PczuXkoZ82wCPcBGAYYCw/s1600/Captura%2Bde%2Btela%2Bde%2B2019-01-09%2B23-56-37.png"><img src="https://2.bp.blogspot.com/-diXgK3B8JXc/XEZ8IZdr5TI/AAAAAAAAKLk/EJh68SZ4TGU4ND_nPdV3r8PczuXkoZ82wCPcBGAYYCw/s640/Captura%2Bde%2Btela%2Bde%2B2019-01-09%2B23-56-37.png" alt="Webmin - Administrador de Sistemas - Dicas Linux e Windows" title="Webmin - Administrador de Sistemas - Dicas Linux e Windows"></a></p>
 <p>As imagens acima são uma pequena amostra das possibilidades que o Webmin permite. Nos menus à esquerda vemos várias categorias e, se uma ferramenta não aparecer em algum menu, ainda podemos verificar a disponibilidade dentre do menu <em>Módulos não utilizados</em>. Se o módulo está ali significa que a ferramenta que ele controla não está instalada no sistema, mas o próprio módulo dará a opção de instalação. Esta instalação acontece por meio do APT e dos repositórios da máquina onde o Webmin está instalado, portanto, não há preocupação com instalação por fontes desconhecidas.</p>
-<h3 id="5---considerações-finais">5 - Considerações finais</h3>
+<h2 id="considerações-finais">Considerações finais</h2>
 <p>Tenho utilizado o Webmin já há alguns anos e sempre tem me atendido bem, sua interface é intuitiva e, tomando as devidas precauções, não há como causar problemas.<br>
 Para quem não conhecia e achou interessante, experimente instalar num sistema que está numa máquina virtual. Assim você poderá conhecer e todos os módulos e suas configurações possíveis, sem medo de causar danos à seu sistema.</p>
-
 		</div>
 		<footer class="post__footer">
 			
@@ -399,13 +394,6 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
 
  
-<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(7)</span></a>
-
-
-
-
-
- 
 <a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
 
 
@@ -414,6 +402,13 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
  
 <a href="/tags/microsoft-edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft-edge <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
 
 
 
@@ -455,6 +450,13 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
 
  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
 <a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
 
 
@@ -484,6 +486,13 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
  
 <a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
 
 
 
@@ -539,20 +548,6 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
 
  
-<a href="/tags/vmware-player" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vmware-player <span class="badge">(2)</span></a>
-
-
-
-
-
- 
-<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(2)</span></a>
-
-
-
-
-
- 
 <a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
 
 
@@ -574,13 +569,6 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
 
  
-<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(1)</span></a>
-
-
-
-
-
- 
 <a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
 
 
@@ -589,13 +577,6 @@ Para quem não conhecia e achou interessante, experimente instalar num sistema q
 
  
 <a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
-
-
-
-
-
- 
-<a href="/tags/dropbox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">dropbox <span class="badge">(1)</span></a>
 
 
 

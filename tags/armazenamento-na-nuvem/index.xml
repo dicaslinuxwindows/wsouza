@@ -6,15 +6,24 @@
     <description>Recent content in Armazenamento na Nuvem on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Nov 2013 03:19:00 -0200</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/armazenamento-na-nuvem/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Aug 2018 19:26:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/armazenamento-na-nuvem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dropbox - Mudança de requisitos para sistemas Linux</title>
+      <link>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</link>
+      <pubDate>Sun, 26 Aug 2018 19:26:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</guid>
+      <description>&lt;p&gt;Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Armazenamento na nuvem (Dropbox, Google Drive, OneDrive e Copy)</title>
       <link>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</link>
       <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
       
       <guid>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</guid>
-      <description>Atualizado em 04/11/2014
-O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.</description>
+      <description>&lt;p&gt;&lt;em&gt;Atualizado em 04/11/2014&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.&lt;/p&gt;</description>
     </item>
     
   </channel>
