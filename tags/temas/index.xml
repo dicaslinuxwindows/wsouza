@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temas on Dicas Linux e Windows</title>
+    <link>https://info.wsouza.com.br/tags/temas/</link>
+    <description>Recent content in Temas on Dicas Linux e Windows</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Jan 2022 19:04:53 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/temas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tema do Ubuntu com nova cor</title>
+      <link>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</link>
+      <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</guid>
+      <description>&lt;p&gt;O Ubuntu 22.04 será lançado com uma alteração em seu tema padrão, o Yaru, que passará a ter destaque para a cor laranja.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tema Yaru do Ubuntu no Libreoffice</title>
+      <link>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</link>
+      <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</guid>
+      <description>&lt;p&gt;A mais recente versão do LibreOffice traz uma novidade. Trata-se do tema de ícones Yaru, que foi disponibilizado o LibreOffice. Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tema Yaru do Ubuntu no Debian e em outras distribuições Linux</title>
+      <link>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</link>
+      <pubDate>Tue, 31 Mar 2020 21:07:00 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</guid>
+      <description>&lt;p&gt;Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Troque o visual do Linux deixando-o parecido com o Windows</title>
+      <link>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</link>
+      <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
+      <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;
+Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

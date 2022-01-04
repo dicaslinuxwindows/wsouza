@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jan 2022 19:04:53 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temas</title>
+      <link>https://info.wsouza.com.br/tags/temas/</link>
+      <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/temas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ubuntu 22.04</title>
+      <link>https://info.wsouza.com.br/tags/ubuntu-22.04/</link>
+      <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/tags/ubuntu-22.04/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Ubuntu 21.04</title>
       <link>https://info.wsouza.com.br/tags/ubuntu-21.04/</link>
@@ -62,20 +80,11 @@
     </item>
     
     <item>
-      <title>Flatpak</title>
-      <link>https://info.wsouza.com.br/tags/flatpak/</link>
+      <title>Empacotamento</title>
+      <link>https://info.wsouza.com.br/tags/empacotamento/</link>
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
       
-      <guid>https://info.wsouza.com.br/tags/flatpak/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Snap</title>
-      <link>https://info.wsouza.com.br/tags/snap/</link>
-      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/tags/snap/</guid>
+      <guid>https://info.wsouza.com.br/tags/empacotamento/</guid>
       <description></description>
     </item>
     
@@ -112,15 +121,6 @@
       <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/tags/libre-office/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yaru</title>
-      <link>https://info.wsouza.com.br/tags/yaru/</link>
-      <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/tags/yaru/</guid>
       <description></description>
     </item>
     
