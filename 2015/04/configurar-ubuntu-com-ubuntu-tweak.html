@@ -4,6 +4,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<title>Ubuntu Tweak, uma ótima ferramenta para configurar o seu Ubuntu - Dicas Linux e Windows</title>
 	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
 	<meta name="description" content="">
@@ -69,7 +70,7 @@ if (!doNotTrack) {
 	<ul class="menu__list">
 		<li class="menu__item">
 			<a class="menu__link" href="/">
-				
+				<i class='fa fa-home'></i>
 				<span class="menu__text">Home</span>
 				
 			</a>
@@ -636,6 +637,7 @@ Ficou curioso? Baixe-o em <a href="http://ubuntu-tweak.com/">http://ubuntu-tweak
 		
 	</div>
 </div>
+
 </aside>
 		</div>
 		<footer class="footer">
@@ -647,7 +649,22 @@ Ficou curioso? Baixe-o em <a href="http://ubuntu-tweak.com/">http://ubuntu-tweak
 		</div>
 	</div>
 </footer>
-	</div>
+
+		 </div>
+	   
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>

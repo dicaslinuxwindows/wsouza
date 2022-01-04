@@ -51,8 +51,7 @@ body {
 	word-wrap: break-word;
 	background: #f7f7f7;
 	-webkit-font-smoothing: antialiased;
-}
-
+}	
 .container {
 	position: relative;
 	width: 100%;
@@ -88,7 +87,7 @@ body {
 	flex: 1 0 31.66%;
 	-webkit-order: 2;
 	order: 2;
-	text-align: justify; /*Alinhamento dos itens da barra direita*/
+	text-align: left; /*Alinhamento dos itens da barra direita*/
 	min-width: 0;
 	margin: 0 0 0 2.5%;
 }
@@ -503,6 +502,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .submenu__list {
   list-style: none;
   background: #2a2a2a;
+  
 }
 
 .menu__item:hover > a {
@@ -702,7 +702,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .post__title {
 	margin: 0;
-	text-align: lefy;
+	text-align: left;
 }
 
 .post__meta {
@@ -797,8 +797,14 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .post__footer {
-	margin-top: 20px;
+	margin-top: 40px;
 	margin-top: 1.25rem;
+	border-color: #ebebeb;
+	border-style: solid;
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
 }
 
 /* Post tags */
@@ -970,6 +976,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .list__footer-readmore {
 	float: right;
 	margin-top: 10px;
+	text-transform: none;
 }
 
 /* Pagination */
@@ -1410,9 +1417,7 @@ textarea {
 	}
 }
 
-
 /*Social Share*/
-
 
 .social-share {
 	position: relative;
@@ -1429,7 +1434,9 @@ textarea {
  
 .social-share .share-icons li {
 	padding: 0 !important;
-	padding-bottom: 10px !important;
+	padding-bottom: 5px !important;
+	padding-top: 5px !important;
+	
 }
  
 .social-share .share-btn {
@@ -1511,7 +1518,6 @@ ul.share-icons li > * .label {
 .share-btn.email       { background: #444444; }
 .share-btn.whatsapp    { background: #25d366; }
 
-
 .share-btn.twitter:hover     { background: #4c9ad6; }
 .share-btn.google-plus:hover { background: #c64333; }
 .share-btn.facebook:hover    { background: #2f4779; }
@@ -1521,24 +1527,22 @@ ul.share-icons li > * .label {
 .share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
 
+/*INÍCIO BOTÃO VOLTAR AO TOPO*/
 #subir{
-	position: fixed;
-	font-size: 40px;
+	position:fixed;
+	font-size: 45px;
 	z-index: 1001;
-	bottom: 0px;
-	right: 0px;
-	align: right;
+	bottom:0px;
+	right:0px;
+	align:right;
 }
 
 #subir a{
-color: #188bc7;
+color: #2a2a2a;
+}
+#subir a:hover{
+color: #e95420;
 }
 
-#subir a:hover{
-color: #e95420
-}
 
 /*FIM BOTÃO VOLTAR AO TOPO*/
-
-
-.
