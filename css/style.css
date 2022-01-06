@@ -502,11 +502,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .submenu__list {
   list-style: none;
   background: #2a2a2a;
+  padding: 5px; /*Controla a largura do menu. Originalmente não existe esta seção*/
   
 }
 
 .menu__item:hover > a {
-  color: #ffa500;
+  color: #e95420;
 }
 
 .menu__item:first-child {
@@ -519,16 +520,17 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .menu__link {
   display: block;
-  padding: 10px 15px;
-  padding: 0.625rem 0.9375rem;
-  font-weight: 700;
+  padding: 5px 15px; /*originalmente: 10px 15px*/
+  #padding: 0.625rem 0.9375rem; /*originalmente: descomentado*/
+  font-weight: 600;
   color: #fff;
-  text-transform: none;
+ 
 }
 
 .menu__list .menu__item .submenu__list {
   background: #2a2a2a;
   visibility: hidden;
+  padding: 0px 0px 0px 0px;
   opacity: 0;
   position: absolute;
   max-width: 15rem;
@@ -845,7 +847,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	height: 32px;
 	padding: 8px;
 	margin-right: 6px;
-	background: #2a2a2a;
+	background: #188bc7; /*Cor do botão antes das TAGS*/
 	fill: #fff;
 }
 /* Table of Contents */
@@ -1155,7 +1157,7 @@ textarea {
 	font-size: 16px;
 	font-size: 1rem;
 	text-transform: uppercase;
-	border-bottom: 3px solid #2a2a2a; #Cor da linha abaixo do título dos Widgets
+	border-bottom: 3px solid #2a2a2a; /*Cor da linha abaixo do título dos Widgets*/
 }
 
 .widget__item {
