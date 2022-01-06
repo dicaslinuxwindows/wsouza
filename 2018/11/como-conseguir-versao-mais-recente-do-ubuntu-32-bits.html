@@ -210,12 +210,33 @@ if (!doNotTrack) {
 				
 			</ul>
 		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="http://feeds.feedburner.com/dicaslinuxewindows">
+		<li class="menu__item menu__dropdown">
+			<a class="menu__link" href="/index.xml">
 				<i class='fa fa-rss'></i>
-				<span class="menu__text">RSS</span>
+				<span class="menu__text"> RSS</span>
+				<label class="drop-icon" for=" RSS">▾</label>
 				
 			</a>
+			<input type="checkbox" id=" RSS">
+			<ul class="submenu__list">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/rss/">
+						
+						<span class="menu__text">Feed</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="http://feeds.feedburner.com/dicaslinuxewindows/">
+						
+						<span class="menu__text">Assine o Feed</span>
+						
+					</a>
+					</li>
+				
+			</ul>
 		</li>
 	</ul>
 </nav>
