@@ -19,7 +19,7 @@
 		<meta itemprop="name" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux">
 <meta itemprop="description" content="Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &ldquo;rodar&rdquo; sua distribuição Linux diretamente nele."><meta itemprop="datePublished" content="2020-04-20T02:17:00-03:00" />
 <meta itemprop="dateModified" content="2020-04-20T02:17:00-03:00" />
-<meta itemprop="wordCount" content="1112">
+<meta itemprop="wordCount" content="1143">
 <meta itemprop="keywords" content="Ferramentas Linux," />
 		<meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux"/>
@@ -321,7 +321,8 @@ Tudo é executado no terminal de maneira bem simples. Para iniciar insira um pen
 </code></pre><h2 id="unetbootin">UNetbootin</h2>
 <p>Diferente do dd, que funciona no terminal, o UNetbootin é uma ferramenta que possui uma interface gráfica e possui a função de gerar um Live USB.<br>
 Vá ao site oficial <a href="https://unetbootin.github.io/linux_download.html">https://unetbootin.github.io</a> e faça o download na arquitetura que desejar <em>(32 ou 64 bits)</em>. A versão utilizada neste tutorial foi a <em>.bin</em>, que é bem simples de executar e não necessita instalação.<br>
-Para executar o programa é preciso dar permissão de execução. Supondo que o programa foi baixado na pasta <em>Downloads</em> execute o comando abaixo. <em>(Troque o que está em vermelho pelo nome do arquivo baixado)</em></p>
+Para executar o programa é preciso dar permissão de execução. Supondo que o programa foi baixado na pasta <em>Downloads</em> execute o comando abaixo.</p>
+<p><strong>Detalhe:</strong> O nome <em>&ldquo;unetbootin-linux64-677.bin&rdquo;</em> é referente ao arquivo atual. Como a versão do site pode ser atualizada a qualquer momento, substitua-o pelo nome do arquivo baixado).</p>
 <p><code>sudo chmod +x Downloads/unetbootin-linux64-677.bin</code></p>
 <p>Como o UNetbootin só permite a execução utilizando o superusuário <em>(root)</em>, quando buscamos a ISO apenas a pasta /root é habilitada, não permitindo a busca nas outras pastas. A maneira mais simples que encontrei para contornar este problema: Crie um link da pasta onde está a ISO, apontando para a pasta /root/. Supondo que você tenha uma pasta chamada ISOS em sua home <em>(/home/seu-nome-de-usuario/ISOS/)</em> faça da seguinte maneira:</p>
 <p><code>sudo ln -s $HOME/ISOS/ /root/</code></p>
@@ -339,7 +340,8 @@ Para executar o programa é preciso dar permissão de execução. Supondo que o 
 <p>Após alguns minutos, o processo está finalizado.</p>
 <h2 id="etcher">Etcher</h2>
 <p>O Etcher <em>(ou Balena Etcher)</em> é outra opção para gerar Live USB, talvez a mais fácil das 3 apresentadas aqui. É bem simples de ser utilizado, até mais simples que o UNetbootin, porém, não possui opção de persistência.<br>
-Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a>. A opção padrão de download é a x64, para sistemas 64 bits, mas caso precise da versão 32 bits basta escolher esta versão. Descompacte o aquivo baixado com o comando: <em>(Troque o que está em vermelho pelo nome do arquivo baixado)</em></p>
+Para baixar, acesse <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a>. A opção padrão de download é a x64, para sistemas 64 bits, mas caso precise da versão 32 bits basta escolher esta versão. Descompacte o aquivo baixado com o comando abaixo.</p>
+<p><strong>Detalhe:</strong> O nome <em>&ldquo;balena-etcher-electron-1.5.81-linux-x64.zip&rdquo;</em> é referente ao arquivo atual. Como a versão do site pode ser atualizada a qualquer momento, substitua-o pelo nome do arquivo baixado.</p>
 <p><code>unzip balena-etcher-electron-1.5.81-linux-x64.zip</code></p>
 <p>O arquivo descompactado é no formato <em>AppImage</em>, e não necessita instalação. Porém, antes de executar o programa é preciso dar permissão de execução. Supondo que foi baixado na pasta <em>Downloads</em> execute o comando abaixo.</p>
 <p><code>sudo chmod +x Downloads/balenaEtcher-1.5.81-x64.AppImage</code></p>
