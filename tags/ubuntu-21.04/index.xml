@@ -6,7 +6,16 @@
     <description>Recent content in Ubuntu 21.04 on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 23:03:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ubuntu-21.04/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 23:00:06 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ubuntu-21.04/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fim do suporte do Ubuntu 21.04</title>
+      <link>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</link>
+      <pubDate>Tue, 11 Jan 2022 23:00:06 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</guid>
+      <description>&lt;p&gt;O suporte para o Ubuntu 21.04 termina no dia 20/01/2022. Veja nesta matéria o que fazer para não ficar utilizando um sistema sem suporte.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Lançado o Ubuntu 21.04 Hirsute Hippo</title>
       <link>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</link>
