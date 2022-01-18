@@ -3,10 +3,10 @@
 #EXTINF:-1 tvg-logo="http://rbtv.com.br/images/programa_aovivo_geral.jpg" group-title="VARIEDADES", Rede Brasil de Televisão
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="VARIEDADES", TV Cultura
+#EXTINF:-1 tv-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052013/untitled-1_105.png" group-title="VARIEDADES", TV Cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://static.wixstatic.com/media/b65580_bce8e5a81581452f95b81af9a35679c0~mv2.png/v1/fill/w_476,h_130,al_c,q_85,usm_0.66_1.00_0.01/Logo_CentralTV_impress%C3%A3o_-_horizontal_pn.webp" group-title="VARIEDADES", Central TV
+#EXTINF:-1 tv-logo="" group-title="VARIEDADES", Central TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Anime TV
@@ -14,9 +14,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="VARIEDADES", NGT
 https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", TV Brasil
-https://www.dailymotion.com/embed/video/x82pp99?autoplay=1
 
 #EXTINF:-1 group-title="VARIEDADES", TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
