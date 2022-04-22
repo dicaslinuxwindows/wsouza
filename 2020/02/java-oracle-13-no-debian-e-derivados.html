@@ -296,15 +296,15 @@ A fonte da dica a seguir é o <a href="https://www.vivaolinux.com.br/dica/Instal
 <p><code>sudo gedit /etc/profile</code></p>
 <p><em>Gedit é o editor gráfico de textos do Gnome. Pode utilizar qualquer editor de textos (Vim, Joe, Pluma, Kedit, Kate, Geany&hellip;)</em></p>
 <p>No início do arquivo que foi aberto, insira o próximo código e salve. (Altere o que está em vermelho para a versão baixada).</p>
-<pre tabindex="0"><code>export JAVA\_HOME=&quot;/usr/lib/jvm/jdk-13**.0.2**&quot;  
-export CLASSPATH=&quot;$JAVA\_HOME/lib&quot;:$CLASSPATH  
-export PATH=&quot;$JAVA\_HOME/bin&quot;:$PATH  
-export MANPATH=&quot;$JAVA\_HOME/man&quot;:$MANPATH
+<pre tabindex="0"><code>export JAVA\_HOME=&#34;/usr/lib/jvm/jdk-13**.0.2**&#34;  
+export CLASSPATH=&#34;$JAVA\_HOME/lib&#34;:$CLASSPATH  
+export PATH=&#34;$JAVA\_HOME/bin&#34;:$PATH  
+export MANPATH=&#34;$JAVA\_HOME/man&#34;:$MANPATH
 </code></pre><p>A seguir, ainda no terminal, digite os comandos a seguir:</p>
 <p><code>ln -s /usr/lib/jvm/jdk-13**.0.2**/bin/java /usr/local/bin/</code><br>
 <code>ln -s /usr/lib/jvm/jdk-13**.0.2**/bin/javac /usr/local/bin/</code></p>
 <p>Finalizado. Para confirmar que deu certo, no terminal digite <em>java -version</em>, e a saída será alguma coisa parecida esta:</p>
-<pre tabindex="0"><code>java version &quot;13**.0.2**&quot; 2020-01-14  
+<pre tabindex="0"><code>java version &#34;13**.0.2**&#34; 2020-01-14  
 Java(TM) SE Runtime Environment (build 13**.0.2**+8)
 </code></pre>
 		</div>
@@ -422,7 +422,7 @@ Java(TM) SE Runtime Environment (build 13**.0.2**+8)
 <section class="comments">
 	<div id="disqus_thread"></div>
 <script type="application/javascript">
-    var disqus_config = function () {
+    window.disqus_config = function () {
     
     
     
