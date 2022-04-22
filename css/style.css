@@ -44,8 +44,7 @@ html {
 body {
 	margin: 0;
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
-	font-size: 14px;
-	font-size: .875rem;
+	/*font-size: .875rem;*/
 	text-align: justify;
 	line-height: 1.6;
 	word-wrap: break-word;
@@ -55,7 +54,7 @@ body {
 .container {
 	position: relative;
 	width: 100%;
-	max-width: 1180px;
+	max-width: 1440px;
 	margin: 0 auto;
 }
 
