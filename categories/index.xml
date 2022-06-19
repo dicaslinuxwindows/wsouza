@@ -6,7 +6,16 @@
     <description>Recent content in Categories on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 23:20:06 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 22:09:46 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dicas</title>
+      <link>https://info.wsouza.com.br/categories/dicas/</link>
+      <pubDate>Sat, 16 Apr 2022 22:09:46 -0300</pubDate>
+      
+      <guid>https://info.wsouza.com.br/categories/dicas/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Ubuntu</title>
       <link>https://info.wsouza.com.br/categories/ubuntu/</link>
@@ -40,15 +49,6 @@
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       
       <guid>https://info.wsouza.com.br/categories/fedora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dicas</title>
-      <link>https://info.wsouza.com.br/categories/dicas/</link>
-      <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/categories/dicas/</guid>
       <description></description>
     </item>
     
