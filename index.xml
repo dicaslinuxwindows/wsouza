@@ -6,16 +6,7 @@
     <description>Recent content on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Apr 2022 22:09:46 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Remover entradas de Boot UEFI pelo Linux</title>
-      <link>https://info.wsouza.com.br/2022/04/remover-entradas-de-boot-uefi-pelo-linux.html</link>
-      <pubDate>Sat, 16 Apr 2022 22:09:46 -0300</pubDate>
-      
-      <guid>https://info.wsouza.com.br/2022/04/remover-entradas-de-boot-uefi-pelo-linux.html</guid>
-      <description>&lt;p&gt;Esta dica serve para você, que precisa remover algumas entradas de boot por algum motivo, e não consegue.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Tue, 11 Jan 2022 23:20:06 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fim do suporte do Ubuntu 21.04</title>
       <link>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</link>
