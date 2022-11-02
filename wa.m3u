@@ -12,23 +12,26 @@ https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/
 #EXTINF:-1 group-title="VARIEDADES", TV Nova Play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", TV Tokyo
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", Loading
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Web Cine TV
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Brasil TV
 https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Channel 1
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8"
+#EXTINF:-1 group-title="VARIEDADES", Bons Tempos
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8"
 
-#EXTINF:-1 group-title="VARIEDADES", TV Series
-https://stmv1.srvif.com/tvserie7/tvserie7/playlist.m3u8"
+#EXTINF:-1 group-title="VARIEDADES", AniTV
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Rede Clone
-https://stmv2.samcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
