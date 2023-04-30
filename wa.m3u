@@ -13,25 +13,37 @@ https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Loading
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Web Cine TV
-https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", Rede Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Brasil TV
-https://5cf4a2c2512a2.streamlock.net:443/mundotv/mundotv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Bons Tempos
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", AniTV
-https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Rede Clone
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="VARIEDADES",Cine PIX TV 
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybdp3qq.png" group-title="VARIEDADES",AWTV
+https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Web Tv Clássicos
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Channel 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Runtime TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
+
+#EXTINF:-1 group-title="VARIEDADES", NHK World
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
@@ -39,14 +51,5 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PjOVAfw.png" group-title="VARIEDADES",TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 
-#EXTINF:-1 tv-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="VARIEDADES", NGT
-https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j7EJvHr.png" group-title="VARIEDADES",TV Mon 
-https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dRZ9CTG.png" group-title="VARIEDADES",All Sports 
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybdp3qq.png" group-title="VARIEDADES",Mundo TV 
-https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
