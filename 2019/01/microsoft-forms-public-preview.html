@@ -39,12 +39,13 @@ E o melhor de tudo: É gratuito. Mais detalhes a seguir."/>
 		
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-755N0HW50E"></script>
 <script>
-var doNotTrack = false;
+var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+var doNotTrack = (dnt == "1" || dnt == "yes");
 if (!doNotTrack) {
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-	gtag('config', 'G-755N0HW50E', { 'anonymize_ip': false });
+	gtag('config', 'G-755N0HW50E', { 'anonymize_ip': true });
 }
 </script>
 
