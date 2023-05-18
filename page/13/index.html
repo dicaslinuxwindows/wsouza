@@ -33,13 +33,12 @@
 		
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-755N0HW50E"></script>
 <script>
-var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
-var doNotTrack = (dnt == "1" || dnt == "yes");
+var doNotTrack = false;
 if (!doNotTrack) {
 	window.dataLayer = window.dataLayer || [];
 	function gtag(){dataLayer.push(arguments);}
 	gtag('js', new Date());
-	gtag('config', 'G-755N0HW50E', { 'anonymize_ip': true });
+	gtag('config', 'G-755N0HW50E', { 'anonymize_ip': false });
 }
 </script>
 
