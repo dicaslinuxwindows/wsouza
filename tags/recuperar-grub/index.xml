@@ -6,24 +6,21 @@
     <description>Recent content in Recuperar Grub on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Dec 2018 23:00:00 -0200</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/recuperar-grub/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Dec 2018 23:00:00 -0200</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/recuperar-grub/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
       <link>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
       <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reinstalar o Grub 2 utilizando um Live Cd do Ubuntu</title>
       <link>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</link>
       <pubDate>Tue, 08 Jan 2013 03:26:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</guid>
       <description>&lt;p&gt;Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

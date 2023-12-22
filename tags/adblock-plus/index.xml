@@ -6,15 +6,14 @@
     <description>Recent content in Adblock Plus on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Aug 2013 21:07:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/adblock-plus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Aug 2013 21:07:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/adblock-plus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adblock Plus - Bloqueando propagandas indesejadas</title>
       <link>https://info.wsouza.com.br/2013/08/dica-adblock-plus.html</link>
       <pubDate>Sun, 18 Aug 2013 21:07:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/08/dica-adblock-plus.html</guid>
       <description>&lt;p&gt;A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

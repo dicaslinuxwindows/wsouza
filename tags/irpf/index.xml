@@ -6,42 +6,35 @@
     <description>Recent content in IRPF on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Feb 2021 19:25:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/irpf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Feb 2021 19:25:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/irpf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
       <link>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
       <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</title>
       <link>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</link>
       <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
       <description>&lt;p&gt;Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato &lt;em&gt;.BIN&lt;/em&gt;, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin &#43; Java Oracle)</title>
       <link>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</link>
       <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
       <description>&lt;p&gt;A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo &lt;em&gt;.BIN&lt;/em&gt; e o Java Oracle.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como instalar o programa de declaração do imposto de renda 2019 no Linux</title>
       <link>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</link>
       <pubDate>Mon, 11 Mar 2019 19:37:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
       <description>&lt;p&gt;Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

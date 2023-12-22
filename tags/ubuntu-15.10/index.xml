@@ -6,15 +6,14 @@
     <description>Recent content in Ubuntu 15.10 on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2015 23:50:00 -0200</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ubuntu-15.10/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2015 23:50:00 -0200</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/ubuntu-15.10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu 15.10 (Wily Werewolf) lançado</title>
       <link>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</link>
       <pubDate>Thu, 22 Oct 2015 23:50:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</guid>
       <description>&lt;p&gt;Como de costume, a cada 6 meses é lançada uma nova versão do Ubuntu, no dia 22/10 foi lançado a versão 15.10, chamada Wily Werewolf. Esta versão vem com várias melhorias incluindo o Kernel 4.2, melhorias no Compiz entre outras que listarei mais abaixo.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

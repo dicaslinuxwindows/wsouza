@@ -6,15 +6,14 @@
     <description>Recent content in Ubuntu 15.04 on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Apr 2015 00:24:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ubuntu-15.04/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Apr 2015 00:24:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/ubuntu-15.04/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debian 8 (Jessie) e Ubuntu 15.04 (Vivid Vervet) lançados</title>
       <link>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</link>
       <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
       <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,15 +6,14 @@
     <description>Recent content in Empacotamento on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Dec 2020 01:07:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/empacotamento/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 01:07:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/empacotamento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flatpak e Snap no Debian, Fedora e Ubuntu</title>
       <link>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</link>
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
       <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,60 +6,49 @@
     <description>Recent content in Debian Buster on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2020 22:51:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/debian-buster/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2020 22:51:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/debian-buster/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lançada a 5º atualização do Debian Buster</title>
       <link>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</link>
       <pubDate>Sat, 01 Aug 2020 22:51:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</guid>
       <description>&lt;p&gt;Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Buster - Instalação limpa com Dual Boot</title>
       <link>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</link>
       <pubDate>Sat, 20 Jul 2019 20:31:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
       <description>&lt;p&gt;Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Buster é lançado oficialmente</title>
       <link>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</link>
       <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
       <description>&lt;p&gt;O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Atualizando para o Debian Buster </title>
       <link>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</link>
       <pubDate>Tue, 02 Jul 2019 21:19:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
       <description>&lt;p&gt;Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Installer Buster RC 2 Release</title>
       <link>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</link>
       <pubDate>Thu, 27 Jun 2019 01:39:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
       <description>&lt;p&gt;Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Buster está chegando</title>
       <link>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</link>
       <pubDate>Tue, 25 Jun 2019 00:05:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
       <description>&lt;p&gt;A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

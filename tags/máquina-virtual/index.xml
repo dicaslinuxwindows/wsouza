@@ -6,35 +6,30 @@
     <description>Recent content in Máquina Virtual on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Jan 2021 23:13:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/m%C3%A1quina-virtual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 25 Jan 2021 23:13:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/m%C3%A1quina-virtual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalando o VirtualBox em qualquer distribuição Linux</title>
       <link>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</link>
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
       <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
       <link>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
       <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
       <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
 Confira a seguir.
 Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
-    
     <item>
       <title>Máquina Virtual: Instalando e configurando o VMware Player</title>
       <link>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</link>
       <pubDate>Wed, 25 Jul 2018 02:15:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</guid>
       <description>&lt;p&gt;Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,42 +6,35 @@
     <description>Recent content in Ubuntu 20.10 on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2020 23:58:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ubuntu-20.10/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Oct 2020 23:58:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/ubuntu-20.10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ubuntu Groovy Gorilla Lançado</title>
       <link>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</link>
       <pubDate>Thu, 22 Oct 2020 23:58:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</guid>
       <description>&lt;p&gt;Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.10  - Beta  e papéis de parede disponíveis</title>
       <link>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</link>
       <pubDate>Tue, 06 Oct 2020 22:33:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</guid>
       <description>&lt;p&gt;Nos últimos dias foram disponibilizados os papéis de parede oficiais e a versão beta do Ubuntu 20.10 - Groovy Gorilla . Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos</title>
       <link>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</link>
       <pubDate>Tue, 08 Sep 2020 21:16:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</guid>
       <description>&lt;p&gt;Falta pouco mais de 1 mês para o lançamento do Ubuntu 20.10 - Groovy Gorilla. Veja a seguir quais serão os próximos passos até o lançamento e quais os recursos que já estão presentes até o momento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.10 - Maio 2020</title>
       <link>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</link>
       <pubDate>Mon, 25 May 2020 01:12:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</guid>
       <description>&lt;p&gt;O Ubuntu 20.10 já está em desenvolvimento. Veja nesta matéria o que já temos de informações sobre ele até o mês de maio de 2020.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

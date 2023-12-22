@@ -6,1177 +6,922 @@
     <description>Recent content on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 23:20:06 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 23:20:06 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fim do suporte do Ubuntu 21.04</title>
       <link>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</link>
       <pubDate>Tue, 11 Jan 2022 23:20:06 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</guid>
       <description>&lt;p&gt;O suporte para o Ubuntu 21.04 termina no dia 20/01/2022. Veja nesta matéria o que fazer para não ficar utilizando um sistema sem suporte.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Novidades Ubuntu 22.04 LTS - Jammy Jellyfish</title>
       <link>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</link>
       <pubDate>Wed, 05 Jan 2022 16:30:27 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</guid>
       <description>&lt;p&gt;A próxima versão do Ubuntu, 22.04, será chamada de Jammy Jellyfish e deverá ser lançada em abril. Veja nesta matéria o que vamos encontrar neste novo Ubuntu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tema do Ubuntu com nova cor</title>
       <link>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</link>
       <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</guid>
       <description>&lt;p&gt;O Ubuntu 22.04 será lançado com uma alteração em seu tema padrão, o Yaru, que passará a ter destaque para a cor laranja.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lançado o Ubuntu 21.04 Hirsute Hippo</title>
       <link>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</link>
       <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
       <description>&lt;p&gt;Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes de como baixar e instalar esta versão.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Primeiras impressões sobre o GNOME 40</title>
       <link>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</link>
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</guid>
       <description>&lt;p&gt;Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações </title>
       <link>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</link>
       <pubDate>Thu, 01 Apr 2021 01:37:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</guid>
       <description>&lt;p&gt;Veja nesta matéria como está o cronograma de lançamento da próxima versão do Ubuntu, a 21.04 - chamada de Hirsute Hippo - e mais algumas informações.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Edge-Dev suporta login e sincronização no Linux</title>
       <link>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</link>
       <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</guid>
       <description>&lt;p&gt;Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
       <link>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
       <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Instalando o VirtualBox em qualquer distribuição Linux</title>
       <link>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</link>
       <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
       <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 21.04  - Saiba as últimas da versão que será lançada em Abril</title>
       <link>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</link>
       <pubDate>Sun, 24 Jan 2021 00:30:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</guid>
       <description>&lt;p&gt;Com lançamento previsto para Abril, as notícias sobre o Ubuntu 21.04 Hirsute Hippo vêm surgindo. Veja nesta matéria o que foi revelado sobre ele até o momento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Bullseye entra em congelamento</title>
       <link>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</link>
       <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
       <description>&lt;p&gt;O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Flatpak e Snap no Debian, Fedora e Ubuntu</title>
       <link>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</link>
       <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
       <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Firefox 83 chega com melhorias de desempenho e novidades</title>
       <link>https://info.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</link>
       <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</guid>
       <description>&lt;p&gt;Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Daily Builds do Ubuntu 21.04 liberadas</title>
       <link>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</link>
       <pubDate>Wed, 04 Nov 2020 23:19:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
       <description>&lt;p&gt;Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado</title>
       <link>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</link>
       <pubDate>Fri, 30 Oct 2020 18:38:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</guid>
       <description>&lt;p&gt;Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lançamento Fedora 33</title>
       <link>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</link>
       <pubDate>Wed, 28 Oct 2020 14:56:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</guid>
       <description>&lt;p&gt;No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Groovy Gorilla Lançado</title>
       <link>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</link>
       <pubDate>Thu, 22 Oct 2020 23:58:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</guid>
       <description>&lt;p&gt;Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Navegador Microsoft Edge para Linux liberado no canal dev</title>
       <link>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</link>
       <pubDate>Wed, 21 Oct 2020 23:57:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</guid>
       <description>&lt;p&gt;A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tema Yaru do Ubuntu no Libreoffice</title>
       <link>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</link>
       <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</guid>
       <description>&lt;p&gt;A mais recente versão do LibreOffice traz uma novidade. Trata-se do tema de ícones Yaru, que foi disponibilizado o LibreOffice. Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fedora 33 Beta</title>
       <link>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</link>
       <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</guid>
       <description>&lt;p&gt;Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.10  - Beta  e papéis de parede disponíveis</title>
       <link>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</link>
       <pubDate>Tue, 06 Oct 2020 22:33:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</guid>
       <description>&lt;p&gt;Nos últimos dias foram disponibilizados os papéis de parede oficiais e a versão beta do Ubuntu 20.10 - Groovy Gorilla . Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Edge chegando no Linux</title>
       <link>https://info.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</link>
       <pubDate>Tue, 22 Sep 2020 17:00:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</guid>
       <description>&lt;p&gt;Depois de um bom tempo sem se pronunciar a respeito do Microsoft Edge para Linux, a Microsoft divulgou uma data de lançamento para uma versão prévia do mesmo. Saiba mais na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gnome 3.38 é lançado</title>
       <link>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</link>
       <pubDate>Fri, 18 Sep 2020 21:25:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</guid>
       <description>O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
 O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico&amp;hellip;) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.
 O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos</title>
       <link>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</link>
       <pubDate>Tue, 08 Sep 2020 21:16:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</guid>
       <description>&lt;p&gt;Falta pouco mais de 1 mês para o lançamento do Ubuntu 20.10 - Groovy Gorilla. Veja a seguir quais serão os próximos passos até o lançamento e quais os recursos que já estão presentes até o momento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Firefox para Android sofre uma significativa atualização</title>
       <link>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</link>
       <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</guid>
       <description>&lt;p&gt;O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lançado o navegador Firefox 80</title>
       <link>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</link>
       <pubDate>Tue, 25 Aug 2020 23:09:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</guid>
       <description>&lt;p&gt;Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lançada a 5º atualização do Debian Buster</title>
       <link>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</link>
       <pubDate>Sat, 01 Aug 2020 22:51:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</guid>
       <description>&lt;p&gt;Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Acompanhe o desenvolvimento do Debian Bullseye</title>
       <link>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</link>
       <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
       <description>&lt;p&gt;O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lançado o Linux Mint 20 &#39;Ulyana&#39;</title>
       <link>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</link>
       <pubDate>Sun, 28 Jun 2020 23:57:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</guid>
       <description>&lt;p&gt;A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo;. Veja a seguir mais informações sobre este lançamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Linux Mint 20: Beta disponível e polêmica com pacotes Snap</title>
       <link>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</link>
       <pubDate>Fri, 12 Jun 2020 23:05:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</guid>
       <description>&lt;p&gt;A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.10 - Maio 2020</title>
       <link>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</link>
       <pubDate>Mon, 25 May 2020 01:12:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</guid>
       <description>&lt;p&gt;O Ubuntu 20.10 já está em desenvolvimento. Veja nesta matéria o que já temos de informações sobre ele até o mês de maio de 2020.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</title>
       <link>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</link>
       <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
       <description>&lt;p&gt;Após o &lt;a href=&#34;https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html&#34;&gt;lançamento oficial do Ubuntu 20.04&lt;/a&gt; vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</title>
       <link>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</link>
       <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
       <description>&lt;p&gt;Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux</title>
       <link>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</link>
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
       <description>&lt;p&gt;Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Firefox 75 é lançado, e veio com aplicativo Flatpak oficial</title>
       <link>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</link>
       <pubDate>Thu, 09 Apr 2020 23:58:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</guid>
       <description>&lt;p&gt;O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à &lt;a href=&#34;https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html&#34;&gt;versão anterior&lt;/a&gt;, trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Saiu a versão Beta do Ubuntu 20.04 Focal Fossa</title>
       <link>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</link>
       <pubDate>Fri, 03 Apr 2020 23:50:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</guid>
       <description>&lt;p&gt;No dia 02/04/2020 saiu a versão beta do Ubuntu 20.04 Focal Fossa. Veja nesta matéria o que falta para a versão final e como obter esta versão.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Linux Mint 20 Ulyana</title>
       <link>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</link>
       <pubDate>Wed, 01 Apr 2020 00:21:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</guid>
       <description>&lt;p&gt;Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Tema Yaru do Ubuntu no Debian e em outras distribuições Linux</title>
       <link>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</link>
       <pubDate>Tue, 31 Mar 2020 21:07:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</guid>
       <description>&lt;p&gt;Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Painel de Controle do Windows pode estar com os dias contados</title>
       <link>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</link>
       <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</guid>
       <description>&lt;p&gt;Ao que parece, a Microsoft vem trabalhando para acabar com o Painel de Controle, tradicional ferramenta onde ficam as configurações do Windows.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
       <link>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</link>
       <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
       <description>&lt;p&gt;A Oracle acabou de lançar a versão 15 do Java SE. Veja aqui como baixar, instalar e configurar esta versão e as posteriores no Debian, Ubuntu e derivados.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Firefox 74 é lançado </title>
       <link>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</link>
       <pubDate>Tue, 10 Mar 2020 13:52:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</guid>
       <description>&lt;p&gt;A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</title>
       <link>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</link>
       <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
       <description>&lt;p&gt;Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato &lt;em&gt;.BIN&lt;/em&gt;, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Notícias sobre o Ubuntu 20.04 LTS</title>
       <link>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</link>
       <pubDate>Sun, 01 Mar 2020 23:45:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</guid>
       <description>&lt;p&gt;O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Programa de declaração do IRPF 2020 no Debian, Ubuntu e derivados (Arquivo .bin &#43; Java Oracle)</title>
       <link>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</link>
       <pubDate>Sun, 23 Feb 2020 00:54:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/02/programa-de-declaracao-do-irpf-2020-instalacao-no-debian-e-derivados.html</guid>
       <description>&lt;p&gt;A Receita Federal disponibilizou o download do programa para declaração do imposto de renda para pessoa física - DIRPF 2020. Saiba aqui como instalar no Debian, Ubuntu e derivados utilizando um arquivo &lt;em&gt;.BIN&lt;/em&gt; e o Java Oracle.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java Oracle 13 no Debian e Derivados</title>
       <link>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</link>
       <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
       <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 2</title>
       <link>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</link>
       <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
       <description>&lt;p&gt;Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 1</title>
       <link>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</link>
       <pubDate>Thu, 13 Feb 2020 23:53:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
       <description>&lt;p&gt;Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Suporte do Windows 7 acaba em 14/01/2020</title>
       <link>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</link>
       <pubDate>Mon, 06 Jan 2020 14:30:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</guid>
       <description>&lt;p&gt;Conforme anunciado no ano passado, a Microsoft deixará de fornecer atualizações de segurança gratuitas para o Windows 7 em janeiro de 2020. Saiba mais a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Navegador Edge baseado no Chromium será lançado em janeiro de 2020 e terá versão para Linux</title>
       <link>https://info.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</link>
       <pubDate>Sun, 10 Nov 2019 21:21:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</guid>
       <description>&lt;p&gt;A Microsoft anunciou que o navegador Edge, baseado no código do Chromium, já tem data de lançamento. Além disso a empresa anunciou que haverá versão para Linux. Confira mais detalhes nesta matéria.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 19.10 chegou</title>
       <link>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</link>
       <pubDate>Fri, 18 Oct 2019 11:31:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</guid>
       <description>&lt;p&gt;No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de &lt;em&gt;Eoan Ermine.&lt;/em&gt; Esta é a última versão antes do próximo LTS. Veja aqui o que o &lt;em&gt;Eoan Ermine&lt;/em&gt; traz de novidades e como obtê-lo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Skolelinux, o Debian Educacional</title>
       <link>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
       <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
       <description>&lt;p&gt;Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gosta das fontes do Ubuntu? Veja como instalar em seu sistema Linux e deixá-lo com a mesma aparência do Ubuntu</title>
       <link>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</link>
       <pubDate>Mon, 19 Aug 2019 13:25:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</guid>
       <description>&lt;p&gt;Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como gravar a tela utilizando o VLC</title>
       <link>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</link>
       <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
       <description>&lt;p&gt;Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Buster - Instalação limpa com Dual Boot</title>
       <link>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</link>
       <pubDate>Sat, 20 Jul 2019 20:31:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-instalacao-limpa.html</guid>
       <description>&lt;p&gt;Neste tutorial mostro o passo a passo, com o máximo de detalhes possíveis, de como fazer uma instalação limpa do Debian Buster.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Buster é lançado oficialmente</title>
       <link>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</link>
       <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
       <description>&lt;p&gt;O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Novo Firefox para Android</title>
       <link>https://info.wsouza.com.br/2019/07/novo-firefox-para-android.html</link>
       <pubDate>Fri, 05 Jul 2019 00:52:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/novo-firefox-para-android.html</guid>
       <description>&lt;p&gt;A Mozilla lançou um novo navegador Firefox, inicialmente disponível apenas para Android. Este navegador promete ser mais rápido que os tradicionais Firefox que estão disponíveis na Play Store. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian - Curiosidades, informações, versões e ciclo de vida</title>
       <link>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</link>
       <pubDate>Wed, 03 Jul 2019 00:05:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
       <description>&lt;p&gt;Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Atualizando para o Debian Buster </title>
       <link>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</link>
       <pubDate>Tue, 02 Jul 2019 21:19:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/atualizando-para-o-debian-buster.html</guid>
       <description>&lt;p&gt;Se você está utilizando o Debian Jessie ou Stretch e deseja utilizar o Buster, mas não quer fazer uma instalação do zero e perder seus dados ou ter que configurar tudo novamente, veja nesta matéria como fazer.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Novidades WhatsApp</title>
       <link>https://info.wsouza.com.br/2019/07/novidades-whatsapp.html</link>
       <pubDate>Mon, 01 Jul 2019 23:06:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/07/novidades-whatsapp.html</guid>
       <description>&lt;p&gt;Nos últimos dias surgiram algumas notícias sobre o WhatsApp. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Installer Buster RC 2 Release</title>
       <link>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</link>
       <pubDate>Thu, 27 Jun 2019 01:39:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
       <description>&lt;p&gt;Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Canonical recua e não removerá os pacotes 32 bits do Ubuntu</title>
       <link>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</link>
       <pubDate>Wed, 26 Jun 2019 22:24:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</guid>
       <description>&lt;p&gt;Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian Buster está chegando</title>
       <link>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</link>
       <pubDate>Tue, 25 Jun 2019 00:05:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
       <description>&lt;p&gt;A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fim do Ubuntu 32 bits</title>
       <link>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</link>
       <pubDate>Thu, 20 Jun 2019 19:41:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</guid>
       <description>&lt;p&gt;Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como resolver o erro ao instalar extensões no Firefox</title>
       <link>https://info.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</link>
       <pubDate>Tue, 07 May 2019 23:30:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/05/como-resolver-o-erro-ao-instalar-extensoes-no-firefox.html</guid>
       <description>&lt;p&gt;Nos últimos dias o Firefox não permitiu a instalação de nenhuma extensão. O problema já foi resolvido com uma atualização lançada, mas, se você ainda está com este problema, veja a solução a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft cada vez mais perto do open source</title>
       <link>https://info.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</link>
       <pubDate>Sun, 05 May 2019 21:46:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</guid>
       <description>&lt;p&gt;Nos últimos anos a Microsoft está se aproximando do open source &lt;em&gt;(software de código aberto, não sendo necessariamente software livre)&lt;/em&gt;. Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o &amp;ldquo;mundo&amp;rdquo; do open source.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Chegou o Ubuntu 19.04, codinome Disco Dingo</title>
       <link>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</link>
       <pubDate>Sat, 20 Apr 2019 18:54:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
       <description>&lt;p&gt;No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Edge agora é baseado no Chromium</title>
       <link>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</link>
       <pubDate>Wed, 27 Mar 2019 08:21:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
       <description>&lt;p&gt;Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft alerta usuários do Windows 7 sobre atualização para o Windows 10</title>
       <link>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</link>
       <pubDate>Thu, 14 Mar 2019 00:30:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</guid>
       <description>&lt;p&gt;Você ainda utiliza o Windows 7? Nas próximas semanas a Microsoft vai começar uma campanha para convencer os usuários a migrarem para o Windows 10.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu - Como funciona a política de seu ciclo de vida</title>
       <link>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</link>
       <pubDate>Wed, 13 Mar 2019 21:36:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</guid>
       <description>&lt;p&gt;Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java Oracle 11 - Instalando no Debian de maneira rápida e fácil</title>
       <link>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</link>
       <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
       <description>&lt;p&gt;A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como instalar o programa de declaração do imposto de renda 2019 no Linux</title>
       <link>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</link>
       <pubDate>Mon, 11 Mar 2019 19:37:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/como-instalar-o-programa-de-declaracao-do-imposto-de-renda-2019-no-linux.html</guid>
       <description>&lt;p&gt;Chegou o mês de março, passou o carnaval e, como de costume, chegou a hora de declarar o imposto de renda. Se você utiliza algum sistema baseado em Linux, e tem dificuldades para instalar o programa que faz a declaração, leia nesta matéria como fazê-lo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Suíte Educacional GCompris</title>
       <link>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</link>
       <pubDate>Sat, 16 Feb 2019 23:38:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</guid>
       <description>&lt;p&gt;GCompris é uma suíte educacional que oferece atividades para crianças partir dos 2 anos de idade. Na versão que será apresentada aqui possui mais de 141 atividades.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ferramentas Linux - Compilação de Tópicos </title>
       <link>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</link>
       <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</guid>
       <description>&lt;p&gt;Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nova aparência do aplicativo do Gmail</title>
       <link>https://info.wsouza.com.br/2019/01/nova-aparencia-do-aplicativo-do-gmail.html</link>
       <pubDate>Thu, 31 Jan 2019 15:01:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/01/nova-aparencia-do-aplicativo-do-gmail.html</guid>
       <description>&lt;p&gt;Em breve o aplicativo do Gmail terá novidades na sua interface. Confira a seguir quais são estas novidades.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Webmin - Administrador de Sistemas</title>
       <link>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</link>
       <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
       <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;
 Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Forms Public Preview</title>
       <link>https://info.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</link>
       <pubDate>Thu, 17 Jan 2019 13:43:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</guid>
       <description>&lt;p&gt;Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.&lt;br&gt;
 E o melhor de tudo: É gratuito. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
       <link>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
       <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Após novo vazamento de dados, Google antecipa o fim do Google&#43;</title>
       <link>https://info.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</link>
       <pubDate>Mon, 17 Dec 2018 11:41:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/12/apos-novo-vazamento-de-dados-fim-do-google-plus-e-antecipado.html</guid>
       <description>&lt;p&gt;Google antecipa o fim do Google+ após um novo vazamento de dados. Quem curte a já considerada finada rede social, terá que se despedir dela antes do que estava previsto inicialmente. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como conseguir a versão mais recente do Ubuntu em 32 bits</title>
       <link>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
       <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?
 Confira nas dicas a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google encerra Google&#43; e Inbox by Gmail</title>
       <link>https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</link>
       <pubDate>Mon, 08 Oct 2018 22:12:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html</guid>
       <description>&lt;p&gt;A Google continua com sua política de desativação de serviços. Nos últimos dias a companhia anunciou que vai desativar dois de seus serviços. Um deles é o Inbox by Gmail e o outro é o Google +. Leia mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Encerrar/desativar contas do  Facebook, Instagram, Google e outras</title>
       <link>https://info.wsouza.com.br/2018/10/encerrar-ou-desativar-contas-do-facebook-instagram-google-e-outras.html</link>
       <pubDate>Sat, 06 Oct 2018 01:32:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/10/encerrar-ou-desativar-contas-do-facebook-instagram-google-e-outras.html</guid>
       <description>&lt;p&gt;A dica a seguir traz um compilado de links para facilitar a exclusão ou desativação de redes sociais, serviços que estão cada vez mais presentes em nossas vidas. Em muitos casos temos mais contas em serviços do que podemos gerenciar, o que acaba tomando muito tempo e/ou diminuindo nossa produtividade. Ás vezes torna-se necessário sua desativação, por um determinado tempo, ou até mesmo sua exclusão.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dropbox - Mudança de requisitos para sistemas Linux</title>
       <link>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</link>
       <pubDate>Sun, 26 Aug 2018 19:26:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</guid>
       <description>&lt;p&gt;Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
       <link>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
       <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
       <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
 Confira a seguir.
 Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
-    
     <item>
       <title>Máquina Virtual: Instalando e configurando o VMware Player</title>
       <link>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</link>
       <pubDate>Wed, 25 Jul 2018 02:15:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</guid>
       <description>&lt;p&gt;Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Mudanças no WhatsApp</title>
       <link>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</link>
       <pubDate>Tue, 24 Jul 2018 01:32:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</guid>
       <description>&lt;p&gt;Recentemente o WhatsApp anunciou uma série de medidas que visam mais segurança - diminuindo a chance de golpes - e transparência para o aplicativo.&lt;br&gt;
 Alguma destas mudanças ainda estão em versão beta, outras já foram estão disponíveis na versão final. Vejamos na sequência quais são estas mudanças.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GParted, Particionador Gráfico</title>
       <link>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</link>
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
       <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
 Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Backup com Remaster GTK</title>
       <link>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
       <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>MS Paint clássico direto no navegador</title>
       <link>https://info.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</link>
       <pubDate>Sat, 28 Apr 2018 19:19:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/04/ms-paint-classico-direto-no-navegador.html</guid>
       <description>&lt;p&gt;Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>WhatsApp Business - O WhatsApp para empresas</title>
       <link>https://info.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</link>
       <pubDate>Tue, 27 Feb 2018 12:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/02/whatsapp-business-o-whatsapp-para-empresas.html</guid>
       <description>&lt;p&gt;Recentemente foi lançado o WhatsApp Business, uma versão do mensageiro voltado à empresas. Esta versão do mensageiro facilita a interação entre a empresa e o cliente.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fim do suporte ao Windows 8.1</title>
       <link>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</link>
       <pubDate>Tue, 16 Jan 2018 02:02:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
       <description>&lt;p&gt;O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua &lt;a href=&#34;https://support.microsoft.com/pt-br/lifecycle&#34;&gt;política de ciclo de vida&lt;/a&gt;, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Utilizando o Android Auto em qualquer veículo</title>
       <link>https://info.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</link>
       <pubDate>Tue, 09 Jan 2018 03:41:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</guid>
       <description>&lt;p&gt;O Android Auto é um aplicativo para veículos que controla as funções de GPS, Radio, Agenda, Ligações e tem integração com o Google Now, o que possibilita o controle por voz, dando ao motorista total controle às funções citadas anteriormente. Para ser mais exato, o Android Auto é um sistema operacional Android, otimizado para o uso em veículos.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Versão do CCleaner é atingida por Malware</title>
       <link>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</link>
       <pubDate>Tue, 19 Sep 2017 13:01:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</guid>
       <description>&lt;p&gt;A Avast, empresa que comprou a Piriform, que por sua vez é a criadora do CCleaner, anunciou nas últimas horas que algumas versões oficiais que estavam disponíveis para download no site oficial  foram invadidas, podendo conter malwares.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fim do Paint</title>
       <link>https://info.wsouza.com.br/2017/07/fim-do-paint.html</link>
       <pubDate>Tue, 25 Jul 2017 15:04:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2017/07/fim-do-paint.html</guid>
       <description>&lt;p&gt;Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Lançamento do Debian Stretch </title>
       <link>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</link>
       <pubDate>Sat, 17 Jun 2017 20:29:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</guid>
       <description>&lt;p&gt;No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Novo Navegador Opera - Acesso à WhatsApp, Facebook Messenger e Telegram sem sair do navegador</title>
       <link>https://info.wsouza.com.br/2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html</link>
       <pubDate>Wed, 31 May 2017 13:05:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2017/05/novo-navegador-opera-acesso-whatsapp-facebook-messenger-telegram.html</guid>
       <description>&lt;p&gt;Há pouco tempo foi lançada a nova versão do navegador Opera, a 45. Esta versão traz algumas novidades que tornam o navegador mais interessante ainda, veja a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Golpes nas compras online</title>
       <link>https://info.wsouza.com.br/2017/03/golpes-nas-compras-online.html</link>
       <pubDate>Wed, 15 Mar 2017 00:29:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2017/03/golpes-nas-compras-online.html</guid>
       <description>&lt;p&gt;Quando queremos comprar algum produto pelo internet devemos ficar muito atentos, pois estamos sujeitos à diversos tipos de golpe. Veja a seguir alguns exemplos.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Troque o visual do Linux deixando-o parecido com o Windows</title>
       <link>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</link>
       <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
       <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;
 Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nunca mais perca seus contatos do celular</title>
       <link>https://info.wsouza.com.br/2016/11/nunca-mais-perca-seus-contatos-do-celular.html</link>
       <pubDate>Sun, 20 Nov 2016 23:19:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2016/11/nunca-mais-perca-seus-contatos-do-celular.html</guid>
       <description>&lt;p&gt;Não corra risco de perder seus contatos, armazene-os online e mantenha-os sincronizados com seu smartphone. Veremos como é fácil fazer isto utilizando uma conta Google num smartphone Android.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Fim do suporte ao Debian 6 (Squeeze) LTS</title>
       <link>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</link>
       <pubDate>Sun, 21 Feb 2016 01:02:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</guid>
       <description>&lt;p&gt;No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como utilizar o Google Maps Off-line</title>
       <link>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</link>
       <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</guid>
       <description>&lt;p&gt;Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Veja mais detalhes na dica abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cronograma de lançamento do Ubuntu 16.04</title>
       <link>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</link>
       <pubDate>Sun, 01 Nov 2015 13:12:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</guid>
       <description>&lt;p&gt;Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu 15.10 (Wily Werewolf) lançado</title>
       <link>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</link>
       <pubDate>Thu, 22 Oct 2015 23:50:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</guid>
       <description>&lt;p&gt;Como de costume, a cada 6 meses é lançada uma nova versão do Ubuntu, no dia 22/10 foi lançado a versão 15.10, chamada Wily Werewolf. Esta versão vem com várias melhorias incluindo o Kernel 4.2, melhorias no Compiz entre outras que listarei mais abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Criar backup do WhatsApp no Google Drive</title>
       <link>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</link>
       <pubDate>Wed, 07 Oct 2015 22:25:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</guid>
       <description>&lt;p&gt;A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone .&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Cursos EAD gratuitos de TI</title>
       <link>https://info.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</link>
       <pubDate>Wed, 30 Sep 2015 00:28:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/09/cursos-gratuitos-de-ti-distancia.html</guid>
       <description>&lt;p&gt;Esta dica é para quem te interesse em fazer algum curso na área de TI mas anda meio sem grana. São alguns cursos totalmente gratuitos oferecidos na modalidade &amp;ldquo;à distância&amp;rdquo;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como instalar a central de programas igual a do Ubuntu no Debian</title>
       <link>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
       <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;
 Não conhece? Veja abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Debian 8 (Jessie) e Ubuntu 15.04 (Vivid Vervet) lançados</title>
       <link>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</link>
       <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
       <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ubuntu Tweak, uma ótima ferramenta para configurar o seu Ubuntu</title>
       <link>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</link>
       <pubDate>Sun, 26 Apr 2015 23:31:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</guid>
       <description>&lt;p&gt;O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Mint Rebecca (17.1), Debian Wheezy (7) e Jessie (8)</title>
       <link>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</link>
       <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
       <description>&lt;p&gt;Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.&lt;/a&gt; O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Criando um Pendrive Multiboot com o Yumi</title>
       <link>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</link>
       <pubDate>Sat, 03 Jan 2015 03:15:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2015/01/criar-um-pendrive-multiboot-linux.html</guid>
       <description>&lt;p&gt;Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Alguns sites que oferecem serviços de utilidade pública</title>
       <link>https://info.wsouza.com.br/2014/11/alguns-sites-uteis.html</link>
       <pubDate>Thu, 06 Nov 2014 12:41:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2014/11/alguns-sites-uteis.html</guid>
       <description>&lt;p&gt;Hoje trago uma dica com alguns sites de utilidade pública que, em algum momento, podem ser muito úteis para nos ajudar com diferentes tipos de serviços.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Google anuncia o fim do Orkut </title>
       <link>https://info.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</link>
       <pubDate>Mon, 30 Jun 2014 23:52:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</guid>
       <description>&lt;p&gt;Fim? Mas o Orkut já não estava morto?&lt;br&gt;
 Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o &lt;a href=&#34;http://googlebrasilblog.blogspot.com.br/2014/06/adeus-ao-orkut.html&#34;&gt;blog oficial do Google&lt;/a&gt; ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sis Mirage 3 Graphics no Windows 8</title>
       <link>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</link>
       <pubDate>Sun, 29 Dec 2013 00:22:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/12/sis-mirage-3-no-windows-8.html</guid>
       <description>&lt;p&gt;Em abril publiquei um post sobre o &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;funcionamento da placa de vídeo Sis Mirage 3 nos sistemas Windows e Linux&lt;/a&gt;, e, naquela ocasião era impossível fazer esta placa funcionar no Windows 8 pois não havia suporte e nem driver disponível para este sistema. Passado algum tempo ainda não foi lançado nenhum driver novo e também não há suporte para Windows 8, mas com algumas atualizações do próprio Windows tornou-se possível a utilização desta placa neste sistema operacional.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Armazenamento na nuvem (Dropbox, Google Drive, OneDrive e Copy)</title>
       <link>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</link>
       <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</guid>
       <description>&lt;p&gt;&lt;em&gt;Atualizado em 04/11/2014&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Adblock Plus - Bloqueando propagandas indesejadas</title>
       <link>https://info.wsouza.com.br/2013/08/dica-adblock-plus.html</link>
       <pubDate>Sun, 18 Aug 2013 21:07:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/08/dica-adblock-plus.html</guid>
       <description>&lt;p&gt;A dica de hoje vai para você, que está cansado de ver aquelas propagandas ou anúncios chatos em sites que você está navegando. Existe uma solução para resolver este problema em quase 100% (em alguns casos resolve 100% mesmo), o nome desta solução é Adblock Plus, uma extensão do Firefox e Google Chrome que, praticamente sem qualquer configuração adicional já deixa sua navegação livre de propagandas indesejadas.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>FlashGot - Como integrar gerenciadores de download ao Firefox</title>
       <link>https://info.wsouza.com.br/2013/08/flashgot.html</link>
       <pubDate>Wed, 14 Aug 2013 23:12:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/08/flashgot.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://draft.blogger.com/flashgot.net/%E2%80%8E&#34;&gt;FlashGot&lt;/a&gt; é uma extensão para firefox que permite a utilização de vários gerenciadores de download. Com o FlashGot é possível integrar diversos gerenciadores de download ao Firefox e utilizá-los na hora de fazer download de um ou vários arquivos por vez. _O Flashgot não funciona no Firefox Quantum.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Internet Archive: Wayback Machine, o Arquivo da Internet</title>
       <link>https://info.wsouza.com.br/2013/07/arquivo-da-internet.html</link>
       <pubDate>Wed, 31 Jul 2013 00:36:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/07/arquivo-da-internet.html</guid>
       <description>&lt;p&gt;Você sabia que a internet possui um arquivo? Sim, existe um site que registra as páginas iniciais de vários sites na internet desde 2006 e também registra outros tipos de conteúdo relacionados com a internet.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CCleaner -  Fazendo a limpeza de arquivos e informações desnecessárias</title>
       <link>https://info.wsouza.com.br/2013/07/ccleaner.html</link>
       <pubDate>Tue, 23 Jul 2013 01:57:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/07/ccleaner.html</guid>
       <description>&lt;p&gt;Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Como descobrir a operadora de um telefone</title>
       <link>https://info.wsouza.com.br/2013/04/descobrir-telefone.html</link>
       <pubDate>Tue, 09 Apr 2013 00:11:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/04/descobrir-telefone.html</guid>
       <description>&lt;p&gt;Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Sis Mirage 3 Graphics</title>
       <link>https://info.wsouza.com.br/2013/04/sis-mirage3.html</link>
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
       <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Xmarks - Sincronizando seus favoritos, abas e histórico</title>
       <link>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</link>
       <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.xmarks.com/&#34;&gt;Xmarks&lt;/a&gt; é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Remastersys - Um ótimo utilitário de backup para Ubuntu</title>
       <link>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
       <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
       <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;
 Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Integrar Skype, Facebook e Windows Live Messenger (Msn Messenger)</title>
       <link>https://info.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</link>
       <pubDate>Mon, 14 Jan 2013 00:57:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/01/integrando-skype-facebook-e-windows.html</guid>
       <description>&lt;p&gt;Nesta semana foi divulgado que a Microsoft encerrará o Windows Live Messenger (WLM) em 15 de Março de 2013 (Ler novidades no final do post). Desde que os primeiros anúncios foram feitos, em meados do ano passado, muitos usuários do Windows Live Messenger (antigo Msn Messenger) ficaram preocupados, com medo de perder seus contatos.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Reinstalar o Grub 2 utilizando um Live Cd do Ubuntu</title>
       <link>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</link>
       <pubDate>Tue, 08 Jan 2013 03:26:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</guid>
       <description>&lt;p&gt;Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contato</title>
       <link>https://info.wsouza.com.br/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://info.wsouza.com.br/contato/</guid>
       <description>Dúvidas, sugestões, elogios, etc.
 Nome E-mail Sua mensagem Enviar (Powered by Un-static Forms)</description>
     </item>
-    
     <item>
       <title>Mensagem enviada</title>
       <link>https://info.wsouza.com.br/contato/enviado.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://info.wsouza.com.br/contato/enviado.html</guid>
       <description>Sua mensagem foi enviada com sucesso. </description>
     </item>
-    
     <item>
       <title>Privacidade e Cookies</title>
       <link>https://info.wsouza.com.br/politicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://info.wsouza.com.br/politicas/</guid>
       <description>Política de Privacidade
 Política de Cookies</description>
     </item>
-    
     <item>
       <title>RSS Feeds</title>
       <link>https://info.wsouza.com.br/rss/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://info.wsouza.com.br/rss/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sobre</title>
       <link>https://info.wsouza.com.br/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://info.wsouza.com.br/sobre/</guid>
       <description>Este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&amp;hellip; O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.
 Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</description>
     </item>
-    
   </channel>
 </rss>

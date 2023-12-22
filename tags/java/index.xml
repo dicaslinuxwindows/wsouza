@@ -6,42 +6,35 @@
     <description>Recent content in Java on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2020 20:35:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Mar 2020 20:35:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
       <link>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</link>
       <pubDate>Wed, 25 Mar 2020 20:35:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html</guid>
       <description>&lt;p&gt;A Oracle acabou de lançar a versão 15 do Java SE. Veja aqui como baixar, instalar e configurar esta versão e as posteriores no Debian, Ubuntu e derivados.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Programa de declaração do IRPF 2020 no Linux com Java OpenJDK</title>
       <link>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</link>
       <pubDate>Mon, 02 Mar 2020 22:56:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/03/programa-de-declaracao-do-irpf-2020-no-linux-com-java-openjdk.html</guid>
       <description>&lt;p&gt;Se você precisa utilizar o DIRPF 2020 no Linux mas não pode instalar o Java Oracle ou tem problemas com a versão disponível no formato &lt;em&gt;.BIN&lt;/em&gt;, veja aqui como utilizá-lo na versão multiplataforma e com o OpenJDK.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java Oracle 13 no Debian e Derivados</title>
       <link>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</link>
       <pubDate>Sat, 22 Feb 2020 23:16:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/02/java-oracle-13-no-debian-e-derivados.html</guid>
       <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java Oracle 11 - Instalando no Debian de maneira rápida e fácil</title>
       <link>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</link>
       <pubDate>Tue, 12 Mar 2019 00:53:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/java-oracle-11-instalando-no-debian-de-maneira-rapida-e-facil.html</guid>
       <description>&lt;p&gt;A Oracle lançou recentemente a versão 11 do Java que terá suporte apenas para arquiteturas 64bits e suporte LTS. Veja nesta matéria como instalar facilmente o Java Oracle 11 no Debian.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

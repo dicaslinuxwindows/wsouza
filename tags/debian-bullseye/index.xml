@@ -6,24 +6,21 @@
     <description>Recent content in Debian Bullseye on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 23:20:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/debian-bullseye/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 23:20:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/debian-bullseye/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Debian Bullseye entra em congelamento</title>
       <link>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</link>
       <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
       <description>&lt;p&gt;O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Acompanhe o desenvolvimento do Debian Bullseye</title>
       <link>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</link>
       <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
       <description>&lt;p&gt;O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

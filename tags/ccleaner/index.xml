@@ -6,24 +6,21 @@
     <description>Recent content in Ccleaner on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Sep 2017 13:01:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ccleaner/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2017 13:01:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/ccleaner/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Versão do CCleaner é atingida por Malware</title>
       <link>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</link>
       <pubDate>Tue, 19 Sep 2017 13:01:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2017/09/versao-do-ccleaner-e-atingido-por-malware.html</guid>
       <description>&lt;p&gt;A Avast, empresa que comprou a Piriform, que por sua vez é a criadora do CCleaner, anunciou nas últimas horas que algumas versões oficiais que estavam disponíveis para download no site oficial  foram invadidas, podendo conter malwares.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>CCleaner -  Fazendo a limpeza de arquivos e informações desnecessárias</title>
       <link>https://info.wsouza.com.br/2013/07/ccleaner.html</link>
       <pubDate>Tue, 23 Jul 2013 01:57:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2013/07/ccleaner.html</guid>
       <description>&lt;p&gt;Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,24 +6,21 @@
     <description>Recent content in Educacional on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2019 22:41:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/categories/educacional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Oct 2019 22:41:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/categories/educacional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Skolelinux, o Debian Educacional</title>
       <link>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
       <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
       <description>&lt;p&gt;Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Suíte Educacional GCompris</title>
       <link>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</link>
       <pubDate>Sat, 16 Feb 2019 23:38:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/02/suite-educacional-gcompris.html</guid>
       <description>&lt;p&gt;GCompris é uma suíte educacional que oferece atividades para crianças partir dos 2 anos de idade. Na versão que será apresentada aqui possui mais de 141 atividades.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,84 +6,69 @@
     <description>Recent content in Ferramentas Linux on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2020 02:17:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/ferramentas-linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Apr 2020 02:17:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/ferramentas-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux</title>
       <link>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</link>
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
       <description>&lt;p&gt;Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ferramentas Linux - Compilação de Tópicos </title>
       <link>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</link>
       <pubDate>Fri, 01 Feb 2019 05:48:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/02/ferramentas-linux.html</guid>
       <description>&lt;p&gt;Compilação com todas as matérias com ferramentas linux que já foram publicadas aqui no blog.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Webmin - Administrador de Sistemas</title>
       <link>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</link>
       <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
       <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;
 Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
       <link>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</link>
       <pubDate>Fri, 21 Dec 2018 23:00:00 -0200</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/12/boot-repair-disk-recuperacao-e-manutencao-do-sistema.html</guid>
       <description>&lt;p&gt;Boot-Repair-Disk é um conjunto de ferramentas Linux voltadas para manutenção e recuperação de sistemas operacionais. Dentre estas ferramentas estão o GParted, scripts para instalação, edição e recuperação do GRUB, ferramenta de remoção de sistema operacional, ferramenta de diagnóstico do boot, restauração da MBR entre outras. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
       <link>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
       <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
       <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
 Confira a seguir.
 Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
-    
     <item>
       <title>Máquina Virtual: Instalando e configurando o VMware Player</title>
       <link>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</link>
       <pubDate>Wed, 25 Jul 2018 02:15:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/maquina-virtual-instalando-e-configurando-o-wmware-player.html</guid>
       <description>&lt;p&gt;Neste post iremos falar sobre máquinas virtuais. Veremos como instalar e configurar uma Máquina Virtual (VM), para posterior instalação de um sistema operacional (SO) e, para isto, utilizaremos o VMware Workstation Player instalado no Debian.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>GParted, Particionador Gráfico</title>
       <link>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</link>
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
       <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
 O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
 Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Backup com Remaster GTK</title>
       <link>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
       <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
 E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

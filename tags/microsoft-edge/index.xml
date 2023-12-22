@@ -6,51 +6,42 @@
     <description>Recent content in Microsoft Edge on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 23:51:00 -0300</lastBuildDate><atom:link href="https://info.wsouza.com.br/tags/microsoft-edge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 23:51:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/microsoft-edge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft Edge-Dev suporta login e sincronização no Linux</title>
       <link>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</link>
       <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</guid>
       <description>&lt;p&gt;Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Navegador Microsoft Edge para Linux liberado no canal dev</title>
       <link>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</link>
       <pubDate>Wed, 21 Oct 2020 23:57:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</guid>
       <description>&lt;p&gt;A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Edge chegando no Linux</title>
       <link>https://info.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</link>
       <pubDate>Tue, 22 Sep 2020 17:00:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2020/09/microsoft-edge-chegando-no-linux.html</guid>
       <description>&lt;p&gt;Depois de um bom tempo sem se pronunciar a respeito do Microsoft Edge para Linux, a Microsoft divulgou uma data de lançamento para uma versão prévia do mesmo. Saiba mais na matéria abaixo.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Navegador Edge baseado no Chromium será lançado em janeiro de 2020 e terá versão para Linux</title>
       <link>https://info.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</link>
       <pubDate>Sun, 10 Nov 2019 21:21:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/11/navegador-edge-tem-data-de-lancamento-com-versao-para-linux.html</guid>
       <description>&lt;p&gt;A Microsoft anunciou que o navegador Edge, baseado no código do Chromium, já tem data de lançamento. Além disso a empresa anunciou que haverá versão para Linux. Confira mais detalhes nesta matéria.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Microsoft Edge agora é baseado no Chromium</title>
       <link>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</link>
       <pubDate>Wed, 27 Mar 2019 08:21:00 -0300</pubDate>
-      
       <guid>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
       <description>&lt;p&gt;Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
