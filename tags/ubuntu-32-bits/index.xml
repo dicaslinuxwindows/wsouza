@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ubuntu 32 bits on Dicas Linux e Windows</title>
+    <title>Ubuntu 32 Bits on Dicas Linux e Windows</title>
     <link>https://info.wsouza.com.br/tags/ubuntu-32-bits/</link>
-    <description>Recent content in Ubuntu 32 bits on Dicas Linux e Windows</description>
+    <description>Recent content in Ubuntu 32 Bits on Dicas Linux e Windows</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Jun 2019 22:24:00 -0300</lastBuildDate>
@@ -27,8 +27,7 @@
       <link>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?
-Confira nas dicas a seguir.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?&#xA;Confira nas dicas a seguir.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

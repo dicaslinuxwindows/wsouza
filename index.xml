@@ -167,9 +167,7 @@
       <link>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</link>
       <pubDate>Fri, 18 Sep 2020 21:25:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2020/09/gnome-338-e-lancado.html</guid>
-      <description>O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
-O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico&amp;hellip;) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.
-O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.</description>
+      <description>O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.&#xA;O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico&amp;hellip;) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.&#xA;O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.</description>
     </item>
     <item>
       <title>Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos</title>
@@ -533,16 +531,14 @@ O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GN
       <link>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</link>
       <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
-      <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;
-Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;&#xA;Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Forms Public Preview</title>
       <link>https://info.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</link>
       <pubDate>Thu, 17 Jan 2019 13:43:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2019/01/microsoft-forms-public-preview.html</guid>
-      <description>&lt;p&gt;Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.&lt;br&gt;
-E o melhor de tudo: É gratuito. Mais detalhes a seguir.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Com o Microsoft Forms Public Preview é possível criar formulários e questionários de maneira fácil, prática e com fácil análise de resultados.&lt;br&gt;&#xA;E o melhor de tudo: É gratuito. Mais detalhes a seguir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
@@ -563,8 +559,7 @@ E o melhor de tudo: É gratuito. Mais detalhes a seguir.&lt;/p&gt;</description>
       <link>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?
-Confira nas dicas a seguir.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?&#xA;Confira nas dicas a seguir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google encerra Google&#43; e Inbox by Gmail</title>
@@ -592,9 +587,7 @@ Confira nas dicas a seguir.&lt;/p&gt;</description>
       <link>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
       <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
-      <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
-Confira a seguir.
-Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
+      <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.&#xA;Confira a seguir.&#xA;Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
     <item>
       <title>Máquina Virtual: Instalando e configurando o VMware Player</title>
@@ -608,25 +601,21 @@ Introdução A configuração da VM já foi mostrada na matéria anterior. A par
       <link>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</link>
       <pubDate>Tue, 24 Jul 2018 01:32:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</guid>
-      <description>&lt;p&gt;Recentemente o WhatsApp anunciou uma série de medidas que visam mais segurança - diminuindo a chance de golpes - e transparência para o aplicativo.&lt;br&gt;
-Alguma destas mudanças ainda estão em versão beta, outras já foram estão disponíveis na versão final. Vejamos na sequência quais são estas mudanças.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Recentemente o WhatsApp anunciou uma série de medidas que visam mais segurança - diminuindo a chance de golpes - e transparência para o aplicativo.&lt;br&gt;&#xA;Alguma destas mudanças ainda estão em versão beta, outras já foram estão disponíveis na versão final. Vejamos na sequência quais são estas mudanças.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GParted, Particionador Gráfico</title>
       <link>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</link>
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
-      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
-O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;&#xA;O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;&#xA;Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backup com Remaster GTK</title>
       <link>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
-      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;&#xA;E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MS Paint clássico direto no navegador</title>
@@ -696,8 +685,7 @@ E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entr
       <link>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</link>
       <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
-      <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;
-Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;&#xA;Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nunca mais perca seus contatos do celular</title>
@@ -753,8 +741,7 @@ Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
       <link>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;
-Não conhece? Veja abaixo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;&#xA;Não conhece? Veja abaixo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debian 8 (Jessie) e Ubuntu 15.04 (Vivid Vervet) lançados</title>
@@ -796,8 +783,7 @@ Não conhece? Veja abaixo.&lt;/p&gt;</description>
       <link>https://info.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</link>
       <pubDate>Mon, 30 Jun 2014 23:52:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2014/06/google-anuncia-o-fim-do-orkut.html</guid>
-      <description>&lt;p&gt;Fim? Mas o Orkut já não estava morto?&lt;br&gt;
-Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o &lt;a href=&#34;http://googlebrasilblog.blogspot.com.br/2014/06/adeus-ao-orkut.html&#34;&gt;blog oficial do Google&lt;/a&gt; ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Fim? Mas o Orkut já não estava morto?&lt;br&gt;&#xA;Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mantinha o Orkut vivo, mas segundo o &lt;a href=&#34;http://googlebrasilblog.blogspot.com.br/2014/06/adeus-ao-orkut.html&#34;&gt;blog oficial do Google&lt;/a&gt; ele será desativado em 30 de setembro e 2014 e desde o dia 30 de Junho já não é mais possível cadastrar-se no serviço.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sis Mirage 3 Graphics no Windows 8</title>
@@ -811,8 +797,7 @@ Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mant
       <link>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</link>
       <pubDate>Sun, 17 Nov 2013 03:19:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2013/11/armazenamento-na-nuvem-dropbox-google-drive-skydrive-e-copycom.html</guid>
-      <description>&lt;p&gt;&lt;em&gt;Atualizado em 04/11/2014&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;em&gt;Atualizado em 04/11/2014&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;O Dicas Linux e Windows traz hoje uma lista de alguns serviços de armazenamento e compartilhamento de arquivos na nuvem, serviços que permitem também a sincronização de arquivos entre diferentes dispositivos, o que os tornam ótimos para realizar backups de seus arquivos já que estes estarão replicados em vários lugares ao mesmo tempo. São eles: o Dropbox, Copy, OneDrive e Google Drive, serviços que são gratuitos e possuem versões pagas com maior capacidade de armazenamento.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Adblock Plus - Bloqueando propagandas indesejadas</title>
@@ -868,8 +853,7 @@ Não. Apesar do baixo número de usuários de 2011 para cá, o Google ainda mant
       <link>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
       <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
-      <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;
-Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;&#xA;Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integrar Skype, Facebook e Windows Live Messenger (Msn Messenger)</title>
@@ -890,8 +874,7 @@ Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-g
       <link>https://info.wsouza.com.br/contato/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://info.wsouza.com.br/contato/</guid>
-      <description>Dúvidas, sugestões, elogios, etc.
-Nome E-mail Sua mensagem Enviar (Powered by Un-static Forms)</description>
+      <description>Dúvidas, sugestões, elogios, etc.&#xA;Nome E-mail Sua mensagem Enviar (Powered by Un-static Forms)</description>
     </item>
     <item>
       <title>Mensagem enviada</title>
@@ -905,8 +888,7 @@ Nome E-mail Sua mensagem Enviar (Powered by Un-static Forms)</description>
       <link>https://info.wsouza.com.br/politicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://info.wsouza.com.br/politicas/</guid>
-      <description>Política de Privacidade
-Política de Cookies</description>
+      <description>Política de Privacidade&#xA;Política de Cookies</description>
     </item>
     <item>
       <title>RSS Feeds</title>
@@ -920,8 +902,7 @@ Política de Cookies</description>
       <link>https://info.wsouza.com.br/sobre/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://info.wsouza.com.br/sobre/</guid>
-      <description>Este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&amp;hellip; O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.
-Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</description>
+      <description>Este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&amp;hellip; O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.&#xA;Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</description>
     </item>
   </channel>
 </rss>

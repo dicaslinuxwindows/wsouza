@@ -118,8 +118,7 @@
       <link>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</link>
       <pubDate>Tue, 22 Jan 2019 13:35:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2019/01/webmin-administrador-de-sistemas.html</guid>
-      <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;
-Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Conheça o Webmin, um administrador de sistemas via web que possui ferramentas de controle total de um dispositivo remoto.&lt;br&gt;&#xA;Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boot-Repair-Disk - Recuperação e Manutenção do Sistema</title>
@@ -133,17 +132,14 @@ Uma boa alternativa frente ao Secure Shell &lt;em&gt;SSH&lt;/em&gt;. Confira mai
       <link>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
       <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
-      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?
-Confira nas dicas a seguir.&lt;/p&gt;</description>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?&#xA;Confira nas dicas a seguir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Máquina Virtual: Instalando e configurando o sistema no VMware</title>
       <link>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</link>
       <pubDate>Tue, 14 Aug 2018 16:22:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/08/maquina-virtual-instalando-e-configurando-o-sistema-no-vmware.html</guid>
-      <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.
-Confira a seguir.
-Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
+      <description>Neste post vou mostrar como instalar e configurar o sistema operacional na máquina virtual (VM). Este post é uma continuação direta do Máquina Virtual: Instalando e configurando o VMware Player.&#xA;Confira a seguir.&#xA;Introdução A configuração da VM já foi mostrada na matéria anterior. A partir daqui será mostrado o processo de boot para instalação do sistema, instalação e configuração do mesmo na VM. O sistema operacional escolhido foi o Lubuntu 18.</description>
     </item>
     <item>
       <title>Máquina Virtual: Instalando e configurando o VMware Player</title>
@@ -157,17 +153,14 @@ Introdução A configuração da VM já foi mostrada na matéria anterior. A par
       <link>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</link>
       <pubDate>Thu, 19 Jul 2018 20:28:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/07/gparted-particionador-grafico.html</guid>
-      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;
-O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;
-Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dando continuidade à série de postagens sobre algumas ferramentas Linux vou falar do Gparted.&lt;br&gt;&#xA;O GParted é um particionador gráfico. Com ele é possível redimensionar, excluir, criar e formatar partições mas, primeiramente devemos saber: O que é, o porquê e como particionar um disco?&lt;br&gt;&#xA;Confira a resposta a seguir e conheça algumas funções deste poderoso utilitário.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Backup com Remaster GTK</title>
       <link>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</link>
       <pubDate>Mon, 16 Jul 2018 22:00:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html</guid>
-      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;
-E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Iniciarei uma série de postagens sobre algumas ferramentas Linux.&lt;br&gt;&#xA;E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entre outras funções, permite o backup do sistema operacional instalado em seu dispositivo. Veremos a seguir como utilizá-lo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>WhatsApp Business - O WhatsApp para empresas</title>
@@ -188,16 +181,14 @@ E neste primeiro post vou falar do Remaster GTK, um ótimo utilitário que, entr
       <link>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</link>
       <pubDate>Fri, 30 Dec 2016 01:23:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2016/12/troque-o-visual-do-linux-deixando-parecido-com-o-windows.html</guid>
-      <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;
-Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;&#xA;Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como instalar a central de programas igual a do Ubuntu no Debian</title>
       <link>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</guid>
-      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;
-Não conhece? Veja abaixo.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Você já deve ter ouvido falar, ou mesmo visto, a loja oficial de aplicativos do Ubuntu, chamada Central de programas. Nela você encontra diversos aplicativos gratuitos ou não. Há uma maior facilidade para pesquisar e instalar estes aplicativos.&lt;br&gt;&#xA;Não conhece? Veja abaixo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Mint Rebecca (17.1), Debian Wheezy (7) e Jessie (8)</title>
@@ -239,8 +230,7 @@ Não conhece? Veja abaixo.&lt;/p&gt;</description>
       <link>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
       <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
-      <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;
-Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;&#xA;Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Integrar Skype, Facebook e Windows Live Messenger (Msn Messenger)</title>
