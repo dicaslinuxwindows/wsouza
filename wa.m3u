@@ -12,14 +12,14 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-EXTINF:-1 group-title="VARIEDADES", Retro Cartoon
+#EXTINF:-1 group-title="VARIEDADES", Otaku Sign Tv
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Rede Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Otaku Sign Tv
-https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
@@ -35,7 +35,6 @@ https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Web Tv Clássicos
 https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
-
 
 #EXTINF:-1 group-title="VARIEDADES", Channel 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
