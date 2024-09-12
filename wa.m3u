@@ -9,32 +9,17 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Otaku Sign Tv
-https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES", Rede Clouding
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 29
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Multi Canais
-https://stmv4.voxtvhd.com.br/multicanais/multicanais/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Runtime TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1 group-title="VARIEDADES", Runtime Ação
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
-
 #EXTINF:-1 group-title="VARIEDADES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Web Tv Clássicos
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:-1 group-title="VARIEDADES", Web Cine TV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Channel 1
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
@@ -43,16 +28,14 @@ https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Cine PIX TV
-https://stream.ads.ottera.tv/cl/240810cqrbp16482d57pdjlg8g/1280x720_3329040_0_f.m3u8?i=728_6178
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 #EXTINF:-1 group-title="VARIEDADES", Toei Channel
 http://103.197.59.109:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
+#EXTINF:-1 group-title="VARIEDADES", TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES", NHK World Japan
 https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Web Tv Xtreme
-https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", TV Nova Play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
