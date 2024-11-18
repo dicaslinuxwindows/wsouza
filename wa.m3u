@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="VARIEDADES", Rede Brasil de Televisão
-https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
@@ -36,6 +36,5 @@ http://103.197.59.109:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 #EXTINF:-1 group-title="VARIEDADES", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", NHK World Japan
-https://cdn.nhkworld.jp/www11/nhkworld-tv/domestic/2003459/live.m3u8
+
 
