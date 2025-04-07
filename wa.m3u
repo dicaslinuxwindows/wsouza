@@ -6,6 +6,9 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 #EXTINF:-1 group-title="VARIEDADES", Central TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
+#EXTINF:-1 group-title="VARIEDADES", TV Nova Play
+https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
+
 #EXTINF:-1 group-title="VARIEDADES", Loading
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
@@ -18,17 +21,14 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES",AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Web Cine TV
-https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Channel 1
-https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Cine PIX TV
+#EXTINF:-1 group-title="VARIEDADES", Movie Sphere
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
+#EXTINF:-1 group-title="VARIEDADES", 1980 Channel
+https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Web Tv Xtreme
+https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Toei Channel
 http://103.197.59.109:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying

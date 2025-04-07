@@ -6,8 +6,15 @@
     <description>Recent content in Tags on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 23:20:06 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 03:26:00 -0200</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian-13</title>
+      <link>https://info.wsouza.com.br/tags/debian-13/</link>
+      <pubDate>Sun, 06 Apr 2025 03:26:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/tags/debian-13/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ubuntu-21.04</title>
       <link>https://info.wsouza.com.br/tags/ubuntu-21.04/</link>

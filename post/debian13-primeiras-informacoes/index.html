@@ -1,0 +1,750 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title> - Dicas Linux e Windows</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="http://localhost:1313/post/debian13-primeiras-informacoes/">
+  <meta property="og:site_name" content="Dicas Linux e Windows">
+  <meta property="og:title" content="Dicas Linux e Windows">
+  <meta property="og:description" content="title: ‘Debian 13 “Trixie”: Histórico, Novidades e Previsão de Lançamento’ date: draft: false url: /2025/04/debian13-primeiras-informacoes.html tags:
+Recuperar-Grub categories: Debian Artigos socialshare: true Debian 13 “Trixie” – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome “Trixie”, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Neste artigo, abordamos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+
+		
+  <meta itemprop="name" content="Dicas Linux e Windows">
+  <meta itemprop="description" content="title: ‘Debian 13 “Trixie”: Histórico, Novidades e Previsão de Lançamento’ date: draft: false url: /2025/04/debian13-primeiras-informacoes.html tags:
+Recuperar-Grub categories: Debian Artigos socialshare: true Debian 13 “Trixie” – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome “Trixie”, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Neste artigo, abordamos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.">
+  <meta itemprop="wordCount" content="614">
+		
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Dicas Linux e Windows">
+  <meta name="twitter:description" content="title: ‘Debian 13 “Trixie”: Histórico, Novidades e Previsão de Lançamento’ date: draft: false url: /2025/04/debian13-primeiras-informacoes.html tags:
+Recuperar-Grub categories: Debian Artigos socialshare: true Debian 13 “Trixie” – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome “Trixie”, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Neste artigo, abordamos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5181197191070118"
+     crossorigin="anonymous"></script>
+
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+		<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Dicas Linux e Windows" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="https://blogger.googleusercontent.com/img/a/AVvXsEiIl2noRmnGVLZlSyL10HlZDojXtx7ECMx8OCId7hsJSTD-cT_aXWybB5NA6aGORF3m5KhsbejbMrKItUa-EMTL3-aKBLAXiW7MzliqqR_hX5uR0cjp15F8-8JGF8oieC0shsU2Ic-Zz0Q3JEbHNJMBH3PytR8G6LLL4OPqVr1XWnlXMXh6N0wbe9aang">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Dicas Linux e Windows</div>
+					
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/">
+				<i class='fa fa-home'></i>
+				<span class="menu__text">HOME</span>
+				
+			</a>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a class="menu__link" href="#">
+				
+				<span class="menu__text">CATEGORIAS</span>
+				<label class="drop-icon" for="CATEGORIAS">▾</label>
+				
+			</a>
+			<input type="checkbox" id="CATEGORIAS">
+			<ul class="submenu__list">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/artigos">
+						
+						<span class="menu__text">Artigos</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/dicas">
+						
+						<span class="menu__text">Dicas</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/educacional">
+						
+						<span class="menu__text">Educacional</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/tutoriais">
+						
+						<span class="menu__text">Tutoriais</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item menu__dropdown">
+			<a class="menu__link" href="#">
+				
+				<span class="menu__text">SISTEMAS</span>
+				<label class="drop-icon" for="SISTEMAS">▾</label>
+				
+			</a>
+			<input type="checkbox" id="SISTEMAS">
+			<ul class="submenu__list">
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/android">
+						
+						<span class="menu__text">Android</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/debian">
+						
+						<span class="menu__text">Debian</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/fedora">
+						
+						<span class="menu__text">Fedora</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/linux-mint">
+						
+						<span class="menu__text">Linux Mint</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/ubuntu">
+						
+						<span class="menu__text">Ubuntu</span>
+						
+					</a>
+					</li>
+				
+					<li class="menu__item">
+					<a class="menu__link" href="/categories/windows">
+						
+						<span class="menu__text">Windows</span>
+						
+					</a>
+					</li>
+				
+			</ul>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/rss/">
+				
+				<span class="menu__text"> RSS</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/politicas/">
+				
+				<span class="menu__text">POLÍTICAS</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/sobre/">
+				
+				<span class="menu__text">SOBRE</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+
+		<script type="text/javascript">
+var _iub = _iub || [];
+_iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableLgpd":true,"enableUspr":true,"floatingPreferencesButtonDisplay":"bottom-left","lang":"pt-BR","perPurposeConsent":true,"siteId":3148546,"usprApplies":true,"whitelabel":false,"cookiePolicyId":21830516, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"position":"float-top-center","rejectButtonDisplay":true,"showPurposesToggles":true }};
+</script>
+<script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stable/stub.js"></script>
+<script type="text/javascript" src="//cdn.iubenda.com/cs/stable/iubenda_cs.js" charset="UTF-8" async></script>
+
+	</div>
+</header>
+
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title"></h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">W.Souza</span>
+</div></div>
+		</header>
+		
+<div class="post__toc toc">
+	<div class="toc__title">Conteúdo da página</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#-histórico-do-projeto-debian">📜 Histórico do Projeto Debian</a></li>
+    <li><a href="#-ciclo-de-vida-e-estrutura-de-versões">🔄 Ciclo de Vida e Estrutura de Versões</a></li>
+    <li><a href="#-o-que-há-de-novo-no-debian-13-trixie">🆕 O Que Há de Novo no Debian 13 &ldquo;Trixie&rdquo;</a>
+      <ul>
+        <li><a href="#-pacotes-e-repositórios">✅ Pacotes e Repositórios</a></li>
+        <li><a href="#-ambientes-gráficos">🖥️ Ambientes Gráficos</a></li>
+        <li><a href="#-segurança-e-arquiteturas">🔐 Segurança e Arquiteturas</a></li>
+        <li><a href="#-kernel-e-componentes">⚙️ Kernel e Componentes</a></li>
+      </ul>
+    </li>
+    <li><a href="#-cronograma-e-status-de-lançamento">📅 Cronograma e Status de Lançamento</a></li>
+    <li><a href="#-onde-baixar-e-testar">📥 Onde Baixar e Testar</a></li>
+    <li><a href="#-conclusão">🔚 Conclusão</a></li>
+    <li><a href="#-referências">📚 Referências</a></li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<p>title: &lsquo;Debian 13 &ldquo;Trixie&rdquo;: Histórico, Novidades e Previsão de Lançamento&rsquo;
+date:
+draft: false
+url: /2025/04/debian13-primeiras-informacoes.html
+tags:</p>
+<ul>
+<li>Recuperar-Grub
+categories:</li>
+<li>Debian</li>
+<li>Artigos
+socialshare: true</li>
+</ul>
+<hr>
+<h1 id="debian-13-trixie--um-novo-capítulo-na-história-do-projeto-debian">Debian 13 &ldquo;Trixie&rdquo; – Um Novo Capítulo na História do Projeto Debian</h1>
+<p>O <strong>Debian 13</strong>, codinome <strong>&ldquo;Trixie&rdquo;</strong>, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Neste artigo, abordamos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.</p>
+<hr>
+<h2 id="-histórico-do-projeto-debian">📜 Histórico do Projeto Debian</h2>
+<p>Criado por <strong>Ian Murdock</strong> em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do <strong>software livre</strong>. Seu nome é a junção de <em>Debra</em> (então esposa de Ian) com <em>Ian</em>. A distribuição se destaca pela <strong>estabilidade, confiabilidade e filosofia aberta</strong> de desenvolvimento, sendo base para sistemas amplamente usados, como <strong>Ubuntu</strong>, <strong>Linux Mint Debian Edition</strong> e outros.</p>
+<p>Uma curiosidade interessante é que todos os codinomes das versões do Debian são inspirados em personagens do filme <strong>Toy Story</strong>.</p>
+<p>Para mais informações sobre a origem, ciclo de desenvolvimento, estrutura de versões e outras curiosidades, consulte o artigo completo no site W.Souza:</p>
+<p>👉 <a href="https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html">Debian: Curiosidades, informações, suas versões e ciclo de vida</a>{:target=&quot;_blank&quot;}</p>
+<hr>
+<h2 id="-ciclo-de-vida-e-estrutura-de-versões">🔄 Ciclo de Vida e Estrutura de Versões</h2>
+<p>O Debian trabalha com <strong>múltiplos ramos ativos simultaneamente</strong>:</p>
+<ul>
+<li><strong>Unstable (sid)</strong> – Onde ocorre o desenvolvimento contínuo.</li>
+<li><strong>Testing</strong> – Pacotes mais recentes que estão em fase de estabilização.</li>
+<li><strong>Stable</strong> – Versão oficial recomendada para produção.</li>
+<li><strong>Oldstable (LTS)</strong> – Recebe suporte adicional por mais 2 anos após o fim do suporte oficial.</li>
+<li><strong>ELTS (Extended LTS)</strong> – Oferece suporte ainda mais estendido para versões antigas.</li>
+</ul>
+<p>Cada versão recebe em média <strong>3 anos de suporte oficial</strong>, seguidos de <strong>2 anos de suporte LTS</strong>. As datas de lançamento não são fixas: o Debian é lançado “quando estiver pronto”.</p>
+<hr>
+<h2 id="-o-que-há-de-novo-no-debian-13-trixie">🆕 O Que Há de Novo no Debian 13 &ldquo;Trixie&rdquo;</h2>
+<p>Atualmente em desenvolvimento no ramo <em>testing</em>, o Debian 13 traz uma série de atualizações:</p>
+<h3 id="-pacotes-e-repositórios">✅ Pacotes e Repositórios</h3>
+<ul>
+<li>Mais de <strong>11.294 novos pacotes adicionados</strong>.</li>
+<li>Mais de <strong>42.000 pacotes atualizados</strong> (cerca de 72% dos pacotes anteriores).</li>
+<li><strong>Repositórios otimizados</strong>, mantendo as seções <code>main</code>, <code>contrib</code> e <code>non-free</code>.</li>
+</ul>
+<h3 id="-ambientes-gráficos">🖥️ Ambientes Gráficos</h3>
+<ul>
+<li>Suporte aos principais desktops atualizados: <strong>GNOME, KDE Plasma, XFCE, LXQt</strong>, entre outros.</li>
+<li>Melhoria na <strong>acessibilidade e usabilidade</strong> para ambientes gráficos leves.</li>
+</ul>
+<h3 id="-segurança-e-arquiteturas">🔐 Segurança e Arquiteturas</h3>
+<ul>
+<li><strong>Secure Boot ativado</strong> para arquitetura ARM64.</li>
+<li>Continuidade no suporte a uma grande variedade de arquiteturas: AMD64, ARM, PowerPC, RISC-V, entre outras.</li>
+</ul>
+<h3 id="-kernel-e-componentes">⚙️ Kernel e Componentes</h3>
+<ul>
+<li>Kernel Linux atualizado (versão será confirmada no lançamento final).</li>
+<li>Adoção de bibliotecas e dependências atualizadas com foco em segurança e desempenho.</li>
+</ul>
+<hr>
+<h2 id="-cronograma-e-status-de-lançamento">📅 Cronograma e Status de Lançamento</h2>
+<p>Segundo o <a href="https://wiki.debian.org/DebianTrixie">Debian Wiki</a>{:target=&quot;_blank&quot;}, o cronograma estimado para o Debian 13 inclui:</p>
+<table>
+<thead>
+<tr>
+<th>Etapa</th>
+<th>Data prevista</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Congelamento de Transição</td>
+<td>15 de março de 2025</td>
+</tr>
+<tr>
+<td>Congelamento Suave</td>
+<td>15 de abril de 2025</td>
+</tr>
+<tr>
+<td>Congelamento Completo</td>
+<td>A ser anunciado</td>
+</tr>
+<tr>
+<td>Lançamento Final</td>
+<td><strong>Segundo semestre de 2025</strong></td>
+</tr>
+</tbody>
+</table>
+<p>Essas datas podem ser ajustadas conforme a evolução da estabilidade do sistema.</p>
+<hr>
+<h2 id="-onde-baixar-e-testar">📥 Onde Baixar e Testar</h2>
+<p>Versões diárias (daily builds) já estão disponíveis para teste no site oficial do Debian:</p>
+<p>🔗 <a href="https://www.debian.org/devel/debian-installer/">Imagens de desenvolvimento do Debian 13 &ldquo;Trixie&rdquo;</a>{:target=&quot;_blank&quot;}</p>
+<p>Lembre-se: versões <em>testing</em> não são recomendadas para produção, mas são ideais para usuários avançados e desenvolvedores interessados em contribuir com testes.</p>
+<hr>
+<h2 id="-conclusão">🔚 Conclusão</h2>
+<p>O Debian 13 &ldquo;Trixie&rdquo; representa mais um marco na trajetória de mais de 30 anos do projeto Debian. Com foco contínuo na estabilidade, segurança e liberdade, o sistema segue como referência para o mundo Linux e além.</p>
+<p>Seja você um entusiasta, desenvolvedor ou profissional de TI, o Debian 13 certamente terá novidades relevantes para o seu ambiente.</p>
+<hr>
+<h2 id="-referências">📚 Referências</h2>
+<ul>
+<li><a href="https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html">Debian - Curiosidades, versões e ciclo de vida (info.wsouza.com.br)</a>{:target=&quot;_blank&quot;}</li>
+<li><a href="https://www.debian.org/releases/trixie/">Debian 13 Trixie – Página Oficial</a>{:target=&quot;_blank&quot;}</li>
+<li><a href="https://www.debian.org/releases/trixie/release-notes/">Notas de Lançamento (Release Notes)</a>{:target=&quot;_blank&quot;}</li>
+<li><a href="https://wiki.debian.org/DebianTrixie">Debian Wiki - Trixie</a>{:target=&quot;_blank&quot;}</li>
+</ul>
+<hr>
+
+		</div>
+	</article>
+</main>
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="W.Souza avatar" src="https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">Sobre W.Souza</span>
+	</div>
+	<div class="authorbox__description">
+		Usuário de Debian e Windows.
+	</div>
+</div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/2013/01/reinstalando-o-grub2-utilizando-um-live.html" rel="next">
+			<span class="pager__subtitle">Próximo&thinsp;»</span>
+			<p class="pager__title">Reinstalar o Grub 2 utilizando um Live Cd do Ubuntu</p>
+		</a>
+	</div>
+</nav>
+
+
+			</div>
+			<aside class="sidebar"><div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="BUSCAR…" value="" name="q" aria-label="BUSCAR…">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="http://localhost:1313/" />
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Postagens recentes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2022/01/fim-do-suporte-do-ubuntu-21-04.html">Fim do suporte do Ubuntu 21.04</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html">Novidades Ubuntu 22.04 LTS - Jammy Jellyfish</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2022/01/tema-do-ubuntu-com-nova-cor.html">Tema do Ubuntu com nova cor</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html">Lançado o Ubuntu 21.04 Hirsute Hippo</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/04/primeiras-impressoes-sobre-o-gnome-40.html">Primeiras impressões sobre o GNOME 40</a></li>
+		</ul>
+	</div>
+</div><h4 class="widget__title">Tags</h4>
+<div id="theme-tagcloud" class="col-sm-12" style="margin-bottom: 15px;">
+
+
+
+
+
+
+
+ 
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/debian-buster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-buster <span class="badge">(6)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-21.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-21.04 <span class="badge">(6)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/microsoft%20edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft edge <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/temas" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">temas <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-20.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.04 <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-20.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-20.10 <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/windows-7" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-7 <span class="badge">(4)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-32-bits" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-32-bits <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/windows-10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-10 <span class="badge">(3)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/debian-bullseye" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-bullseye <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/fedora-33" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora-33 <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-22.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-22.04 <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/windows-8" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows-8 <span class="badge">(2)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/debian-jessie" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-jessie <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/empacotamento" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">empacotamento <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-15.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.04 <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-15.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-15.10 <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-19.04" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.04 <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/ubuntu-19.10" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu-19.10 <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
+
+
+
+
+
+ 
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
+
+
+</div>
+
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Social</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Email" href="mailto:info@wsouza.com.br">
+				<svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+				<span>info@wsouza.com.br</span>
+			</a>
+		</div>
+
+		
+	</div>
+</div>
+
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Dicas Linux e Windows | Ao compartilhar, cite a fonte .
+			<span class="footer__copyright-credits">Gerado com <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> com o tema <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>.</span>
+		</div>
+	</div>
+</footer>
+
+		 </div>
+	   
+<script async defer src="/js/menu.js"></script>
+</body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
+</html>

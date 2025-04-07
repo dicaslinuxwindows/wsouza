@@ -3,18 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://info.wsouza.com.br/categories/</loc>
-    <lastmod>2022-01-11T23:20:06-03:00</lastmod>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/categories/debian/</loc>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</loc>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/debian-13/</loc>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/categories/dicas/</loc>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/</loc>
-    <lastmod>2022-01-11T23:20:06-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</loc>
-    <lastmod>2022-01-11T23:20:06-03:00</lastmod>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/post/</loc>
-    <lastmod>2022-01-11T23:20:06-03:00</lastmod>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/tags/</loc>
+    <lastmod>2025-04-06T03:26:00-02:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</loc>
     <lastmod>2022-01-11T23:20:06-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/categories/ubuntu/</loc>
@@ -41,9 +53,6 @@
     <loc>https://info.wsouza.com.br/categories/artigos/</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/debian/</loc>
-    <lastmod>2021-04-01T19:43:00-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/categories/fedora/</loc>
     <lastmod>2021-04-01T19:43:00-03:00</lastmod>
   </url><url>
@@ -55,9 +64,6 @@
   </url><url>
     <loc>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</loc>
     <lastmod>2021-04-01T01:37:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/categories/dicas/</loc>
-    <lastmod>2021-03-29T23:51:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/tags/microsoft-edge/</loc>
     <lastmod>2021-03-29T23:51:00-03:00</lastmod>

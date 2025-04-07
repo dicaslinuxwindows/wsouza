@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 11 Jan 2022 23:20:06 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 03:26:00 -0200</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian 13 &#34;Trixie&#34;: Histórico, Novidades e Previsão de Lançamento</title>
+      <link>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</link>
+      <pubDate>Sun, 06 Apr 2025 03:26:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</guid>
+      <description>Debian 13 &amp;ldquo;Trixie&amp;rdquo; – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome &amp;ldquo;Trixie&amp;rdquo;, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Neste artigo, abordamos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.&#xA;📜 Histórico do Projeto Debian Criado por Ian Murdock em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do software livre.</description>
+    </item>
     <item>
       <title>Fim do suporte do Ubuntu 21.04</title>
       <link>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</link>
