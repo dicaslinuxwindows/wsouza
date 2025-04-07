@@ -6,13 +6,48 @@
     <description>Recent content in Categories on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Apr 2025 03:26:00 -0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 15:29:08 -0300</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artigos</title>
+      <link>https://info.wsouza.com.br/categories/artigos/</link>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/categories/artigos/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Debian</title>
       <link>https://info.wsouza.com.br/categories/debian/</link>
-      <pubDate>Sun, 06 Apr 2025 03:26:00 -0200</pubDate>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
       <guid>https://info.wsouza.com.br/categories/debian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fedora</title>
+      <link>https://info.wsouza.com.br/categories/fedora/</link>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/categories/fedora/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linux Mint</title>
+      <link>https://info.wsouza.com.br/categories/linux-mint/</link>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/categories/linux-mint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>https://info.wsouza.com.br/categories/ubuntu/</link>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/categories/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>https://info.wsouza.com.br/categories/windows/</link>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/categories/windows/</guid>
       <description></description>
     </item>
     <item>
@@ -23,27 +58,6 @@
       <description></description>
     </item>
     <item>
-      <title>Ubuntu</title>
-      <link>https://info.wsouza.com.br/categories/ubuntu/</link>
-      <pubDate>Tue, 11 Jan 2022 23:20:06 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/categories/ubuntu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Artigos</title>
-      <link>https://info.wsouza.com.br/categories/artigos/</link>
-      <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/categories/artigos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fedora</title>
-      <link>https://info.wsouza.com.br/categories/fedora/</link>
-      <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/categories/fedora/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tutoriais</title>
       <link>https://info.wsouza.com.br/categories/tutoriais/</link>
       <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
@@ -51,24 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Linux-Mint</title>
-      <link>https://info.wsouza.com.br/categories/linux-mint/</link>
-      <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/categories/linux-mint/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Android</title>
       <link>https://info.wsouza.com.br/categories/android/</link>
       <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/categories/android/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Windows</title>
-      <link>https://info.wsouza.com.br/categories/windows/</link>
-      <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/categories/windows/</guid>
       <description></description>
     </item>
     <item>
