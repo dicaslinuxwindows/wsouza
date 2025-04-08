@@ -16,11 +16,102 @@
       <description>&lt;p&gt;Considerando que este espaço estava há mais de 3 anos sem receber atualizações, é fato que muita coisa aconteceu dede janeiro de 2022.&#xA;Com o intuito de preencher este vazio, este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais &lt;strong&gt;Debian&lt;/strong&gt;, &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Fedora&lt;/strong&gt;, &lt;strong&gt;Linux Mint&lt;/strong&gt; e &lt;strong&gt;Windows&lt;/strong&gt;. Além disso, mostra o ciclo de vida de cada versão e as previsões de lançamento das versões em desenvolvimento.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Lançado o Ubuntu 21.04 Hirsute Hippo</title>
+      <link>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</link>
+      <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
+      <description>&lt;p&gt;Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes de como baixar e instalar esta versão.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Primeiras impressões sobre o GNOME 40</title>
       <link>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</link>
       <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</guid>
       <description>&lt;p&gt;Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações </title>
+      <link>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</link>
+      <pubDate>Thu, 01 Apr 2021 01:37:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</guid>
+      <description>&lt;p&gt;Veja nesta matéria como está o cronograma de lançamento da próxima versão do Ubuntu, a 21.04 - chamada de Hirsute Hippo - e mais algumas informações.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lançamento Fedora 33</title>
+      <link>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</link>
+      <pubDate>Wed, 28 Oct 2020 14:56:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</guid>
+      <description>&lt;p&gt;No dia 27 de outubro de 2020 foi lançada a versão 33 do Fedora, que traz diversas novidades. Veja a seguir mais detalhes sobre este lançamento e como baixar, instalar e atualizar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu Groovy Gorilla Lançado</title>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</link>
+      <pubDate>Thu, 22 Oct 2020 23:58:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</guid>
+      <description>&lt;p&gt;Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Navegador Microsoft Edge para Linux liberado no canal dev</title>
+      <link>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</link>
+      <pubDate>Wed, 21 Oct 2020 23:57:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</guid>
+      <description>&lt;p&gt;A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firefox para Android sofre uma significativa atualização</title>
+      <link>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</link>
+      <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</guid>
+      <description>&lt;p&gt;O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lançado o navegador Firefox 80</title>
+      <link>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</link>
+      <pubDate>Tue, 25 Aug 2020 23:09:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</guid>
+      <description>&lt;p&gt;Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lançada a 5º atualização do Debian Buster</title>
+      <link>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</link>
+      <pubDate>Sat, 01 Aug 2020 22:51:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</guid>
+      <description>&lt;p&gt;Foi lançado o 5º upgrade do Debian Buster, chamado de Debian 10.5. Confira aqui quais foram as atualizações disponibilizadas neste upgrade e como atualizar seu Debian Buster.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lançado o Linux Mint 20 &#39;Ulyana&#39;</title>
+      <link>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</link>
+      <pubDate>Sun, 28 Jun 2020 23:57:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/06/lancado-o-linux-mint-20-ulyana.html</guid>
+      <description>&lt;p&gt;A equipe de desenvolvimento anunciou no dia 27/06/2020 o lançamento da versão estável do Linux Mint 20 &amp;lsquo;Ulyana&amp;rsquo;. Veja a seguir mais informações sobre este lançamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</title>
+      <link>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</link>
+      <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
+      <description>&lt;p&gt;Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firefox 75 é lançado, e veio com aplicativo Flatpak oficial</title>
+      <link>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</link>
+      <pubDate>Thu, 09 Apr 2020 23:58:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</guid>
+      <description>&lt;p&gt;O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à &lt;a href=&#34;https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html&#34;&gt;versão anterior&lt;/a&gt;, trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Firefox 74 é lançado </title>
+      <link>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</link>
+      <pubDate>Tue, 10 Mar 2020 13:52:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</guid>
+      <description>&lt;p&gt;A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debian Buster é lançado oficialmente</title>
+      <link>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</link>
+      <pubDate>Sat, 06 Jul 2019 23:13:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/07/debian-buster-e-lancado-oficialmente.html</guid>
+      <description>&lt;p&gt;O Debian Buster enfim está entre nós em sua versão final. Saiba aqui os detalhes do lançamento.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debian - Curiosidades, informações, versões e ciclo de vida</title>
@@ -30,6 +121,20 @@
       <description>&lt;p&gt;Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Canonical recua e não removerá os pacotes 32 bits do Ubuntu</title>
+      <link>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</link>
+      <pubDate>Wed, 26 Jun 2019 22:24:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</guid>
+      <description>&lt;p&gt;Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fim do Ubuntu 32 bits</title>
+      <link>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</link>
+      <pubDate>Thu, 20 Jun 2019 19:41:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</guid>
+      <description>&lt;p&gt;Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Microsoft cada vez mais perto do open source</title>
       <link>https://info.wsouza.com.br/2019/05/microsoft-cada-vez-mais-perto-do-open-source.html</link>
       <pubDate>Sun, 05 May 2019 21:46:00 -0300</pubDate>
@@ -37,11 +142,46 @@
       <description>&lt;p&gt;Nos últimos anos a Microsoft está se aproximando do open source &lt;em&gt;(software de código aberto, não sendo necessariamente software livre)&lt;/em&gt;. Mas qual seria a real intenção da dona do Windows? O artigo a seguir busca, analisando um pouco da história da Microsoft, tentar entender qual o motivo da aproximação desta gigante com o &amp;ldquo;mundo&amp;rdquo; do open source.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Chegou o Ubuntu 19.04, codinome Disco Dingo</title>
+      <link>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</link>
+      <pubDate>Sat, 20 Apr 2019 18:54:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
+      <description>&lt;p&gt;No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Ubuntu - Como funciona a política de seu ciclo de vida</title>
       <link>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</link>
       <pubDate>Wed, 13 Mar 2019 21:36:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</guid>
       <description>&lt;p&gt;Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fim do suporte ao Windows 8.1</title>
+      <link>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</link>
+      <pubDate>Tue, 16 Jan 2018 02:02:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</guid>
+      <description>&lt;p&gt;O cerco está fechando para os usuários que não querem atualizar para o Windows 10. Em janeiro de 2018, seguindo sua &lt;a href=&#34;https://support.microsoft.com/pt-br/lifecycle&#34;&gt;política de ciclo de vida&lt;/a&gt;, a Microsoft encerrou o suporte principal para o Windows 8.1. Isto significa que não serão mais lançadas atualizações que possam trazer melhorias para o sistema.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lançamento do Debian Stretch </title>
+      <link>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</link>
+      <pubDate>Sat, 17 Jun 2017 20:29:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2017/06/lancamento-debian-9-stretch.html</guid>
+      <description>&lt;p&gt;No dia 17/06/2017 é lançado do Debian 9, conhecido como Stretch, que vem para substituir o Debian Jessie como versão estável. Seguindo a tradição do Debian, mais uma vez o nome vem de um personagem da animação Toy Story, o polvo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 15.10 (Wily Werewolf) lançado</title>
+      <link>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</link>
+      <pubDate>Thu, 22 Oct 2015 23:50:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</guid>
+      <description>&lt;p&gt;Como de costume, a cada 6 meses é lançada uma nova versão do Ubuntu, no dia 22/10 foi lançado a versão 15.10, chamada Wily Werewolf. Esta versão vem com várias melhorias incluindo o Kernel 4.2, melhorias no Compiz entre outras que listarei mais abaixo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debian 8 (Jessie) e Ubuntu 15.04 (Vivid Vervet) lançados</title>
+      <link>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</link>
+      <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
+      <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

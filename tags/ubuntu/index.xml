@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu on Dicas Linux e Windows</title>
+    <link>https://info.wsouza.com.br/tags/ubuntu/</link>
+    <description>Recent content in Ubuntu on Dicas Linux e Windows</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Apr 2025 15:29:08 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacionais</title>
+      <link>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</link>
+      <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</guid>
+      <description>&lt;p&gt;Considerando que este espaço estava há mais de 3 anos sem receber atualizações, é fato que muita coisa aconteceu dede janeiro de 2022.&#xA;Com o intuito de preencher este vazio, este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais &lt;strong&gt;Debian&lt;/strong&gt;, &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Fedora&lt;/strong&gt;, &lt;strong&gt;Linux Mint&lt;/strong&gt; e &lt;strong&gt;Windows&lt;/strong&gt;. Além disso, mostra o ciclo de vida de cada versão e as previsões de lançamento das versões em desenvolvimento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fim do suporte do Ubuntu 21.04</title>
+      <link>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</link>
+      <pubDate>Tue, 11 Jan 2022 23:20:06 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</guid>
+      <description>&lt;p&gt;O suporte para o Ubuntu 21.04 termina no dia 20/01/2022. Veja nesta matéria o que fazer para não ficar utilizando um sistema sem suporte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novidades Ubuntu 22.04 LTS - Jammy Jellyfish</title>
+      <link>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</link>
+      <pubDate>Wed, 05 Jan 2022 16:30:27 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</guid>
+      <description>&lt;p&gt;A próxima versão do Ubuntu, 22.04, será chamada de Jammy Jellyfish e deverá ser lançada em abril. Veja nesta matéria o que vamos encontrar neste novo Ubuntu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tema do Ubuntu com nova cor</title>
+      <link>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</link>
+      <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</guid>
+      <description>&lt;p&gt;O Ubuntu 22.04 será lançado com uma alteração em seu tema padrão, o Yaru, que passará a ter destaque para a cor laranja.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lançado o Ubuntu 21.04 Hirsute Hippo</title>
+      <link>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</link>
+      <pubDate>Sun, 25 Apr 2021 23:03:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html</guid>
+      <description>&lt;p&gt;Conforme programado, o Ubuntu 21.04 Hirsute Hippo foi lançado no dia 22 de abril. Veja a seguir mais detalhes de como baixar e instalar esta versão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Primeiras impressões sobre o GNOME 40</title>
+      <link>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</link>
+      <pubDate>Thu, 01 Apr 2021 19:43:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/04/primeiras-impressoes-sobre-o-gnome-40.html</guid>
+      <description>&lt;p&gt;Nos últimos dias foi lançada a versão 40 do GNOME. Veja nesta matéria as primeiras impressões de seu uso no Fedora 34, um dos primeiros sistemas a receber esta nova versão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações </title>
+      <link>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</link>
+      <pubDate>Thu, 01 Apr 2021 01:37:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html</guid>
+      <description>&lt;p&gt;Veja nesta matéria como está o cronograma de lançamento da próxima versão do Ubuntu, a 21.04 - chamada de Hirsute Hippo - e mais algumas informações.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
+      <link>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
+      <pubDate>Sun, 28 Feb 2021 19:25:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</guid>
+      <description>&lt;p&gt;Nesta semana foi disponibilizado o DIRPF, que é o programa gerador da declaração de imposto de renda de pessoa física. Veja nesta matéria como instalar no Debian &lt;em&gt;(e seus derivados)&lt;/em&gt; e Fedora.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalando o VirtualBox em qualquer distribuição Linux</title>
+      <link>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</link>
+      <pubDate>Mon, 25 Jan 2021 23:13:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</guid>
+      <description>&lt;p&gt;Se você têm encontrado dificuldades para instalar o VirtualBox em sua distribuição linux, veja aqui como instalá-lo sem se preocupar com as dependências de bibliotecas recentes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 21.04  - Saiba as últimas da versão que será lançada em Abril</title>
+      <link>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</link>
+      <pubDate>Sun, 24 Jan 2021 00:30:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</guid>
+      <description>&lt;p&gt;Com lançamento previsto para Abril, as notícias sobre o Ubuntu 21.04 Hirsute Hippo vêm surgindo. Veja nesta matéria o que foi revelado sobre ele até o momento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flatpak e Snap no Debian, Fedora e Ubuntu</title>
+      <link>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</link>
+      <pubDate>Thu, 31 Dec 2020 01:07:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/12/flatpak-e-snap-no-debian-fedora-e-ubuntu.html</guid>
+      <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daily Builds do Ubuntu 21.04 liberadas</title>
+      <link>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</link>
+      <pubDate>Wed, 04 Nov 2020 23:19:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
+      <description>&lt;p&gt;Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado</title>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</link>
+      <pubDate>Fri, 30 Oct 2020 18:38:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</guid>
+      <description>&lt;p&gt;Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu Groovy Gorilla Lançado</title>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</link>
+      <pubDate>Thu, 22 Oct 2020 23:58:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</guid>
+      <description>&lt;p&gt;Os desenvolvedores do Ubuntu anunciam o lançamento do Ubuntu 20.10 Groovy Gorilla. Veja a seguir como baixar e instalar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Navegador Microsoft Edge para Linux liberado no canal dev</title>
+      <link>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</link>
+      <pubDate>Wed, 21 Oct 2020 23:57:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</guid>
+      <description>&lt;p&gt;A Microsoft liberou o seu navegador para Linux, o Microsoft Edge, para download no canal de desenvolvedores. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tema Yaru do Ubuntu no Libreoffice</title>
+      <link>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</link>
+      <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</guid>
+      <description>&lt;p&gt;A mais recente versão do LibreOffice traz uma novidade. Trata-se do tema de ícones Yaru, que foi disponibilizado o LibreOffice. Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.10  - Beta  e papéis de parede disponíveis</title>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</link>
+      <pubDate>Tue, 06 Oct 2020 22:33:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</guid>
+      <description>&lt;p&gt;Nos últimos dias foram disponibilizados os papéis de parede oficiais e a versão beta do Ubuntu 20.10 - Groovy Gorilla . Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos</title>
+      <link>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</link>
+      <pubDate>Tue, 08 Sep 2020 21:16:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</guid>
+      <description>&lt;p&gt;Falta pouco mais de 1 mês para o lançamento do Ubuntu 20.10 - Groovy Gorilla. Veja a seguir quais serão os próximos passos até o lançamento e quais os recursos que já estão presentes até o momento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.10 - Maio 2020</title>
+      <link>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</link>
+      <pubDate>Mon, 25 May 2020 01:12:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</guid>
+      <description>&lt;p&gt;O Ubuntu 20.10 já está em desenvolvimento. Veja nesta matéria o que já temos de informações sobre ele até o mês de maio de 2020.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</title>
+      <link>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</link>
+      <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
+      <description>&lt;p&gt;Após o &lt;a href=&#34;https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html&#34;&gt;lançamento oficial do Ubuntu 20.04&lt;/a&gt; vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</title>
+      <link>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</link>
+      <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
+      <description>&lt;p&gt;Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saiu a versão Beta do Ubuntu 20.04 Focal Fossa</title>
+      <link>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</link>
+      <pubDate>Fri, 03 Apr 2020 23:50:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</guid>
+      <description>&lt;p&gt;No dia 02/04/2020 saiu a versão beta do Ubuntu 20.04 Focal Fossa. Veja nesta matéria o que falta para a versão final e como obter esta versão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tema Yaru do Ubuntu no Debian e em outras distribuições Linux</title>
+      <link>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</link>
+      <pubDate>Tue, 31 Mar 2020 21:07:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</guid>
+      <description>&lt;p&gt;Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notícias sobre o Ubuntu 20.04 LTS</title>
+      <link>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</link>
+      <pubDate>Sun, 01 Mar 2020 23:45:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</guid>
+      <description>&lt;p&gt;O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 19.10 chegou</title>
+      <link>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</link>
+      <pubDate>Fri, 18 Oct 2019 11:31:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</guid>
+      <description>&lt;p&gt;No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de &lt;em&gt;Eoan Ermine.&lt;/em&gt; Esta é a última versão antes do próximo LTS. Veja aqui o que o &lt;em&gt;Eoan Ermine&lt;/em&gt; traz de novidades e como obtê-lo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Canonical recua e não removerá os pacotes 32 bits do Ubuntu</title>
+      <link>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</link>
+      <pubDate>Wed, 26 Jun 2019 22:24:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/06/canonical-recua-e-nao-removera-os-pacotes-32-bits-do-ubuntu.html</guid>
+      <description>&lt;p&gt;Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fim do Ubuntu 32 bits</title>
+      <link>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</link>
+      <pubDate>Thu, 20 Jun 2019 19:41:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html</guid>
+      <description>&lt;p&gt;Se você ainda utiliza o Ubuntu 32 bits saiba que a Canonical vai descontinuar o suporte à estas versões. Veja mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chegou o Ubuntu 19.04, codinome Disco Dingo</title>
+      <link>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</link>
+      <pubDate>Sat, 20 Apr 2019 18:54:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</guid>
+      <description>&lt;p&gt;No último dia 18 de abril foi lançado o Ubuntu 19.04, chamado de Disco Dingo. Veja a seguir o que vem de novo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu - Como funciona a política de seu ciclo de vida</title>
+      <link>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</link>
+      <pubDate>Wed, 13 Mar 2019 21:36:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/03/ubuntu-como-funciona-politica-de-seu-ciclo-de-vida.html</guid>
+      <description>&lt;p&gt;Conheça como funciona o ciclo de vida do Ubuntu, um dos sistemas operacionais Linux mais populares do mundo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Como conseguir a versão mais recente do Ubuntu em 32 bits</title>
+      <link>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</link>
+      <pubDate>Mon, 19 Nov 2018 12:29:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2018/11/como-conseguir-versao-mais-recente-do-ubuntu-32-bits.html</guid>
+      <description>&lt;p&gt;As versões mais recentes do Ubuntu, 18.04 (LTS) e 18.10 não possuem imagens ISO 32 bits, que são para computadores mais antigos. Mas, como fazer para &amp;ldquo;rodar&amp;rdquo; &lt;del&gt;as últimas versões do&lt;/del&gt; o Ubuntu em 32 bits?&#xA;Confira nas dicas a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cronograma de lançamento do Ubuntu 16.04</title>
+      <link>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</link>
+      <pubDate>Sun, 01 Nov 2015 13:12:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</guid>
+      <description>&lt;p&gt;Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 15.10 (Wily Werewolf) lançado</title>
+      <link>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</link>
+      <pubDate>Thu, 22 Oct 2015 23:50:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</guid>
+      <description>&lt;p&gt;Como de costume, a cada 6 meses é lançada uma nova versão do Ubuntu, no dia 22/10 foi lançado a versão 15.10, chamada Wily Werewolf. Esta versão vem com várias melhorias incluindo o Kernel 4.2, melhorias no Compiz entre outras que listarei mais abaixo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debian 8 (Jessie) e Ubuntu 15.04 (Vivid Vervet) lançados</title>
+      <link>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</link>
+      <pubDate>Mon, 27 Apr 2015 00:24:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</guid>
+      <description>&lt;p&gt;Esta penúltima semana de abril foi especial para os fãs do Debian e do Ubuntu. Foram lançadas as mais recentes versões destes dois sistemas operacionais baseados no kernel linux. São eles o Debian 8, de codinome Jessie, e o Ubuntu 15.04, de codinome Vivid Vervet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu Tweak, uma ótima ferramenta para configurar o seu Ubuntu</title>
+      <link>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</link>
+      <pubDate>Sun, 26 Apr 2015 23:31:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</guid>
+      <description>&lt;p&gt;O Ubuntu Tweak é uma ferramenta que permite a configuração do Ubuntu trazendo várias funções simples e um pouco mais avançadas em modo gráfico.Veja abaixo algumas de suas funcionalidades.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novidades sobre a Sis Mirage 3 no Ubuntu Trusty Tahr (14.04) , Linux Mint Rebecca (17.1), Debian Wheezy (7) e Jessie (8)</title>
+      <link>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</link>
+      <pubDate>Sun, 04 Jan 2015 05:05:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2015/01/novidades-sobre-sis-mirage-3-no-ubuntu.html</guid>
+      <description>&lt;p&gt;Já escrevi algumas vezes aqui no blog sobre esta placa de vídeo, Sis Mirage 3, e, num dos posts, cheguei a dizer que &lt;a href=&#34;http://info.wsouza.com.br/2013/04/sis-mirage3.html&#34;&gt;quem utiliza Ubuntu e a Sis Mirage 3 ficaria preso à versão 12.04 ou anterior.&lt;/a&gt; O tempo passou e, pesquisando na net, testando, consegui encontrar uma maneira de pelo menos atingir a resolução 1280 x 800 em alguns notebooks que possuem esta resolução e reproduzir vídeos tranquilamente. Veja a seguir:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sis Mirage 3 Graphics</title>
+      <link>https://info.wsouza.com.br/2013/04/sis-mirage3.html</link>
+      <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
+      <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Remastersys - Um ótimo utilitário de backup para Ubuntu</title>
+      <link>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</link>
+      <pubDate>Sun, 27 Jan 2013 00:02:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2013/01/remastersys-um-otimo-utilitario-de.html</guid>
+      <description>&lt;p&gt;O Remastersys foi descontinuado, porém, existe o Remaster-GTK, um fork do Remastersys.&lt;br&gt;&#xA;Leia em &lt;a href=&#34;https://info.wsouza.com.br/2018/07/backup-com-remaster-gtk.html&#34;&gt;Backup com Remaster-GTK&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reinstalar o Grub 2 utilizando um Live Cd do Ubuntu</title>
+      <link>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</link>
+      <pubDate>Tue, 08 Jan 2013 03:26:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2013/01/reinstalando-o-grub2-utilizando-um-live.html</guid>
+      <description>&lt;p&gt;Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

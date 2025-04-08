@@ -16,11 +16,39 @@
       <description>Debian 13 &amp;ldquo;Trixie&amp;rdquo; – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome &amp;ldquo;Trixie&amp;rdquo;, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.&#xA;📜 Histórico do Projeto Debian Criado por Ian Murdock em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do software livre.</description>
     </item>
     <item>
-      <title>Microsoft Edge-Dev suporta login e sincronização no Linux</title>
-      <link>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</link>
-      <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</guid>
-      <description>&lt;p&gt;Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.&lt;/p&gt;</description>
+      <title>Fim do suporte do Ubuntu 21.04</title>
+      <link>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</link>
+      <pubDate>Tue, 11 Jan 2022 23:20:06 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</guid>
+      <description>&lt;p&gt;O suporte para o Ubuntu 21.04 termina no dia 20/01/2022. Veja nesta matéria o que fazer para não ficar utilizando um sistema sem suporte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novidades Ubuntu 22.04 LTS - Jammy Jellyfish</title>
+      <link>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</link>
+      <pubDate>Wed, 05 Jan 2022 16:30:27 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</guid>
+      <description>&lt;p&gt;A próxima versão do Ubuntu, 22.04, será chamada de Jammy Jellyfish e deverá ser lançada em abril. Veja nesta matéria o que vamos encontrar neste novo Ubuntu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tema do Ubuntu com nova cor</title>
+      <link>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</link>
+      <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</guid>
+      <description>&lt;p&gt;O Ubuntu 22.04 será lançado com uma alteração em seu tema padrão, o Yaru, que passará a ter destaque para a cor laranja.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 21.04  - Saiba as últimas da versão que será lançada em Abril</title>
+      <link>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</link>
+      <pubDate>Sun, 24 Jan 2021 00:30:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/01/ubuntu-2104-saiba-as-ultimas-da-versao.html</guid>
+      <description>&lt;p&gt;Com lançamento previsto para Abril, as notícias sobre o Ubuntu 21.04 Hirsute Hippo vêm surgindo. Veja nesta matéria o que foi revelado sobre ele até o momento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debian Bullseye entra em congelamento</title>
+      <link>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</link>
+      <pubDate>Sun, 17 Jan 2021 23:20:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</guid>
+      <description>&lt;p&gt;O Debian Bullseye entra na fase de congelamento. Veja nesta matéria o que isto significa e quais são as próximas etapas até o lançamento da versão final.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Firefox 83 chega com melhorias de desempenho e novidades</title>
@@ -28,6 +56,41 @@
       <pubDate>Thu, 19 Nov 2020 22:51:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2020/11/firefox-83-chega-com-melhorias-de.html</guid>
       <description>&lt;p&gt;Nesta semana foi lançada a versão 83 do navegador Firefox trazendo algumas melhorias e novidades, que serão mostradas nesta matéria.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daily Builds do Ubuntu 21.04 liberadas</title>
+      <link>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</link>
+      <pubDate>Wed, 04 Nov 2020 23:19:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/11/daily-builds-do-ubuntu-2104-liberadas.html</guid>
+      <description>&lt;p&gt;Após o início do desenvolvimento do Ubuntu 21.04, as compilações diárias começam a ser disponibilizadas. Veja aqui o que são estas compilações diárias e como baixá-las.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 21.04 - Nome revelado e desenvolvimento iniciado</title>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</link>
+      <pubDate>Fri, 30 Oct 2020 18:38:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</guid>
+      <description>&lt;p&gt;Poucos dias depois de lançar o Ubuntu 20.10, a próxima versão já teve o seu nome revelado. Confira.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tema Yaru do Ubuntu no Libreoffice</title>
+      <link>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</link>
+      <pubDate>Mon, 12 Oct 2020 17:53:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/tema-yaru-do-ubuntu-no-libreoffice.html</guid>
+      <description>&lt;p&gt;A mais recente versão do LibreOffice traz uma novidade. Trata-se do tema de ícones Yaru, que foi disponibilizado o LibreOffice. Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fedora 33 Beta</title>
+      <link>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</link>
+      <pubDate>Wed, 07 Oct 2020 00:05:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/fedora-33-beta.html</guid>
+      <description>&lt;p&gt;Na semana passada foi disponibilizada a versão beta do Fedora 33, distribuição Linux desenvolvida pela comunidade do Projeto Fedora. Saiba mais na matéria abaixo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ubuntu 20.10  - Beta  e papéis de parede disponíveis</title>
+      <link>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</link>
+      <pubDate>Tue, 06 Oct 2020 22:33:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/10/ubuntu-2010-beta-e-papeis-de-parede.html</guid>
+      <description>&lt;p&gt;Nos últimos dias foram disponibilizados os papéis de parede oficiais e a versão beta do Ubuntu 20.10 - Groovy Gorilla . Mais detalhes na matéria abaixo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Edge chegando no Linux</title>
@@ -44,32 +107,67 @@
       <description>O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.&#xA;O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico&amp;hellip;) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.&#xA;O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.</description>
     </item>
     <item>
-      <title>Firefox para Android sofre uma significativa atualização</title>
-      <link>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</link>
-      <pubDate>Thu, 27 Aug 2020 19:37:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</guid>
-      <description>&lt;p&gt;O Firefox para Android tem uma nova versão, com mudanças significativas. Veja a seguir quais são as mudanças e como está sendo a recepção por parte de seus usuários.&lt;/p&gt;</description>
+      <title>Ubuntu 20.10 Groovy Gorilla - Kernel 5.8 e alguns recursos</title>
+      <link>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</link>
+      <pubDate>Tue, 08 Sep 2020 21:16:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</guid>
+      <description>&lt;p&gt;Falta pouco mais de 1 mês para o lançamento do Ubuntu 20.10 - Groovy Gorilla. Veja a seguir quais serão os próximos passos até o lançamento e quais os recursos que já estão presentes até o momento.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Lançado o navegador Firefox 80</title>
-      <link>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</link>
-      <pubDate>Tue, 25 Aug 2020 23:09:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</guid>
-      <description>&lt;p&gt;Foi anunciado o lançamento da versão 80 do navegador Firefox. Confira a seguir quais foram as novidades lançadas nesta versão.&lt;/p&gt;</description>
+      <title>Acompanhe o desenvolvimento do Debian Bullseye</title>
+      <link>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</link>
+      <pubDate>Thu, 09 Jul 2020 01:13:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/07/acompanhe-o-desenvolvimento-do-debian-bullseye.html</guid>
+      <description>&lt;p&gt;O Debian 11, que será chamado de Bullseye, está na &amp;ldquo;fase&amp;rdquo; testing desde julho de 2019. Confira nesta matéria como anda seu desenvolvimento e como acompanhá-lo.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Firefox 75 é lançado, e veio com aplicativo Flatpak oficial</title>
-      <link>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</link>
-      <pubDate>Thu, 09 Apr 2020 23:58:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/04/firefox-75-e-lancado-e-veio-com-aplicativo-flatpak-oficial.html</guid>
-      <description>&lt;p&gt;O Firefox 75 foi lançado recentemente. Além de trazer algumas melhorias em relação à &lt;a href=&#34;https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html&#34;&gt;versão anterior&lt;/a&gt;, trouxe oficialmente uma versão com aplicativo Flatpak. Mais detalhes a seguir.&lt;/p&gt;</description>
+      <title>Linux Mint 20: Beta disponível e polêmica com pacotes Snap</title>
+      <link>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</link>
+      <pubDate>Fri, 12 Jun 2020 23:05:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/06/linux-mint-20-beta-disponivel-e.html</guid>
+      <description>&lt;p&gt;A data de lançamento do Linux Mint 20 está se aproximando e o sistema vai tomando forma. Confira aqui as últimas novidades e a &amp;ldquo;polêmica&amp;rdquo; sobre o uso dos pacotes Snap do Ubuntu.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Firefox 74 é lançado </title>
-      <link>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</link>
-      <pubDate>Tue, 10 Mar 2020 13:52:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/03/firefox-74-e-lancado.html</guid>
-      <description>&lt;p&gt;A versão 74 do navegador da Mozilla foi lançada no dia 10/03/2020. Saiba o que ela traz de novidades.&lt;/p&gt;</description>
+      <title>Ubuntu 20.10 - Maio 2020</title>
+      <link>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</link>
+      <pubDate>Mon, 25 May 2020 01:12:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/05/ubuntu-2010-maio-2020.html</guid>
+      <description>&lt;p&gt;O Ubuntu 20.10 já está em desenvolvimento. Veja nesta matéria o que já temos de informações sobre ele até o mês de maio de 2020.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Saiu a versão Beta do Ubuntu 20.04 Focal Fossa</title>
+      <link>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</link>
+      <pubDate>Fri, 03 Apr 2020 23:50:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</guid>
+      <description>&lt;p&gt;No dia 02/04/2020 saiu a versão beta do Ubuntu 20.04 Focal Fossa. Veja nesta matéria o que falta para a versão final e como obter esta versão.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linux Mint 20 Ulyana</title>
+      <link>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</link>
+      <pubDate>Wed, 01 Apr 2020 00:21:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/linux-mint-20-ulyana.html</guid>
+      <description>&lt;p&gt;Foi anunciado que o Linux Mint 20 será lançado ainda este ano. Confira a seguir mais detalhes e outras informações sobre este lançamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Painel de Controle do Windows pode estar com os dias contados</title>
+      <link>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</link>
+      <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</guid>
+      <description>&lt;p&gt;Ao que parece, a Microsoft vem trabalhando para acabar com o Painel de Controle, tradicional ferramenta onde ficam as configurações do Windows.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Notícias sobre o Ubuntu 20.04 LTS</title>
+      <link>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</link>
+      <pubDate>Sun, 01 Mar 2020 23:45:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</guid>
+      <description>&lt;p&gt;O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Suporte do Windows 7 acaba em 14/01/2020</title>
+      <link>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</link>
+      <pubDate>Mon, 06 Jan 2020 14:30:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/01/suporte-do-windows-7-acaba-em-14012020.html</guid>
+      <description>&lt;p&gt;Conforme anunciado no ano passado, a Microsoft deixará de fornecer atualizações de segurança gratuitas para o Windows 7 em janeiro de 2020. Saiba mais a seguir.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Navegador Edge baseado no Chromium será lançado em janeiro de 2020 e terá versão para Linux</title>
@@ -79,11 +177,46 @@
       <description>&lt;p&gt;A Microsoft anunciou que o navegador Edge, baseado no código do Chromium, já tem data de lançamento. Além disso a empresa anunciou que haverá versão para Linux. Confira mais detalhes nesta matéria.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ubuntu 19.10 chegou</title>
+      <link>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</link>
+      <pubDate>Fri, 18 Oct 2019 11:31:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</guid>
+      <description>&lt;p&gt;No dia 17 de outubro de 2019 foi lançado o Ubuntu 19.10, chamado de &lt;em&gt;Eoan Ermine.&lt;/em&gt; Esta é a última versão antes do próximo LTS. Veja aqui o que o &lt;em&gt;Eoan Ermine&lt;/em&gt; traz de novidades e como obtê-lo.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Como gravar a tela utilizando o VLC</title>
       <link>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</link>
       <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</guid>
       <description>&lt;p&gt;Se você é usuário Linux ou Windows e quer gravar a sua tela veja aqui como fazê-la utilizado o VLC Media Player.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novo Firefox para Android</title>
+      <link>https://info.wsouza.com.br/2019/07/novo-firefox-para-android.html</link>
+      <pubDate>Fri, 05 Jul 2019 00:52:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/07/novo-firefox-para-android.html</guid>
+      <description>&lt;p&gt;A Mozilla lançou um novo navegador Firefox, inicialmente disponível apenas para Android. Este navegador promete ser mais rápido que os tradicionais Firefox que estão disponíveis na Play Store. Mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Novidades WhatsApp</title>
+      <link>https://info.wsouza.com.br/2019/07/novidades-whatsapp.html</link>
+      <pubDate>Mon, 01 Jul 2019 23:06:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/07/novidades-whatsapp.html</guid>
+      <description>&lt;p&gt;Nos últimos dias surgiram algumas notícias sobre o WhatsApp. Mais detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debian Installer Buster RC 2 Release</title>
+      <link>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</link>
+      <pubDate>Thu, 27 Jun 2019 01:39:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/06/debian-installer-buster-rc-2-release.html</guid>
+      <description>&lt;p&gt;Lançado o Release Candidate 2 do Debian Buster, mais um fato que comprova a proximidade do lançamento do Buster. Continue a leitura para mais detalhes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Debian Buster está chegando</title>
+      <link>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</link>
+      <pubDate>Tue, 25 Jun 2019 00:05:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/06/debian-buster-esta-chegando.html</guid>
+      <description>&lt;p&gt;A data de lançamento do Debian 10, codinome Buster, está se aproximando. Veja na matéria a seguir quais são as novidades que virão com ele.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Como resolver o erro ao instalar extensões no Firefox</title>
@@ -98,6 +231,20 @@
       <pubDate>Wed, 27 Mar 2019 08:21:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</guid>
       <description>&lt;p&gt;Microsoft anuncia que a nova versão do navegador Edge será baseado no Chromium. Será que o reinado do Google Chrome está ameaçado? Confira os detalhes a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft alerta usuários do Windows 7 sobre atualização para o Windows 10</title>
+      <link>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</link>
+      <pubDate>Thu, 14 Mar 2019 00:30:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/03/microsoft-alerta-usuarios-do-windows-7-sobre-atualizacao-para-o-windows-10.html</guid>
+      <description>&lt;p&gt;Você ainda utiliza o Windows 7? Nas próximas semanas a Microsoft vai começar uma campanha para convencer os usuários a migrarem para o Windows 10.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Nova aparência do aplicativo do Gmail</title>
+      <link>https://info.wsouza.com.br/2019/01/nova-aparencia-do-aplicativo-do-gmail.html</link>
+      <pubDate>Thu, 31 Jan 2019 15:01:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2019/01/nova-aparencia-do-aplicativo-do-gmail.html</guid>
+      <description>&lt;p&gt;Em breve o aplicativo do Gmail terá novidades na sua interface. Confira a seguir quais são estas novidades.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft Forms Public Preview</title>
@@ -133,6 +280,13 @@
       <pubDate>Sun, 26 Aug 2018 19:26:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2018/08/dropbox-mudanca-de-requisitos-para-sistemas-linux.html</guid>
       <description>&lt;p&gt;Foi anunciado nesta semana que o cliente do Dropbox para Linux passará por algumas ações necessárias, que farão com que o mesmo não funcione em sistemas Linux mais antigos. Veja a seguir como será e o que fazer para continuar utilizando o Dropbox no Linux.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mudanças no WhatsApp</title>
+      <link>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</link>
+      <pubDate>Tue, 24 Jul 2018 01:32:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2018/07/mudancas-no-whatsapp.html</guid>
+      <description>&lt;p&gt;Recentemente o WhatsApp anunciou uma série de medidas que visam mais segurança - diminuindo a chance de golpes - e transparência para o aplicativo.&lt;br&gt;&#xA;Alguma destas mudanças ainda estão em versão beta, outras já foram estão disponíveis na versão final. Vejamos na sequência quais são estas mudanças.&lt;/p&gt;</description>
     </item>
     <item>
       <title>MS Paint clássico direto no navegador</title>
@@ -177,6 +331,13 @@
       <description>&lt;p&gt;Não corra risco de perder seus contatos, armazene-os online e mantenha-os sincronizados com seu smartphone. Veremos como é fácil fazer isto utilizando uma conta Google num smartphone Android.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Fim do suporte ao Debian 6 (Squeeze) LTS</title>
+      <link>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</link>
+      <pubDate>Sun, 21 Feb 2016 01:02:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2016/02/fim-do-suporte-ao-debian-6-squeeze-lts.html</guid>
+      <description>&lt;p&gt;No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Como utilizar o Google Maps Off-line</title>
       <link>https://info.wsouza.com.br/2015/12/como-utilizar-google-maps-off-line.html</link>
       <pubDate>Tue, 01 Dec 2015 01:02:00 -0200</pubDate>
@@ -184,11 +345,11 @@
       <description>&lt;p&gt;Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Veja mais detalhes na dica abaixo.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Criar backup do WhatsApp no Google Drive</title>
-      <link>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</link>
-      <pubDate>Wed, 07 Oct 2015 22:25:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</guid>
-      <description>&lt;p&gt;A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone .&lt;/p&gt;</description>
+      <title>Cronograma de lançamento do Ubuntu 16.04</title>
+      <link>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</link>
+      <pubDate>Sun, 01 Nov 2015 13:12:00 -0200</pubDate>
+      <guid>https://info.wsouza.com.br/2015/11/cronograma-de-lancamento-do-ubuntu-16.04.html</guid>
+      <description>&lt;p&gt;Saiu o cronograma de lançamentos da próxima versão do Ubuntu, a 16.04 que será chamada de Xenial Xerus (Algo tipo &amp;ldquo;Esquilo simpático, amistoso&amp;rdquo;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cursos EAD gratuitos de TI</title>
@@ -252,13 +413,6 @@
       <pubDate>Tue, 09 Apr 2013 00:11:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2013/04/descobrir-telefone.html</guid>
       <description>&lt;p&gt;Antes da portabilidade era muito fácil saber de qual operadora era um telefone fixo ou um celular, mas após a portabilidade ficou difícil saber. Quando queremos aproveitar as promoções de uma operadora muitas vezes ficamos com medo de ligar para um número e este número ser da operadora Y e o seu é da operadora X e, se nos perdemos no tempo da ligação, os créditos acabarão rapidamente.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Xmarks - Sincronizando seus favoritos, abas e histórico</title>
-      <link>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</link>
-      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;http://www.xmarks.com/&#34;&gt;Xmarks&lt;/a&gt; é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

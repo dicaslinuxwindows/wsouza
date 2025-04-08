@@ -2,31 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows-10 on Dicas Linux e Windows</title>
-    <link>https://info.wsouza.com.br/tags/windows-10/</link>
+    <link>http://localhost:1313/tags/windows-10/</link>
     <description>Recent content in Windows-10 on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2020 20:06:00 -0300</lastBuildDate>
-    <atom:link href="https://info.wsouza.com.br/tags/windows-10/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Painel de Controle do Windows pode estar com os dias contados</title>
-      <link>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</link>
-      <pubDate>Sun, 29 Mar 2020 20:06:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</guid>
-      <description>&lt;p&gt;Ao que parece, a Microsoft vem trabalhando para acabar com o Painel de Controle, tradicional ferramenta onde ficam as configurações do Windows.&lt;/p&gt;</description>
-    </item>
+    <lastBuildDate>Fri, 14 Feb 2020 02:32:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/windows-10/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 2</title>
-      <link>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</link>
+      <link>http://localhost:1313/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</link>
       <pubDate>Fri, 14 Feb 2020 02:32:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
+      <guid>http://localhost:1313/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</guid>
       <description>&lt;p&gt;Como gerar uma mídia de instalação para o Windows 10 a partir da atualização do Windows 7. E o melhor de tudo: De forma gratuita através de uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atualizando o Windows 7 para o Windows 10 gratuitamente - Parte 1</title>
-      <link>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</link>
+      <link>http://localhost:1313/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</link>
       <pubDate>Thu, 13 Feb 2020 23:53:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
+      <guid>http://localhost:1313/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
       <description>&lt;p&gt;Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
     </item>
   </channel>

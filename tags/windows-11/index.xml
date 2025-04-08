@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows-11 on Dicas Linux e Windows</title>
-    <link>https://info.wsouza.com.br/tags/windows-11/</link>
+    <link>http://localhost:1313/tags/windows-11/</link>
     <description>Recent content in Windows-11 on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 07 Apr 2025 15:29:08 -0300</lastBuildDate>
-    <atom:link href="https://info.wsouza.com.br/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/windows-11/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacionais</title>
-      <link>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</link>
+      <link>http://localhost:1313/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</link>
       <pubDate>Mon, 07 Apr 2025 15:29:08 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</guid>
+      <guid>http://localhost:1313/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</guid>
       <description>&lt;p&gt;Considerando que este espaço estava há mais de 3 anos sem receber atualizações, é fato que muita coisa aconteceu dede janeiro de 2022.&#xA;Com o intuito de preencher este vazio, este artigo apresenta as versões estáveis e em desenvolvimento dos sistemas operacionais &lt;strong&gt;Debian&lt;/strong&gt;, &lt;strong&gt;Ubuntu&lt;/strong&gt;, &lt;strong&gt;Fedora&lt;/strong&gt;, &lt;strong&gt;Linux Mint&lt;/strong&gt; e &lt;strong&gt;Windows&lt;/strong&gt;. Além disso, mostra o ciclo de vida de cada versão e as previsões de lançamento das versões em desenvolvimento.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -8,31 +8,16 @@
     <loc>https://info.wsouza.com.br/categories/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/debian/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/debian-12/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/debian-13/</loc>
+    <loc>https://info.wsouza.com.br/tags/debian/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/fedora/</loc>
+    <loc>https://info.wsouza.com.br/tags/fedora/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/fedora-41/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/fedora-42/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/categories/linux-mint/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/linux-mint-22/</loc>
+    <loc>https://info.wsouza.com.br/tags/linux-mint/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/post/</loc>
@@ -41,25 +26,13 @@
     <loc>https://info.wsouza.com.br/tags/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/ubuntu/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-24.04/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-25.04/</loc>
+    <loc>https://info.wsouza.com.br/tags/ubuntu/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/windows/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/windows-11/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/windows-12/</loc>
+    <loc>https://info.wsouza.com.br/tags/windows/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</loc>
@@ -71,13 +44,7 @@
     <loc>https://info.wsouza.com.br/2022/01/fim-do-suporte-do-ubuntu-21-04.html</loc>
     <lastmod>2022-01-11T23:20:06-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-21.04/</loc>
-    <lastmod>2022-01-11T23:20:06-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</loc>
-    <lastmod>2022-01-05T16:30:27-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-22.04/</loc>
     <lastmod>2022-01-05T16:30:27-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</loc>
@@ -104,13 +71,13 @@
     <loc>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</loc>
     <lastmod>2021-03-29T23:51:00-03:00</lastmod>
   </url><url>
+    <loc>https://info.wsouza.com.br/categories/tutoriais/</loc>
+    <lastmod>2021-03-29T23:51:00-03:00</lastmod>
+  </url><url>
     <loc>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/tags/irpf/</loc>
-    <lastmod>2021-02-28T19:25:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/categories/tutoriais/</loc>
     <lastmod>2021-02-28T19:25:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2021/01/instalar-o-virtualbox-em-qualquer-distribuicao-linux.html</loc>
@@ -123,9 +90,6 @@
     <lastmod>2021-01-24T00:30:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2021/01/debian-bullseye-em-congelamento.html</loc>
-    <lastmod>2021-01-17T23:20:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/debian-bullseye/</loc>
     <lastmod>2021-01-17T23:20:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/tags/empacotamento/</loc>
@@ -146,16 +110,10 @@
     <loc>https://info.wsouza.com.br/2020/10/ubuntu2104-nome-revelado-e-desenvolvimento-iniciado.html</loc>
     <lastmod>2020-10-30T18:38:00-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/fedora-33/</loc>
-    <lastmod>2020-10-28T14:56:00-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2020/10/lancamento-fedora-33.html</loc>
     <lastmod>2020-10-28T14:56:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/10/ubuntu-groovy-gorilla-lancado.html</loc>
-    <lastmod>2020-10-22T23:58:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-20.10/</loc>
     <lastmod>2020-10-22T23:58:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/10/navegador-microsoft-edge-para-linux.html</loc>
@@ -182,7 +140,7 @@
     <loc>https://info.wsouza.com.br/2020/09/ubuntu-20-10-groovy-gorilla-kernel58-e-alguns-recursos.html</loc>
     <lastmod>2020-09-08T21:16:00-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/android/</loc>
+    <loc>https://info.wsouza.com.br/tags/android/</loc>
     <lastmod>2020-08-27T19:37:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/08/firefox-para-android-sofre-uma-significativa-atualizacao.html</loc>
@@ -190,9 +148,6 @@
   </url><url>
     <loc>https://info.wsouza.com.br/2020/08/lancado-o-navegador-firefox-80.html</loc>
     <lastmod>2020-08-25T23:09:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/debian-buster/</loc>
-    <lastmod>2020-08-01T22:51:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/08/lancada-5-atualizacao-do-debian-buster.html</loc>
     <lastmod>2020-08-01T22:51:00-03:00</lastmod>
@@ -210,9 +165,6 @@
     <lastmod>2020-05-25T01:12:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</loc>
-    <lastmod>2020-04-23T12:16:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-20.04/</loc>
     <lastmod>2020-04-23T12:16:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</loc>
@@ -239,9 +191,6 @@
     <loc>https://info.wsouza.com.br/2020/03/painel-de-controle-do-windows-pode-estar-com-os-dias-contados.html</loc>
     <lastmod>2020-03-29T20:06:00-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/windows-10/</loc>
-    <lastmod>2020-03-29T20:06:00-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/tags/java/</loc>
     <lastmod>2020-03-25T20:35:00-03:00</lastmod>
   </url><url>
@@ -266,9 +215,6 @@
     <loc>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-2.html</loc>
     <lastmod>2020-02-14T02:32:00-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/windows-7/</loc>
-    <lastmod>2020-02-14T02:32:00-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</loc>
     <lastmod>2020-02-13T23:53:00-03:00</lastmod>
   </url><url>
@@ -279,9 +225,6 @@
     <lastmod>2019-11-10T21:21:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2019/10/ubuntu-1910-chegou.html</loc>
-    <lastmod>2019-10-18T11:31:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-19.10/</loc>
     <lastmod>2019-10-18T11:31:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/categories/educacional/</loc>
@@ -345,9 +288,6 @@
     <lastmod>2019-05-05T21:46:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2019/04/chegou-o-ubuntu-1904-codinome-disco-dingo.html</loc>
-    <lastmod>2019-04-20T18:54:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-19.04/</loc>
     <lastmod>2019-04-20T18:54:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2019/03/microsoft-edge-agora-e-baseado-no-chromium.html</loc>
@@ -449,9 +389,6 @@
     <loc>https://info.wsouza.com.br/2018/01/fim-do-suporte-ao-windows-8-1.html</loc>
     <lastmod>2018-01-16T02:02:00-02:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/windows-8/</loc>
-    <lastmod>2018-01-16T02:02:00-02:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2018/01/utiizando-o-android-auto-em-qualquer-veiculo.html</loc>
     <lastmod>2018-01-09T03:41:00-02:00</lastmod>
   </url><url>
@@ -491,9 +428,6 @@
     <loc>https://info.wsouza.com.br/2015/10/ubuntu-1510-lancado.html</loc>
     <lastmod>2015-10-22T23:50:00-02:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-15.10/</loc>
-    <lastmod>2015-10-22T23:50:00-02:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</loc>
     <lastmod>2015-10-07T22:25:00-03:00</lastmod>
   </url><url>
@@ -504,12 +438,6 @@
     <lastmod>2015-09-29T23:09:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2015/04/debian-8-jessie-e-ubuntu-1504-vivid.html</loc>
-    <lastmod>2015-04-27T00:24:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/debian-jessie/</loc>
-    <lastmod>2015-04-27T00:24:00-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu-15.04/</loc>
     <lastmod>2015-04-27T00:24:00-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2015/04/configurar-ubuntu-com-ubuntu-tweak.html</loc>

@@ -6,8 +6,15 @@
     <description>Recent content in Tutoriais on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Feb 2021 19:25:00 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 23:51:00 -0300</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/categories/tutoriais/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Edge-Dev suporta login e sincronização no Linux</title>
+      <link>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</link>
+      <pubDate>Mon, 29 Mar 2021 23:51:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2021/03/microsoft-edge-dev-suporta-login-e-sincronizacao-no-linux.html</guid>
+      <description>&lt;p&gt;Em tempo: Na última semana a versão Linux do Microsoft Edge passou a suportar login e sincronização entre dispositivos, algo que ainda não era permitido. Veja nesta matéria como ativar.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Instalando o programa do IRPF 2021 no Debian e Fedora</title>
       <link>https://info.wsouza.com.br/2021/02/instalando-o-programa-do-irpf-no-debian-e-fedora.html</link>
@@ -30,11 +37,25 @@
       <description>&lt;p&gt;Veja nesta matéria como ativar o suporte e instalar pacotes Snap e Flatpak em distribuições Linux, além de um esboço sobre pacotes de aplicativos nas distribuições Linux.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</title>
+      <link>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</link>
+      <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
+      <description>&lt;p&gt;Após o &lt;a href=&#34;https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html&#34;&gt;lançamento oficial do Ubuntu 20.04&lt;/a&gt; vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>3 maneiras de gravar uma imagem ISO num pendrive utilizando Linux</title>
       <link>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</link>
       <pubDate>Mon, 20 Apr 2020 02:17:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html</guid>
       <description>&lt;p&gt;Nesta matéria mostro 3 opções para gravar imagens ISO num pendrive, tornando possível &amp;ldquo;rodar&amp;rdquo; sua distribuição Linux diretamente nele.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tema Yaru do Ubuntu no Debian e em outras distribuições Linux</title>
+      <link>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</link>
+      <pubDate>Tue, 31 Mar 2020 21:07:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2020/03/tema-yaru-do-ubuntu-no-debian-e-em-outras-distribuicoes-linux.html</guid>
+      <description>&lt;p&gt;Veja aqui como deixar outras distribuições Linux com a mesma aparência do novo Ubuntu 20.04 instalando o novo tema Yaru.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados</title>
@@ -77,6 +98,13 @@
       <pubDate>Thu, 13 Feb 2020 23:53:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2020/02/atualizando-o-windows-7-para-o-windows-10-gratuitamente-pt-1.html</guid>
       <description>&lt;p&gt;Como atualizar o Windows 7 para o Windows 10 de forma gratuita utilizando uma ferramenta disponibilizada pela própria Microsoft.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gosta das fontes do Ubuntu? Veja como instalar em seu sistema Linux e deixá-lo com a mesma aparência do Ubuntu</title>
+      <link>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</link>
+      <pubDate>Mon, 19 Aug 2019 13:25:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/08/gosta-das-fontes-ubuntu-veja-como-instalar-em-seu-sistema-linux-e-deixa-lo-com-a-mesma-aparencia-do-ubuntu.html</guid>
+      <description>&lt;p&gt;Veja nesta matéria como personalizar o visual de seu sistema operacional instalando as fontes do Ubuntu.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Debian Buster - Instalação limpa com Dual Boot</title>
@@ -184,6 +212,13 @@
       <description>&lt;p&gt;Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.&lt;br&gt;&#xA;Mas como? A resposta é bem simples, veja na sequência:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Criar backup do WhatsApp no Google Drive</title>
+      <link>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</link>
+      <pubDate>Wed, 07 Oct 2015 22:25:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2015/10/backup-do-whatsapp-no-google-drive.html</guid>
+      <description>&lt;p&gt;A partir da versão 2.12.303 do WhatsApp para Android permite que você crie um backup privado do seu histórico de conversas, mensagens de voz, vídeos e imagens no Google Drive, função ideal para quem deseja ter um backup de seus dados em caso de perda ou mesmo troca do smartphone .&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Como instalar a central de programas igual a do Ubuntu no Debian</title>
       <link>https://info.wsouza.com.br/2015/09/como-instalar-central-de-programas.html</link>
       <pubDate>Tue, 29 Sep 2015 23:09:00 -0300</pubDate>
@@ -224,6 +259,13 @@
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
       <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Xmarks - Sincronizando seus favoritos, abas e histórico</title>
+      <link>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</link>
+      <pubDate>Sat, 23 Feb 2013 00:34:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2013/02/xmarks-sincronizando-seus-favoritos.html</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.xmarks.com/&#34;&gt;Xmarks&lt;/a&gt; é uma extensão para Firefox, Chrome, IE e Safari que permite manter os favoritos, abas abertas e histórico sincronizados automaticamente entre os estes navegadores em Windows, Linux e Mac. A instalação e configuração é muito simples e vamos mostrar como fazer no Firefox e no Chrome.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Remastersys - Um ótimo utilitário de backup para Ubuntu</title>

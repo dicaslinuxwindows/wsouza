@@ -2,25 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu-22.04 on Dicas Linux e Windows</title>
-    <link>https://info.wsouza.com.br/tags/ubuntu-22.04/</link>
+    <link>http://localhost:1313/tags/ubuntu-22.04/</link>
     <description>Recent content in Ubuntu-22.04 on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jan 2022 16:30:27 -0300</lastBuildDate>
-    <atom:link href="https://info.wsouza.com.br/tags/ubuntu-22.04/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Novidades Ubuntu 22.04 LTS - Jammy Jellyfish</title>
-      <link>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</link>
-      <pubDate>Wed, 05 Jan 2022 16:30:27 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html</guid>
-      <description>&lt;p&gt;A próxima versão do Ubuntu, 22.04, será chamada de Jammy Jellyfish e deverá ser lançada em abril. Veja nesta matéria o que vamos encontrar neste novo Ubuntu.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tema do Ubuntu com nova cor</title>
-      <link>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</link>
-      <pubDate>Tue, 04 Jan 2022 19:04:53 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2022/01/tema-do-ubuntu-com-nova-cor.html</guid>
-      <description>&lt;p&gt;O Ubuntu 22.04 será lançado com uma alteração em seu tema padrão, o Yaru, que passará a ter destaque para a cor laranja.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/tags/ubuntu-22.04/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

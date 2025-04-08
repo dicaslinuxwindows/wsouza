@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu-20.04 on Dicas Linux e Windows</title>
-    <link>https://info.wsouza.com.br/tags/ubuntu-20.04/</link>
+    <link>http://localhost:1313/tags/ubuntu-20.04/</link>
     <description>Recent content in Ubuntu-20.04 on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 23 Apr 2020 12:16:00 -0300</lastBuildDate>
-    <atom:link href="https://info.wsouza.com.br/tags/ubuntu-20.04/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ubuntu-20.04/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Instalando ou atualizando o Ubuntu 20.04 Focal Fossa</title>
-      <link>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</link>
+      <link>http://localhost:1313/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</link>
       <pubDate>Thu, 23 Apr 2020 12:16:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
+      <guid>http://localhost:1313/2020/04/instalando-ou-atualizando-o-ubuntu-20-04-focal-fossa.html</guid>
       <description>&lt;p&gt;Após o &lt;a href=&#34;https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html&#34;&gt;lançamento oficial do Ubuntu 20.04&lt;/a&gt; vamos ver nesta matéria algumas opções para obtê-lo e usufruir de todas as suas funcionalidades. Confira.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ubuntu 20.04 LTS Focal Fossa é lançado oficialmente</title>
-      <link>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</link>
+      <link>http://localhost:1313/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</link>
       <pubDate>Thu, 23 Apr 2020 11:38:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
+      <guid>http://localhost:1313/2020/04/ubuntu-2004-lts-focal-fossa-e-lancado-oficialmente.html</guid>
       <description>&lt;p&gt;Saiu oficialmente a nova versão de uma das distribuições Linux mais populares, o Ubuntu em sua versão 20.04 LTS, com suporte de longo prazo. Veja nesta matéria as notas de lançamento.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Saiu a versão Beta do Ubuntu 20.04 Focal Fossa</title>
-      <link>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</link>
+      <link>http://localhost:1313/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</link>
       <pubDate>Fri, 03 Apr 2020 23:50:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</guid>
+      <guid>http://localhost:1313/2020/04/saiu-versao-beta-do-ubuntu-2004-focal-fossa.html</guid>
       <description>&lt;p&gt;No dia 02/04/2020 saiu a versão beta do Ubuntu 20.04 Focal Fossa. Veja nesta matéria o que falta para a versão final e como obter esta versão.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Notícias sobre o Ubuntu 20.04 LTS</title>
-      <link>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</link>
+      <link>http://localhost:1313/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</link>
       <pubDate>Sun, 01 Mar 2020 23:45:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</guid>
+      <guid>http://localhost:1313/2020/03/noticias-sobre-o-ubuntu-20-04-lts.html</guid>
       <description>&lt;p&gt;O Ubuntu 20.04 LTS será lançado em abril. Nos últimos dias saíram muitas notícias a respeito de seu lançamento. Confira a seguir.&lt;/p&gt;</description>
     </item>
   </channel>
