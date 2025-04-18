@@ -160,7 +160,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Em breve o aplicativo do Gmail terá novidades na sua interface. Confira a seguir quais são estas novidades.</p>
 <p>Nos últimos tempos o aplicativo do Gmail tem recebido várias atualizações. Quando foi anunciado o <a href="https://info.wsouza.com.br/2018/10/google-encerra-google-e-inbox-by-gmail.html">encerramento do Inbox</a>, foi mostrado que várias das funcionalidades daquele aplicativo já estavam sendo adicionadas ao aplicativo do Gmail.<br>
 Recentemente a Google anunciou que o aplicativo vai receber o <em>Material Theme</em>, que vem sendo adotado por todos os produtos da companhia. Assim, a interface do aplicativo (IOS/Android) será redesenhada, ficando com uma aparência mais limpa e moderna, além de algumas facilidades na visualização das mensagens e dos anexos. Serão 3 opções de visualização: Padrão, Confortável e Compacta.<br>
@@ -602,4 +602,18 @@ A novidade já foi lançada e em breve estará disponível para todos os usuári
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

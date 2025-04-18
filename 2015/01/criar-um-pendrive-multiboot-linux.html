@@ -160,7 +160,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Hoje trago um pequeno tutorial de como criar um pendrive bootável com várias distribuições Linux. Num pendrive multiboot é possível instalar distribuições Linux, discos de recuperação, discos de antivírus, e mesmo versões do Windows. Graças à esta versatilidade de sistemas torna-se interessante e importante possuir um pendrive deste pois pode ser utilizado para testes e recuperação de sistemas instalados no HD. Confira a seguir:</p>
 <p>Para criar este pendrive utilizaremos o Yumi, <a href="http://www.pendrivelinux.com/yumi-multiboot-usb-creator/">disponível aqui</a>, <strong>apenas para Windows</strong>. Se precisa criar uma Live USB e está utilizado um sistema Linux, veja como fazer em <a href="https://info.wsouza.com.br/2020/04/3-maneiras-de-gravar-uma-imagem-iso-num-pendrive-utilizando-linux.html">3 maneiras de gravar uma imagem ISO num Pendrive utilizando Linux</a>.</p>
 <p>Para utilizar o Yumi não é necessário instalar nada, apenas clique no executável e vamos iniciar.<br>
@@ -612,4 +612,18 @@ Será apresentada a tela abaixo onde escolhemos qual unidade usb utilizaremos, s
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

@@ -147,6 +147,7 @@
 		<h1 class="main__title">Paint</h1>
 	</header><article class="list__item post">
 	
+
 	<header class="list__header">
 		<h2 class="list__title post__title">
 			<a href="/2018/04/ms-paint-classico-direto-no-navegador.html" rel="bookmark">
@@ -170,6 +171,7 @@
 	</div>
 </article><article class="list__item post">
 	
+
 	<header class="list__header">
 		<h2 class="list__title post__title">
 			<a href="/2017/07/fim-do-paint.html" rel="bookmark">
@@ -557,4 +559,18 @@
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

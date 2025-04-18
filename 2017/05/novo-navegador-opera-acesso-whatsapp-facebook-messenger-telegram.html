@@ -159,7 +159,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Há pouco tempo foi lançada a nova versão do navegador Opera, a 45. Esta versão traz algumas novidades que tornam o navegador mais interessante ainda, veja a seguir.</p>
 <p>Dentre estas novidades está a integração com alguns dos clientes de bate papo mais populares do momento, como WhatsApp, Facebook Messenger e Telegram. O mais interessante de tudo é que não é necessário instalar nenhum tipo de plugin adicional, basta instalar o Opera, ativar e sair utilizando.</p>
 <p>O acesso aos botões dos navegadores fica na barra de ferramentas à esquerda. Veja abaixo como fica a janela após ativadas as opções:</p>
@@ -599,4 +599,18 @@
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

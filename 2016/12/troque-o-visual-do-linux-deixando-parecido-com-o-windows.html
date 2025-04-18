@@ -162,7 +162,7 @@ Mas como? A resposta é bem simples, veja na sequência:">
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Esta dica é uma ótima maneira de introduzir usuários Windows ao universo Linux, sem causar estranheza aos mesmos.<br>
 Mas como? A resposta é bem simples, veja na sequência:</p>
 <p>Muita gente que está acostumada com o Windows mal conhecem detalhes do mesmo, pois utilizam apenas o navegador para acessar a internet, logo, não sentirão diferença pois o seu sistema Linux ficará com a mesma aparência do Windows 7 ou 8.<br>
@@ -616,4 +616,18 @@ Faremos a transformação em 3 passos apenas instalando um tema do Windows e alt
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

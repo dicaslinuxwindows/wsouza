@@ -160,7 +160,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Não corra risco de perder seus contatos, armazene-os online e mantenha-os sincronizados com seu smartphone. Veremos como é fácil fazer isto utilizando uma conta Google num smartphone Android.</p>
 <p>Para iniciar, é necessário uma conta Google. Nos smartphones Android, a conta Google é necessária para acessar a Play Store e atualizar aplicativos, se você consegue ter acesso e atualizar aplicativos, você possui uma conta Google.<br>
 Caso contrário, é possível fazer o cadastro no próprio dispositivo acessando Config&raquo;Contas&raquo;Adicionar Contas&raquo;Nova&raquo;Google, como vemos abaixo:</p>
@@ -602,4 +602,18 @@ O processo é o mesmo de adicionar um contato à agenda do aparelho. Como a agen
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

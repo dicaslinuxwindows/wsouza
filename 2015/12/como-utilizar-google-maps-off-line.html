@@ -160,7 +160,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Há aproximadamente um mês o Google Maps pode ser utilizado com uma conexão fraca, ou mesmo off-line. Veja mais detalhes na dica abaixo.</p>
 <p>Funciona assim: O usuário pode baixar uma área do mapa para visualizar quando estiver sem conexão com a internet. Esta área baixada pode ser um bairro, cidade, estado, país, etc.. Quanto maior a área selecionada, maior será o tamanho do arquivo a ser baixado. Desta maneira o Google Maps pode ser utilizado com um navegador GPS, tornando-se um GPS off-line, muito útil para quem possui plano de dados limitado.<br>
 Abaixo explicarei como baixar e utilizar o maps off-line.</p>
@@ -605,4 +605,18 @@ E você, o que achou? Comente aqui.</p>
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

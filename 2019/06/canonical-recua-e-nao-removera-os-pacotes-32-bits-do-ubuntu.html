@@ -161,7 +161,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Após pressões a Canonical comunicou que o Ubuntu continuará oferecendo suporte à arquitetura 32 bits nas próximas versões. Leia mais detalhes a seguir.</p>
 <p>Na semana passada foi anunciado que o Ubuntu não teria suporte para pacotes na arquitetura 32 bits (i386, x86), conforme divulgado em <a href="https://info.wsouza.com.br/2019/06/fim-do-ubuntu-32-bits.html">Fim do Ubuntu 32bits</a>.<br>
 Porém, devido à pressões da comunidade, usuários, desenvolvedores e &ldquo;parceiros&rdquo;, a empresa <a href="https://blog.ubuntu.com/2019/06/24/statement-on-32-bit-i386-packages-for-ubuntu-19-10-and-20-04-lts">soltou um comunicado oficial</a> informando que a história não será bem assim.<br>
@@ -612,4 +612,18 @@ Mas esta &ldquo;volta&rdquo; não será completa . Segundo o que foi divulgado n
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

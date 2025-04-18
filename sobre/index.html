@@ -151,7 +151,7 @@ Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais d
 	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">W.Souza</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Desde 2013, este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&hellip;
 O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.</p>
 <p>Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</p>
@@ -533,4 +533,18 @@ O público alvo são usuários com pouca experiência e tem o intuito de trazer 
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

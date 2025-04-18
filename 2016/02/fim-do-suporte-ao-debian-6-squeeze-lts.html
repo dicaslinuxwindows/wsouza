@@ -159,7 +159,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>No dia 29 de fevereiro de 2016 acabará o suporte LTS (Long Term Support) para o Debian 6.0, também conhecido como Debian Squeeze.</p>
 <p>A partir desta data não haverá mais suporte de segurança, ou seja, o sistema não receberá mais atualizações de segurança. O Debian Squeeze foi lançado em 2011 e recebeu suporte de 5 anos.<br>
 A próxima versão LTS será o Debian 7, conhecido como Wheezy, lançado em 2013, e hoje chamado de oldstable. O Debian Wheezy terá suporte e segurança até maio de 2018 e, provavelmente será substituído pelo Debian 8.0 (Jessie), lançado em 2015, sendo a versão stable do momento.</p>
@@ -594,4 +594,18 @@ Conheça mais sobre o Debian em <a href="http://www.debian.com/">http://www.debi
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

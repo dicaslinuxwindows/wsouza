@@ -161,12 +161,7 @@
 	</span>
 </div></div>
 		</header>
-		
-	<figure class="post__thumbnail thumbnail">
-		
-		<img class="thumbnail__image" src="https://3.bp.blogspot.com/-_ZefuP8Gas4/X0g0lKloDfI/AAAAAAAAP10/6OGNWxq-luc0moCYmgmv2HMdAzYZs4hkgCNcBGAsYHQ/s1600/Firefox_79_Android.png" alt="Firefox para Android sofre uma significativa atualização">
-		
-	</figure>
+
 <div class="post__toc toc">
 	<div class="toc__title">Conteúdo da página</div>
 	<div class="toc__menu">
@@ -643,4 +638,18 @@ Mas se há problemas, é bem possível que a Mozilla os corrija nos próximos la
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

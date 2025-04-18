@@ -161,7 +161,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Segundo informações que surgiram na internet durante as últimas semanas, a Microsoft anunciou que o Paint será descontinuado. Muitos usuários ficaram tristes com o anúncio, mas, não é bem isto que vai acontecer&hellip;</p>
 <p>Na semana passada a Microsoft anunciou que o tradicional MS Paint seria descontinuado, ou seja, não faria mais parte dos próximos sistemas da empresa e já ficaria indisponível nas próximas atualizações. Esta informação causou muitas reclamações de usuários que tradicionalmente utilizam o software para pequenos ajustes e alterações em imagens ou mesmo para desenhos à mão livre.<br>
 Nesta semana a Microsoft <a href="https://blogs.windows.com/windowsexperience/2017/07/24/ms-paint-stay/#vpbh3LHz6GPlbmHt.97">manifestou-se novamente sobre o assunto</a>, com a finalidade de &ldquo;acalmar&rdquo; estes usuários. Segundo a empresa, o MS Paint continuará a existir, mas ficará como software alternativo na loja de aplicativos (Windows Store). Em seu lugar o Paint 3D será o software nativo em todas as próximas versões do sistema da Microsoft enquanto o MS Paint será opcional.</p>
@@ -602,4 +602,18 @@ Nesta semana a Microsoft <a href="https://blogs.windows.com/windowsexperience/20
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

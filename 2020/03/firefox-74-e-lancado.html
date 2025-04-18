@@ -159,12 +159,7 @@
 	</span>
 </div></div>
 		</header>
-		
-	<figure class="post__thumbnail thumbnail">
-		
-		<img class="thumbnail__image" src="https://1.bp.blogspot.com/-hPQXMCrj5LU/XwfcmEjgVyI/AAAAAAAAPTs/oz1k5q9jBH0ufV01Dp_3beP4yZBUSWaJgCNcBGAsYHQ/s1600/Firefox_74.png" alt="Firefox 74 é lançado ">
-		
-	</figure>
+
 <div class="post__toc toc">
 	<div class="toc__title">Conteúdo da página</div>
 	<div class="toc__menu">
@@ -617,4 +612,18 @@ Mais informações sobre o Firefox 74: <a href="https://www.mozilla.org/en-US/fi
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+

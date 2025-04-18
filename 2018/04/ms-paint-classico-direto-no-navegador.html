@@ -161,7 +161,7 @@
 	</span>
 </div></div>
 		</header>
-		<div class="content post__content clearfix">
+<div class="content post__content clearfix">
 			<p>Conheça o JSPaint, um site web que traz a experiência do uso do MS Paint Clássico. Aparentemente todas as funções presentes no aplicativo clássico estão disponíveis e o JSPaint ainda apresenta algumas funções extras. A seguir vamos conhecer um pouco mais sobre o JSPaint.</p>
 <p><a href="https://draft.blogger.com/null"></a>O MS Paint foi um software que permitia desenhos &ldquo;a mão livre&rdquo; e pequenas edições, e esteve presente nas versões Windows até o 10, deixando de ser incluído nas atualizações do próprio Windows 10 <em>(leia mais em <a href="https://info.wsouza.com.br/2017/07/fim-do-paint.html">Fim do Paint</a>).</em></p>
 <p>O site JSPaint permite que os usuários que gostavam de clássico software da Microsoft não sintam-se órfãos. E possui a vantagem de ser multi-plataforma (funciona em Windows, Linux, Mobile&hellip;) já que o roda no navegador web. Para utilizar basta acessá-lo em <a href="https://jspaint.app/">https://jspaint.app</a> e verá a interface mostrada abaixo. Sua interface é exatamente igual a interface apresentada nas versões do Windows até o XP (as versões do Windows 7 em diante possuíam algumas pequenas diferenças). A forma de utilizar também é exatamente igual a versão que vinha instalada nos computadores. A interface é intuitiva e todo mundo já &ldquo;brincou&rdquo; no paint alguma vez na vida e, como o objetivo do post é apresentar o JSpaint, não vamos entrar em detalhes sobre seu funcionamento.</p>
@@ -601,4 +601,18 @@
 	</div>
 <script async defer src="/js/menu.js"></script>
 </body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
 </html>
+
