@@ -23,3 +23,4 @@
 		menu.addEventListener('transitionend', removeMenuTransition, false);
 	}
 }(document, window));
+

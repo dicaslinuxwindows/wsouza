@@ -724,17 +724,13 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 .post__thumbnail {
-	max-width: 1030px;/*Especifica a largura máxima possível da imagem*/
-	max-height: 320px; /*Especifica a altura máxima possível da imagem*/
+	max-width: 1030px;
 	margin: 0 0 20px;
 	margin-bottom: 0 0 1.25rem;
 }
 
 .post__thumbnail img {
-	max-width: 1030px;/*Especifica a largura máxima possível da imagem*/
-	max-height: 320px; /*Especifica a altura máxima possível da imagem*/	
 	width: 100%;
-	
 }
 
 .content a,
@@ -850,7 +846,6 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 	height: 32px;
 	padding: 8px;
 	margin-right: 6px;
-	text-align: justify;
 	background: #188bc7; /*Cor do botão antes das TAGS*/
 	fill: #fff;
 }
@@ -972,14 +967,11 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .list__thumbnail {
 	float: left;
 	margin: 0 20px 0 0;
-
 }
 
 .list__thumbnail img {
-	/*width: 50%; /*originalmente 100%*/
-	/*height: 50%;/*originalmente não existe*/
-	max-width: 257px;
-	max-height: 80px;
+	width: 100%;
+	max-width: 235px;
 }
 
 .list__footer-readmore {
