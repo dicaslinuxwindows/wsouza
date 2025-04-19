@@ -6,8 +6,15 @@
     <description>Recent content in Artigos on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Apr 2025 15:29:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 21:16:47 -0300</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/categories/artigos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distribuicões Linux com Suporte a Arquitetura 32 Bits em 2025</title>
+      <link>https://info.wsouza.com.br/2025/04/distribuicoes-linux-com-suporte-a-arquitetura-32-bits-em-2025.html</link>
+      <pubDate>Fri, 18 Apr 2025 21:16:47 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2025/04/distribuicoes-linux-com-suporte-a-arquitetura-32-bits-em-2025.html</guid>
+      <description>&lt;p&gt;Apesar do domínio da arquitetura de 64 bits na computação atual, algumas distribuições Linux ainda oferecem suporte à arquitetura de 32 bits — e têm um motivo para isso. Neste artigo, explicamos as diferenças entre as arquiteturas de 32 e 64 bits, por que o suporte a 32 bits ainda é relevante e listamos as principais distribuições Linux que ainda oferecem suporte ativo a essa arquitetura em 2025.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacionais</title>
       <link>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</link>
@@ -20,7 +27,7 @@
       <link>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</link>
       <pubDate>Sun, 06 Apr 2025 03:26:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</guid>
-      <description>Debian 13 &amp;ldquo;Trixie&amp;rdquo; – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome &amp;ldquo;Trixie&amp;rdquo;, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.&#xA;📜 Histórico do Projeto Debian Criado por Ian Murdock em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do software livre.</description>
+      <description>Debian 13 &amp;ldquo;Trixie&amp;rdquo; – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome &amp;ldquo;Trixie&amp;rdquo;, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.&#xA;##Histórico do Projeto Debian&#xA;Criado por Ian Murdock em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do software livre.</description>
     </item>
     <item>
       <title>Lançado o Ubuntu 21.04 Hirsute Hippo</title>
