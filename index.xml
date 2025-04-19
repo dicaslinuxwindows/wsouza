@@ -898,13 +898,6 @@
       <description>&lt;p&gt;Esta dica serve para quem precisou reinstalar o Windows e, quando reiniciou, percebeu que havia perdido o acesso ao Ubuntu. Isto é muito comum de acontecer e muitas pessoas, no desespero, acabam reinstalando o Ubuntu sem necessidade, perdendo tempo e às vezes, arquivos importantes. Existem diversas maneiras de instalar o Grub, mas a dica que segue foi a mais simples que utilizei até hoje e com alguns ajustes sempre funcionou.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
-      <link>https://info.wsouza.com.br/sobre/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://info.wsouza.com.br/sobre/</guid>
-      <description>Desde 2013, este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&amp;hellip; O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.&#xA;Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</description>
-    </item>
-    <item>
       <title>Revisitando o Debian-Edu (Skolelinux)</title>
       <link>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -917,6 +910,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://info.wsouza.com.br/rss/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://info.wsouza.com.br/sobre/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://info.wsouza.com.br/sobre/</guid>
+      <description>Desde 2013, este blog traz a experiência no uso de sistemas operacionais Linux, Windows, Mobile, e etc&amp;hellip; O público alvo são usuários com pouca experiência e tem o intuito de trazer dicas e tutoriais básicos, informando da maneira mais simples, mais próxima do usuário comum, de usuário para usuário.&#xA;Todo o conteúdo deste blog é livre. Fica autorizado seu uso em outros locais desde que cite a fonte.</description>
     </item>
   </channel>
 </rss>
