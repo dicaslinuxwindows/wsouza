@@ -25,11 +25,6 @@
   <meta itemprop="dateModified" content="2013-07-23T01:57:00-03:00">
   <meta itemprop="wordCount" content="726">
   <meta itemprop="keywords" content="Ccleaner">
-		
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="CCleaner -  Fazendo a limpeza de arquivos e informações desnecessárias">
-  <meta name="twitter:description" content="Quando desinstalamos um programa do computador, nem toda as informações sobre este programa são removidas. Estas informações ficam gravadas no registro do Windows e, com o tempo, o registro vai ficando cada vez com mais informações (muitas destas desnecessárias) e o Windows demora cada vez mais para iniciar, portanto torna-se muito necessário fazer periodicamente uma limpeza destas informações, isto não é uma tarefa muito complicada e existem diversos programas que fazem este trabalho.">
-
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -721,60 +716,10 @@ $(document).ready(function() {
 	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
 </div>   
     
+ 
 
-
-<div class="cookie-container">
-  <p>
-    I use cookies on this website to give you the best experience on my blog. To find out more, read our
-    <a href="/cookies/">privacy policy and cookie policy</a>.
-  </p>
-  <button class="cookie-btn">
-    Okay
-  </button>
-</div>
-<script>
-    const cookieContainer = document.querySelector(".cookie-container");
-    const cookieButton = document.querySelector(".cookie-btn");
-    const nopeCookieButton = document.querySelector(".nope-cookie-btn");
-    const cookieBannerDisplayed = "cookieBannerDisplayed"
-    const analyticsIsAllowed = "analyticsIsAllowed"
-    const analyics = () => {
-      (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-          (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-      ga('create', 'G-755N0HW50E', 'auto');
-      ga('send', 'pageview');
-    }
-    if (localStorage.getItem(analyticsIsAllowed) === "true") {
-      analyics();
-    }
-
-    cookieButton.addEventListener("click", () => {
-      cookieContainer.classList.remove("active");
-      localStorage.setItem(cookieBannerDisplayed, "true");
-      localStorage.setItem(analyticsIsAllowed, "true");
-      analyics();
-    });
-
-    nopeCookieButton.addEventListener("click", () => {
-      cookieContainer.classList.remove("active");
-      localStorage.setItem(cookieBannerDisplayed, "true");
-      localStorage.setItem(analyticsIsAllowed, "false");
-    });
-
-    setTimeout(() => {
-      if (!localStorage.getItem(cookieBannerDisplayed)) {
-        cookieContainer.classList.add("active");
-      }
-    }, 100);
-</script>
-
-    
-    
-    
+ 
+  
 </html>
 
 

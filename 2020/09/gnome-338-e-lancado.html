@@ -29,13 +29,6 @@ O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GN
   <meta itemprop="dateModified" content="2020-09-18T21:25:00-03:00">
   <meta itemprop="wordCount" content="507">
   <meta itemprop="keywords" content="GNOME">
-		
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Gnome 3.38 é lançado">
-  <meta name="twitter:description" content="O Gnome 3.38 foi lançado no dia 16 de setembro. Veja na matéria a seguir quais recursos, melhorias e novidades foram apresentados nesta nova versão.
-O GNOME é um ambiente de trabalho (também chamado de interface gráfica, ambiente gráfico…) para sistemas baseados em Linux. É supervisionado pela fundação GNOME e mantido por uma comunidade de desenvolvedores trabalham voluntariamente ou são funcionários de grandes empresas da área de tecnologia.
-O GNOME foi lançado em 1999 e a partir da versão 3, passou a ser chamado de GNOME Shell e trouxe mudanças significativas em relação à versão anterior.">
-
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -741,60 +734,10 @@ $(document).ready(function() {
 	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
 </div>   
     
+ 
 
-
-<div class="cookie-container">
-  <p>
-    I use cookies on this website to give you the best experience on my blog. To find out more, read our
-    <a href="/cookies/">privacy policy and cookie policy</a>.
-  </p>
-  <button class="cookie-btn">
-    Okay
-  </button>
-</div>
-<script>
-    const cookieContainer = document.querySelector(".cookie-container");
-    const cookieButton = document.querySelector(".cookie-btn");
-    const nopeCookieButton = document.querySelector(".nope-cookie-btn");
-    const cookieBannerDisplayed = "cookieBannerDisplayed"
-    const analyticsIsAllowed = "analyticsIsAllowed"
-    const analyics = () => {
-      (function (i, s, o, g, r, a, m) {
-        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-          (i[r].q = i[r].q || []).push(arguments)
-        }, i[r].l = 1 * new Date(); a = s.createElement(o),
-          m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-      })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-      ga('create', 'G-755N0HW50E', 'auto');
-      ga('send', 'pageview');
-    }
-    if (localStorage.getItem(analyticsIsAllowed) === "true") {
-      analyics();
-    }
-
-    cookieButton.addEventListener("click", () => {
-      cookieContainer.classList.remove("active");
-      localStorage.setItem(cookieBannerDisplayed, "true");
-      localStorage.setItem(analyticsIsAllowed, "true");
-      analyics();
-    });
-
-    nopeCookieButton.addEventListener("click", () => {
-      cookieContainer.classList.remove("active");
-      localStorage.setItem(cookieBannerDisplayed, "true");
-      localStorage.setItem(analyticsIsAllowed, "false");
-    });
-
-    setTimeout(() => {
-      if (!localStorage.getItem(cookieBannerDisplayed)) {
-        cookieContainer.classList.add("active");
-      }
-    }, 100);
-</script>
-
-    
-    
-    
+ 
+  
 </html>
 
 
