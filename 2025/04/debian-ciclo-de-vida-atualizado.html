@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<title>Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025) - Dicas Linux e Windows</title>
+	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
+	<meta name="description" content="">
+		<meta property="og:url" content="https://info.wsouza.com.br/2025/04/debian-ciclo-de-vida-atualizado.html">
+  <meta property="og:site_name" content="Dicas Linux e Windows">
+  <meta property="og:title" content="Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)">
+  <meta property="og:description" content="Este artigo é uma atualização do Debian - Curiosidades, informações, versões e ciclo de vida, publicado no dia 03/07/2019, e que trouxe um resumo de informações sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="post">
+    <meta property="article:published_time" content="2025-04-18T22:19:47-03:00">
+    <meta property="article:modified_time" content="2025-04-18T22:19:47-03:00">
+    <meta property="article:tag" content="Debian">
+
+		
+  <meta itemprop="name" content="Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)">
+  <meta itemprop="description" content="Este artigo é uma atualização do Debian - Curiosidades, informações, versões e ciclo de vida, publicado no dia 03/07/2019, e que trouxe um resumo de informações sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.">
+  <meta itemprop="datePublished" content="2025-04-18T22:19:47-03:00">
+  <meta itemprop="dateModified" content="2025-04-18T22:19:47-03:00">
+  <meta itemprop="wordCount" content="382">
+  <meta itemprop="keywords" content="Debian">
+		
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)">
+  <meta name="twitter:description" content="Este artigo é uma atualização do Debian - Curiosidades, informações, versões e ciclo de vida, publicado no dia 03/07/2019, e que trouxe um resumo de informações sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.">
+
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+
+	<link rel="stylesheet" href="/css/style.css">
+	
+
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+		
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-755N0HW50E"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-755N0HW50E');
+        }
+      </script>
+    
+  
+
+
+</head>
+<body class="body">
+	<div class="container container--outer">
+		<header class="header">
+	<div class="container header__container">
+		
+	<div class="logo logo--mixed">
+		<a class="logo__link" href="/" title="Dicas Linux e Windows" rel="home">
+			<div class="logo__item logo__imagebox">
+					<img class="logo__img" src="https://blogger.googleusercontent.com/img/a/AVvXsEiIl2noRmnGVLZlSyL10HlZDojXtx7ECMx8OCId7hsJSTD-cT_aXWybB5NA6aGORF3m5KhsbejbMrKItUa-EMTL3-aKBLAXiW7MzliqqR_hX5uR0cjp15F8-8JGF8oieC0shsU2Ic-Zz0Q3JEbHNJMBH3PytR8G6LLL4OPqVr1XWnlXMXh6N0wbe9aang">
+				</div><div class="logo__item logo__text">
+					<div class="logo__title">Dicas Linux e Windows</div>
+					
+				</div>
+		</a>
+	</div>
+		
+<nav class="menu">
+	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+		<span class="menu__btn-title" tabindex="-1">Menu</span>
+	</button>
+	<ul class="menu__list">
+		<li class="menu__item">
+			<a class="menu__link" href="/">
+				<i class='fa fa-home'></i>
+				<span class="menu__text">HOME</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/categories/artigos">
+				
+				<span class="menu__text">ARTIGOS</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/categories/dicas">
+				
+				<span class="menu__text">DICAS</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/categories/educacional">
+				
+				<span class="menu__text">EDUCACIONAL</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/categories/tutoriais">
+				
+				<span class="menu__text">TUTORIAIS</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/rss/">
+				
+				<span class="menu__text"> RSS</span>
+				
+			</a>
+		</li>
+		<li class="menu__item">
+			<a class="menu__link" href="/sobre/">
+				
+				<span class="menu__text">SOBRE</span>
+				
+			</a>
+		</li>
+	</ul>
+</nav>
+
+
+	</div>
+</header>
+		<div class="wrapper flex">
+			<div class="primary">
+			
+<main class="main" role="main">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)</h1>
+			<div class="post__meta meta"><div class="meta__item-author meta__item">
+	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">W.Souza</span>
+</div>
+<div class="meta__item-datetime meta__item">
+	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2025-04-18T22:19:47-03:00">Fri, Apr 18, 2025</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/artigos/" rel="category">Artigos</a>
+	</span>
+</div></div>
+		</header>
+		
+
+<div class="post__toc toc">
+	<div class="toc__title">Conteúdo da página</div>
+	<div class="toc__menu">
+		<nav id="TableOfContents">
+  <ul>
+    <li><a href="#versões-mais-recentes-do-debian">Versões mais recentes do Debian</a>
+      <ul>
+        <li><a href="#debian-11-bullseye">Debian 11 &ldquo;Bullseye&rdquo;</a></li>
+        <li><a href="#debian-12-bookworm">Debian 12 &ldquo;Bookworm&rdquo;</a></li>
+        <li><a href="#debian-13-trixie-em-desenvolvimento">Debian 13 &ldquo;Trixie&rdquo; (em desenvolvimento)</a></li>
+      </ul>
+    </li>
+    <li><a href="#ciclo-de-vida-do-debian">Ciclo de Vida do Debian</a>
+      <ul>
+        <li><a href="#suporte-padrão">Suporte padrão</a></li>
+        <li><a href="#lts-long-term-support">LTS (Long Term Support)</a></li>
+        <li><a href="#elts-extended-long-term-support">ELTS (Extended Long Term Support)</a></li>
+        <li><a href="#exemplo-do-ciclo-de-vida">Exemplo do ciclo de vida</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+	</div>
+</div><div class="content post__content clearfix">
+			<p>Este artigo é uma atualização do <a href="https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html" target="_blank">Debian - Curiosidades, informações, versões e ciclo de vida</a>, publicado no dia 03/07/2019, e que trouxe um resumo de informações sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.</p>
+<p>Desde a publicação de 2019, novas versões do Debian foram lançadas e o ciclo de vida de cada uma delas continuou seguindo o padrão da comunidade Debian. Esta atualização traz um complemento às versões mais recentes, suas principais características e os prazos de suporte associados.</p>
+<h2 id="versões-mais-recentes-do-debian">Versões mais recentes do Debian</h2>
+<h3 id="debian-11-bullseye">Debian 11 &ldquo;Bullseye&rdquo;</h3>
+<ul>
+<li><strong>Data de lançamento</strong>: 14 de agosto de 2021</li>
+<li><strong>Destaques</strong>:
+<ul>
+<li>Suporte nativo ao sistema de arquivos exFAT</li>
+<li>GNOME 3.38, KDE Plasma 5.20, LXQt 0.16, Xfce 4.16, entre outros</li>
+<li>Melhorias na segurança e estabilidade</li>
+</ul>
+</li>
+<li><strong>Link oficial</strong>: <a href="https://www.debian.org/News/2021/20210814.pt.html" target="_blank">Debian 11 &ldquo;Bullseye&rdquo; lançado</a></li>
+</ul>
+<hr>
+<h3 id="debian-12-bookworm">Debian 12 &ldquo;Bookworm&rdquo;</h3>
+<ul>
+<li><strong>Data de lançamento</strong>: 10 de junho de 2023</li>
+<li><strong>Destaques</strong>:
+<ul>
+<li>Novo repositório “non-free-firmware”</li>
+<li>GNOME 43, KDE Plasma 5.27, LXQt 1.2.0, Xfce 4.18, entre outros</li>
+<li>Suporte mais refinado para firmwares e novos hardwares</li>
+</ul>
+</li>
+<li><strong>Link oficial</strong>: <a href="https://www.debian.org/News/2023/20230610.pt.html" target="_blank">Debian 12 &ldquo;Bookworm&rdquo; lançado</a></li>
+</ul>
+<hr>
+<h3 id="debian-13-trixie-em-desenvolvimento">Debian 13 &ldquo;Trixie&rdquo; (em desenvolvimento)</h3>
+<ul>
+<li><strong>Previsão de lançamento</strong>: 2025</li>
+<li><strong>Status</strong>: Em fase de testes e desenvolvimento</li>
+<li><strong>Link oficial</strong>: <a href="https://www.debian.org/releases/trixie/" target="_blank">Informações sobre o Debian &ldquo;Trixie&rdquo;</a></li>
+</ul>
+<h2 id="ciclo-de-vida-do-debian">Ciclo de Vida do Debian</h2>
+<p>O Debian segue um modelo previsível de suporte para cada versão estável:</p>
+<h3 id="suporte-padrão">Suporte padrão</h3>
+<ul>
+<li>Aproximadamente <strong>3 anos</strong> de suporte completo após o lançamento oficial.</li>
+</ul>
+<hr>
+<h3 id="lts-long-term-support">LTS (Long Term Support)</h3>
+<ul>
+<li>Após o suporte padrão, cada versão recebe mais <strong>2 anos de atualizações de segurança críticas</strong>.</li>
+</ul>
+<hr>
+<h3 id="elts-extended-long-term-support">ELTS (Extended Long Term Support)</h3>
+<ul>
+<li>Versões selecionadas recebem <strong>suporte estendido adicional</strong>, especialmente em contextos corporativos e servidores legados.</li>
+</ul>
+<hr>
+<h3 id="exemplo-do-ciclo-de-vida">Exemplo do ciclo de vida</h3>
+<ul>
+<li>
+<p><strong>Debian 11 &ldquo;Bullseye&rdquo;</strong>:</p>
+<ul>
+<li>Suporte completo: até agosto de 2024</li>
+<li>LTS: até agosto de 2026</li>
+</ul>
+</li>
+<li>
+<p><strong>Debian 12 &ldquo;Bookworm&rdquo;</strong>:</p>
+<ul>
+<li>Suporte completo: até junho de 2026</li>
+<li>LTS: até junho de 2028</li>
+</ul>
+</li>
+<li>
+<p><strong>A imagem abaixo mostra o tempo de suporte LTS e ELTS das últimas versões</strong></p>
+</li>
+</ul>
+<p><a href="https://info.wsouza.com.br/img/posts/release_cicle_debian.png"><img src="https://info.wsouza.com.br/img/posts/release_cicle_debian.png" alt="" title="Debian - Ciclo de Vida Atualizado"></a></p>
+<hr>
+<p>Para detalhes oficiais sobre o Debian acesse:</p>
+<p><a href="https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html" target="_blank">Debian - Curiosidades, informações, versões e ciclo de vida</a><br>
+<a href="https://www.debian.org/intro/about">Sobre o Debian</a><br>
+<a href="https://www.debian.org/releases/">Versões</a><br>
+<a href="https://wiki.debian.org/DebianReleases">Ciclo de vida</a><br>
+<a href="https://wiki.debian.org/LTS">Debian Long Time Support (LTS)</a><br>
+<a href="https://wiki.debian.org/LTS/Extended">Debian Extended Long Time Support (ELTS)</a><br>
+<a href="https://www.debian.org/consultants/">Suporte pago</a><br>
+<a href="https://wiki.debian.org/DebianReleases">Debian Releases</a><br>
+<a href="https://www.debian.org/doc/">Documentação do Debian</a><br>
+<a href="https://www.debian.org/devel/">Canto dos desenvolvedores</a><br>
+<a href="https://www.debian.org/doc/manuals/debian-handbook/">Manual do Debian</a><br>
+<a href="https://wiki.debian.org/configura%C3%A7%C3%A3o%20repositorios%20PT%20BR">Repositórios</a><br>
+<a href="https://www.debian.org/distrib/">Obtendo o Debian</a><br>
+<a href="https://www.debian.org/News/weekly/">Acompanhe as notícias sobre o desenvolvimento do Debian</a><br>
+<a href="https://micronews.debian.org/">Debian Micronews</a></p>
+<hr>
+<p><em>Última atualização: 18 de abril de 2025</em></p>
+		</div>
+		<footer class="post__footer">
+			
+<div class="post__tags tags clearfix">
+	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item">
+			<a class="tags__link btn" href="/tags/debian/" rel="tag">Debian</a>
+		</li>
+	</ul>
+</div>
+		</footer>
+	</article>
+</main>
+
+  
+  
+  
+
+  <section class="social-share">
+	<p><b>Compartilhe nas redes sociais:</b></p>
+	 <ul class="share-icons">
+	  
+      
+      <li class="share-btn twitter">
+        <a href="https://twitter.com/intent/tweet?hashtags=codingnconcepts&amp;url=https%3a%2f%2finfo.wsouza.com.br%2f2025%2f04%2fdebian-ciclo-de-vida-atualizado.html&amp;text=Debian%20-%20Curiosidades%2c%20Informa%c3%a7%c3%b5es%2c%20Vers%c3%b5es%20e%20Ciclo%20de%20Vida%20%28Atualizado%20em%20abril%20de%202025%29" target="_blank" rel="noopener" aria-label="Compartilhe no Twitter" span class="fa fa-twitter" style="font-size:20px;color:#ffffff;">
+          
+          <p>Twitter</p>
+          </a>
+      </li>
+      
+
+      
+      
+      <li class="share-btn facebook">
+	<a href="https://www.facebook.com/sharer.php?u=https%3a%2f%2finfo.wsouza.com.br%2f2025%2f04%2fdebian-ciclo-de-vida-atualizado.html" target="_blank" rel="noopener" aria-label="Compartilhe no Facebook" span class="fa fa-facebook" style="font-size:20px;color:#ffffff;">
+         
+          <p>Facebook</p>
+          </a>
+      </li>
+      
+      
+      
+      
+      <li class="share-btn pinterest">
+        <a href="https://pinterest.com/pin/create/button/?url=&quot; + data:post.url.canonical + &quot;&amp;media=&quot; + data:post.firstImageUrl + &quot;&amp;description=&quot; + data:post.title'" target="_blank" rel="noopener" aria-label="Compartilhe no Pinterest" span class="fa fa-pinterest" style="font-size:20px;color:#ffffff;">
+          
+            <p>Pinterest</p>
+          </a>
+      </li>
+      
+
+      
+      
+      <li class="share-btn linkedin">
+        <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2finfo.wsouza.com.br%2f2025%2f04%2fdebian-ciclo-de-vida-atualizado.html&amp;source=https%3a%2f%2finfo.wsouza.com.br%2f2025%2f04%2fdebian-ciclo-de-vida-atualizado.html&amp;title=Debian%20-%20Curiosidades%2c%20Informa%c3%a7%c3%b5es%2c%20Vers%c3%b5es%20e%20Ciclo%20de%20Vida%20%28Atualizado%20em%20abril%20de%202025%29&amp;summary=Debian%20-%20Curiosidades%2c%20Informa%c3%a7%c3%b5es%2c%20Vers%c3%b5es%20e%20Ciclo%20de%20Vida%20%28Atualizado%20em%20abril%20de%202025%29" target="_blank" rel="noopener" aria-label="Compartilhe no LinkedIn" span class="fa fa-linkedin" style="font-size:20px;color:#ffffff;">
+          
+            <p>LinkedIn</p>
+          </a>
+      </li>
+      
+
+      
+      
+      <li class="share-btn whatsapp">
+        <a href="whatsapp://send?text=Debian%20-%20Curiosidades%2c%20Informa%c3%a7%c3%b5es%2c%20Vers%c3%b5es%20e%20Ciclo%20de%20Vida%20%28Atualizado%20em%20abril%20de%202025%29%2c%20by%20Dicas%20Linux%20e%20Windows%0a%0a%0ahttps%3a%2f%2finfo.wsouza.com.br%2f2025%2f04%2fdebian-ciclo-de-vida-atualizado.html%0a" target="_blank" span class="fa fa-whatsapp" style="font-size:20px;color:#ffffff;">
+         
+          <p>WhatsApp</p>
+        </a>
+      </li>
+      
+
+      
+      
+      <li class="share-btn email">
+        <a href="mailto:?subject=Dicas%20Linux%20e%20Windows - Debian%20-%20Curiosidades%2c%20Informa%c3%a7%c3%b5es%2c%20Vers%c3%b5es%20e%20Ciclo%20de%20Vida%20%28Atualizado%20em%20abril%20de%202025%29.&amp;body=Debian%20-%20Curiosidades%2c%20Informa%c3%a7%c3%b5es%2c%20Vers%c3%b5es%20e%20Ciclo%20de%20Vida%20%28Atualizado%20em%20abril%20de%202025%29%2c%20by%20Dicas%20Linux%20e%20Windows%0a%0a%0ahttps%3a%2f%2finfo.wsouza.com.br%2f2025%2f04%2fdebian-ciclo-de-vida-atualizado.html%0a" target="_blank" span class="fa fa-envelope-o" style="font-size:20px;color:#ffffff;">
+         
+          <p>Email</p>
+        </a>
+      </li>
+    </ul>
+  </section>
+  
+
+
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="W.Souza avatar" src="https://blogger.googleusercontent.com/img/a/AVvXsEhaExMFQx736MAebmuSzIyJaP4wXZqkvKAhf5qwME44A31K4kwqWj0dqCDisf-Jh9QQiwZmVPandEty4NfHQIZ2nS-kucDGBk4nMR7RGeklzk4NwEseZmNQ97hjQmo1kNdUGQyAhdNb5piMf4F05_fMsnr8dOu-XN7xNy-hig6tiswpp5sNANkGkvArkw" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">Sobre W.Souza</span>
+	</div>
+	<div class="authorbox__description">
+		Usuário de Debian e Windows.
+	</div>
+</div>
+
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/2025/04/distribuicoes-linux-com-suporte-a-arquitetura-32-bits-em-2025.html" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Anterior</span>
+			<p class="pager__title">Distribuicões Linux com Suporte a Arquitetura 32 Bits em 2025</p>
+		</a>
+	</div>
+</nav>
+
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "dicaslinuxewindows" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+
+
+			</div>
+			<aside class="sidebar">
+<div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<input class="widget-search__field" type="search" placeholder="Buscar…" value="" name="q" aria-label="Buscar…">
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="https://info.wsouza.com.br/">
+	</form>
+</div>
+<div class="widget-recent widget">
+	<h4 class="widget__title">Postagens recentes</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/2025/04/debian-ciclo-de-vida-atualizado.html">Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2025/04/distribuicoes-linux-com-suporte-a-arquitetura-32-bits-em-2025.html">Distribuicões Linux com Suporte a Arquitetura 32 Bits em 2025</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html">Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacionais</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2025/04/debian13-primeiras-informacoes.html">Debian 13 &#34;Trixie&#34;: Histórico, Novidades e Previsão de Lançamento</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2022/01/fim-do-suporte-do-ubuntu-21-04.html">Fim do suporte do Ubuntu 21.04</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2022/01/novidades-ubuntu-22.04-lts-jammy-jellyfish.html">Novidades Ubuntu 22.04 LTS - Jammy Jellyfish</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2022/01/tema-do-ubuntu-com-nova-cor.html">Tema do Ubuntu com nova cor</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/04/lancado-o-ubuntu-2104-hirsute-hippo.html">Lançado o Ubuntu 21.04 Hirsute Hippo</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/04/primeiras-impressoes-sobre-o-gnome-40.html">Primeiras impressões sobre o GNOME 40</a></li>
+			<li class="widget__item"><a class="widget__link" href="/2021/04/ubuntu2104-cronograma-de-lancamento-beta-e-informacoes.html">Ubuntu 21.04 - Beta, Cronograma de Lançamento e Informações </a></li>
+		</ul>
+	</div>
+</div><h4 class="widget__title">Tags</h4>
+<div id="theme-tagcloud" class="col-sm-12" style="margin-bottom: 15px;">
+
+
+
+
+
+
+
+  
+<a href="/tags/ubuntu" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ubuntu <span class="badge">(38)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/debian" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian <span class="badge">(28)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/windows" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">windows <span class="badge">(15)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/android" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">android <span class="badge">(10)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/fedora" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">fedora <span class="badge">(9)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/ferramentas-linux" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ferramentas-linux <span class="badge">(8)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/firefox" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">firefox <span class="badge">(7)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/linux-mint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">linux-mint <span class="badge">(7)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/microsoft%20edge" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">microsoft edge <span class="badge">(5)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/redes-sociais" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">redes-sociais <span class="badge">(5)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/arquiteturas" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquiteturas <span class="badge">(4)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/irpf" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">irpf <span class="badge">(4)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/java" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">java <span class="badge">(4)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/temas" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">temas <span class="badge">(4)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/whatsapp" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">whatsapp <span class="badge">(4)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/m%c3%a1quina-virtual" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">máquina-virtual <span class="badge">(3)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/sis-mirage-3-graphics" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">sis-mirage-3-graphics <span class="badge">(3)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/armazenamento-na-nuvem" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">armazenamento-na-nuvem <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/gnome" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gnome <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/paint" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">paint <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/recuperar-grub" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">recuperar-grub <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/remaster" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">remaster <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/adblock-plus" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">adblock-plus <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/arquivo-da-internet" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">arquivo-da-internet <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/empacotamento" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">empacotamento <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/gcompris" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gcompris <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/gmail" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gmail <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/gparted" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">gparted <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/libre-office" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">libre-office <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/open-source" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">open-source <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/pendrive-multiboot" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">pendrive-multiboot <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/vlc" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">vlc <span class="badge">(1)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/webmin" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">webmin <span class="badge">(1)</span></a>
+
+
+
+
+</div>
+
+<div class="widget-social widget">
+	<h4 class="widget-social__title widget__title">Social</h4>
+	<div class="widget-social__content widget__content">
+		<div class="widget-social__item widget__item">
+			<a class="widget-social__link widget__link btn" title="Email" href="mailto:info@wsouza.com.br">
+				<svg class="widget-social__link-icon icon icon-mail" width="24" height="24" viewBox="0 0 416 288"><path d="m0 16v256 16h16 384 16v-16-256-16h-16-384-16zm347 16-139 92.5-139-92.5zm-148 125.5 9 5.5 9-5.5 167-111.5v210h-352v-210z"/></svg>
+				<span>info@wsouza.com.br</span>
+			</a>
+		</div>
+
+		
+	</div>
+</div>
+</aside>
+		</div>
+		<footer class="footer">
+	<div class="container footer__container flex">
+		
+		<div class="footer__copyright">
+			&copy; 2025 Dicas Linux e Windows | Ao compartilhar, cite a fonte .
+			<span class="footer__copyright-credits">Gerado com <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> com o tema <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a>.</span>
+		</div>
+	</div>
+</footer>
+	</div>
+<script async defer src="/js/menu.js"></script>
+</body>
+	
+ <script>
+$(document).ready(function() {
+	$(&#39;subir&#39;).click(function(){
+		$(&#39;html, body&#39;).animate({scrollTop:0}, &#39;slow&#39;);
+		return false;
+	});
+});
+    </script> 
+ <div id='subir'>
+	<a href='#' id='subir' title='Voltar ao topo'><span class='fa fa-chevron-circle-up'/></a>
+</div>   
+    
+</html>
+

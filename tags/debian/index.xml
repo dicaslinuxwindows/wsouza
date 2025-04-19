@@ -6,8 +6,15 @@
     <description>Recent content in Debian on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Apr 2025 15:29:08 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 22:19:47 -0300</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)</title>
+      <link>https://info.wsouza.com.br/2025/04/debian-ciclo-de-vida-atualizado.html</link>
+      <pubDate>Fri, 18 Apr 2025 22:19:47 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2025/04/debian-ciclo-de-vida-atualizado.html</guid>
+      <description>&lt;p&gt;Este artigo é uma atualização do &lt;a href=&#34;https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html&#34; target=&#34;_blank&#34;&gt;Debian - Curiosidades, informações, versões e ciclo de vida&lt;/a&gt;, publicado no dia 03/07/2019, e que trouxe um resumo de informações sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Versões Estáveis e em Desenvolvimento dos Principais Sistemas Operacionais</title>
       <link>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</link>
@@ -20,7 +27,7 @@
       <link>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</link>
       <pubDate>Sun, 06 Apr 2025 03:26:00 -0200</pubDate>
       <guid>https://info.wsouza.com.br/2025/04/debian13-primeiras-informacoes.html</guid>
-      <description>Debian 13 &amp;ldquo;Trixie&amp;rdquo; – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome &amp;ldquo;Trixie&amp;rdquo;, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.&#xA;##Histórico do Projeto Debian&#xA;Criado por Ian Murdock em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do software livre.</description>
+      <description>Debian 13 &amp;ldquo;Trixie&amp;rdquo; – Um Novo Capítulo na História do Projeto Debian O Debian 13, codinome &amp;ldquo;Trixie&amp;rdquo;, é a próxima grande versão da distribuição Debian, uma das mais respeitadas do universo Linux. Nesta dica, relembraremos o histórico do projeto, seu ciclo de vida, principais mudanças da nova versão e a previsão oficial de lançamento.&#xA;Histórico do Projeto Debian Criado por Ian Murdock em agosto de 1993, o Debian surgiu como um projeto comunitário guiado pelos princípios do software livre.</description>
     </item>
     <item>
       <title>Primeiras impressões sobre o GNOME 40</title>
@@ -125,7 +132,7 @@
       <link>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</link>
       <pubDate>Wed, 03 Jul 2019 00:05:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2019/07/debian-curiosidades-informacoes-suas-versoes-e-ciclo-de-vida.html</guid>
-      <description>&lt;p&gt;Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Nesta matéria fiz um resumo de informações e comentei um pouco sobre o Debian, como funciona seu ciclo de desenvolvimento, seu ciclo de vida e mais algumas informações básicas, úteis e necessárias.&lt;/p&gt;&#xA;&lt;p&gt;Nova versão desta matéria publicada em 18/04/2025 - &lt;a href=&#34;https://info.wsouza.com.br/2025/04/debian-ciclo-de-vida-atualizado.html&#34; target=&#34;_blank&#34;&gt;Debian - Curiosidades, Informações, Versões e Ciclo de Vida (Atualizado em abril de 2025)&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Atualizando para o Debian Buster </title>
