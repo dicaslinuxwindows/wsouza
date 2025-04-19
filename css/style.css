@@ -957,7 +957,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 .list__header {
 	margin-bottom: 20px;
-	margin-bottom: .625rem;
+	margin-bottom: .500rem;
 }
 
 .list__title {
@@ -1555,3 +1555,53 @@ color: #e95420;
 }
 
 /*FIM BOTÃO VOLTAR AO TOPO*/
+
+
+/*INÍCIO COOKIE CONSENT*/
+
+.wrapper {
+    padding: 2rem;
+}
+
+.cookie-container {
+    position: fixed;
+    bottom: -100%;
+    left: 0;
+    right: 0;
+    background: #2f3640;
+    color: #f5f6fa;
+    padding: 0 32px;
+    box-shadow: 0 -2px 16px rgba(47, 54, 64, 0.39);
+
+    transition: 400ms;
+}
+
+.cookie-container.active {
+    bottom: 0;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cookie-container>p {
+    margin-top: .5rem;
+}
+
+.cookie-container a {
+    color: #f5f6fa;
+}
+
+.cookie-btn {
+    margin-top: 1rem;
+    background: #e84118;
+    border: 0;
+    color: #f5f6fa;
+    padding: .6rem 1.2rem;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+    border-radius: .5rem;
+    cursor: pointer;
+}
+
+/*FIM COOKIE CONSENT*/
