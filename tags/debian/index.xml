@@ -100,13 +100,6 @@
       <description>&lt;p&gt;Instalando e configurando a PATH do Oracle Java 13 no Debian e derivados. Se deseja a versão 14, que foi publicada recentemente, veja em &lt;a href=&#34;https://info.wsouza.com.br/2020/03/java-oracle-14-e-posteriores-no-debian-ubuntu-e-derivados.html&#34;&gt;Java Oracle 14 e posteriores no Debian, Ubuntu e Derivados&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Skolelinux, o Debian Educacional</title>
-      <link>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
-      <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
-      <guid>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
-      <description>&lt;p&gt;Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Como gravar a tela utilizando o VLC</title>
       <link>https://info.wsouza.com.br/2019/08/como-gravar-tela-utilizando-o-vlc.html</link>
       <pubDate>Sat, 10 Aug 2019 02:41:00 -0300</pubDate>
@@ -203,13 +196,6 @@
       <pubDate>Tue, 02 Apr 2013 00:23:00 -0300</pubDate>
       <guid>https://info.wsouza.com.br/2013/04/sis-mirage3.html</guid>
       <description>&lt;p&gt;Quem pretende adquirir um notebook destes que estão na faixa dos R$ 1000,00 e que, muitas vezes possuem um bom (ou razoável) poder de processamento e de memória, deve prestar bastante atenção em qual o chipset de vídeo que este notebook possui, pois você provavelmente estará adquirindo um chipset de vídeo de péssima qualidade que influenciará negativamente o bom funcionamento de seu equipamento.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Revisitando o Debian-Edu (Skolelinux)</title>
-      <link>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://wiki.debian.org/DebianEdu/Status/Bookworm&#34;&gt;https://wiki.debian.org/DebianEdu/Status/Bookworm&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

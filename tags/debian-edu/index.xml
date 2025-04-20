@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Debian-Edu on Dicas Linux e Windows</title>
+    <link>https://info.wsouza.com.br/tags/debian-edu/</link>
+    <description>Recent content in Debian-Edu on Dicas Linux e Windows</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 06 Oct 2019 22:41:00 -0300</lastBuildDate>
+    <atom:link href="https://info.wsouza.com.br/tags/debian-edu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skolelinux, o Debian Educacional</title>
+      <link>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
+      <pubDate>Sun, 06 Oct 2019 22:41:00 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</guid>
+      <description>&lt;p&gt;Conheça o Skolelinux, a versão do Debian voltada ao ambiente escolar. Mais detalhes na matéria a seguir.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Revisitando o Debian-Edu (Skolelinux)</title>
+      <link>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</guid>
+      <description>&lt;p&gt;Em &lt;strong&gt;2019&lt;/strong&gt;, publiquei &lt;a href=&#34;https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html&#34; target=&#34;_blank&#34;&gt;um artigo sobre o Skolelinux&lt;/a&gt;, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

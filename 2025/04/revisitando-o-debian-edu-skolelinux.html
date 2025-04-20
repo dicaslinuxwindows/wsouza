@@ -10,17 +10,17 @@
 		<meta property="og:url" content="https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html">
   <meta property="og:site_name" content="Dicas Linux e Windows">
   <meta property="og:title" content="Revisitando o Debian-Edu (Skolelinux)">
-  <meta property="og:description" content="https://wiki.debian.org/DebianEdu/Status/Bookworm">
+  <meta property="og:description" content="Em 2019, publiquei um artigo sobre o Skolelinux, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="post">
-    <meta property="article:tag" content="Debian">
+    <meta property="article:tag" content="Debian-Edu">
 
 		
   <meta itemprop="name" content="Revisitando o Debian-Edu (Skolelinux)">
-  <meta itemprop="description" content="https://wiki.debian.org/DebianEdu/Status/Bookworm">
-  <meta itemprop="wordCount" content="38">
-  <meta itemprop="keywords" content="Debian">
+  <meta itemprop="description" content="Em 2019, publiquei um artigo sobre o Skolelinux, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.">
+  <meta itemprop="wordCount" content="777">
+  <meta itemprop="keywords" content="Debian-Edu">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link rel="dns-prefetch" href="//fonts.googleapis.com">
 	<link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -149,51 +149,124 @@
 	<div class="toc__menu">
 		<nav id="TableOfContents">
   <ul>
-    <li><a href="#título">Título</a>
+    <li><a href="#o-que-é-o-debian-edu--skolelinux">O Que é o Debian Edu / Skolelinux?</a></li>
+    <li><a href="#o-debian-edu-no-debian-11-bullseye-um-passo-além-do-que-foi-mostrado-aqui-no-ano-de-2019">O Debian Edu no Debian 11 “Bullseye”: Um Passo Além do que foi mostrado aqui no ano de 2019</a></li>
+    <li><a href="#o-presente-debian-edu-com-debian-12-bookworm">O Presente: Debian Edu com Debian 12 “Bookworm”</a>
       <ul>
-        <li></li>
+        <li><a href="#1-principais-novidades">1. Principais Novidades</a></li>
+        <li><a href="#2-status-atual">2. Status Atual</a></li>
+        <li><a href="#3-download">3. Download</a></li>
       </ul>
     </li>
+    <li><a href="#o-futuro-o-que-esperar-do-skolelinux-no-debian-13-trixie">O Futuro: O Que Esperar do Skolelinux no Debian 13 “Trixie”</a>
+      <ul>
+        <li><a href="#1-expectativas-e-possíveis-melhorias">1. Expectativas e Possíveis Melhorias</a></li>
+        <li><a href="#2-desenvolvimento-comunitário">2. Desenvolvimento Comunitário</a></li>
+      </ul>
+    </li>
+    <li><a href="#referências">Referências</a></li>
   </ul>
 </nav>
 	</div>
 </div><div class="content post__content clearfix">
-			<p><a href="https://wiki.debian.org/DebianEdu/Status/Bookworm">https://wiki.debian.org/DebianEdu/Status/Bookworm</a></p>
-<h2 id="título">Título</h2>
+			<p>Em <strong>2019</strong>, publiquei <a href="https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html" target="_blank">um artigo sobre o Skolelinux</a>, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.</p>
+<h2 id="o-que-é-o-debian-edu--skolelinux">O Que é o Debian Edu / Skolelinux?</h2>
+<p>O <strong>Debian Edu</strong>, também conhecido como <strong>Skolelinux</strong>, é uma distribuição baseada no Debian, projetada para fornecer um ambiente de rede escolar pré-configurado. Após a instalação, um servidor escolar já está pronto para uso com todos os serviços essenciais:</p>
 <ul>
-<li>Lista</li>
+<li>Autenticação LDAP + Kerberos</li>
+<li>Servidor de arquivos e diretórios home centralizados</li>
+<li>Servidor DHCP, proxy web, RADIUS e muito mais</li>
 </ul>
-<ol>
-<li>Lista Numérica</li>
-</ol>
-<p>[![Descrição da imagem](link da imagem &ldquo;Descrição da imagem&rdquo;)](link da imagem)</p>
+<p>Além disso, o sistema vem com mais de <strong>70 pacotes de softwares educacionais</strong>, cobrindo desde ferramentas de ensino básico até programação e robótica. O usuário pode escolher entre ambientes como <strong>Xfce, GNOME, LXDE, MATE, KDE Plasma, Cinnamon</strong> e <strong>LXQt</strong>.</p>
+<hr>
+<h2 id="o-debian-edu-no-debian-11-bullseye-um-passo-além-do-que-foi-mostrado-aqui-no-ano-de-2019">O Debian Edu no Debian 11 “Bullseye”: Um Passo Além do que foi mostrado aqui no ano de 2019</h2>
+<p>Comparando com o cenário apresentado no artigo de 2019 — que tinha como base o Debian 10, codinome Buster — o <strong>Debian Edu 11</strong>, lançado em <strong>2021</strong>, trouxe melhorias marcantes:</p>
+<ul>
+<li>Suporte aprimorado a terminais burros via <strong>X2Go</strong></li>
+<li>Substituição do PXELINUX por <strong>iPXE</strong>, compatível com boot gráfico</li>
+<li>Samba com suporte para <strong>SMB2/SMB3</strong></li>
+<li>Ferramentas para configuração de gateways mínimos e RADIUS com EAP-TTLS/PEAP</li>
+<li>Integração de <strong>DuckDuckGo</strong> como padrão nos navegadores</li>
+</ul>
+<p>O Debian Edu 11.11, lançado em agosto de 2024, encerrou o ciclo do Bullseye com foco em <strong>correções de segurança</strong> e <strong>estabilidade</strong>.</p>
+<hr>
+<h2 id="o-presente-debian-edu-com-debian-12-bookworm">O Presente: Debian Edu com Debian 12 “Bookworm”</h2>
+<p>O <strong>Debian Edu 12 &ldquo;Bookworm&rdquo;</strong> representa um avanço significativo para ambientes educacionais, incorporando melhorias substanciais em instalação, software e documentação.</p>
+<h3 id="1-principais-novidades">1. Principais Novidades</h3>
+<ul>
+<li>
+<p><strong>Instalação Aprimorada</strong>: Utiliza o novo instalador do Debian 12, agora com suporte à seção &ldquo;non-free-firmware&rdquo;, facilitando a instalação em uma gama mais ampla de hardwares. Além disso, apresenta uma nova arte baseada no tema Emerald, padrão do Debian 12.</p>
+</li>
+<li>
+<p><strong>Atualizações de Software</strong>:</p>
+<ul>
+<li>Kernel Linux 6.1</li>
+<li>Ambientes de desktop atualizados: KDE Plasma 5.27, GNOME 43, Xfce 4.18, LXDE 11, MATE 1.26</li>
+<li>LibreOffice 7.4</li>
+<li>GOsa² 2.8</li>
+<li>GCompris 3.1 (ferramenta educacional)</li>
+<li>Rosegarden 22.12 (criação musical)</li>
+<li>LTSP 23.01 (suporte a terminais leves)</li>
+<li>Mais de 64.000 pacotes disponíveis para instalação.</li>
+</ul>
+</li>
+<li>
+<p><strong>Documentação e Traduções</strong>:</p>
+<ul>
+<li>Durante a instalação, a página de escolha de perfil está disponível em 29 idiomas, dos quais 22 estão totalmente traduzidos.</li>
+<li>O manual do Debian Edu Bookworm foi traduzido para diversos idiomas, incluindo Português do Brasil.</li>
+</ul>
+</li>
+</ul>
+<h3 id="2-status-atual">2. Status Atual</h3>
+<p>Embora o desenvolvimento do Debian Edu 12 tenha começado em agosto de 2021, até o momento, a versão oficial ainda não foi lançada. O projeto continua em desenvolvimento ativo, com atualizações frequentes na documentação e nos recursos disponíveis.</p>
+<h3 id="3-download">3. Download</h3>
 <table>
 <thead>
 <tr>
-<th style="text-align:left">Título da tabela</th>
-<th style="text-align:center"></th>
-<th style="text-align:center"></th>
-<th></th>
+<th style="text-align:left">Arquitetura</th>
+<th style="text-align:center">CD</th>
+<th style="text-align:center">DVD-BD</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:left">Nome</td>
-<td style="text-align:center"><a href="Link"> Nome</a></td>
-<td style="text-align:center"><a href="Link"> Nome</a></td>
-<td style="text-align:center"><a href="Link"> Nome</a></td>
+<td style="text-align:left">i386</td>
+<td style="text-align:center"><a href="https://get.debian.org/cdimage/release/current/i386/iso-cd/debian-edu-12.10.0-i386-netinst.iso"> 654 MB</a></td>
+<td style="text-align:center"><a href="https://get.debian.org/cdimage/release/current/i386/iso-bd/debian-edu-12.10.0-i386-BD-1.iso"> 7.7 GB</a></td>
+</tr>
+<tr>
+<td style="text-align:left">amd64</td>
+<td style="text-align:center"><a href="https://get.debian.org/cdimage/release/current/amd64/iso-cd/debian-edu-12.10.0-amd64-netinst.iso"> 640 MB</a></td>
+<td style="text-align:center"><a href="https://get.debian.org/cdimage/release/current/amd64/iso-bd/debian-edu-12.10.0-amd64-BD-1.iso"> 7.6 GB</a></td>
 </tr>
 </tbody>
 </table>
-<h4 id="subtítulo">Subtítulo:</h4>
-<p><a href="Link"> Nome</a></p>
-<p><a href="LINK" target="_blank">NOME DO LINK</a></p>
-<p><code>Código</code></p>
-<pre tabindex="0"><code>Texto pré-formatado
-</code></pre><blockquote>
-<p>Citação</p>
-</blockquote>
-<p>[![Watch the video](https://img.youtube.com/vi/&lt;Código do Vídeo&gt;/maxresdefault.jpg)](<a href="https://www.youtube.com/embed/">https://www.youtube.com/embed/</a>&lt;Código do vídeo&gt;)</p>
+<hr>
+<h2 id="o-futuro-o-que-esperar-do-skolelinux-no-debian-13-trixie">O Futuro: O Que Esperar do Skolelinux no Debian 13 “Trixie”</h2>
+<p>Com o <strong>Debian 13 &ldquo;Trixie&rdquo;</strong> previsto para <strong>junho de 2025</strong>, a comunidade Debian Edu já começa a se preparar para a próxima geração da distribuição voltada ao ambiente escolar. Embora ainda esteja em fase de desenvolvimento inicial, alguns direcionamentos e expectativas começam a tomar forma com base nas discussões e planos atuais.</p>
+<h3 id="1-expectativas-e-possíveis-melhorias">1. Expectativas e Possíveis Melhorias</h3>
+<ul>
+<li><strong>Suporte a Hardware Mais Recente</strong>: Espera-se compatibilidade com novos dispositivos, como o <strong>Raspberry Pi 5</strong>, Chromebooks e placas ARM modernas, facilitando implantações econômicas em salas de aula.</li>
+<li><strong>Atualizações nos Ambientes de Desktop</strong>: KDE Plasma 6, GNOME 46 e atualizações incrementais nos outros ambientes deverão oferecer interfaces mais modernas e responsivas para alunos e professores.</li>
+<li><strong>Melhorias no LTSP</strong>: Continuação do suporte e evolução do <strong>LTSP (Linux Terminal Server Project)</strong>, especialmente com foco em rede local de baixa latência e inicialização por PXE/iPXE.</li>
+<li><strong>Integração com Plataformas de Ensino Online</strong>: Avanços esperados na integração com ferramentas como <strong>Moodle</strong>, <strong>Nextcloud</strong> e <strong>Jitsi</strong>, refletindo a tendência de ambientes de ensino híbridos.</li>
+<li><strong>Administração Centralizada e Interface Web Moderna</strong>: Investimentos contínuos em ferramentas como o <strong>GOsa²</strong>, com melhorias na usabilidade para facilitar a gestão de usuários, grupos e serviços via navegador.</li>
+<li><strong>Gamificação e Realidade Aumentada (RA)</strong>: Embora ainda experimentais, existem propostas para integrar softwares voltados à <strong>gamificação da aprendizagem</strong>, RA e laboratórios virtuais.</li>
+</ul>
+<hr>
+<h3 id="2-desenvolvimento-comunitário">2. Desenvolvimento Comunitário</h3>
+<p>O desenvolvimento do Debian Edu permanece 100% comunitário, com participação ativa de educadores, desenvolvedores e voluntários do mundo todo. As decisões são tomadas de forma colaborativa, e qualquer contribuição — de documentação a tradução, teste ou código — é bem-vinda.</p>
+<p>Você pode acompanhar o andamento do projeto, relatórios de status e planejamento da versão “Trixie” diretamente na wiki oficial: <a href="https://wiki.debian.org/DebianEdu/Status/Trixie" target="_blank"><a href="https://wiki.debian.org/DebianEdu/Status/Trixie">https://wiki.debian.org/DebianEdu/Status/Trixie</a></a></p>
+<h2 id="referências">Referências</h2>
+<ul>
+<li><a href="https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html" target="_blank">Skolelinux, o Debian Educacional (2019)</a></li>
+<li><a href="https://os.watch/skolelinux/11.11" target="_blank">Debian Edu/Skolelinux 11.11 - os.watch</a></li>
+<li><a href="https://www.debian.org/News/2023/20230610.pt.html" target="_blank">Debian &ndash; Anúncio do Debian 12 &ldquo;Bookworm&rdquo;</a></li>
+<li><a href="https://www.debian.org/releases/bookworm/" target="_blank">Debian Releases</a></li>
+<li><a href="https://www.debian.org/News/2021/20210815.pt.html" target="_blank">Debian Project - Notícias</a></li>
+<li><a href="https://wiki.debian.org/pt_BR/DebianEdu" target="_blank"><a href="https://wiki.debian.org/pt_BR">https://wiki.debian.org/pt_BR</a></a></li>
+</ul>
 		</div>
 		<footer class="post__footer">
 			
@@ -201,7 +274,7 @@
 	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
 	<ul class="tags__list">
 		<li class="tags__item">
-			<a class="tags__link btn" href="/tags/debian/" rel="tag">Debian</a>
+			<a class="tags__link btn" href="/tags/debian-edu/" rel="tag">Debian-Edu</a>
 		</li>
 	</ul>
 </div>
@@ -370,7 +443,7 @@
 
 
   
-<a href="/tags/debian" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian <span class="badge">(29)</span></a>
+<a href="/tags/debian" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian <span class="badge">(27)</span></a>
 
 
 
@@ -524,6 +597,15 @@
 
   
 <a href="/tags/ccleaner" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">ccleaner <span class="badge">(2)</span></a>
+
+
+
+
+
+
+
+  
+<a href="/tags/debian-edu" class="" role="button" style="text-transform: uppercase; font-size: 12px; padding-right: 5px; padding-left: 5px;">debian-edu <span class="badge">(2)</span></a>
 
 
 
