@@ -6,8 +6,15 @@
     <description>Recent content in Debian-Edu on Dicas Linux e Windows</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2019 22:41:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 00:02:48 -0300</lastBuildDate>
     <atom:link href="https://info.wsouza.com.br/tags/debian-edu/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Revisitando o Debian-Edu (Skolelinux)</title>
+      <link>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</link>
+      <pubDate>Sun, 20 Apr 2025 00:02:48 -0300</pubDate>
+      <guid>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</guid>
+      <description>&lt;p&gt;Em &lt;strong&gt;2019&lt;/strong&gt; publiquei &lt;a href=&#34;https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html&#34; target=&#34;_blank&#34;&gt;um artigo sobre o Skolelinux&lt;/a&gt;, destacando sua proposta de facilitar a implementação de ambientes escolares com software livre. Desde então, o projeto evoluiu significativamente, acompanhando os avanços do Debian e incorporando novas funcionalidades para atender às demandas educacionais contemporâneas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Skolelinux, o Debian Educacional</title>
       <link>https://info.wsouza.com.br/2019/10/skolelinux-o-debian-educacional.html</link>
