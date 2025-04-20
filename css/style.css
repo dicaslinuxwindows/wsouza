@@ -978,10 +978,10 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 .list__thumbnail img {
 	/*width: 100%; /*originalmente 100%*/
 	/*height: 100%;/*originalmente não existe*/
-	/*max-width: 257px;*/
-	/*max-height: 171px;*/
-	width:1030px;
-	height:80px;
+	max-width: 257px;
+	max-height: 171px;
+	/*width:1030px;*/
+	/*height:70px;*/
 }
 
 .list__footer-readmore {
