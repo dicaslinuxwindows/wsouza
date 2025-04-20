@@ -1,5 +1,10 @@
 User-agent: *
-Allow: /
 Disallow: /wa.m3u
+Disallow: /page
+Disallow: /post
+Disallow: /contato
+Disallow: /categories/page
+Disallow: /tags/page
+Allow: /
 
 Sitemap: http://info.wsouza.com.br/sitemap.xml
