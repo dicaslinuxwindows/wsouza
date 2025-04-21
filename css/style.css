@@ -1521,23 +1521,25 @@ ul.share-icons li > * .label {
 }
  
 .share-btn.twitter     { background: #55acee; }
-.share-btn.google-plus { background: #dd4b39; }
+.share-btn.youtube 	   { background: #dd4b39; }
 .share-btn.facebook    { background: #3B5998; }
 .share-btn.linkedin    { background: #4875B4; }
-.share-btn.stumbleupon { background: #EB4823; }
+.share-btn.tiktok	   { background: #444444; }
 .share-btn.pinterest   { background: #BD081C; }
 .share-btn.reddit      { background: #ff5700; }
 .share-btn.email       { background: #444444; }
 .share-btn.whatsapp    { background: #25d366; }
+.share-btn.threads       { background: #444444; }
 
 .share-btn.twitter:hover     { background: #4c9ad6; }
-.share-btn.google-plus:hover { background: #c64333; }
+.share-btn.youtube:hover 	 { background: #c64333; }
 .share-btn.facebook:hover    { background: #2f4779; }
 .share-btn.linkedin:hover    { background: #4069a2; }
-.share-btn.stumbleupon:hover { background: #d3401f; }
+.share-btn.tiktok:hover 	 { background: #363636; }
 .share-btn.pinterest:hover   { background: #AD0000; }
 .share-btn.reddit:hover      { background: #e54e00; }
 .share-btn.email:hover       { background: #363636; }
+.share-btn.threads:hover       { background: #363636; }
 
 /*INÍCIO BOTÃO VOLTAR AO TOPO*/
 #subir{
@@ -1561,19 +1563,6 @@ color: #e95420;
 
 /*INÍCIO COOKIE CONSENT
 
-cookie-notice {font-size: larger; padding: 0.5rem 1rem; display: none;
-text-align: center; position: fixed; bottom: 0; left: 20px; padding-top: 40px;
-padding-bottom: 40px; width: 100%; background: rgb(70, 70, 70);
-color: rgba(255,255,255,0.8);}
-
-cookie-notice a {font-weight: 600; display: inline-flex; cursor: pointer; margin-left: 0.5rem;}
-cookie-notice-accept {color:rgb(86, 228, 58)}
-cookie-notice-deny {color:rgb(243, 34, 34)}
-@media (max-width: 767px) {
-	cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
-	cookie-notice a {position: relative; bottom: 4px;}
-	cookie-notice {left: 0px;}
-}
 
 
 FIM COOKIE CONSENT*/
