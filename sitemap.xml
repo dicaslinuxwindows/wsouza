@@ -2,25 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://info.wsouza.com.br/categories/</loc>
-    <lastmod>2025-04-20T00:02:48-03:00</lastmod>
+    <loc>https://info.wsouza.com.br/categories/artigos/</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/tags/debian-edu/</loc>
-    <lastmod>2025-04-20T00:02:48-03:00</lastmod>
+    <loc>https://info.wsouza.com.br/categories/</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/post/</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/ubuntu/</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/2025/04/ubuntu-20-04-se-aproxima-do-fim-do-suporte-padrao.html</loc>
+    <lastmod>2025-04-27T02:23:58-03:00</lastmod>
+  </url><url>
+    <loc>https://info.wsouza.com.br/tags/debian-edu/</loc>
     <lastmod>2025-04-20T00:02:48-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/categories/educacional/</loc>
     <lastmod>2025-04-20T00:02:48-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/post/</loc>
-    <lastmod>2025-04-20T00:02:48-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/2025/04/revisitando-o-debian-edu-skolelinux.html</loc>
-    <lastmod>2025-04-20T00:02:48-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/</loc>
     <lastmod>2025-04-20T00:02:48-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/tags/celestia/</loc>
@@ -74,9 +83,6 @@
     <loc>https://info.wsouza.com.br/tags/typefaster/</loc>
     <lastmod>2025-04-20T00:01:48-03:00</lastmod>
   </url><url>
-    <loc>https://info.wsouza.com.br/categories/artigos/</loc>
-    <lastmod>2025-04-19T19:09:08-03:00</lastmod>
-  </url><url>
     <loc>https://info.wsouza.com.br/tags/fedora/</loc>
     <lastmod>2025-04-19T19:09:08-03:00</lastmod>
   </url><url>
@@ -96,9 +102,6 @@
     <lastmod>2025-04-18T21:16:47-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/tags/linux-mint/</loc>
-    <lastmod>2025-04-07T15:29:08-03:00</lastmod>
-  </url><url>
-    <loc>https://info.wsouza.com.br/tags/ubuntu/</loc>
     <lastmod>2025-04-07T15:29:08-03:00</lastmod>
   </url><url>
     <loc>https://info.wsouza.com.br/2025/04/versoes-estaveis-e-em-desenvolvimento-dos-principais-sistemas-operacionais.html</loc>
