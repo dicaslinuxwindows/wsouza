@@ -975,14 +975,12 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 
 }
 
+/*
 .list__thumbnail img {
-	/*width: 100%; /*originalmente 100%*/
-	/*height: 100%;/*originalmente não existe*/
 	max-width: 257px;
 	max-height: 171px;
-	/*width:1030px;*/
-	/*height:70px;*/
 }
+*/
 
 .list__footer-readmore {
 	float: right;
@@ -1566,3 +1564,34 @@ color: #e95420;
 
 
 FIM COOKIE CONSENT*/
+
+
+/* Ajustes responsivos e visionários para imagens */
+
+/* Posts individuais - thumbnail controlado */
+.post__thumbnail img {
+  width: 100%;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px; /* Deixa a imagem com cantos suaves, mais moderno */
+}
+
+/* Listagem de posts - thumbnails responsivos */
+.list__thumbnail img {
+  width: 100%;
+  max-width: 257px;
+  height: 171;
+  object-fit: cover;
+}
+
+/* Ajuste especial para mobile */
+@media screen and (max-width: 620px) {
+  .list__thumbnail {
+    max-width: 80px;
+  }
+  
+  .list__thumbnail img {
+    max-width: 80px;
+    height: auto;
+  }
+}
