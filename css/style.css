@@ -1587,11 +1587,11 @@ FIM COOKIE CONSENT*/
 /* Ajuste especial para mobile */
 @media screen and (max-width: 620px) {
   .list__thumbnail {
-    max-width: 80px;
+    max-width: 90px;
   }
   
   .list__thumbnail img {
-    max-width: 80px;
+    max-width: 90px;
     height: auto;
   }
 }
