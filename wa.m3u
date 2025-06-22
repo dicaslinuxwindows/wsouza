@@ -24,14 +24,14 @@ https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", Web Tv Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES", Toei Channel 1
+#EXTINF:-1 group-title="VARIEDADES", Toei Channel
 http://103.197.59.109:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
 
-#EXTINF:-1 group-title="VARIEDADES", Toei Channel 2
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="VARIEDADES", TV Asahi
+http://vthanh.utako.moe/TV_Asahi/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", TV Tokyo
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&checkedby:alliptvlinks.com
+http://vthanh.utako.moe/TV_Tokyo/index.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
