@@ -18,14 +18,20 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:-1 group-title="VARIEDADES", ABC TV
 https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
 
-#EXTINF:-1 group-title="VARIEDADES",AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
-
 #EXTINF:-1 group-title="VARIEDADES", 1980 Channel
 https://stmv1.srvif.com/channel80s/channel80s/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Web Tv Xtreme
 https://stmv1.srvif.com/xtremetv/xtremetv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES", Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="VARIEDADES",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+
+#EXTINF:-1 group-title="PUBLICO", TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN", Toei Channel
 https://stream1.freetv.fun/23f15ca43412412c61750c19dbc1f71b3585fb27c8eef0c9f0ae62260a4ddc41.m3u8
@@ -47,12 +53,6 @@ https://mt01.utako.moe/Tokyo_MX1/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN", TV Tokyo Channel 2
 https://mt01.utako.moe/Tokyo_MX2/index.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Loading
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 group-title="PUBLICO", TV Brasil
-https://tvbrasil-stream.ebc.com.br/index.m3u8
 
 #EXTINF:-1 group-title="JAPAN", Toei Channel 2
 https://ca01.utako.moe/toei/index.m3u8
